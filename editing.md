@@ -3,7 +3,7 @@
 Anyone can edit the LC wiki, all that you need to do is follow the instructions below:
 
 - Create a GitHub account
-- Go to the [Legioncraft Wiki repository](https://github.com/WinterBear/Legioncraft-Wiki)
+- Go to the [Legioncraft Wiki repository](https://github.com/BurntValentine/LC-Wiki)
 - Choose to edit a file or create a new one
 - Make your changes and click the `Propose changes` button. GitHub will fork the repository and create a copy on your own account.
 - Click the Create a Pull Request button.
