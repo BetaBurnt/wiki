@@ -4,7 +4,7 @@
 
 ## About the server
 
-LegionCraft is a 24/7 multiworld server. We host multiple worlds to give our players a dynamic Minecraft experience all within a single server. The server is run by a group of dedicated staff members who are here to make your game as enjoyable as possible, while coding our own unique features as well as helping you with any issues that may occur.
+LegionCraft is a 24/7 multiworld server. We host multiple worlds to give our players a dynamic Minecraft experience all within a single server. The server is run by a group of dedicated staff members who are here to make your game as enjoyable as possible, while helping you with any issues that may occur.
 
 We want to bring players together with the most diverse and enjoyable experience that a Minecraft server can offer. So if you want to give us feedback on how we are doing, or give us some ideas for things that we can do to improve then please do so! You can put all of that onto our forums and staff will listen to you!
 
