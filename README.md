@@ -45,12 +45,10 @@ Here our players are free to use Creative mode and WorldEdit to their disposal. 
 - [Brewery](brewery.md)
 - [Utilities](utilities.md)
 - [Getting Married](marriage.md)
-- [Trophies](trophies.md)
 - [Elevators](elevators.md)
 - [Welcome Mats](welcomemats.md)
 - [Bonus Bill](bonusbill.md)
 - [Titles](titles.md)
-- [Wonderhaul](wonderhaul.md)
 
 ### Editing the Wiki
 
