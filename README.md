@@ -1,4 +1,4 @@
-![lc](https://prntscr.com/oighbi)
+![lc](https://i.imgur.com/5NRJxSP.png)
 
 ## About the server
 
