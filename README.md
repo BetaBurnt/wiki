@@ -1,6 +1,4 @@
-# Legioncraft Wiki
-
-![lc](http://image.prntscr.com/image/cd96054ec86a4cadae921c634a043e5d.png)
+![lc](https://prntscr.com/oighbi)
 
 ## About the server
 
