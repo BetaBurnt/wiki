@@ -1,16 +1,23 @@
+![ribbon](L-ribbon.png) 
+
 # Elevators
+
 
 Want to build an elevator to another floor, rather than try and fit in stairs or use ladders? Easy!
 
-All you need to do this is some coloured wool and enderpearls! You can craft an elevator block with 8 wool of the same colour, and 1 enderpearl:
+All you need to do this is some redstone blocks and a bloc/slab that is valid for elevators!
 
-![elevatorrecipe](http://minecraftrecipedesigner.com/creations/203980.png)
+It is then a simple matter of placing the elevator block/slab where you want it, with a redstone block nderneath. A maximum distance of 36 blocks can be between each, you can have blocks between them but the space above the elevators themselves (where you would be stood) must be clear!
 
-It is then a simple matter of placing one above the other. A maximum distance of 64 blocks can be between each, you can have blocks between them but the space above the elevators themselves (where you would be stood) must be clear!
+To go up and down it is a simple matter of jumping on the block to go up, and pressing sneak to go down!
 
-To go up and down it is a simple matter of jumping on the block to go up, and pressing sneak to go down! (Similar to the elevators in the OpenBlocks mod).
+## Valid Elevator Blocks/Slabs
 
-You can also add a bit of customization - An elevator block will only take you to another of the same colour!
+You can use any wool block or any slab (placed in the lower location ontop of the redstone block), 
+
+## Extra Information
+
+You can also add a bit of customization - An elevator block will only take you to another of the same block/slab!
 
 For example:
 
