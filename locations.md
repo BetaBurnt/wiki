@@ -1,13 +1,13 @@
-# Locations
+![ribbon](L-ribbon.png) 
 
 ## Spawn
 
-The place where it all begins, spawn contains information about the server and many useful features including our good friend [Bonus Bill](https://winterbear.github.io/Legioncraft-Wiki/bonusbill.html)!
+The place where it all begins, spawn contains information about the server and some useful features if you look about!
 
 
 ## Survival
 
-This is the world you will spend the majority of your time playing (for the non-creative players among us)! Whether that is just living by yourself in a secluded part of the world, or by joining together and making a [town or even a nation](https://winterbear.github.io/Legioncraft-Wiki/towny.html)! You can also use our [DynMap](http://play.legioncraft.co.uk:8668/) to check out this world, and find a place to live!
+This is the world you will spend the majority of your time playing (for the non-creative players among us)! Whether that is just living by yourself in a secluded part of the world, or by joining together and making a [town or even a nation](https://legioncraft.co.uk/wiki/towny.html)! You can also use our [DynMap](http://map.legioncraft.co.uk:8123/) to check out this world, and find a place to live!
 
 > Make sure to use the Resources world for mass material gathering, to keep the Survival clean and destruction free!
 
@@ -28,7 +28,7 @@ This world is entirely for the purpose of gathering materials for your Survival 
 
 ## The End
 
-You can access the End from any end portal/stronghold found in the Resources world! 
+You can access the End from any end portal/stronghold found in the Resource world! 
 
 > Do not build in this world - it is reset once a fortnight (Resources one Sunday, the End the next etc..) to bring back the dragon for you to have another go at bagging the dragon egg, and to reset resources and end cities!
 
