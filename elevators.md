@@ -13,7 +13,7 @@ To go up and down it is a simple matter of jumping on the block to go up, and pr
 
 ## Valid Elevator Blocks/Slabs
 
-You can use any wool block or any slab (placed in the lower location ontop of the redstone block), 
+You can use any wool block, any carpet or any slab (placed in the lower location ontop of the redstone block), 
 
 ## Extra Information
 
