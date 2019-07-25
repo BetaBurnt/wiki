@@ -7,142 +7,94 @@
 
 You can access the main GUI with `/menu`
 
-<put an image here>
+![menu](https://i.gyazo.com/f31340a0bbca5846e63caa6c2da8920c.png)
 
-These icons from left to right are Utilities - Website - Donator Shop - Token Shop - DynMap - Discord, and on the end is Help.
-Images of each option:
+This will give you options to: 
+- Open the Utility Menu
+- Get a link to the DynMap
+- Get a link to the Website
+- Get a link to the Discord
+- Get a link to the Donation Store
+- Open the Token Shop
+- Help - The same as `/help`
 
-Utilities - This will open a new menu for a number of things (See below!)
 
-<put an image here>
+## Utility Menu
 
-Website - This will give you a link in the chat to the website
+You can get to this from either the `/menu` or by using `/util` directly, and it will give you this:
 
-<put an image here>
-
-Donator Shop - This will give you a link to the donation store on the website
-
-<put an image here>
-
-Token Shop - This will open the `/tokenshop`
-
-<put an image here>
-
-DynMap - Gives a link to the web map
-
-<put an image here>
-
-Discord - This will give you the link to join the Discord
-
-<put an image here>
-
-Help - The same as `/help`
-
-<put an image here>
-
-## Utilities
-
-You can get to this from either the `/menu` or by using `/util` directly, and it will give you this
-
-<put an image here>
+![util](https://i.gyazo.com/d65a13901130fda5c6758ff9c529fd78.png)
 
 >Note that this is if you have full access to the perks. Any you have not yet unlocked will have a different icon and will let you know what level it is unlocked at!
 
 This menu will give you access to all of the following
 
-First off - General Utilities
+The top line - **General Utilities**.
+This gives you the following options:
+- Utility Bin - This will open the `/bin`
+- Titles - This will open the `/titles` menu
+- Crafting - This will open `/wbench`
+- Backpack - Opens your backpack
+- Bow Particles - This will open a new menu for selecting your bow particles (See below on that)
 
-<put an image here>
+On the second line you will get - **Toggleable Utilities**.
+This gives you the following options:
+- Combiner - Toggles the combiner on/off. This combines certain items as you pick them up.
+- Magnet - Toggles Item Magnet on/off, which draws nearby items to you.
+- V.O.I.D. - Toggles VOID on/off, which removes common blocks when mining/digging so your inventory doesn't fill up with junk.
+- Flashlight - Toggles your flashlight on/off. Permanent night vision when on.
 
-This gives you the following options
+And on the third line - **Donation Perks** (You must have purchased them to use them!).
+This gives you the following options:
+- Disguises - Opens a new menu for picking a disguise.
+- Particle Trails - Opens the trails menu.
 
-Utility Bin - This will open the `/bin`
-
-<put an image here>
-
-Titles - This will open the `/titles` menu
-
-<put an image here>
-
-Crafting - This will open `/wbench`
-
-<put an image here>
-
-Backpack - Opens your backpack
-
-<put an image here>
-
-Bow Particles - This will open a new menu for selecting your bow particles (See below on that)
-
-<put an image here>
-
-On the second line you will get Toggleable Utilities
-
-<put an image here>
-
-Combiner - Toggles the combiner on/off
-
-<put an image here>
-
-V.O.I.D. - Toggles VOID on/off
-
-<put an image here>
-
-Flashlight - Toggles your flashlight on/off
-
-<put an image here>
-
-Magnet - Toggles Item Magnet on/off
-
-<put an image here>
-
-And on the third line - Donation Perks (You must have purchased them to use them!)
-
-<put an image here>
-
-Disguises - Opens a new menu for picking a disguise
-
-<put an image here>
-
-Particle Trails - Opens the trails menu
-
-<put an image here>
-
-And finally, a button to go back to the `/menu`
-
-<put an image here>
-
+And finally, a button to go back to the `/menu`.
 
 
 This has also meant a few other menus have had to be made too - Disguises and Bow Particles!
 
 ### Disguises Menu
 
-<put an image here>
+![disgui](https://i.gyazo.com/8055298437df671a2c85a0172b84f335.png)
 
-You can click any of the mobs you have paid for to enable the disguise, and your skull in the bottom right to remove the disguise (and a button to return to the `/util` menu in the corner).
+You can click any of the mobs you have paid for to enable the disguise, and your skull in the bottom right to remove the disguise (and a button to close the menu in the corner).
 
-Note that currently this does not support alternatives to the disguises, such as baby forms etc...
+Note that currently this does not support alternatives to the disguises, such as baby forms etc... but you can find out what you can use (if you have purchased them) by typing `/dis <mob>` and then put a space and hit tab to bring up options!
+
 
 ### Bow Particles Menu
 
-<put an image here>
+![bowgui](https://i.gyazo.com/a8c714c7f647197dfae2d31d59f5d46e.png)
 
 As above, click the particle you wish to use to select it - The skull in the bottom right toggles them on/off!
 Note that the netherstar in the top right will currently only be there for CatTurtleDog200 as this is their custom particles they won in the last build competition!
 This can also be accessed with `/bowmenu`
 
+
+### Chat Colours Menu
+
+![chatcol](https://i.gyazo.com/e1b2cb0e36daadca149403bc05ec9869.png)
+
+As above select the colour you wish to use and make sure it is toggled on (the middle item will be coloured if on, and dark if not - click to toggle) and all of your chat text will be changed to that colour!
+
+The colours at the bottom (dark red, dark grey and black) are staff only so non-staff players won't see these options (and any you have not purchased will be locked).
+
+
 ## V.O.I.D.
 
-This is the Very Ordinary Item Destroyer. For those of you from ATC, this is essentially the Soulfire MKII!
+This is the Very Ordinary Item Destroyer.
 This can be unlocked for use at any time when you get to level 70, and can be toggled from the `/util` menu!
 For those not yet at level 70 - you can purchase temporary usage of this through the `/tokenshop` - 10 tokens gets you 1 day of use!
 
-When enabled this will mean that as you mine and dig any Dirt, Cobble, Sand or Gravel that enters your inventory will be automatically removed/destroyed - allowing you to farm your Mining/Excavation/Jobs for longer without having to empty your inventory! (Note that alternatives do not get removed - such as coarse dirt, andesite/granite/andesite and red sand).
+When enabled this will mean that as you mine and dig any Dirt, Stone, Cobble, Sand, Andesite, Granite, Diorite or Gravel that enters your inventory will be automatically removed/destroyed - allowing you to farm your Mining/Excavation/Jobs for longer without having to empty your inventory! (Note that alternatives do not get removed - such as coarse dirt and red sand).
 
 ## The Combiner
 
-This is unlocked at level 20 and goes hand in hand with V.O.I.D.! When enabled this will cause any Glowstone, Redstone, Quartz, Lapis or Coal you pick up to automatically be converted into their respective blocks as you pick them up! 
+This is unlocked at level 20 and goes hand in hand with V.O.I.D.! When enabled this will cause any Glowstone, Redstone, Lapis , Coal, Iron/Gold Ingots and Emeralds you pick up to automatically be converted into their respective blocks, Iron/Gold Nuggets into their respective ingots as you pick them up! 
+Quartz will also be converted to it's respective block, but currently this does not work.
+
+Note that this happens on pickup - so picking up enough iron nuggets to make 9 iron ingots will not turn those ingots into an iron block - but if you drop those ingots and pick them back up it will!
 
 ## Item Magnet
 
