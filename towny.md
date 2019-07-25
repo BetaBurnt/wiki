@@ -1,6 +1,6 @@
-# Towny
+![ribbon](L-ribbon.png) 
 
-![towny](http://image.prntscr.com/image/261556e23e144a3ead07d5023075452e.png)
+# Towny
 
 LegionCraft employs the use of the Towny plugin - this allows you to band together with your friends, build an area to live in together and then claim the area for yourselves using ingame money (which you can earn through jobs and via shops)!
 Claiming your area allows you to toggle certain things in that area (such as mob spawning or PvP), protect against grief/control who can build in the claimed land and set a town spawn so you don't need to use one of your homes to get home!
