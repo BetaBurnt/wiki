@@ -2,6 +2,7 @@
 
 # Graves
 
+![grave](https://i.gyazo.com/a45a40804cf3d3a219f5b2fb0724a91a.png)
 
 You will notice that a cobblestone wall with some particles around it will spawn within a 5 block radius of where you died, either where there is air, water or lava to replace - This is your grave. Your items will be locked within for a short period of time. 
 You will be given the co-ordinates of that block in your chat when you die and if you missed it you can do `/grave` to get the co-ords again, so you can find your way back!
