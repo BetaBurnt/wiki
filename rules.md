@@ -1,4 +1,5 @@
-# Rules ![rules](L-ribbon.png)
+### Rules 
+![rules](L-ribbon.png) 
 
 ## Rule 1: Be courteous and respectful.
 
@@ -25,7 +26,7 @@ There is a fine line between PVP and harassment:
 - Provoking someone to attack you can be considered harassment, EG continuously spamming the player to annoy them into fighting you.
 - Unless a new player (i.e. someone who has not been on the server for more than two real-life days - this is not their total login time, just the time since their first join) attacks you first, you should not attack them without their consent.
 - Stealing any items through techniques such as disarm or glitching the kill-protection is NOT allowed and all items obtained this way should be returned. Disarm should be disabled by default, but if it happens - return the item.
-- If a player promises you a reward for killing them and then fails to deliver, contact a staff member and we will be happy to resolve the situation. Make sure the player confirms this WITHIN the server chat or the forums (i.e. not on skype, or teamspeak) before engaging in combat.
+- If a player promises you a reward for killing them and then fails to deliver, contact a staff member and we will be happy to resolve the situation. Make sure the player confirms this WITHIN the server chat, discord or the forums (i.e. not on skype, or teamspeak) before engaging in combat.
 - Using tricks like enderpearling to gain access to a players home with the intent of PvPing is strictly prohibited.
 - If you are asked to leave - Leave.
 
@@ -45,15 +46,12 @@ If you break blocks in order to get into someones house/build etc.. and it is fo
 
 
 ### Placement Grief:
-If you place a block in someone elses build area that is as much griefing as it is to break things. Unless you have been given permission to place/edit the area by the player who lives there do not place or break anything.
+If you place a block in someone elses build area that is as much griefing as it is to break things. Unless you have been given permission to place in/edit the area by the player who lives there do not place or break anything.
 
-There is *ONE* exception to this rule (which is what was previously banned for and no longer will be):
+If you get into an area someone else has built, either because it's not entirely walled off or the doors/gates are not locked, and fall down into an area you cannot jump up out of, then the smart thing to do would be to use a `/home`, `/t spawn`, go to `/spawn` or `/tpa` to someone instead.
+Placing a block to get out and then leaving it there is placement grief, as there is zero need to do it when you can teleport out.
 
-If you get into an area someone else has built, either because it's not entirely walled off or the doors/gates are not locked, and fall down into an area you cannot jump up out of, then placing a block to get back up is *NOT* grief as long as you also remove that placed block afterwards.
-
-If you leave the block there however, it is placement grief and you will be banned for it. In general the smart thing to do would be to use a `/home`, go to `/spawn` or `/tpa` to someone instead. However, as so many players seem to not think about this and are getting banned for such a trivial thing we will be more lenient with this in the future.
-
->Note that none of this applies to the Resource world, Nether or the End - All of these worlds are free for all. Do not build/live in them (aside from them being griefable they will be reset regularly).
+>Note that none of this applies to the Resource world, Nether or the End - All of these worlds are free for all. Do not build/live in them (aside from them being griefable they will also be reset regularly).
 
 ### Raiding
 
@@ -84,9 +82,11 @@ If you come across a fenced off farm you may NOT:
 - Jump off nearby hills/walls etc... to gain access to the area that has been fenced/walled off.
 - Place pressure plates, buttons, levers or any redstone to gain access.
 - Shoot animals with a bow over the walled/fenced off area unless you could walk into the area without breaking another rule/guideline.
+- Throw enderpearls or eat chorus fruit in order to teleport into the walled/fenced off area.
 - Place water/lava etc... to kill animals/mobs in a walled/fenced off area.
+- Use safari nets to catch mobs from a walled/fenced off area.
 
-If you come across a chest that is not naturally spawned - ie inside a temple, village, mineshaft etc... - and you have not been given explicit permission from the chest owner to use it *DO NOT TOUCH IT*, regardless of whether it is locked or not.
+If you come across a chest that is not naturally spawned - ie inside a temple, village, shipwreck, mineshaft etc... - and you have not been given explicit permission from the chest owner to use it *DO NOT TOUCH IT*, regardless of whether it is locked or not.
 Dumping your junk in someone elses chests that you do not have permission to use will also be treated as the same offense - Use `/bin`, donate them at spawn or throw the items away normally.
 
 ## Rule 4: Keep the environment nice
@@ -104,9 +104,11 @@ This includes, but is *NOT* limited to (anything that causes local area or serve
 
 Tree farms are also limited. It is not permitted to have a large area of trees (especially giant trees such as the 2x2 Spruce/Jungle trees) for use with the tree feller ability due to the extreme server TPS drops the ability causes when the server is trying to process a lot of block changes/item drops at once. Anybody caught spamming tree feller at a tree farm will be told to remove the farm and given a warning, further use after being given a warning will result in a ban. Tree farms for manually cutting the trees down - not using tree feller - are fine.
 
-These limitations are also because some jobs are grindable while others are not. For example, you can make an ender farm to easily get money as a Hunter, but there is no equivalent for a Miner. We rarely have issues with these kinds of farms, and tweaking the job values is the first thing we will do if a situation arises, but no matter how low we put the values, players can always just build a bigger farm. In light of this, we ask you to not spend all your time farming to get money.
+These limitations also apply to having an excessive amount of hoppers to move items around, which is common at large farms - hoppers are a common source of server lag issues, so keep them down to a reasonable level.
 
-It should also be noted that any mechanism that you use while AFK are Prohibited from the server, such a slide that pushes you around with water to bump your acrobatics, AFK fish farming or any other bug/glitch/unintentional feature (whether it is caused by Minecraft itself or a plugin we have added) is not relevant. This includes going AFK near spawners or dark rooms to build up an excessive amount of mobs at once. This will result in warnings, and bans if it continues.
+These limitations are also in place because some jobs are grindable while others are not. For example, you can make an ender farm to easily get money as a Hunter, but there is no equivalent for a Miner. We rarely have issues with these kinds of farms, and tweaking the job values is the first thing we will do if a situation arises, but no matter how low we put the values, players can always just build a bigger farm. In light of this, we ask you to not spend all your time farming to get money.
+
+It should also be noted that any mechanism that you use while AFK are prohibited from the server, such as slides that push you around with water to bump your acrobatics, AFK fish farming or any other bug/glitch/unintentional feature (whether it is caused by Minecraft itself or a plugin we have added). This includes going AFK near spawners or dark rooms to build up an excessive amount of mobs at once. This will result in warnings, and bans if it continues.
 
 ## Rule 6: No Client Mods (with exceptions)
 
@@ -126,13 +128,12 @@ We particularly discourage the use of modifications that allow or cause:
 - NBTEdit or other mods that allow you to spawn custom items in in Creative.
 
 Note that this is *NOT* a complete list - just because something is not listed does not mean it is allowed - check with the staff first.
-Another thing to note is that some of these are unbannable offenses, such as x-raying - as stated [HERE](http://www.legioncraft.co.uk/home/m/39230198/viewthread/29387529-major-offensesreasons-you-may-appeal).
 
 This is a list of allowed modifications:
 
 - Optifine
 - MAtmos
-- Minimap mods without radar abilities enabled
+- Minimap mods without any radar abilities enabled
 - Armor Status HUD
 - Inventory Tweaks
 - Schematica (The print function for Schematica is NOT ALLOWED outside of Creative)
@@ -140,13 +141,13 @@ This is a list of allowed modifications:
 - HD Texture Pack Support
 - Custom Skies
 - Connected Textures
-- Shaders modifications
+- Shaders
 - Better Grass
 - CraftGuide
 
 If a mod is not on this list, ask an admin/owner first to make sure it is allowed.
 
-Any modifications of the mods above will result in a ban, such as modifying the mod to give you an unfair advantage over others (such as having a minimaps radar active if the mod allows it on the server).
+Any modifications of the mods above will result in a ban if it gives you an unfair advantage over others (such as having a minimaps radar active if the mod allows it on the server).
 
 This rule also applies to doing *ANYTHING* with the intention of crashing the server, or another players client, or causing damage to the server itself. We have protections in place to stop the majority of this but if we find what we know to be an item made for this purpose you will be banned - whether it worked or not - and will not have an appeal posted.
 
@@ -172,9 +173,9 @@ Just because it is not on this list does not mean the staff can’t warn you for
 
 >By all means if you are warned for something that is not posted in the rule book and you find it ridiculous, you may speak to an Owner/Admin.
 
-Unnecessary arguing with staff members is prohibited
+Unnecessary arguing with staff members is prohibited.
 
-Don’t get me wrong you can hate a staff member, you can dislike them, but once they have made a decision you must either respect that decision or go to an Owner/Admin about the staff member in question. At the end of the day we are not here to be liked, we are here to uphold the server rules and keep the server a fun and fair place for players to enjoy themselves.
+Don’t get us wrong you can hate/dislike a staff member, but once they have made a decision you must either respect that decision or go to an Owner/Admin about the staff member in question. At the end of the day the staff are not there to be liked, they are there to uphold the server rules and keep the server a fun and fair place for all players to enjoy themselves.
 
 ## Rule 9: Keep the chat clean
 
@@ -191,7 +192,7 @@ This ties into Rules 1 and 2.
 
 ## Rule 10: Report all bugs!
 
-If you come across something broken in our beautiful world of LC and it can be used to gain an unfair advantage over other players AKA - Duplicating bugs, invincibility glitches, ETC ETC, report it to the staff team by using the `/bug` command!
+If you come across something broken/not working as expected and it can be used to gain an unfair advantage over other players - such as duplication bugs, invincibility glitches etc... - report it to the staff team by using the `/bug` command!
 
 Abusing any bugs can and will get you banned from the server, plus if you report a bug rather than abuse it you’ll get some serious reputation points in terms of the staff.
 
@@ -199,4 +200,4 @@ This is not limited to bugs/glitches/unintentional features we have added via pl
 
 ## The Staff Policy on other forms of media
 
-The Moderation team will not act on any forms of hate outside of LC related media. If the issue in question happened anywhere outside of the server or forums, it is not our responsibility!
+The moderation team will not act on any forms of hate/problems outside of LC related media. If the issue in question happened anywhere outside of the server, discord or forums, it is not our responsibility and please do not bring it over to LC!
