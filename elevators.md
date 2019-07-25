@@ -20,7 +20,7 @@ You can also add a bit of customization - An elevator will only take you to anot
 
 For example:
 
-![elevator2](http://i1024.photobucket.com/albums/y309/BurntValentine/LegionCraft%20Stuff/LegionCraft%20Forum%20Images/Elevators/Elevators-Build_zpssiag9qt3.png)
+![elevator](https://i.gyazo.com/2663857cd6b1799c3b8a8e58ccef535d.png)
 
 If I stand on the white elevator blocks at the bottom and jump, it will take me to the third floor, as it is the next one with white elevator blocks! 
 
