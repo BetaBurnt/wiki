@@ -1,4 +1,8 @@
+![ribbon](L-ribbon.png) 
+
 # Getting Married
+
+
 You can now marry another player, and even divorce them! Marriages are performed by a staff member, and it will cost both players $2500 each to get married (Divorces are free)!
 
 When married you will have a few extra perks:
