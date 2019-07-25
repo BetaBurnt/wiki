@@ -2,7 +2,7 @@
 
 # Bonus Bill -- Temporarily disabled due to issues in the update to 1.13.2. Will be back ASAP!
 
-![bill1](https://i.gyazo.com/cfb7525a291ead1e42c4859d7c1d8578.png)
+![bill1](https://i.gyazo.com/01610465823a04d7461ca251b7d4d823.png)
 
 Bonus Bill will be dishing out daily rewards for those who log in each day for a period of time!
 Starting from 24 hours from your initial log in, you will receive one reward from talking to him each day that you log in without missing a day! If you miss a day, or get all the way to day 28's reward, the streak will reset the following day and start again!
