@@ -1,3 +1,5 @@
+![ribbon](L-ribbon.png)
+
 ## About the server
 
 LegionCraft is a 24/7 multiworld server. We host multiple worlds to give our players a dynamic Minecraft experience all within a single server. The server is run by a group of dedicated staff members who are here to make your game as enjoyable as possible, while helping you with any issues that may occur.
