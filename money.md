@@ -106,5 +106,5 @@ This job pays for:
 #### Enchanter --
 Enchanters are paid for using their enchantment tables!
 This job pays for:
-- Enchanting -- Books, Any Sword/Axe/Pickaxe/Shovel/Helmet/Chestplate/Leggings/Boots, Bows, Fishing Rods, Tridents.
+- Enchanting -- Books, Any Sword/Axe/Pickaxe/Shovel/Helmet/Chestplate/Leggings/Boots, Bows, Fishing Rods and Tridents.
 The job also receives a boost on the income based on what enchantments you apply, and the level of the enchantment!
