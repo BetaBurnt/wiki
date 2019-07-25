@@ -1,4 +1,4 @@
-# Shops
+![ribbon](L-ribbon.png) 
 
 ## Player Shops
 
@@ -21,6 +21,10 @@ You can also do a quick restock via a chest that is within 24 blocks of the shop
 
 To buy from someones shop simply right click their shops slab and read the menu that comes up!
 
+
+## Admin/Pawn Shop
+
+There is a shop at spawn (on the island to the right when you go to `/spawn`, or do `/pawn`) where you can sell some basic items for a low amount when necessary - this is not intended to be a main source of income, use [Jobs](money.md) for that!
 
 
 ## Shop Teleports -- Currently Disabled Due to Issues in the 1.13 Update, will be back ASAP!
