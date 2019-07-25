@@ -24,3 +24,5 @@ For example:
 ![elevator2](http://i1024.photobucket.com/albums/y309/BurntValentine/LegionCraft%20Stuff/LegionCraft%20Forum%20Images/Elevators/Elevators-Build_zpssiag9qt3.png)
 
 If I stand on the white elevator blocks at the bottom and jump, it will take me to the third floor, as it is the next one with white elevator blocks! 
+
+**Note:** Elevators can only be made/used in Creative and Survival - not in Resource, the Nether or the End!
