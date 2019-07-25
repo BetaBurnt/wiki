@@ -91,8 +91,7 @@ When enabled this will mean that as you mine and dig any Dirt, Stone, Cobble, Sa
 
 ## The Combiner
 
-This is unlocked at level 20 and goes hand in hand with V.O.I.D.! When enabled this will cause any Glowstone, Redstone, Lapis , Coal, Iron/Gold Ingots and Emeralds you pick up to automatically be converted into their respective blocks, Iron/Gold Nuggets into their respective ingots as you pick them up! 
-Quartz will also be converted to it's respective block, but currently this does not work.
+This is unlocked at level 20 and goes hand in hand with V.O.I.D.! When enabled this will cause any Glowstone, Quartz, Redstone, Lapis , Coal, Iron/Gold Ingots and Emeralds you pick up to automatically be converted into their respective blocks, Iron/Gold Nuggets into their respective ingots as you pick them up! 
 
 Note that this happens on pickup - so picking up enough iron nuggets to make 9 iron ingots will not turn those ingots into an iron block - but if you drop those ingots and pick them back up it will!
 
