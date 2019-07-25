@@ -8,12 +8,9 @@ Step one involves brewing the ingredients you plan to use, while at first findin
 
 ## Recipes
 
-There are also Recipe books you will find that show you what ingredients to use, they look like this:
-![recipe1](http://i1024.photobucket.com/albums/y309/BurntValentine/5dd75b696f929006bce0da46583cf628_zpsi4urnuip.png)
+Currently recipe book drops are disabled due to needing to be manually made (there are a very large amount of drinks to make a book for each one... so it's on the bench for now)
 
-And will drop randomly from overworld hostile mobs.
-
-![recipe2](http://i1024.photobucket.com/albums/y309/BurntValentine/324af52839e14f1980d018b1807178f5_zpsfcjzwzbn.png)
+When this has been re-added you will be able to find recipe books that show you what ingredients to use, which will drop randomly from overworld hostile mobs.
 
 ## Brewing
 
@@ -33,10 +30,6 @@ To do so is simple:
 
 1. Put the fermented bottle in a brewing stand.
 2. Put a glowstone dust in the top of the brewing stand as a filter.
-
-To know how many times to distill the bottles simply turn the page in the recipe book you found:
-
-![recipe3](http://i1024.photobucket.com/albums/y309/BurntValentine/4ee28d02d1f541bdb2fea60ad650a23b_zpsnr80gvwc.png)
 
 >Some recipes require NO distilling
 
