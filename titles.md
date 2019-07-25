@@ -1,6 +1,9 @@
+![ribbon](L-ribbon.png) 
+
 ### Chat Titles
+
 You will get new titles as you go up the [levels](levels.md), which you can select/change/disable via the GUI brought up with `/titles`!
-A full list of the titles currently added through your player levels (more may be added in the future) can be found here:
+A full list of the titles currently added through your player levels can be found here:
 
 |Level|Titles|
 |---|---|
@@ -84,14 +87,25 @@ A full list of the titles currently added through your player levels (more may b
 |78|Demon|
 |79|Angel|
 |80|Emperor and Empress|
+|81|Phoenix, Titan, Hydra and Sylph|
 |82|Alpha|
+|83|Shadow and Dark|
 |84|Beta|
+|85|Nightmare and Reaper|
 |86|Gamma|
+|87|Ballista and Berserker|
 |88|Delta|
+|89|Shield Master and Shield Maiden|
 |90|Omega|
+|91|Daeva and Archfiend|
 |92|Esper|
+|93|Spectre and Revenant|
+|94|Lifeless and Zombified|
 |95|Saint|
+|96|Risen and Necromancer|
+|97|Warden|
 |98|Celestial|
+|99|Burnt and Valentine|
 |100|Legionnaire|
 
 #### Hidden Titles
