@@ -4,7 +4,6 @@
 - [About The Server](about.md)
 - [Server Rules](rules.md)
 - [Reporting Issues/Contacting Staff](staff.md)
-- [General Information](information.md)
 - [Messaging and Chat](chat.md)
 
 ### Getting Started
