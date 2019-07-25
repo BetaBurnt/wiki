@@ -1,3 +1,5 @@
+![ribbon](L-ribbon.png) 
+
 # Basic Teleportation
 
 To teleport to another player you must request it with the `/tpa [playername]` command to go to them, or `/tpahere [playername]` for them to come to you.
@@ -9,7 +11,7 @@ The player it is aimed at can then accept it with `/tpaccept` to allow the telep
 - `/survival`, `/surv` or `/spawn` will return you to the main spawn point in the Survival world.
 - `/creative` will take you to the spawn point in the Creative world.
 - `/resources` will take you to the spawn point of the current Resource world.
-- `/market` will take you to the entrance of the server marketplace.
+- `/pawnshop` will take you to the entrance of the servers admin/pawn shop.
 
 ## Homes
 You can also set up to 3 homes for your own private teleportation spots!
