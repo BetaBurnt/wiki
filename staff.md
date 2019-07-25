@@ -1,3 +1,5 @@
+![ribbon](L-ribbon.png) 
+
 # Reporting Issues/Contacting Staff
 
 If you find grief, whether it's your build or not (even if you aren't 100% sure it is grief), please do not fix it yourself! 
