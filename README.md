@@ -26,8 +26,7 @@
 - [Utilities](utilities.md)
 - [Getting Married](marriage.md)
 - [Elevators](elevators.md)
-- [Welcome Mats](welcomemats.md)
-- [Bonus Bill](bonusbill.md)
+- [Bonus Bill](bonusbill.md) -- Currently Disabled, will be back SOON (hopefully)!
 - [Titles](titles.md)
 
 ### Editing the Wiki
