@@ -20,14 +20,14 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |9|$15000||Wizard, Witch|
 |10|$17500|1 Extra Heart & Drop your own head in PvP|Knave|
 |11|$20000||Scout, Archer|
-|12|$22500|Ability to use Safari Nets on: Zombies, Husks, Spiders and Cave Spiders.|Recruit, Private|
+|12|$22500|Ability to use Safari Nets on: Zombies, Spiders and Cave Spiders.|Recruit, Private|
 |13|$25000||Ensign|
 |14|$27500||Bard|
 |15|$30000| 9 Slot Backpack & First set of Bow Effects (This level gets rocket, critical, critical2, potion and redstone)|Deckhand, Swabbie|
 |16|$35000||Merchant|
 |17|$40000||Sleuth, Detective|
 |18|$45000||Jester, Performer|
-|19|$50000|Ability to use Safari Nets on: Skeletons, Strays, Guardians, Polar Bears and Zombie Pigmen.|Herald|
+|19|$50000|Ability to use Safari Nets on: Skeletons, Guardians, Polar Bears and Zombie Pigmen.|Herald|
 |20|$57500|2 Extra Hearts & Ability to toggle The Combiner|Noble|
 |21|$65000||Officer, Airman|
 |22|$72500||Engineer, Blacksmith|
@@ -56,7 +56,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |45|$700000|Flashlight ability|Conjuror|
 |46|$750000||Samurai|
 |47|$800000||Marshall|
-|48|$850000|Ability to use Safari Nets on: Drowned.|Ninja|
+|48|$850000|Ability to use Safari Nets on: Drowned, Husks and Strays.|Ninja|
 |49|$900000||Magister, Prefect|
 |50|$950000|5 Extra Hearts|General|
 |51|$1000000|Access to `/feed` (fully feeds your hunger bar) once per day & Bonus Bill's monetary rewards will be 5x as much.|Gnome, Harpy|
