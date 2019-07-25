@@ -1,5 +1,3 @@
-## <b><u>Rules</u></b>
-
 ![rules](L-ribbon.png) 
 
 ## Rule 1: Be courteous and respectful.
