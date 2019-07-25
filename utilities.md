@@ -7,12 +7,13 @@
 
 You can access the main GUI with `/menu`
 
-![menu](https://i.gyazo.com/f31340a0bbca5846e63caa6c2da8920c.png)
+![menu](https://i.gyazo.com/7eb37c478a624b145376ed01e5d19dad.png)
 
 This will give you options to: 
 - Open the Utility Menu
-- Get a link to the DynMap
 - Get a link to the Website
+- Get a link to the Forums
+- Get a link to the DynMap
 - Get a link to the Discord
 - Get a link to the Donation Store
 - Open the Token Shop
