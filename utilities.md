@@ -1,47 +1,50 @@
+![ribbon](L-ribbon.png) 
+
 # Utilities
+
 
 ## Main Menu
 
 You can access the main GUI with `/menu`
 
-![util1](https://i.gyazo.com/8b68cee065109ad1c42a9b6e70cad52d.png)
+<put an image here>
 
 These icons from left to right are Utilities - Website - Donator Shop - Token Shop - DynMap - Discord, and on the end is Help.
 Images of each option:
 
 Utilities - This will open a new menu for a number of things (See below!)
 
-![util2](https://i.gyazo.com/a41f4074227b0035303352a8a097f988.png)
+<put an image here>
 
 Website - This will give you a link in the chat to the website
 
-![util3](https://i.gyazo.com/22d2118909aa673c6057cc9cb89e4b0e.png)
+<put an image here>
 
 Donator Shop - This will give you a link to the donation store on the website
 
-![util4](https://i.gyazo.com/7c1f083f3bfd9e7a578664ee622d6793.png)
+<put an image here>
 
 Token Shop - This will open the `/tokenshop`
 
-![util5](https://i.gyazo.com/a2b6fea88268c517cc82e91eb7bf150b.png)
+<put an image here>
 
 DynMap - Gives a link to the web map
 
-![util6](https://i.gyazo.com/2abc5d943292954e27a3df1a3d892459.png)
+<put an image here>
 
 Discord - This will give you the link to join the Discord
 
-![util7](https://i.gyazo.com/2c053bd7441f8bc8bf5618db194b3825.png)
+<put an image here>
 
-Help - The same as `/help` (which is on the list to be improved in the future also, but not a high priority)
+Help - The same as `/help`
 
-![util8](https://i.gyazo.com/2ebedfbaec0a228ad1adef92ae4a04e6.png)
+<put an image here>
 
 ## Utilities
 
 You can get to this from either the `/menu` or by using `/util` directly, and it will give you this
 
-![util9](https://i.gyazo.com/3d9881c4695d6bd7cbe6d55ef6657534.png)
+<put an image here>
 
 >Note that this is if you have full access to the perks. Any you have not yet unlocked will have a different icon and will let you know what level it is unlocked at!
 
@@ -49,69 +52,65 @@ This menu will give you access to all of the following
 
 First off - General Utilities
 
-![util10](https://i.gyazo.com/2a7366e2a89239e5a6284d9673f7af8d.png)
+<put an image here>
 
 This gives you the following options
 
 Utility Bin - This will open the `/bin`
 
-![util11](https://i.gyazo.com/9382349792d8bbacdb412e03e566ef90.png)
+<put an image here>
 
 Titles - This will open the `/titles` menu
 
-![util12](https://i.gyazo.com/232a180d173dcf55b7b68ea25b9f4bd8.png)
+<put an image here>
 
-Crafting - This will open `/wbench` when you get to level 5, and the FastCraft menu when you get to level 30 (The information on the icon changes accordingly as you level up)
+Crafting - This will open `/wbench`
 
-![util13](https://i.gyazo.com/bc09500119f3b17809116896659d8993.png)
+<put an image here>
 
 Backpack - Opens your backpack
 
-![util14](https://i.gyazo.com/97e5894726f3c213216d9cc159bd1968.png)
+<put an image here>
 
 Bow Particles - This will open a new menu for selecting your bow particles (See below on that)
 
-![util15](https://i.gyazo.com/33ad5f3e7b8df3febb1944801c5b5f3c.png)
-
-Elytra Particles - Opens the menu to change your upgraded Elytra particles
-
-![util16](https://i.gyazo.com/30f51a7ecd7269ef0a0b298eda15a28b.png)
+<put an image here>
 
 On the second line you will get Toggleable Utilities
 
-![util17](https://i.gyazo.com/cea185d6209ed84e4293f2d963d4ea9e.png)
+<put an image here>
 
 Combiner - Toggles the combiner on/off
 
-![util18](https://i.gyazo.com/0372b00c61c040159ca5c343a349ef05.png)
+<put an image here>
 
 V.O.I.D. - Toggles VOID on/off
 
-![util19](https://i.gyazo.com/f63dbcf120a6178acdad021339b4741c.png)
+<put an image here>
 
 Flashlight - Toggles your flashlight on/off
 
-![util20](https://i.gyazo.com/42380cb2b04a99eef609386556e0c174.png)
+<put an image here>
+
+Magnet - Toggles Item Magnet on/off
+
+<put an image here>
 
 And on the third line - Donation Perks (You must have purchased them to use them!)
 
-![util21](https://i.gyazo.com/306859e38ca0364d176536cc0d049360.png)
+<put an image here>
 
 Disguises - Opens a new menu for picking a disguise
 
-![util22](https://i.gyazo.com/6217043e39b18b9eb9b2cea2ba49ac00.png)
+<put an image here>
 
 Particle Trails - Opens the trails menu
 
-![util23](https://i.gyazo.com/f37183d201d7c298d894a908304964a5.png)
-
-Pet Blocks - Opens the pet blocks menu
-
-![util24](https://i.gyazo.com/6d2b3a60e38bf8596d1be640f63755b1.png)
+<put an image here>
 
 And finally, a button to go back to the `/menu`
 
-![util25](https://i.gyazo.com/2f753a4248e6301765bd0f72a306a42d.png)
+<put an image here>
 
 
 
@@ -119,7 +118,7 @@ This has also meant a few other menus have had to be made too - Disguises and Bo
 
 ### Disguises Menu
 
-![util26](https://i.gyazo.com/777c53dcca2065b9568f1957e9e07f28.png)
+<put an image here>
 
 You can click any of the mobs you have paid for to enable the disguise, and your skull in the bottom right to remove the disguise (and a button to return to the `/util` menu in the corner).
 
@@ -127,7 +126,7 @@ Note that currently this does not support alternatives to the disguises, such as
 
 ### Bow Particles Menu
 
-![util27](https://i.gyazo.com/8f7fc9eff2a496e3b41ebf52eacf160c.png)
+<put an image here>
 
 As above, click the particle you wish to use to select it - The skull in the bottom right toggles them on/off!
 Note that the netherstar in the top right will currently only be there for CatTurtleDog200 as this is their custom particles they won in the last build competition!
