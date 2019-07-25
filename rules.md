@@ -1,4 +1,4 @@
-![rules](L-ribbon.png) 
+![ribbon](L-ribbon.png) 
 
 ## Rule 1: Be courteous and respectful.
 
