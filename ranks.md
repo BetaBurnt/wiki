@@ -1,3 +1,5 @@
+![ribbon](L-ribbon.png) 
+
 # Server Ranks
 
 Each player has two ladders they can climb on the server - their server rank and their [player level](levels.md)!
@@ -22,14 +24,14 @@ For getting this rank you are rewarded with a fourth `/sethome`, `/nick` (withou
 
 #### Donator
 
-This is the rank you receive when you donate to the server in the General Donations section on the Donation Store.
+This is the rank you receive when you donate to the server in the General Donations section on the Donation Store (not the custom donation package).
 Having this rank allows you to use `/nick` (with colour) and use colour codes on signs.
 
 
 #### Builder
 
 This rank is given to those who help with building on the server, such as building the spawn or helping to build for development projects etc...
-You can apply to be a builder in the [Staff Applications](http://legioncraft.co.uk/home/m/39230198/viewforum/7318350) section of the forums - include images of previous builds in the post (either as a direct link or the image itself).
+You can apply to be a builder in the [Staff Applications](https://lc-forums.enjin.com/home/m/51940343/viewforum/9622123) section of the forums - include images of previous builds in the post (either as a direct link or the image itself).
 Note that we only add to the builder team if and when we need more builders to help out on the server, and the player must be trustworthy to gain it - Putting an application up makes you eligible to be chosen at that time.
 We do not give the rank out otherwise, as having this rank gives you access to the Staff world, Dev chat channel, up to 3 Creative plots and some commands that we would not allow untrustworthy players to have (such as WorldEdit and Creative gamemode in the main world - for server build purposes only).
 
@@ -37,25 +39,20 @@ We do not give the rank out otherwise, as having this rank gives you access to t
 ### Staff Ranks:
 #### Mod
 
-You can apply to be a Mod in the [Staff Applications](http://legioncraft.co.uk/home/m/39230198/viewforum/7318350) section of the forums.
-Mods have the ability to fly (not in PvP), use god/instantTP/vanish/back/mute/ban/kick etc... among other things (for mod duties only) and their job is to uphold the rules on the server. Being a mod has a lot of extra rules to go along with it, regarding power abuse.
+You can apply to be a Mod in the [Staff Applications](https://lc-forums.enjin.com/home/m/51940343/viewforum/9622123) section of the forums.
+Mods have the ability to fly (not in/for PvP), use god/instantTP/vanish/back/mute/ban/kick etc... among other things (for mod duties only) and their job is to uphold the rules on the server. Being a mod has a lot of extra rules to go along with it, regarding power abuse.
 It is also Mods or higher that can marry/divorce two other players.
 As with Builder, we only add to the staff ranks when we need more staff and the player must be trusted not to abuse their added abilities. Putting an application up makes you eligible to be chosen at that time.
 
-#### Mod+
+#### Senior Mod
 
-This rank is given to players who have been a Mod for a while and have proven that they are both trustworthy enough to have added abilities (such as grief rollbacks) nd that they can and will uphold the rules correctly. This rank cannot be given straight out, it must be earned by someone who has already gained the Mod rank.
-
-#### Dev
-
-This rank is among the top ranks on the server, as Dev's have a lot of access on the server for obvious reasons. This is the team that develop new features for the server and help resolve bugs/issues on the server.
-
-This rank can be applied for in the Staff Applications section of the forums as with Mod and Builder. This rank is extremely hard to get however - the role requires dedication, responsibility and technical skill, so it is not given out lightly.
-
+This rank is given to players who have been a Mod for a while and have proven that they are both trustworthy enough to have added abilities (such as grief rollbacks) and that they can and will uphold the rules correctly. This rank cannot be given straight out, it must be earned by someone who has already gained the Mod rank.
 
 #### Admin
 
-This is not really much different to the Dev position - it's part of the same team. This is essentially a step up from Dev, with a few extra responsibilities, and as such is the hardest rank to achieve on the server (Hence we only have one, who works more behind the scenes than on the server).
+This rank is the top rank on the server (besides Owner), as admins have a lot of access on the server for obvious reasons. This is the team that help to develop new features for the server and help resolve bugs/issues on the server.
+
+This rank cannot be applied for - it is granted to trustworthy players who have been helpful enough to have earned it. This rank is extremely hard to get however - the role requires dedication, responsibility and technical skill, so it is not given out lightly.
 
 #### Owner
 
