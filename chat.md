@@ -1,3 +1,5 @@
+![ribbon](L-ribbon.png) 
+
 # Messaging and Chat
 
 To private message another player use `/msg [player name] [message]` and `/r [message]` to reply to the last message you received!
