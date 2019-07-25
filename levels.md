@@ -95,10 +95,10 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |84|$5000000||Beta|
 |85|$5500000||Nightmare, Reaper|
 |86|$5500000||Gamma|
-|87|$6000000||Ballista, Berserker|
-|88|$6000000|Eighth Accessory slot unlocked|Delta|
+|87|$6000000|9 Extra Hearts|Ballista, Berserker|
+|88|$6000000||Delta|
 |89|$7000000||Shield Master, Shield Maiden|
-|90|$7000000|9 Extra Hearts|Omega|
+|90|$7000000||Omega|
 |91|$8000000|Access to /heal (fully feeds your hunger bar and heals your health) once per day.|Daeva, ArchFiend|
 |92|$8000000||Esper|
 |93|$9000000||Spectre, Revenant|
