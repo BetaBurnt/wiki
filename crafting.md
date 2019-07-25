@@ -1,64 +1,21 @@
-# Crafting
+![ribbon](L-ribbon.png) 
 
 ## New Items
-
-### XP Bottler
-
-Bottle your experience.
-
-![XP Bottler](http://minecraftrecipedesigner.com/creations/208113.png)
-
-### Chimneys
-
-Decorative chimney blocks. Switch on or off by right clicking.
-
-![Brick Chimney](http://minecraftrecipedesigner.com/creations/207543.png)
-![Cobblestone Chimney](http://minecraftrecipedesigner.com/creations/207544.png)
-
-### Lanterns
-
-Lanterns that glow in the dark. 
-
-![Lantern](http://minecraftrecipedesigner.com/creations/207545.png)
-
-### Elevator Blocks
-
-Move between floors without stairs or ladders with [Elevators](elevators.md)
-
-![elevator](http://minecraftrecipedesigner.com/creations/203980.png)
-
-Any colour wool will work, as long as all 8 are the same colour!
 
 ### Safari Nets
 
 Catch mobs with a safari net
 
-![Single Use Safari Net](http://minecraftrecipedesigner.com/creations/203981.png)
-![Reusable Safari Net](http://minecraftrecipedesigner.com/creations/204022.png)
+![Single Use Safari Net](http://minecraftrecipedesigner.com/creations/234232.png)
+![Reusable Safari Net](http://minecraftrecipedesigner.com/creations/234233.png)
 
-### Micro Chest
 
-Store some items in a Micro Chest
-
-![Micro Chest](http://minecraftrecipedesigner.com/creations/203984.png)
-
-Currently available in Oak only!
-
-### Flower Baskets
-
-Craft a nice basket of flowers
-
-![Basket of Peonies](http://minecraftrecipedesigner.com/creations/204017.png)
-![Basket of Poppies](http://minecraftrecipedesigner.com/creations/204018.png)
-![Basket of Daisies](http://minecraftrecipedesigner.com/creations/204019.png)
-![Basket of Dandelions](http://minecraftrecipedesigner.com/creations/204020.png)
-![Basket of Orchids](http://minecraftrecipedesigner.com/creations/204021.png)
 
 ## Vanilla Items
 
-### Spider Web
+### Cobweb
 
-![Web](http://minecraftrecipedesigner.com/creations/203991.png)
+![Web](http://minecraftrecipedesigner.com/creations/234234.png)
 
 ### Saddle
 
@@ -66,13 +23,9 @@ Craft a nice basket of flowers
 
 ### Horse Armor
 
-![Iron Horse Armor](http://minecraftrecipedesigner.com/creations/203994.png)
-![Gold Horse Armor](http://minecraftrecipedesigner.com/creations/203995.png)
-![Diamond Horse Armor](http://minecraftrecipedesigner.com/creations/203996.png)
-
-### Packed Ice
-
-![Packed Ice](http://minecraftrecipedesigner.com/creations/203997.png)
+![Iron Horse Armor](http://minecraftrecipedesigner.com/creations/234235.png)
+![Gold Horse Armor](http://minecraftrecipedesigner.com/creations/234236.png)
+![Diamond Horse Armor](http://minecraftrecipedesigner.com/creations/234237.png)
 
 ### Leather
 
@@ -84,7 +37,7 @@ Craft a nice basket of flowers
 ![Quartz Ore](http://minecraftrecipedesigner.com/creations/204001.png)
 
 The same can be done for all ore blocks, simply replace the Iron Ingots with either:
-- Coal
+- Coal (Works with both Coal and Charcoal)
 - Gold Ingots
 - Lapis Lazuli
 - Redstone Dust
@@ -108,7 +61,7 @@ The same can be done for all ore blocks, simply replace the Iron Ingots with eit
 
 ### Netherwart Block
 
-![Netherwart Block](http://minecraftrecipedesigner.com/creations/204009.png)
+Putting a Netherwart Block back into the crafting menu will return the 9 Nether Wart that made it!
 
 ### Grass
 
@@ -134,7 +87,7 @@ You can use any 6 of the same sapling to get their respective block of planks!
 
 ![Leaves](http://minecraftrecipedesigner.com/creations/204014.png)
 
-You can use any 3 of the same sapling to get their respective block of leaves!
+You can use any 3 of the same sapling to get 2 of their respective block of leaves!
 
 ### String
 
