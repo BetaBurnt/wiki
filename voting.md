@@ -29,6 +29,7 @@ You can use the tokens you earn through voting at the above links in the Token S
 Here you can purchase:
 
 |Item|Cost|Extra Information|
+|---|---|---|
 |Antique Coif|7 Tokens|Leather Helmet with Unbreaking 2 and Protection 2|
 |Antique Leather Plate|7 Tokens|Leather Chestplate with Unbreaking 2 and Protection 2|
 |Antique Chaps|7 Tokens|Leather Leggings with Unbreaking 2 and Protection 2|
@@ -50,11 +51,12 @@ Here you can purchase:
 
 ### Tool Shop
 
-!tshoptools](https://i.gyazo.com/4603d6344286186fa8aaf31ce6263998.png)
+![tshoptools](https://i.gyazo.com/4603d6344286186fa8aaf31ce6263998.png)
 
 Here you can purchase:
 
 |Item|Cost|Extra Information|
+|---|---|---|
 |Antique Sword|8 Tokens|Iron Sword with Sharpness 2, Unbreaking 3 and Looting 1|
 |Obsidian Sword|20 Tokens|Diamond Sword with Sharpness 3, Unbreaking 4, Fire Aspect 2 and Looting 2|
 |Emerald Sword|40 Tokens|Diamond Sword with Sharpness 5, Unbreaking 5, Fire Aspect 2 and Looting 3|
@@ -88,6 +90,7 @@ Here you can purchase:
 Here you can purchase:
 
 |Item|Cost|
+|---|---|
 |Safari Net - Single Use|10 Tokens|
 |Safari Net - Reusable|45 Tokens|
 |Wolf Egg|20 Tokens|
@@ -113,6 +116,7 @@ Here you can purchase:
 Here you can purchase:
 
 |Item|Cost|Extra Information|
+|---|---|---|
 |Totem of Undying|40 Tokens||
 |$2500|3 Tokens||
 |Slime Crystal|5 Tokens|Right click with the item it gives to check if the chunk you are in is a slime chunk|
