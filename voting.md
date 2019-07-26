@@ -1,12 +1,12 @@
 ![ribbon](L-ribbon.png) 
 
-### Voting
+# Voting
 
 You can vote once per link every 24 hours (some may allow for more frequent voting). Every vote you put through rewards you with 1 token for use in the `/tokenshop` which can be traded for a variety of things!
 
 Note that you do not need to be online to vote - all votes will be queued for when you net log in!
 
-## Voting Links
+### Voting Links
 - [MinecraftList.org](https://minecraftlist.org/vote/2846)
 - [Minecraft-MC.com](https://minecraft-mp.com/server/228349/vote/)
 - [MinecraftServers.org](https://minecraftservers.org/vote/558604)
@@ -16,6 +16,6 @@ Note that you do not need to be online to vote - all votes will be queued for wh
 - [PlanetMinecraft](https://www.planetminecraft.com/server/legioncraft-3163956/vote/)
 
 
-### Token Shop
+# Token Shop
 
 ----Fill in when the token shop is fixed up
