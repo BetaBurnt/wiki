@@ -12,14 +12,14 @@ As such refunds are **not applicable**. Please be sure that you can afford to an
 The donations you can purchase are split into a couple of groups - General Donations, Chat Colours, Disguises, Trails and Others.
 
 
-## General Donations
+# General Donations
 
 This section will allow you to make a donation without purchasing a specific ingame perk. You can donate either through the $5/10/20/50 packages or through the package that allows you to choose how much to donate ($1+)!
 
 If you use the $5/10/20/50 packages and have not done so before you will also receive the Donator rank ingame as a thank you - this grants you the ability to change your ingame name via `/nick` (you can use colour codes for this as well) and allows you to use colour codes on signs ingame!
 The custom donation amount package will **not** give the Donator rank.
 
-## Chat Colours
+# Chat Colours
 
 Here you can purchase either all chat colours or individual colours you wish to use. Any that you have purchased grant you the ability to select that colour through the `/ccmenu` ingame, which will change all of your ingame chat text to that colour! The middle option of the `/ccmenu` will also toggle these on or off.
 
@@ -27,12 +27,12 @@ The `/ccmenu` with all colours purchased would look like this (ignore the bottom
 
 ![ccmennu](https://i.gyazo.com/4dd16c64ef5c881425853676dff95780.png)
 
-## Disguises
+# Disguises
 
 Somewhat self explanatory - they grant you the ability to disguise yourself as something else! 
 There are different packages available for different sets of disguises - when you have purchased them you can use them via either `/dis <diguise>` or through the `/disgui`!
 
-# The packages available and what they give you are:
+## The packages available and what they give you are:
 
 ||Disguises It Grants|
 |Humanoid Package|Enderman, Snowman, Iron Golem, Witch, Villager and Zombie Villager|
@@ -56,7 +56,7 @@ There is also a **Modifications Package** which will grant the following (you re
 - Saddles On/Off (Pig)
 - Sheep Colours
 
-## Trails
+# Trails
 
 The Trails section of the store allows you to purchase various sets of trails that can be enabled/disabled through the `/trails` menu ingame.
 **NOTE**: I'm leaving the images of everything for Trails as links not putting them straight in because jesus...
@@ -69,27 +69,27 @@ You can also change the 'mode' the trails are set to as well between Default, Ci
 
 These sets of trails, plus a quick screenshot of what they look like (all using the NN mode) are as follows:
 
-# Colorful Trails Pack
+## Colorful Trails Pack
 - [Breath](https://i.gyazo.com/b6953d3ff15809dbc351ac9fa2f33bab.png)
 - [Green](https://i.gyazo.com/d147542aa58985d124b606a87dfa27d7.png)
 - [Rainbow](https://i.gyazo.com/30e6fa5bd970e8e857ea2aeec45a381e.png)
 - [Colors](https://i.gyazo.com/821df28f2acaefe6cb94b2a60a631067.png)
 - [Spell](https://i.gyazo.com/0333b69edfb525cb1248e626d416cdfd.png)
 - [Spell 2](https://i.gyazo.com/ff22a7e98f389b46c3038af62bfa52e8.png)
-# Burnt Trails Pack
+## Burnt Trails Pack
 - [Void](https://i.gyazo.com/09ca0b806a373c123bc8311e23dd7e5d.png)
 - [Pop](https://i.gyazo.com/bf1675a9acc7443ccbb21aa23737db3f.png)
 - [Smoke](https://i.gyazo.com/02df80e860925375840dacbe59a6eae5.png)
 - [Lava](https://i.gyazo.com/8101890aa8378dd55047cf15fae22982.png)
 - [Flame](https://i.gyazo.com/d77eb84ed1c719dd1db86d57c4dd3dd6.png)
-# Magic Trails Pack
+## Magic Trails Pack
 - [Totem](https://i.gyazo.com/e4365d692e902d56b21205056785985b.png)
 - [Ender](https://i.gyazo.com/164cff1159410f3cd8d02c496a4b57ae.png)
 - [Enchant](https://i.gyazo.com/aa59a2a0eadb47f983cfe406b881b282.png)
 - [Magic](https://i.gyazo.com/a532c52e81584d21399a606386c3c8dc.png)
 - [White Magic](https://i.gyazo.com/9d8ce561a49f5f6b58a2a423b68c0358.png)
 - [Witch Magic](https://i.gyazo.com/9c898f799d38e54ef41263798b175232.png)
-# Misc Package 1
+## Misc Package 1
 - [Slime](https://i.gyazo.com/c53fef7e47c46eeec9fa43b55cb04490.png)
 - [Angry](https://i.gyazo.com/4bc8e28381daeb49e3c0b3a7ec7ef776.png)
 - [Heart](https://i.gyazo.com/1d8a75be3445f1784fcc8173733c7068.png)
@@ -98,7 +98,7 @@ These sets of trails, plus a quick screenshot of what they look like (all using 
 - [Music](https://i.gyazo.com/de52743f2e465967d5dcd2028b21e7a6.png)
 - [Spark](https://i.gyazo.com/6ca62c1d1ea8457e4ced622cacd9a212.png)
 - [EndRod](https://i.gyazo.com/6eab4487965710fce0b4e4f2162637c7.png)
-# Misc Package 2
+## Misc Package 2
 - Sand (having issues with this one, will fix ASAP)
 - Splash (this one too....)
 - [Snowball](https://i.gyazo.com/f4b96d20a3f73e4d28b9c7a9ae2f0596.png)
@@ -110,29 +110,29 @@ You can also purchase any of above trails individually - just let BurntValentine
 
 There are also two specialist trail types - Rain and Wings! I'll give an example of both but each has variations and can be edited in certain ways.
 
-# Rain
+## Rain
 
 ![rain](https://i.gyazo.com/c1ab618ab12237770ed73fc1ca3d7e20.png)
 
-# Wings
+## Wings
 
 ![wings](https://i.gyazo.com/d01268d3fafe0ee776bb26a082173b4f.png)
 
 
-## Others
+# Others
 
 There are also a few donation options that do not fit into the above categories.
 
-# Chat Sounds
+## Chat Sounds
 
 If you purchase this you can have a sound play to everyone on the server (unless they toggle it off for themselves) when you say a specific trigger in the ingame chat!
 
 As an example when BurntValentine says "Moo" in the chat, you will hear a cow moo at you!
 
-# Log In/Out Messages
+## Log In/Out Messages
 
 Messages that play in the ingame chat when you log in/out of the server. This can be toggled on/off (both individually)!
 
- # Extra Creative Plot
+## Extra Creative Plot
  
- If you build an extreme amount but don't want to keep wiping your plot and losing old builds you an just buy another! Each purchase will add a new plot, up to a limit of 10 per person (though I doubt anybody would need 10 200x200 plots...).
+If you build an extreme amount but don't want to keep wiping your plot and losing old builds you an just buy another! Each purchase will add a new plot, up to a limit of 10 per person (though I doubt anybody would need 10 200x200 plots...).
