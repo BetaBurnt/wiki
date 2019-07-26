@@ -18,6 +18,9 @@
 - [Money and Jobs](money.md)
 - [Player Shops](shops.md)
 
+- [Voting/Token Shop](voting.md)
+- [Donation Store](donations.md)
+
 ### Features
 - [Graves](graves.md)
 - [McMMO Skills](mcmmo.md)
