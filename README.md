@@ -17,7 +17,6 @@
 ### Economy
 - [Money and Jobs](money.md)
 - [Player Shops](shops.md)
-
 - [Voting/Token Shop](voting.md)
 - [Donation Store](donations.md)
 
