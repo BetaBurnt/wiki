@@ -3,7 +3,7 @@
 
 # Donation Perks and their Commands
 
-You can purchase donations via our [Donation Store](http://legioncraft.buycraft.net/) at any time - when purchased you should receive anything they grant ingame within 20 minutes (if not let BurntValentine know!).
+You can purchase donations via our [Donation Store](http://store.legioncraft.co.uk/) at any time - when purchased you should receive anything they grant ingame within 20 minutes (if not let BurntValentine know!).
 
 **Please Note::**
 These are __donations__ - any donations go towards the upkeep of the server and any costs for future chages/additions etc... 
@@ -27,9 +27,20 @@ The `/ccmenu` with all colours purchased would look like this (ignore the bottom
 
 ![ccmennu](https://i.gyazo.com/4dd16c64ef5c881425853676dff95780.png)
 
+# Chat Titles
+
+Somewhat self explanatory - they aloow you to purchase a custom title for the ingame chat! 
+
+You can either purchase a single colour title, a title with up to 3 colour changes or a title with as many colour changes as you want! 
+Each title is limited to 15 characters - this does not include the colour codes or the space on the end (which is not required if you don't want it, but it is what puts the gap between the title and your name in the chat - you could switch it to a dash or something too!).
+
+There are also upgrade options so if you buy a single colour title today but later on decide you want it with multiple colours you can buy an upgrade!
+
+**Note**: You can change the colour/s of the title at any time by contacting BurntValentine! The package is for the word itself and the amount of colours you can use - to change the word or how many colours it can have you'd need to either buy a new title or an upgrade!
+
 # Disguises
 
-Somewhat self explanatory - they grant you the ability to disguise yourself as something else! 
+Also somewhat self explanatory - they grant you the ability to disguise yourself as something else! 
 There are different packages available for different sets of disguises - when you have purchased them you can use them via either `/dis <diguise>` or through the `/disgui`!
 
 ## The packages available and what they give you are:
