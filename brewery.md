@@ -53,7 +53,7 @@ The message “Barrel created” should appear if done correctly
 ### Big Barrel
 To build you’ll need 5 fences, 16 wooden stairs, 18 wood planks, a sign and have it be hollow inside.
 
-![bigbarrel]()
+![bigbarrel](https://i.gyazo.com/944c9f1e8ab38f7aa75c8724b70e518e.png)
 
 You now need to attach a spigot (fence) and a sign that has “Barrel” written on the top line:
 
