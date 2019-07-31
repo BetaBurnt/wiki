@@ -16,6 +16,12 @@ Note that you do not need to be online to vote - all votes will be queued for wh
 - [PlanetMinecraft](https://www.planetminecraft.com/server/legioncraft-3163956/vote/)
 
 
+# Monthly Top Voter
+
+Every month the top 5 voters will receive a small reward as a thank you!
+The top 3 voters will receive a $5, $2.50 and $1 coupon for use on the Donation Store (note that you can use up to 5 coupons per basket, and they will be locked to your username, though you can use them for gifting donation store stuff as well), and the top 5 will receive varied options of Perk Scrolls (ie the top voter may get a 6 hour mcMMO XP boost scroll, and 5th place may get a 30 minute one etc..).
+
+
 # Token Shop
 
 ![tshopmain](https://i.gyazo.com/a04d44f342e37124e2a00233d922a820.png)
