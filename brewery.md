@@ -43,26 +43,22 @@ To age your drink you must first create ageing barrels - There are two types of 
 ### Small Barrel
 To make this you’ll need 8 wooden stairs and a sign.
 
-![smallbarrel](http://i1024.photobucket.com/albums/y309/BurntValentine/SmallB_zps9niewdua.png)
+![smallbarrel](https://i.gyazo.com/f1356a5e91e1a919ed159d77027d2be4.png)
 
 Using the stairs make the above
 Then to finalize your barrel place a sign in the lower right corner with Barrel on the top line
-
-![smallbarrel2](http://i1024.photobucket.com/albums/y309/BurntValentine/SmallBSign_zpsdnz0mpvf.png)
 
 The message “Barrel created” should appear if done correctly
 
 ### Big Barrel
 To build you’ll need 5 fences, 16 wooden stairs, 18 wood planks, a sign and have it be hollow inside.
 
-![bigbarrel](http://i1024.photobucket.com/albums/y309/BurntValentine/BigB_zpsmdxjrdlk.png)
+![bigbarrel]()
 
 You now need to attach a spigot (fence) and a sign that has “Barrel” written on the top line:
 
-![bigbarrel2](http://i1024.photobucket.com/albums/y309/BurntValentine/BigBSign_zpszlrixlgs.png)
-
 Message “Barrel created” should appear
-You may now remove the sign.
+With a big barrel you can then remove the sign (for small barrels it must be left on).
 
 The small barrel can be opened with a rightclick to the sign, for the big barrel click the spigot.
 Put your now distilled bottles in for aging and leave them there for the requested time,
