@@ -16,9 +16,11 @@ Before you use party chat, you must be in a party. You can create a party with `
 To toggle party chat on and off, just use `/pc` or `/party chat`. You can also `/pc [message]` if you just want to send one message to the chat without toggling it. Party chat can only be viewed by members of your party, and appears as lime green text.
 
 ## Town Chat
-Town chat and nation chat allow for communication between players that are members of either your town or nation. To toggle town chat, simply use `/tc`. For nation chat, use `/nc` instead. Town chat will appear as cyan text, while nation chat will list your town before your name and use pink text. 
+Town chat and nation chat allow for communication between players that are members of either your town or nation. To toggle town chat, simply use `/tchat`. For nation chat, use `/nchat` instead. Town chat will appear as cyan text, while nation chat will list your town before your name and use pink text. 
 
-Just like party chat, you can use `/tc [message]` and `/nc [message]` to send a message to those chats without toggling them!
+Just like party chat, you can use `/tchat [message]` and `/nchat [message]` to send a message to those chats without toggling them!
+
+To go back to global chat use `/g` or `/g [message]` to send a message to the global chat without moving to it!
 
 ## Titles
 Titles allow you to enable a chat prefix for your player, become a Knight, a Wizard or just a Peasant.
