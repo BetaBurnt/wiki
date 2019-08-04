@@ -35,12 +35,6 @@ The commands are nice and simple:
 
 - `/setshop` - To set/change where your shop teleport is located
 - `/delshop` - To delete your shop teleport
-- `/shop [player]` - To teleport to that players shop, or your own if you don't add a name
-- `/shops` - To list all currently available shop
-
-### Customisation -- Currently Disabled Due to Issues in the 1.13 Update, will be back ASAP!
-
-You can customise your shops icon and description!
-
-- `/shop description [description]` - Set a description for your shop.
-- `/shop icon` - Choose an icon for your shop.
+- `/shop` - To teleport to your own shop
+- `/shoptp [player]` - To teleport to that players shop
+- `/shops` - To list all currently available shop adverts
