@@ -15,6 +15,7 @@ Note that you do not need to be online to vote - all votes will be queued for wh
 - [Minecraft-Server-List.com](https://minecraft-server-list.com/server/443183/vote/)
 - [PlanetMinecraft](https://www.planetminecraft.com/server/legioncraft-3163956/vote/)
 
+Please note that while most of these are 24 hourly vote sites some may allow 12 hourly, and of the 24 hourly sites some run by 24 hours from your last vote and some run by calendar day. I can't change anything to do with this, it's entirely up to the vote sites setup, and they don't tell me which do what my end so I'm not sure which are which.
 
 # Monthly Top Voter
 
