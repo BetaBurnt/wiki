@@ -37,7 +37,7 @@ You can use various commands to allow others to teleport to your shop and to add
 
 Commands:
 - Set your shop tp where you are with `/setshop`
-- Go to your own shop with `/myshop`
+- Go to your own shop with `/shop`
 - Teleport to another players shop, if they have one, with `/shoptp <name>`
 - Delete your shop teleport *and* advert with `/delshop`
 - Lock/unlock your shop teleport with `/shoplock`
