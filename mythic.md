@@ -42,7 +42,7 @@ When they drop they will look something like this:
 To use them simply hold the essence and right click, and then right click the item you are applying it to! Each essence will state whether it is for armour or tools/weapons.
 
 
-# Unidentified Items and Tomes
+# Unidentified Items and Tomes -- **CURRENTLY DISABLED DUE TO BUGS**
 
 ![unidentified](https://i.gyazo.com/7f4e5977e13dbce953073ec64e3ae41d.png)
 
