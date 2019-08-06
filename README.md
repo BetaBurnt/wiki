@@ -30,6 +30,7 @@
 - [Elevators](elevators.md)
 - [Bonus Bill](bonusbill.md) -- Currently Disabled, will be back SOON (hopefully)!
 - [Titles](titles.md)
+- [BookShelves](shelf.md)
 
 ### Editing the Wiki
 
