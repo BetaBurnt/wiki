@@ -181,6 +181,7 @@ Don’t get us wrong you can hate/dislike a staff member, but once they have mad
 This ties into Rules 1 and 2.
 
 - You may swear on the server in general conversation, but swearing maliciously at another player is prohibited. Being overly crude in general, swearing or otherwise, is also prohibited.
+- Excessive swearing is also not allowed - it is annoying and offputting to new players. Don't go overboard.
 - Spamming is not allowed.
 - NO ALL CAPS SENTENCES. The occasional all-caps OMG etc... is fine, but not all the time.
 - No advertising of other servers or products.
