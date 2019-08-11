@@ -201,3 +201,11 @@ This is not limited to bugs/glitches/unintentional features we have added via pl
 ## The Staff Policy on other forms of media
 
 The moderation team will not act on any forms of hate/problems outside of LC related media. If the issue in question happened anywhere outside of the server, discord or forums, it is not our responsibility and please do not bring it over to LC!
+
+
+
+### General Clarification
+
+Just because you can do something in Vanilla Minecraft/singleplayer does **not** mean it is okay on the server. Mega farms may be something you can make in singleplayer/Vanilla, but this is a multiplayer server where a lot of people will have their games ruined if everybody has stupid amounts of money/skills/items and the economy is ruined. 
+
+In general **use some common sense**. Just because something is not **explicitly** stated on here does not mean it is okay - if it may **possibly** fit into one of the above rules then it is likely not okay - check with staff first.
