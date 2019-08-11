@@ -97,15 +97,15 @@ Dumping your junk in someone elses chests that you do not have permission to use
 
 ## Rule 5: Super farming is not allowed
 
-This is a very grey area, but generally having large resource gathering mechanisms is allowed, so long as they don't cause any problems with the server economy, or cause lag of any kind.
+This is a very grey area, but generally having large resource gathering mechanisms are allowed, so long as they don't cause any problems with the server economy, allow you to gain rapid amounts of XP, mcMMO XP, jobs money/xp, or cause lag of any kind.
 
-This includes, but is *NOT* limited to (anything that causes local area or server lag is not allowed in general) having large amounts of mobs in a small area, such as a lot of chickens for an egg farm or large amounts of redstone set up to auto-farm crops that cause local area lag for other players (within reason - if that player lags in general the issue is more their end than with the mobs/redstone, but if it effects multiple people it is a cause of local lag and is not allowed).
+For example big Endermen farms in the end are **not allowed**. Farms in Survival such as guardian farms are allowed as long as they are not causing issues with players gaining ridiculous amounts of xp/money etc... in short periods of time.
 
 Tree farms are also limited. It is not permitted to have a large area of trees (especially giant trees such as the 2x2 Spruce/Jungle trees) for use with the tree feller ability due to the extreme server TPS drops the ability causes when the server is trying to process a lot of block changes/item drops at once. Anybody caught spamming tree feller at a tree farm will be told to remove the farm and given a warning, further use after being given a warning will result in a ban. Tree farms for manually cutting the trees down - not using tree feller - are fine.
 
 These limitations also apply to having an excessive amount of hoppers to move items around, which is common at large farms - hoppers are a common source of server lag issues, so keep them down to a reasonable level.
 
-These limitations are also in place because some jobs are grindable while others are not. For example, you can make an ender farm to easily get money as a Hunter, but there is no equivalent for a Miner. We rarely have issues with these kinds of farms, and tweaking the job values is the first thing we will do if a situation arises, but no matter how low we put the values, players can always just build a bigger farm. In light of this, we ask you to not spend all your time farming to get money.
+These limitations are in part in place because some jobs are grindable while others are not. For example, you can make a guardian farm to easily get money as a WitchHunter, but there is no equivalent for a Miner. We rarely have issues with these kinds of farms, and tweaking the job values is the first thing we will do if a situation arises, but no matter how low we put the values, players can always just build a bigger farm. In light of this, we ask you to not spend all your time farming to get money and to keep farms you do make to a reasonable size.
 
 It should also be noted that any mechanism that you use while AFK are prohibited from the server, such as slides that push you around with water to bump your acrobatics, AFK fish farming or any other bug/glitch/unintentional feature (whether it is caused by Minecraft itself or a plugin we have added). This includes going AFK near spawners or dark rooms to build up an excessive amount of mobs at once. This will result in warnings, and bans if it continues.
 
