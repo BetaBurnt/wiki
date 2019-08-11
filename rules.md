@@ -204,7 +204,10 @@ The moderation team will not act on any forms of hate/problems outside of LC rel
 
 
 
-### General Clarification
+
+
+
+# General Clarification
 
 Just because you can do something in Vanilla Minecraft/singleplayer does **not** mean it is okay on the server. Mega farms may be something you can make in singleplayer/Vanilla, but this is a multiplayer server where a lot of people will have their games ruined if everybody has stupid amounts of money/skills/items and the economy is ruined. 
 
