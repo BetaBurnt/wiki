@@ -7,11 +7,10 @@ If done correctly it will ask you to type how much to sell one for in the chat, 
 
 To set up a shop that players sell items to do exactly the same as above, and then (whilst looking at the sign on the chest) do `/qs buy`! Alternatively sneak right click the sign of the shop you own to pull some options up in your chat - simply click the relevant option to change it!
 
->Note that some item names will not fit on the sign for the shop - if you punch the sign it will state what is being sold in full in the chat!
-
 To buy/sell from another players shop simply punch the sign on the front of the chest and enter how many you wish to buy/sell in the chat! When selling to a shop there must be space left in the chest for the items you are selling (and stock left for buying) - When you punch the sign it will tell you the available stock/space!
 If you punch a shop sign and do not want to purchase from/sell to that shop simply walk away from it to cancel!
 
+>Note that some item names will not fit on the sign for the shop - when you punch the sign to buy/sell it will state what is being sold in full in the chat!
 
 ## Admin/Pawn Shop
 
