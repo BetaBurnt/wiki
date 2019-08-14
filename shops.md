@@ -19,12 +19,20 @@ If you punch a shop sign and do not want to purchase from/sell to that shop simp
 There is a shop at spawn (on the island to the right when you go to `/spawn`, or do `/pawn`) where you can sell some basic items for a low amount when necessary - this is not intended to be a main source of income, use [Jobs](money.md) for that!
 
 
-## Shop Teleports -- Currently Disabled Due to Issues in the 1.13 Update, will be back ASAP!
+## Shop Teleports
 
-The commands are nice and simple:
+You can use various commands to allow others to teleport to your shop and to add your shop to a list of advertised shops.
 
-- `/setshop` - To set/change where your shop teleport is located
-- `/delshop` - To delete your shop teleport
-- `/shop` - To teleport to your own shop
-- `/shoptp [player]` - To teleport to that players shop
-- `/shops` - To list all currently available shop adverts
+Commands:
+- Set your shop tp where you are with `/setshop`
+- Go to your own shop with `/shop`
+- Teleport to another players shop, if they have one, with `/shoptp <name>`
+- Delete your shop teleport *and* advert with `/delshop`
+- Lock/unlock your shop teleport with `/shoplock`
+
+- List shops that have bought an advert in a menu, and click them to go to them, with `/shops`
+- Set the message in your advert (colour codes allowed) with `/shopadvert <message>`
+- Remove the message/lore entirely from your advert with `/clearshopadvert`
+- Buy an advert in the /shops listing (which costs $5000) with `/buyadvert`
+
+Shop adverts will last till the end of the month, regardless of when you buy it, as the adverts will wipe on the 1st of each month. If/when the plugin devs adds timed adverts their end I'll use that instead but for now it's an all or nothing advert wipe and I'd rather keep inactive shops out of the list.
