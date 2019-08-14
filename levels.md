@@ -9,7 +9,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 
 |Level|Cost|Perks|Titles|
 |---|---|---|---|
-|1|Free|Ability to use Safari Nets on: Cows, Sheep, Chickens, Pigs, Bats and Rabbits|Visitor, Commoner, Peasant|
+|1|Free|Ability to use Safari Nets on: Cows, Sheep, Chickens, Pigs, Bats and Rabbits & ability to have up to 20 player shops.|Visitor, Commoner, Peasant|
 |2|$2000||Villager|
 |3|$3500||Outlaw, Bandit|
 |4|$5000||Fugitive, Rogue|
@@ -26,9 +26,9 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |15|$30000| 9 Slot Backpack & First set of Bow Effects (This level gets rocket, critical, critical2, potion and redstone)|Deckhand, Swabbie|
 |16|$35000||Merchant|
 |17|$40000||Sleuth, Detective|
-|18|$45000||Jester, Performer|
+|18|$45000|A fourth /sethome!|Jester, Performer|
 |19|$50000|Ability to use Safari Nets on: Skeletons, Guardians, Polar Bears and Zombie Pigmen.|Herald|
-|20|$57500|2 Extra Hearts & Ability to toggle The Combiner|Noble|
+|20|$57500|2 Extra Hearts, Ability to toggle The Combiner & ability to have up to 30 player shops.|Noble|
 |21|$65000||Officer, Airman|
 |22|$72500||Engineer, Blacksmith|
 |23|$80000||Lieutenant|
@@ -41,21 +41,21 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |30|$180000|18 slot backpack and 3 Extra Hearts|Major, Commander|
 |31|$200000||Maiden|
 |32|$220000|Ability to use Safari Nets on: Dolphins and Turtles.|Captain,Cap'n|
-|33|$240000||Father, Mother|
+|33|$240000|A fifth /sethome!|Father, Mother|
 |34|$260000||Priest, Priestess|
 |35|$280000|Ability to use Silk Touch on spawners & Access to the Item Magnet|Disciple, Scholar|
 |36|$300000|Ability to use Safari Nets on: Creepers, Blazes, Witches, Endermen, Wither Skeletons and Shulkers.|Lord, Lady|
 |37|$340000||Viscount|
 |38|$380000||Baron, Baroness|
 |39|$420000||Forsaken, Rover|
-|40|$460000|4 Extra Hearts & Third set of Bow Effects (This level gets burnt, dust, jelly, snowball and totem)|Earl, Jarl|
+|40|$460000|4 Extra Hearts, Third set of Bow Effects (This level gets burnt, dust, jelly, snowball and totem) & ability to have up to 40 player shops.|Earl, Jarl|
 |41|$500000||Marquis, Marquess|
 |42|$550000||Puppet|
 |43|$600000|Ability to use Safari Nets on: Llamas, Zombie/Skeleton Horses, Evokers, Vindicators and Vex.|Brigadier, Colonel|
 |44|$650000||Sniper|
 |45|$700000|Flashlight ability|Conjuror|
 |46|$750000||Samurai|
-|47|$800000||Marshall|
+|47|$800000|A sixth /sethome!|Marshall|
 |48|$850000|Ability to use Safari Nets on: Drowned, Husks and Strays.|Ninja|
 |49|$900000||Magister, Prefect|
 |50|$950000|5 Extra Hearts|General|
@@ -68,9 +68,9 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |57|$1600000||Kaiser, Shogun|
 |58|$1600000||Admiral|
 |59|$1800000||Judge|
-|60|$1800000|6 Extra Hearts & Fourth set of Bow Effects (This level gets poof, fire, lavadrips, water and droplets)|Summoner|
+|60|$1800000|6 Extra Hearts, Fourth set of Bow Effects (This level gets poof, fire, lavadrips, water and droplets) & ability to have up to 50 player shops.|Summoner|
 |61|$2000000||Vampire, Zombie|
-|62|$2000000||Spirit|
+|62|$2000000|A seventh /sethome!|Spirit|
 |63|$2200000||Praetor|
 |64|$2200000||Prince, Princess|
 |65|$2400000|Items picked up will go into your backpack automatically when your inventory is full|Consul|
@@ -85,7 +85,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |74|$3250000||Elder|
 |75|$3500000|36 slot backpack|King, Queen|
 |76|$3500000||Dictator|
-|77|$3750000||Nephilim|
+|77|$3750000|An eighth /sethome!|Nephilim|
 |78|$3750000|Ability to use Safari Nets on: Phantoms|Demon|
 |79|$4000000||Angel|
 |80|$4000000|8 Extra Hearts & Fifth set of Bow Effects (This level gets sparkle, cupid, molten, boom and nether)|Emperor, Empress|
@@ -100,7 +100,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |89|$7000000||Shield Master, Shield Maiden|
 |90|$7000000||Omega|
 |91|$8000000|Access to /heal (fully feeds your hunger bar and heals your health) once per day.|Daeva, ArchFiend|
-|92|$8000000||Esper|
+|92|$8000000|A ninth, final /sethome!|Esper|
 |93|$9000000||Spectre, Revenant|
 |94|$10000000|Access to `/fly` to toggle creative fly when in Survival. Note that this may *NOT* be used for accessing other players build areas or for PvP.|Lifeless, Zombified|
 |95|$12000000|45 slot backpack|Saint|
