@@ -14,7 +14,7 @@ Catch mobs with a safari net
 Chimneys with smoke effects!
 
 ![chimney list](https://i.gyazo.com/14b5ad618070bf5ed8e3fa95938d109c.png)
-![chimney examples](http://minecraftrecipedesigner.com/creations/234233.png)
+![chimney examples](https://i.gyazo.com/23e7c2ec050beb5111d547b8d1a3a2f7.png)
 
 To craft simply follow this guide but for the material you wish to use (replace the cobble):
 
