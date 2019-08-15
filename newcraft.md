@@ -15,9 +15,10 @@ Chimneys with smoke effects!
 
 ![chimney list](https://i.gyazo.com/14b5ad618070bf5ed8e3fa95938d109c.png)
 ![chimney examples](https://i.gyazo.com/23e7c2ec050beb5111d547b8d1a3a2f7.png)
+Note that there are 3 effects for chimneys - Nether based chimneys get the flame under the smoke, the End Brick Chimney gets a purple spiral around the smoke. All others are just smoke.
+
 
 To craft simply follow this guide but for the material you wish to use (replace the cobble):
-
 ![chimney recipe](http://minecraftrecipedesigner.com/creations/234994.png)
 
 Materials you can use:
