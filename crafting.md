@@ -9,7 +9,29 @@ Catch mobs with a safari net
 ![Single Use Safari Net](http://minecraftrecipedesigner.com/creations/234232.png)
 ![Reusable Safari Net](http://minecraftrecipedesigner.com/creations/234233.png)
 
+### Chimney Blocks
 
+Chimneys with smoke effects!
+
+![chimney list](https://i.gyazo.com/14b5ad618070bf5ed8e3fa95938d109c.png)
+![chimney examples](http://minecraftrecipedesigner.com/creations/234233.png)
+
+To craft simply follow this guide but for the material you wish to use (replace the cobble):
+
+![chimney recipe](http://minecraftrecipedesigner.com/creations/234994.png)
+
+Materials you can use:
+- Cobblestone/Stone/Stone Bricks
+- Andesite/Granite/Diorite
+- Polished Andesite/Granite/Diorite
+- Sandstone/Red Sandstone
+- Mossy Cobblestone/Mossy Stone Bricks
+- Bricks
+- Iron Ingots
+- Prismarine/Prismarine Bricks/Dark Prismarine
+- Nether Bricks/Red Nether Bricks
+- Magma Blocks
+- End Bricks
 
 ## Vanilla Items
 
