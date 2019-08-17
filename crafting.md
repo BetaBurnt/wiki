@@ -95,3 +95,4 @@ Any block of wool will return 3 string!
 - You can craft a Quartz Block (only plain qaurtz blocks) back into 3 quartz.
 - Prismarine can be smelted into Prismarine Bricks (along with their normal crafting recipe).
 - Dark Prismarine can be crafted from 4 Prismarine Bricks (along with their normal crafting recipe).
+- Ink Sacs can be crafted with a clay ball and either a piece of coal or charcoal (due to the less frequent spawning of Squid now there are other sea critters).
