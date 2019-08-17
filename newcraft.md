@@ -1,15 +1,15 @@
 ![ribbon](L-ribbon.png) 
 
-## New Items
+# New Items
 
-### Safari Nets
+## Safari Nets
 
 Catch mobs with a safari net
 
 ![Single Use Safari Net](http://minecraftrecipedesigner.com/creations/234232.png)
 ![Reusable Safari Net](http://minecraftrecipedesigner.com/creations/234233.png)
 
-### Chimney Blocks
+## Chimney Blocks
 
 ![chimney list](https://i.gyazo.com/07ff03c8cc8bab741eacdb023f1a2bd5.png)
 
@@ -34,9 +34,9 @@ Materials you can use:
 - Magma Blocks
 - End Bricks
 
-### TeaLights and Lanterns
+## TeaLights and Lanterns
 
-# TeaLights
+### TeaLights
 
 ![candle list](https://i.gyazo.com/5d977746cb1bdcf0afa92922d1bce9b9.png)
 
@@ -46,7 +46,7 @@ To craft simply follow this guide but replace the stained glass panes for the co
 
 ![candle recipe](http://minecraftrecipedesigner.com/creations/235046.png)
 
-# Lanterns
+### Lanterns
 
 ![lantern list](https://i.gyazo.com/1427eeba8fd91a23585afcaa535a1f4a.png)
 
