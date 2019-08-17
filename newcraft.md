@@ -34,9 +34,9 @@ Materials you can use:
 - Magma Blocks
 - End Bricks
 
-**Note::** You can get the chimneys while in creative with `/deco`!
+### TeaLights and Lanterns
 
-### TeaLights
+# TeaLights
 
 ![candle list](https://i.gyazo.com/5d977746cb1bdcf0afa92922d1bce9b9.png)
 
@@ -46,4 +46,16 @@ To craft simply follow this guide but replace the stained glass panes for the co
 
 ![candle recipe](http://minecraftrecipedesigner.com/creations/235046.png)
 
-**Note::** You can get the tealights while in creative with `/deco`!
+# Lanterns
+
+![lantern list](https://i.gyazo.com/1427eeba8fd91a23585afcaa535a1f4a.png)
+
+![lantern examples](https://i.gyazo.com/21b7b037f1701075d0be566cd62c7edc.png)
+
+To craft simply follow this guide but replace the stained glass panes for the colour of lantern holder you wish to use! Note that there is no black lantern but all other colours work! (As with tealight - they give off light. But way more!)
+
+![lantern recipe](https://i.gyazo.com/3e9ce9638c8d40e2b2a9fa8552c21755.png)
+
+
+
+**Note::** You can get the chimneys, tealights and lanterns while in creative with `/deco`!
