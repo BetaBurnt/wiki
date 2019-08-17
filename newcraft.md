@@ -38,7 +38,7 @@ Materials you can use:
 
 ### TeaLights
 
-![candle list](https://i.gyazo.com/70af4ee1676e1094020375dc3b810aa1.png)
+![candle list](https://i.gyazo.com/5d977746cb1bdcf0afa92922d1bce9b9.png)
 
 ![candle examples](https://i.gyazo.com/d40868baa6136104da2a946c28d75ea6.png)
 
