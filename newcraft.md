@@ -11,7 +11,8 @@ Catch mobs with a safari net
 
 ### Chimney Blocks
 
-![chimney list](https://i.gyazo.com/14b5ad618070bf5ed8e3fa95938d109c.png)
+![chimney list](https://i.gyazo.com/07ff03c8cc8bab741eacdb023f1a2bd5.png)
+
 ![chimney examples](https://i.gyazo.com/23e7c2ec050beb5111d547b8d1a3a2f7.png)
 
 Note that there are 3 effects for chimneys - Nether based chimneys get the flame under the smoke, the End Brick Chimney gets a purple spiral around the smoke. All others are just smoke.
@@ -34,3 +35,15 @@ Materials you can use:
 - End Bricks
 
 **Note::** You can get the chimneys while in creative with `/deco`!
+
+### TeaLights
+
+![candle list](https://i.gyazo.com/70af4ee1676e1094020375dc3b810aa1.png)
+
+![candle examples](https://i.gyazo.com/d40868baa6136104da2a946c28d75ea6.png)
+
+To craft simply follow this guide but replace the stained glass panes for the colour of tealight holder you wish to use! (and yes - they give off a little light. Mood lighting!)
+
+![candle recipe](http://minecraftrecipedesigner.com/creations/235046.png)
+
+**Note::** You can get the tealights while in creative with `/deco`!
