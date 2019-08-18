@@ -9,6 +9,19 @@ Catch mobs with a safari net
 ![Single Use Safari Net](http://minecraftrecipedesigner.com/creations/234232.png)
 ![Reusable Safari Net](http://minecraftrecipedesigner.com/creations/234233.png)
 
+
+## Recycle Bins
+
+![bin list](https://i.gyazo.com/4b560879b91f3e653c46d1d6626ddcb0.png)
+
+Note that these are mostly decorative and easier ways of using `/bin` as you just need to click the block, not type a command!
+
+To craft simply follow this guide but for the colour you wish to use (replace the dye - no dye = white):
+
+![bin recipe 1](http://minecraftrecipedesigner.com/creations/235065.png)
+![bin recipe 2](http://minecraftrecipedesigner.com/creations/235066.png)
+
+
 ## Chimney Blocks
 
 ![chimney list](https://i.gyazo.com/07ff03c8cc8bab741eacdb023f1a2bd5.png)
