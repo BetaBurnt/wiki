@@ -96,3 +96,4 @@ Any block of wool will return 3 string!
 - Prismarine can be smelted into Prismarine Bricks (along with their normal crafting recipe).
 - Dark Prismarine can be crafted from 4 Prismarine Bricks (along with their normal crafting recipe).
 - Ink Sacs can be crafted with a clay ball and either a piece of coal or charcoal (due to the less frequent spawning of Squid now there are other sea critters).
+- Smooth Stone from smelting Stone has been added (as it is only actually a thing in 1.14+ normally).
