@@ -1,6 +1,6 @@
 ![ribbon](L-ribbon.png) 
 
-# Bonus Bill -- Temporarily disabled due to issues in the update to 1.13.2. Will be back ASAP!
+# Bonus Bill
 
 ![bill1](https://i.gyazo.com/01610465823a04d7461ca251b7d4d823.png)
 
@@ -54,6 +54,4 @@ The rewards you can get each day are as follows (you can do the 5x the money you
 
 Note that each reward must be claimed before the next unlocks - For example if your day 3 reward is not claimed before day 4 is unlocked you will not be able to claim day 3 until your next reset! Any chance rewards - so the titles and armour pieces - will not be announced in the chat when you do get them so make sure to check!
 
-Your streaks time will start from your first log into the server (when it's back - any log in time before hand will not count towards it)! The first reward unlocks after 24 hours!
-
-Note that you don't HAVE to go to Bill for your reward - `/dailybonus` will also work! (useful for if Bill vanishes... because NPCs are a pain in the ass!)
+Your streaks time will start from your first log into the server! The first reward unlocks after 24 hours!
