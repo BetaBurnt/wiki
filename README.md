@@ -31,7 +31,7 @@
 - [Mythic Drops](mythic.md)
 - [Titles](titles.md)
 - [BookShelves](shelf.md)
-- [Bonus Bill](bonusbill.md) -- Currently Disabled, will be back SOON (hopefully)!
+- [Bonus Bill](bonusbill.md)
 
 ### Editing the Wiki
 
