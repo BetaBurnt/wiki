@@ -110,11 +110,11 @@ These sets of trails, plus a quick screenshot of what they look like (all using 
 - [Spark](https://i.gyazo.com/6ca62c1d1ea8457e4ced622cacd9a212.png)
 - [EndRod](https://i.gyazo.com/6eab4487965710fce0b4e4f2162637c7.png)
 ## Misc Package 2
-- Sand (having issues with this one, will fix ASAP)
-- Splash (this one too....)
+- [Sand](https://i.gyazo.com/198868e6f484e41a2df6a333030d1998.png)
+- [Splash](https://i.gyazo.com/6fa8a880eb4538b1457f6ff9d0f5961e.png)
 - [Snowball](https://i.gyazo.com/f4b96d20a3f73e4d28b9c7a9ae2f0596.png)
 - [Water](https://i.gyazo.com/60159630f15fa87a45809006e794a2b8.png)
-- Snow (and this one... It's been reported to the plugin dev so hopefully will be fixed ASAP)
+- [Snow](https://i.gyazo.com/53a950650c9165f818976a314a7f259f.png)
 - [Cloud](https://i.gyazo.com/8effdfc2ffca99833eaf1981153539df.png)
 
 You can also purchase any of above trails individually - just let BurntValentine know which one you want!
