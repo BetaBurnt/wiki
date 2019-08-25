@@ -136,9 +136,18 @@ There are also a few donation options that do not fit into the above categories.
 
 ## Chat Sounds
 
-If you purchase this you can have a sound play to everyone on the server (unless they toggle it off for themselves) when you say a specific trigger in the ingame chat!
+If you purchase this you can have a sound play to everyone on the server when you say a specific trigger in the ingame chat!
+As an example when BurntValentine says "Moo!" in the chat, you will hear a cow moo at you!
 
-As an example when BurntValentine says "Moo" in the chat, you will hear a cow moo at you!
+If other peoples chat sounds are getting annoying you can also toggle them off so you don't hear them with either `/tcs` to turn on/off all chat sounds, or `/tcs <player>` to just toggle that one players sounds off!
+
+## Log In/Out Sounds
+
+If you purchase this you can have a sound play to everyone on the server when you log in and out of the server!
+
+You can toggle your own log in/out sound off with `/tlsound` to turn it on/off completely, or `/tlsound <quit/join>` to just turn it off for when you log in or out specifically.
+
+If other peoples log in/out sounds are getting annoying, as with the chat sounds, you can toggle them off so you don't hear them with either `/lsounds` to turn on/off all log in/out sounds, or `/lsounds <player>` to just toggle that one players sounds off!
 
 ## Log In/Out Messages
 
@@ -147,3 +156,18 @@ Messages that play in the ingame chat when you log in/out of the server. This ca
 ## Extra Creative Plot
  
 If you build an extreme amount but don't want to keep wiping your plot and losing old builds you an just buy another! Each purchase will add a new plot, up to a limit of 10 per person (though I doubt anybody would need 10 200x200 plots...).
+
+## Custom Brewery Recipe
+
+You can purchase your own custom brew through the Donation Store! When you purchase this you will be sent a Google form to fill in with the information needed - once done let BurntValentine know and it will be added to the game!
+
+The options you have when creating a brew are:
+- Names (poor/normal/good name, and their colour)
+- The colour of the potion item
+- The ingredients (up to 5 ingredients - all items **should** be usable, but if not we shall let you know when we test it so you can change it)
+- The effects the drink gives when used (up to 3 potion effects, can be negative or positive or a mix)
+- How long the drink takes to brew in the cauldron
+- How many times it needs to be distilled
+- How long it needs to be barrel aged
+- How strong you want the alcohol content to be (can be 0 - ie non-alcoholic)
+- Whether you want the recipe book for it to be added to the mob drops, just to be given to you or not have a recipe book at all!
