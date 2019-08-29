@@ -16,8 +16,14 @@ The donations you can purchase are split into a couple of groups - General Donat
 
 This section will allow you to make a donation without purchasing a specific ingame perk. You can donate either through the $5/10/20/50 packages or through the package that allows you to choose how much to donate ($1+)!
 
-If you use the $5/10/20/50 packages and have not done so before you will also receive the Donator rank ingame as a thank you - this grants you the ability to change your ingame name via `/nick` (you can use colour codes for this as well) and allows you to use colour codes on signs ingame!
-The custom donation amount package will **not** give the Donator rank.
+If you use the $5/10/20/50 packages and have not done so before you will also receive the Donator rank ingame as a thank you - this grants you the ability to:
+- Change your ingame name via `/nick` (you can use colour codes for this as well) 
+- Use colour codes on signs ingame
+- Get a 4th `/sethome` (if you already have 4+ from your server levels this does not add an extra home)
+- Use `/sit` to sit where you stand, rather than being limited to just stairs/slabs/carpets
+- Have up to 15 layers on any banners than you create (normal players can go up to 10)
+
+**NOTE:** The custom donation amount package will **not** give the Donator rank.
 
 # Chat Colours
 
@@ -72,50 +78,51 @@ There is also a **Modifications Package** which will grant the following (you re
 The Trails section of the store allows you to purchase various sets of trails that can be enabled/disabled through the `/trails` menu ingame.
 **NOTE**: I'm leaving the images of everything for Trails as links not putting them straight in because jesus...
 
-You can also change the 'mode' the trails are set to as well between Default, Circle and NN. Here are some screenshots of these modes as examples (using the Flame particle):
+You can also change the 'mode' the trails are set to as well between Default, Circle, Magician, Shooter and Pulse. Here are some screenshots of these modes as examples (using the Spark particle):
 
-- [Default Mode](https://i.gyazo.com/ec3365e52bdc6362093c9b9577df0897.png) 
-- [Circle](https://i.gyazo.com/4e0c346ff735a607640b2eb05ea66a2e.png)
-- [NN](https://i.gyazo.com/d77eb84ed1c719dd1db86d57c4dd3dd6.png)
+- [Default Mode](https://i.gyazo.com/4b9f8c01529571a662ab45614bda4e51.png) 
+- [Circle](https://i.gyazo.com/b9b5c305ace6e033b031082266fbe647.png)
+- [Magician](https://i.gyazo.com/f6011884f32c351573c95d30d24dae79.png)
+- [Shooter](https://i.gyazo.com/cfe8620efd6b814fba86954c7b2e016f.png) (harder to screenshot, basically you punch air and the particles shoot out)
+- [Pulse](https://i.gyazo.com/a4ac2dfcb102cdf842e7fe6e550bf080.png)
 
-These sets of trails, plus a quick screenshot of what they look like (all using the NN mode) are as follows:
+The modes also alter slightly depending on the particle used - for example if you check the screenshot of the Green particle it looks more like a halo than a spiral which most Circle mode particles look like!
+
+These sets of trails, plus a quick screenshot of what they look like (in various modes) are as follows:
 
 ## Colorful Trails Pack
-- [Breath](https://i.gyazo.com/b6953d3ff15809dbc351ac9fa2f33bab.png)
-- [Green](https://i.gyazo.com/d147542aa58985d124b606a87dfa27d7.png)
-- [Rainbow](https://i.gyazo.com/30e6fa5bd970e8e857ea2aeec45a381e.png)
-- [Colors](https://i.gyazo.com/821df28f2acaefe6cb94b2a60a631067.png)
-- [Spell](https://i.gyazo.com/0333b69edfb525cb1248e626d416cdfd.png)
-- [Spell 2](https://i.gyazo.com/ff22a7e98f389b46c3038af62bfa52e8.png)
+- [Breath](https://i.gyazo.com/b6953d3ff15809dbc351ac9fa2f33bab.png) (Old screenshot with an old mode as it is broken in updated plugin - waiting on fix)
+- [Green](https://i.gyazo.com/3fd3c78a285c1f29ef5abc3d97ac8d4c.png)
+- [Fun](https://i.gyazo.com/262191af28054b381f951efa8c8414d8.png)
+- [Spell](https://i.gyazo.com/3e18df5a5070b68fb206071b1f6d8b72.png) (One of the hardest to screenshot.... it looks alright ingamee)
+- [Note](https://i.gyazo.com/6fefeeb7ee3653d73ab99a152d18b93e.png)
 ## Burnt Trails Pack
-- [Void](https://i.gyazo.com/09ca0b806a373c123bc8311e23dd7e5d.png)
-- [Pop](https://i.gyazo.com/bf1675a9acc7443ccbb21aa23737db3f.png)
-- [Smoke](https://i.gyazo.com/02df80e860925375840dacbe59a6eae5.png)
-- [Lava](https://i.gyazo.com/8101890aa8378dd55047cf15fae22982.png)
-- [Flame](https://i.gyazo.com/d77eb84ed1c719dd1db86d57c4dd3dd6.png)
+- [Void](https://i.gyazo.com/9bc613a8e3192d459d458d3e71f5330c.png)
+- [Lava Pop](https://i.gyazo.com/74bd3044a9b126b6284fc61a6d6326f6.png) (Easily the most insane trail)
+- [Smoke](https://i.gyazo.com/b87e2b8726011c555e6069f184ecaa07.png)
+- [Lava](https://i.gyazo.com/03639f8b70c26d1f978f578d45b4e06c.png)
+- [Flame](https://i.gyazo.com/8b69ad07d6664978796d4406cc67d2ad.png)
 ## Magic Trails Pack
-- [Totem](https://i.gyazo.com/e4365d692e902d56b21205056785985b.png)
-- [Ender](https://i.gyazo.com/164cff1159410f3cd8d02c496a4b57ae.png)
-- [Enchant](https://i.gyazo.com/aa59a2a0eadb47f983cfe406b881b282.png)
-- [Magic](https://i.gyazo.com/a532c52e81584d21399a606386c3c8dc.png)
-- [White Magic](https://i.gyazo.com/9d8ce561a49f5f6b58a2a423b68c0358.png)
-- [Witch Magic](https://i.gyazo.com/9c898f799d38e54ef41263798b175232.png)
+- [Totem](https://i.gyazo.com/664f9e2eff6dd69b57cbb28d37625841.png)
+- [Ender](https://i.gyazo.com/9378611bf466fbf73a4e0dd3e05519f9.png)
+- [Enchant](https://i.gyazo.com/01ea705bb5f69d96c238ff3305fe4244.png) (Another that is hard to screenshot!)
+- [Magic](https://i.gyazo.com/ab4bea6cb21d7966125aeba99ad6fa59.png)
+- [White Magic](https://i.gyazo.com/9651e7c7cfa370adf962bc47b4ae4873.png)
+- [Witch Magic](https://i.gyazo.com/36ee20329fda2eae773f3e228db25e18.png)
 ## Misc Package 1
-- [Slime](https://i.gyazo.com/c53fef7e47c46eeec9fa43b55cb04490.png)
-- [Angry](https://i.gyazo.com/4bc8e28381daeb49e3c0b3a7ec7ef776.png)
-- [Heart](https://i.gyazo.com/1d8a75be3445f1784fcc8173733c7068.png)
-- [Damage](https://i.gyazo.com/4d4a51327343a69f1a440d7db180df55.png)
-- [Crit](https://i.gyazo.com/4d4a51327343a69f1a440d7db180df55.png)
-- [Music](https://i.gyazo.com/de52743f2e465967d5dcd2028b21e7a6.png)
-- [Spark](https://i.gyazo.com/6ca62c1d1ea8457e4ced622cacd9a212.png)
-- [EndRod](https://i.gyazo.com/6eab4487965710fce0b4e4f2162637c7.png)
+- [Slime](https://i.gyazo.com/94c452cae83df778152a1f625c35035d.png)
+- [Angry](https://i.gyazo.com/dde737cba95c9a1c8b09b95471b15c40.png)
+- [Heart](https://i.gyazo.com/8fd7d331650b36a56e2c6a0a1e584228.png)
+- [Damage](https://i.gyazo.com/57967dc9409d69cf7409d32729eb5086.png)
+- [Crit](https://i.gyazo.com/5770a82511699d75288753beba7da32b.png)
+- [Spark](https://i.gyazo.com/29b359d5c9c2fde1905b05d34c4c61cd.png)
+- [EndRod](https://i.gyazo.com/c19041714eeb81b60f3ed518326106d3.png)
 ## Misc Package 2
-- [Sand](https://i.gyazo.com/198868e6f484e41a2df6a333030d1998.png)
-- [Splash](https://i.gyazo.com/6fa8a880eb4538b1457f6ff9d0f5961e.png)
-- [Snowball](https://i.gyazo.com/f4b96d20a3f73e4d28b9c7a9ae2f0596.png)
-- [Water](https://i.gyazo.com/60159630f15fa87a45809006e794a2b8.png)
-- [Snow](https://i.gyazo.com/53a950650c9165f818976a314a7f259f.png)
-- [Cloud](https://i.gyazo.com/8effdfc2ffca99833eaf1981153539df.png)
+- [Splash](https://i.gyazo.com/c369e4c4debd448bae3457fb655f48f3.png)
+- [Snowball](https://i.gyazo.com/bb8dba162ec5b54886fcc023df06075f.png)
+- [Water](https://i.gyazo.com/41d28b5c1b5fdc4259b5b7dd24b66db4.png)
+- [Snow](https://i.gyazo.com/f79665d01b3fbb034b6a31320154ecf9.png)
+- [Cloud](https://i.gyazo.com/4425d1d6a8bf02c44e18f0301442d7a5.png)
 
 You can also purchase any of above trails individually - just let BurntValentine know which one you want!
 
