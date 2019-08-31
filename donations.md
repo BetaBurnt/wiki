@@ -146,7 +146,7 @@ There are also a few donation options that do not fit into the above categories.
 If you purchase this you can have a sound play to everyone on the server when you say a specific trigger in the ingame chat!
 As an example when BurntValentine says "Moo!" in the chat, you will hear a cow moo at you!
 
-If other peoples chat sounds are getting annoying you can also toggle them off so you don't hear them with either `/tcs` to turn on/off all chat sounds, or `/tcs <player>` to just toggle that one players sounds off!
+If other peoples chat sounds are getting annoying you can also toggle them off so you don't hear them with either `/chatsounds` to turn on/off all chat sounds, or `/chatsounds <player>` to just toggle that one players sounds off!
 
 ## Log In/Out Sounds
 
@@ -154,7 +154,7 @@ If you purchase this you can have a sound play to everyone on the server when yo
 
 You can toggle your own log in/out sound off with `/tlsound` to turn it on/off completely, or `/tlsound <quit/join>` to just turn it off for when you log in or out specifically.
 
-If other peoples log in/out sounds are getting annoying, as with the chat sounds, you can toggle them off so you don't hear them with either `/lsounds` to turn on/off all log in/out sounds, or `/lsounds <player>` to just toggle that one players sounds off!
+If other peoples log in/out sounds are getting annoying, as with the chat sounds, you can toggle them off so you don't hear them with either `/logsounds` to turn on/off all log in/out sounds, or `/logsounds <player>` to just toggle that one players sounds off!
 
 ## Log In/Out Messages
 
