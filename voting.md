@@ -2,7 +2,7 @@
 
 # Voting
 
-You can vote once per link every 24 hours (some may allow for more frequent voting). Every vote you put through rewards you with 1 token for use in the `/tokenshop` which can be traded for a variety of things!
+You can vote once per link every 24 hours (once every 12 hours for ServerPact). Every vote you put through rewards you with 1 token for use in the `/tokenshop` which can be traded for a variety of things!
 
 Note that you do not need to be online to vote - all votes will be queued for when you net log in!
 
@@ -14,8 +14,6 @@ Note that you do not need to be online to vote - all votes will be queued for wh
 - [Minelist.net](https://minelist.net/vote/2573)
 - [Minecraft-Server-List.com](https://minecraft-server-list.com/server/443183/vote/)
 - [PlanetMinecraft](https://www.planetminecraft.com/server/legioncraft-3163956/vote/)
-
-Please note that while most of these are 24 hourly vote sites some may allow 12 hourly, and of the 24 hourly sites some run by 24 hours from your last vote and some run by calendar day. I can't change anything to do with this, it's entirely up to the vote sites setup, and they don't tell me which do what my end so I'm not sure which are which.
 
 # Monthly Top Voter
 
