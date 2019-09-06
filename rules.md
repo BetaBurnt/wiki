@@ -97,10 +97,10 @@ Dumping your junk in someone elses chests that you do not have permission to use
 
 ## Rule 5: Super farming is not allowed
 
-This is a very grey area, but generally having large resource gathering mechanisms are allowed, so long as they don't cause any problems with the server economy, allow you to gain rapid amounts of XP, mcMMO XP, jobs money/xp, or cause lag of any kind.
+This is a very grey area, but generally having large resource gathering mechanisms is allowed, so long as they don't cause any problems with the server economy, allow you to gain particularly rapid amounts of XP, mcMMO XP, jobs money/xp, or cause lag of any kind.
 
 For example Endermen farms in the end are **not allowed**. Natural mob farms in Survival such as guardian farms or nether portal farms are also **not allowed** as they allow for quick job money/XP and rare loot gains.
-**However** - Natural dark rooms for mob spawning is allowed, as they generally don't get too excessive no matter how big they're made, and making a mob farm with mob spawners is allowed too (though still follows the general server rules of no AFK farming or making excessive FPS drops for players in the area).
+**However** - Natural dark rooms for mob spawning are allowed, as they generally don't get too excessive no matter how big they're made, and making a mob farm with mob spawners is allowed too (though still follows the general server rules of no AFK farming or making excessive FPS drops for players in the area).
 
 Tree farms are also limited. It is not permitted to have a large area of trees (especially giant trees such as the 2x2 Spruce/Jungle trees) for use with the tree feller ability due to the extreme server TPS drops the ability causes when the server is trying to process a lot of block changes/item drops at once. Anybody caught spamming tree feller at a tree farm will be told to remove the farm and given a warning, further use after being given a warning will result in a ban/tempban. Tree farms for manually cutting the trees down - not using tree feller - are fine.
 
