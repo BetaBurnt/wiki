@@ -52,7 +52,7 @@ The rewards you can get each day are as follows (you can do the 5x the money you
 |25|$70000||
 |26|$80000|30% chance of getting a bonus title (Golden)|
 |27|$90000||
-|28|$100000|10 Return Tickets, 2 Totems of Undying|
+|28|$100000|10 Return Tickets, 3x Enchanted Apples and 2 Totems of Undying|
 
 Note that each reward must be claimed before the next unlocks - For example if your day 3 reward is not claimed before day 4 is unlocked you will not be able to claim day 3 until your next reset! Any chance rewards - so the titles and armour pieces - will not be announced in the chat when you do get them so make sure to check!
 
