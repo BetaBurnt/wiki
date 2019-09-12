@@ -31,7 +31,7 @@ The rewards you can get each day are as follows (you can do the 5x the money you
 |4|$7500|30% chance of getting a Lucky Hat (Unique Diamond Helm)|
 |5|$9000||
 |6|$11000||
-|7|$13000|3 Enchanted Golden Apples|
+|7|$13000|3 Golden Apples|
 |8|$15000||
 |9|$17500||
 |10|$20000|30% chance of getting Lucky Boots (Unique Diamond Boots)|
@@ -45,7 +45,7 @@ The rewards you can get each day are as follows (you can do the 5x the money you
 |18|$40000|30% chance of getting Lucky Leggings (Custom Diamond Leggings)|
 |19|$40000||
 |20|$45000||
-|21|$45000|6 Enchanted Golden Apples|
+|21|$45000|6 Golden Apples|
 |22|$50000||
 |23|$50000||
 |24|$60000|30% chance of getting a Lucky Chestplate (Custom Diamond Chestplate)|
