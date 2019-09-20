@@ -70,5 +70,17 @@ To craft simply follow this guide but replace the stained glass panes for the co
 ![lantern recipe](https://i.gyazo.com/3e9ce9638c8d40e2b2a9fa8552c21755.png)
 
 
+### Clocks
+
+![clock list](https://i.gyazo.com/07273837c127c9d5a03b2fb56b4de1a6.png)
+
+These will allow you to check both the servers current time, and the time of the next world resets! Right click to check server time, and sneak right click to check the time worlds will reset and whether the End is open or closed! 
+Please note that due to limits in Skript at the moment (may be able to find a work around at a later date but it's very low priority) the reset dates are set by me manually so they won't change instantly when the worlds reset! I will try and keep them up to date however (along with the channel on Discord).
+
+![clock recipe](http://minecraftrecipedesigner.com/creations/235903.png)
+
+Add the dye you wish to use in the bottom middle slot to change the colour of the clock - with no dye it will be white!
+
 
 **Note::** You can get the chimneys, tealights and lanterns while in creative with `/deco`!
+Clocks and Recycle Bins currently cannot be gotten in Creative, as they're more for the utility than the effects.
