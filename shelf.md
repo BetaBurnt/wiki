@@ -40,4 +40,7 @@ To go from Obsidian > Emerald or from Emerald > Diamond, replace the chest in th
 When you have your upgrade papers, hold it and sneak right click on the chest to upgrade it!
 Please note that when you upgrade the chest it will automatically have increased storage (any items it had will still be there), but it will not look any different (due to Skript limitations). When you break the chest however it will return the upgraded item to you (ie if you place a wood chest and upgrade it all the way to diamond, and then break it - you'll be given a diamond chest not a wood chest).
 
+If you need to for any reason you can see who owns a microchest with:
+- `/mchest check`
+
 When you break a microchest it will add the chest item and any items that were stored in it into your inventory directly - if you do not have enough space in your inventory any excess will drop where you are standing (not where the chest is, just in case).
