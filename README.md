@@ -30,7 +30,7 @@
 - [Elevators](elevators.md)
 - [Mythic Drops](mythic.md)
 - [Titles](titles.md)
-- [BookShelves](shelf.md)
+- [Custom Storage](storage.md)
 - [Bonus Bill](bonusbill.md)
 
 ### Editing the Wiki
