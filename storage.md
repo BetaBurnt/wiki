@@ -26,6 +26,7 @@ You can also create MicroChests! These will allow for up to 6 rows (54 slots) of
 When placed and right clicked (when not sneaking) this will grant you a 9 slot/1 row chest that only you and staff will have access to - you can also give/remove access to any chests you own via:
 - `/mchest grant <player>`
 - `/mchest revoke <player>`
+
 Players with access cannot break your microchest - they can only add items to and remove items from the storage!
 
 While you have chest placed you can also upgrade it to increase it's space! The order of upgrades goes Wood > Iron > Gold > Obsidian > Emerald > Diamond - each upgrade adds a row/9 slots of extra storage, with Diamond allowing for the same storage a double chest would grant, but in one space!
