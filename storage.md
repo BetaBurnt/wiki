@@ -29,8 +29,8 @@ When placed and right clicked (when not sneaking) this will grant you a 9 slot/1
 
 Players with access cannot break your microchest - they can only add items to and remove items from the storage!
 
-While you have chest placed you can also upgrade it to increase it's space! The order of upgrades goes Wood > Iron > Gold > Obsidian > Emerald > Diamond - each upgrade adds a row/9 slots of extra storage, with Diamond allowing for the same storage a double chest would grant, but in one space!
-To upgrade the chest you will need to craft an upgrade paper! To do so follow this format, with the bottom 3 items being the chests current material and the 5 items around the outside being the new material:
+While you have a microchest placed you can also upgrade it to increase its space! The order of upgrades goes Wood > Iron > Gold > Obsidian > Emerald > Diamond - each upgrade adds a row/9 slots of extra storage, with Diamond allowing for the same storage a double chest would grant, but in one space!
+To upgrade the microchest you will need to craft an upgrade paper! To do so follow this format with the bottom 3 items being the chests current material and the 5 items around the outside being the new material:
 
 ![w2i](http://minecraftrecipedesigner.com/creations/235942.png)
 
@@ -38,8 +38,8 @@ To go from Obsidian > Emerald or from Emerald > Diamond, replace the chest in th
 
 ![o2e](http://minecraftrecipedesigner.com/creations/235940.png)
 
-When you have your upgrade papers, hold it and sneak right click on the chest to upgrade it!
-Please note that when you upgrade the chest it will automatically have increased storage (any items it had will still be there), but it will not look any different (due to Skript limitations). When you break the chest however it will return the upgraded item to you (ie if you place a wood chest and upgrade it all the way to diamond, and then break it - you'll be given a diamond chest not a wood chest).
+When you have your upgrade papers, hold it and sneak right click on the microchest to upgrade it!
+Please note that when you upgrade the microchest it will automatically have increased storage (any items it had will still be there), but it will not look any different (due to Skript limitations). When you break the microchest however it will return the upgraded item to you (ie if you place a wood microchest and upgrade it all the way to diamond, and then break it - you'll be given a diamond microchest not a wood microchest).
 
 If you need to for any reason you can see who owns a microchest with:
 - `/mchest check`
