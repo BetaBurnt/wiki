@@ -92,8 +92,9 @@ Any block of wool will return 3 string!
 
 # A few others
 
-- You can craft a Quartz Block (only plain qaurtz blocks) back into 3 quartz.
+- You can craft a Quartz Block (only plain quartz blocks) back into 3 quartz.
 - Prismarine can be smelted into Prismarine Bricks (along with their normal crafting recipe).
 - Dark Prismarine can be crafted from 4 Prismarine Bricks (along with their normal crafting recipe).
 - Ink Sacs can be crafted with a clay ball and either a piece of coal or charcoal (due to the less frequent spawning of Squid now there are other sea critters).
 - Smooth Stone from smelting Stone has been added (as it is only actually a thing in 1.14+ normally).
+- Smooth Quartz from smelting plain Quartz Blocks has been added (again, normally a 1.14+ thing - note that smooth quartz looks like normal quartz in 1.13.2 without texture packs).
