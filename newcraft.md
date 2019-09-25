@@ -84,3 +84,14 @@ Add the dye you wish to use in the bottom middle slot to change the colour of th
 
 **Note::** You can get the chimneys, tealights and lanterns while in creative with `/deco`!
 Clocks and Recycle Bins currently cannot be gotten in Creative, as they're more for the utility than the effects.
+
+
+### Sound Muffler
+
+Farm animals annoying you? Sound of your nether portal driving you up the wall? Place a sound muffler by them! It'll muffle most sounds in a 16 block radius of where it is placed!
+
+To craft it simply surround a noteblock with white wool:
+
+![muffler](http://minecraftrecipedesigner.com/creations/236001.png)
+
+Note that the placed block is actually an armour stand - you can move through it. It is annoyingly not placed centrally though, and if you place it under the ceiling the physically visible part of the armour stand will be inside the block above.
