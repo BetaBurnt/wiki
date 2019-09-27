@@ -106,6 +106,7 @@ As a generalistaion of what mob farms **are allowed**:
 As a generalisation of what mob farms **are not allowed**:
 - Endermen farms in the end.
 - Natural super mob farms such as guardian farms or nether portal farms.
+
 These are mostly due to them being way too efficient at gaining jobs xp/money, mcmmo xp and MD loot - if you can spend an hour at them and gain more than a player without access to the farm can get in even a week, it's not acceptable or fair (this does not mean giving public access makes it fair - nobody should be able to gain that much that quick).
 
 **As with all server rules - just because it is not explicitly stated here does not mean it is/isn't okay. Use some common sense when comparing to the rules that are listed and/or ask the staff to be sure!**
