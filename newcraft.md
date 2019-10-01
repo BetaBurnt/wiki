@@ -21,6 +21,16 @@ To craft simply follow this guide but for the colour you wish to use (replace th
 ![bin recipe 1](http://minecraftrecipedesigner.com/creations/235065.png)
 ![bin recipe 2](http://minecraftrecipedesigner.com/creations/235066.png)
 
+## Backpacks
+
+![bplist](https://i.gyazo.com/b0d5a7cb3f21608e98f8d277cd8a1f0e.png)
+
+If you place a backpack block on the floor it will trigger `/backpack` on right clicking (in any world except for Creative)! You can also sneak and right click with one in your hand (in any world except for Creative) to open the backpack quicker as well!
+
+To craft simply follow this guide for a Brown Backpack, or add the relevant dye in the bottom slot to change the colour:
+
+![bp recipe](http://minecraftrecipedesigner.com/creations/236118.png)
+
 
 ## Chimney Blocks
 
