@@ -1,5 +1,5 @@
 
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 # Donation Perks and their Commands
 
@@ -31,7 +31,7 @@ Here you can purchase either all chat colours or individual colours you wish to 
 
 The `/ccmenu` with all colours purchased would look like this (ignore the bottom 3 colours as these are staff only, they are not purchaseable):
 
-![ccmennu](https://i.gyazo.com/4dd16c64ef5c881425853676dff95780.png)
+![ccmennu](images/ccmenu.png)
 
 # Chat Titles
 
