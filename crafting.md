@@ -1,4 +1,4 @@
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 ## New Items
 You can find recipes for new items we have added to the server over on **[this page](newcraft.md)** (so as not to make this page excessively large).
