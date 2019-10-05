@@ -8,26 +8,26 @@ You can find recipes for new items we have added to the server over on **[this p
 
 ### Cobweb
 
-![Web](http://minecraftrecipedesigner.com/creations/234234.png)
+![Web](images/cobweb.png)
 
 ### Saddle
 
-![Saddle](http://minecraftrecipedesigner.com/creations/203992.png)
+![Saddle](images/saddle.png)
 
 ### Horse Armor
 
-![Iron Horse Armor](http://minecraftrecipedesigner.com/creations/234235.png)
-![Gold Horse Armor](http://minecraftrecipedesigner.com/creations/234236.png)
-![Diamond Horse Armor](http://minecraftrecipedesigner.com/creations/234237.png)
+![Iron Horse Armor](images/iharmour.png)
+![Gold Horse Armor](images/gharmour.png)
+![Diamond Horse Armor](images/dharmour.png)
 
 ### Leather
 
-![Leather](http://minecraftrecipedesigner.com/creations/203999.png)
+![Leather](images/leather.png)
 
 ### Ore Blocks
 
-![Overworld Ore](http://minecraftrecipedesigner.com/creations/204000.png)
-![Quartz Ore](http://minecraftrecipedesigner.com/creations/204001.png)
+![Overworld Ore](images/iore.png)
+![Quartz Ore](images/nqore.png)
 
 The same can be done for all ore blocks, simply replace the Iron Ingots with either:
 - Coal (Works with both Coal and Charcoal)
@@ -39,59 +39,51 @@ The same can be done for all ore blocks, simply replace the Iron Ingots with eit
 
 ### Chainmail Armor
 
-![Chain Helmet](http://minecraftrecipedesigner.com/creations/204002.png)
-![Chain Chestplate](http://minecraftrecipedesigner.com/creations/204026.png)
-![Chain Leggings](http://minecraftrecipedesigner.com/creations/204004.png)
-![Chain Boots](http://minecraftrecipedesigner.com/creations/204005.png)
+![Chain Helmet](images/chainhelmet.png)
+![Chain Chestplate](images/chainchest.png)
+![Chain Leggings](images/chainlegs.png)
+![Chain Boots](images/chainboots.png)
 
 ### Slime Ball
 
-![Slime Ball](http://minecraftrecipedesigner.com/creations/204007.png)
+![Slime Ball](images/slimeball.png)
 
 ### Name Tag
 
-![Name Tag](http://minecraftrecipedesigner.com/creations/204008.png)
-
-### Netherwart Block
-
-Putting a Netherwart Block back into the crafting menu will return the 9 Nether Wart that made it!
+![Name Tag](images/nametag.png)
 
 ### Grass
 
-![Grass](http://minecraftrecipedesigner.com/creations/204010.png)
+![Grass](images/grass.png)
 
 You can use any of the four seed types for this!
 
 ### Mycelium
 
-![Mycelium](http://minecraftrecipedesigner.com/creations/204011.png)
+![Mycelium](images/mycelium.png)
 
 ### Podzol
 
-![Podzol](http://minecraftrecipedesigner.com/creations/204012.png)
+![Podzol](images/podzol.png)
 
 ### Planks
 
-![Planks](http://minecraftrecipedesigner.com/creations/204013.png)
+![Planks](images/planks.png)
 
 You can use any 6 of the same sapling to get their respective block of planks!
 
 ### Leaves
 
-![Leaves](http://minecraftrecipedesigner.com/creations/204014.png)
+![Leaves](images/leaves.png)
 
 You can use any 3 of the same sapling to get 2 of their respective block of leaves!
-
-### String
-
-![String](http://minecraftrecipedesigner.com/creations/204015.png)
-
-Any block of wool will return 3 string!
 
 
 
 # A few others
 
+- You can craft any block of wool back into 3 string!
+- You can craft any netherwart block back into 9 netherwart!
 - You can craft a Quartz Block (only plain quartz blocks) back into 3 quartz.
 - Prismarine can be smelted into Prismarine Bricks (along with their normal crafting recipe).
 - Dark Prismarine can be crafted from 4 Prismarine Bricks (along with their normal crafting recipe).
