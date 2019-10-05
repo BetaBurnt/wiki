@@ -1,4 +1,4 @@
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 # New Items
 
@@ -6,43 +6,43 @@
 
 Catch mobs with a safari net
 
-![Single Use Safari Net](http://minecraftrecipedesigner.com/creations/234232.png)
-![Reusable Safari Net](http://minecraftrecipedesigner.com/creations/234233.png)
+![Single Use Safari Net](images/singlenet.png)
+![Reusable Safari Net](images/reusablenet.png)
 
 
 ## Recycle Bins
 
-![bin list](https://i.gyazo.com/4b560879b91f3e653c46d1d6626ddcb0.png)
+![bin list](images/bin.png)
 
 Note that these are mostly decorative and easier ways of using `/bin` as you just need to click the block, not type a command!
 
 To craft simply follow this guide but for the colour you wish to use (replace the dye - no dye = white):
 
-![bin recipe 1](http://minecraftrecipedesigner.com/creations/235065.png)
-![bin recipe 2](http://minecraftrecipedesigner.com/creations/235066.png)
+![bin recipe 1](images/bin1.png)
+![bin recipe 2](images/bin2.png)
 
 ## Backpacks
 
-![bplist](https://i.gyazo.com/b0d5a7cb3f21608e98f8d277cd8a1f0e.png)
+![bplist](images/backpacklist.png)
 
 If you place a backpack block on the floor it will trigger `/backpack` on right clicking (in any world except for Creative)! You can also sneak and right click with one in your hand (in any world except for Creative) to open the backpack quicker as well!
 
 To craft simply follow this guide for a Brown Backpack, or add the relevant dye in the bottom slot to change the colour:
 
-![bp recipe](http://minecraftrecipedesigner.com/creations/236118.png)
+![bp recipe](images/backpack.png)
 
 
 ## Chimney Blocks
 
-![chimney list](https://i.gyazo.com/07ff03c8cc8bab741eacdb023f1a2bd5.png)
+![chimney list](images/chimneylist.png)
 
-![chimney examples](https://i.gyazo.com/23e7c2ec050beb5111d547b8d1a3a2f7.png)
+![chimney examples](images/chimneyexample.png)
 
 Note that there are 3 effects for chimneys - Nether based chimneys get the flame under the smoke, the End Brick Chimney gets a purple spiral around the smoke. All others are just smoke.
 
 To craft simply follow this guide but for the material you wish to use (replace the cobble):
 
-![chimney recipe](http://minecraftrecipedesigner.com/creations/234994.png)
+![chimney recipe](images/chimney.png)
 
 Materials you can use:
 - Cobblestone/Stone/Stone Bricks
@@ -61,33 +61,33 @@ Materials you can use:
 
 ### TeaLights
 
-![candle list](https://i.gyazo.com/5d977746cb1bdcf0afa92922d1bce9b9.png)
+![candle list](images/tealightlist.png)
 
-![candle examples](https://i.gyazo.com/d40868baa6136104da2a946c28d75ea6.png)
+![candle examples](images/tealightexample.png)
 
 To craft simply follow this guide but replace the stained glass panes for the colour of tealight holder you wish to use! (and yes - they give off a little light. Mood lighting!)
 
-![candle recipe](http://minecraftrecipedesigner.com/creations/235046.png)
+![candle recipe](images/tealight.png)
 
 ### Lanterns
 
-![lantern list](https://i.gyazo.com/1427eeba8fd91a23585afcaa535a1f4a.png)
+![lantern list](images/lanternlist.png)
 
-![lantern examples](https://i.gyazo.com/21b7b037f1701075d0be566cd62c7edc.png)
+![lantern examples](images/lanternexample.png)
 
 To craft simply follow this guide but replace the stained glass panes for the colour of lantern holder you wish to use! Note that there is no black lantern but all other colours work! (As with tealight - they give off light. But way more!)
 
-![lantern recipe](https://i.gyazo.com/3e9ce9638c8d40e2b2a9fa8552c21755.png)
+![lantern recipe](images/lantern.png)
 
 
 ### Clocks
 
-![clock list](https://i.gyazo.com/07273837c127c9d5a03b2fb56b4de1a6.png)
+![clock list](images/clocklist.png)
 
 These will allow you to check both the servers current time, and the time of the next world resets! Right click to check server time, and sneak right click to check the time worlds will reset and whether the End is open or closed! 
 Please note that due to limits in Skript at the moment (may be able to find a work around at a later date but it's very low priority) the reset dates are set by me manually so they won't change instantly when the worlds reset! I will try and keep them up to date however (along with the channel on Discord).
 
-![clock recipe](http://minecraftrecipedesigner.com/creations/235903.png)
+![clock recipe](images/clock.png)
 
 Add the dye you wish to use in the bottom middle slot to change the colour of the clock - with no dye it will be white!
 
@@ -102,6 +102,6 @@ Farm animals annoying you? Sound of your nether portal driving you up the wall? 
 
 To craft it simply surround a noteblock with white wool:
 
-![muffler](http://minecraftrecipedesigner.com/creations/236001.png)
+![muffler](images/muffler.png)
 
 Note that the placed block is actually an armour stand - you can move through it. It is annoyingly not placed centrally though, and if you place it under the ceiling the physically visible part of the armour stand will be inside the block above.
