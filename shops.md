@@ -14,7 +14,7 @@ If you punch a shop sign and do not want to purchase from/sell to that shop simp
 
 ## Admin/Pawn Shop
 
-![admin](images/ashop.png)
+![admin](images/ashop.jpg)
 
 There is a shop at spawn (on the island to the right when you go to `/spawn`, or do `/pawn`) where you can sell some basic items for a low amount when necessary - this is not intended to be a main source of income, use [Jobs](money.md) for that!
 
