@@ -1,10 +1,10 @@
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 # MythicDrops
 
 MythicDrops is the plugin used to handle weapon/tool/armour drops from mob kills that gives a bit of variety to what you can find. For example you'll commonly come across items with no to one or two low level enchants in the Junk and Uncommon tier, for example:
 
-![junk](https://i.gyazo.com/a406132ba4da69c32306651df36c21e6.png)
+![junk](images/junk.png)
 
 The item tiers in general go:
 - Junk
@@ -19,11 +19,11 @@ Artisan and Exotic are slightly more common to find than their equivalent normal
 
 For example, you may find an Artisan item such as this:
 
-![artisan](https://i.gyazo.com/09149744131552e35b73f7a9ecb812cb.png)
+![artisan](images/artisan.png)
 
 And then the Legendary rank - obviously the rarest and best you can find via mob drops. As an example you may find this:
 
-![legendary](https://i.gyazo.com/b9a19bb6b8e8f1bf86ad33a34cb2406b.png)
+![legendary](images/legendary.png)
 
 
 Each tier has different potential item drops and drops from different mobs - which mobs drop what tier and what tier contains what items you'll have to find out for yourself! As a general example however without ruining everything - you won't get diamond items in the Junk tier, and rarer enemies will only drop rarer tiers (ie if you summon a Wither it will only drop Exotic, Epic or Legendary level items)
@@ -37,7 +37,7 @@ There are a number of spirit essences available, ranging from adding an effect w
 
 When they drop they will look something like this:
 
-![essence](https://i.gyazo.com/01d8e63167ed0309a1470ec3007d6515.png)
+![essence](images/essence.png)
 
 To use them simply hold the essence and right click, and then right click the item you are applying it to! Each essence will state whether it is for armour or tools/weapons.
 
@@ -100,10 +100,10 @@ There are a number of different types of Spirit Essence that all do something di
 
 # Unidentified Items and Tomes -- **CURRENTLY DISABLED DUE TO BUGS**
 
-![unidentified](https://i.gyazo.com/7f4e5977e13dbce953073ec64e3ae41d.png)
+![unidentified](images/unidentified.png)
 
 You may also sometimes come across an item that is Unidentified! To reveal it's secrets you will need to either find an Identity Tome (also comes as a rare mob drop) or purchase an Identity Tome through the Pawn Shop (only item sold here - use `/pawn` to get there). 
 
-![tome](https://i.gyazo.com/08c74351e6992f294595e0837e52ea58.png)
+![tome](images/tome.png)
 
 Simply right click with the tome in your hand, and then right click with the unidentified item to reveal it!
