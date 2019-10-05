@@ -1,23 +1,23 @@
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 # Bonus Bill
 
-![bill1](https://i.gyazo.com/16000efcb9d6c732562ea540cf89c8a6.png)
+![bill1](images/bill1.png)
 
 Bonus Bill will be dishing out daily rewards for those who log in each day for a period of time!
 Starting from 24 hours from your initial log in, you will receive one reward from talking to him each day that you log in without missing a day! If you miss a day, or get all the way to day 28's reward, the streak will reset the following day and start again!
 
 When you right click on Bill, you will see a menu similar to this:
 
-![bill2](https://i.gyazo.com/6faefeace76837b541ac745fb5b8ed0a.png)
+![bill2](images/bill2.png)
 
 If you hover over the border blocks it will tell you a rough indication of long until your next item can be claimed (at which point you will also get a reminder in the ingame chat if you're online) and the reward that is currently green can be claimed!
 
-![bill3](https://i.gyazo.com/da98498453424e333422b2ebd4e7a503.png)
+![bill3](images/bill3.png)
 
 This also adds an extra level perk - At level 51 or above the money rewards you get from Bill will be 5x what they were up to level 50!
 
-![bill4](https://i.gyazo.com/dc4dc18d05acb58587cad9c7db4f782c.png)
+![bill4](images/bill4.png)
 
 There are also some other items scattered through the rewards - a few you will definitely get, and a few that you have a 30% chance to get on that day!
 
