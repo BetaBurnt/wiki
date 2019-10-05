@@ -1,4 +1,4 @@
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 # Voting
 
@@ -23,13 +23,13 @@ The top 3 voters will receive a $5, $2.50 and $1 coupon for use on the Donation 
 
 # Token Shop
 
-![tshopmain](https://i.gyazo.com/a04d44f342e37124e2a00233d922a820.png)
+![tshopmain](images/tshop.png)
 
 You can use the tokens you earn through voting at the above links in the Token Shop at `/tshop`. There are 4 sub-shops you can browse and purchase from:
 
 ### Armour Shop
 
-![tshoparmour](https://i.gyazo.com/f9f56b0dc6ae34fdcb1d4d231d37ebc3.png)
+![tshoparmour](images/tshoparmour.png)
 
 Here you can purchase:
 
@@ -56,7 +56,7 @@ Here you can purchase:
 
 ### Tool Shop
 
-![tshoptools](https://i.gyazo.com/4603d6344286186fa8aaf31ce6263998.png)
+![tshoptools](images/tshoptools.png)
 
 Here you can purchase:
 
@@ -90,7 +90,7 @@ Here you can purchase:
 
 ### Mob Shop
 
-![tshopmob](https://i.gyazo.com/1142fae7292bc4d60e60b0168f8a72d5.png)
+![tshopmob](images/tshopmobs.png)
 
 Here you can purchase:
 
@@ -116,7 +116,7 @@ Here you can purchase:
 
 ### Misc Shop
 
-![tshopmisc](https://i.gyazo.com/0611c4415788ce0f24900542b5eacc59.png)
+![tshopmisc](images/tshopmisc.png)
 
 Here you can purchase:
 
@@ -127,5 +127,8 @@ Here you can purchase:
 |Slime Crystal|5 Tokens|Right click with the item it gives to check if the chunk you are in is a slime chunk|
 |Colour Palette|15 Tokens|Drop the item it gives you onto an item you want to rename and you can then rename it with colours!|
 |Rainbow Essence|15 Tokens|Use the item given on a glass block to turn it into Rainbow Glass which changes colour every few seconds!  **Note:** Limit of 10 Rainbow Glass blocks per player, and breaking on (you can't break someone elses unless you're BurntValentine) has a chance to return the Essence!|
+|Baby Tag|10 Tokens|Forces a mob to stay as a baby for life! Renames at the same time as a normal nametag (if the mob is an adult when used it'll change to a baby)|
+|Return/DeathPoint Ticket|20 Tokens|Acts as either a teleport to your last death point (in DeathPoint mode - default mode when purchased), or your last teleport point (in Return mode - does not take you to death points). Shift right click with one in your hand to change the mode!|
 |Extra Towny Chunk Claim|8 Tokens|An additional chunk claim for your town - You **must** be the town mayor to do this!|
 |V.O.I.D. Access|20 Tokens|Grants you 6 hours of VOID usage from the time of purchase. You can toggle it through the `/utils` menu - when on it will remove all "junk" items while digging or mining (cobblestone, stone, andesite, diorite, granite, gravel, sand, dirt)|
+|Random Legendary MD Item|200 Tokens|Get a random MD Legendary drop!|
