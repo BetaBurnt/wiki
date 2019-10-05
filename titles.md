@@ -1,4 +1,4 @@
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 ### Chat Titles
 
@@ -110,4 +110,4 @@ A full list of the titles currently added through your player levels can be foun
 
 #### Hidden Titles
 
-Levelling up isn't the only way to unlock titles, some are secret. See if you can unlock them all!
+Levelling up isn't the only way to unlock titles, some are secret. See if you can unlock them all! (`/hiddentitles`)
