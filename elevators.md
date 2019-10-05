@@ -1,4 +1,4 @@
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 # Elevators
 
@@ -20,7 +20,7 @@ You can also add a bit of customization - An elevator will only take you to anot
 
 For example:
 
-![elevator](https://i.gyazo.com/e771b941fefd8d5db2a4cce7f73b9dee.png)
+![elevator](images/elevators.png)
 
 If I stand on the white wool elevator blocks at the bottom and jump, it will take me to the third floor, as it is the next one with white wool elevator blocks! 
 
