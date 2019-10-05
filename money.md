@@ -1,4 +1,4 @@
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 # Money and Jobs
 
