@@ -1,4 +1,4 @@
-![ribbon](L-ribbon.png) 
+![ribbon](images/L-ribbon.png) 
 
 # Utilities
 
@@ -7,7 +7,7 @@
 
 You can access the main GUI with `/menu`
 
-![menu](https://i.gyazo.com/7eb37c478a624b145376ed01e5d19dad.png)
+![menu](images/menu.png)
 
 This will give you options to: 
 - Open the Utility Menu
@@ -24,7 +24,7 @@ This will give you options to:
 
 You can get to this from either the `/menu` or by using `/util` directly, and it will give you this:
 
-![util](https://i.gyazo.com/d65a13901130fda5c6758ff9c529fd78.png)
+![util](images/umenu.png)
 
 >Note that this is if you have full access to the perks. Any you have not yet unlocked will have a different icon and will let you know what level it is unlocked at!
 
@@ -57,7 +57,7 @@ This has also meant a few other menus have had to be made too - Disguises and Bo
 
 ### Disguises Menu
 
-![disgui](https://i.gyazo.com/8055298437df671a2c85a0172b84f335.png)
+![disgui](images/dmenu.png)
 
 You can click any of the mobs you have paid for to enable the disguise, and your skull in the bottom right to remove the disguise (and a button to close the menu in the corner).
 
@@ -66,7 +66,7 @@ Note that currently this does not support alternatives to the disguises, such as
 
 ### Bow Particles Menu
 
-![bowgui](https://i.gyazo.com/a8c714c7f647197dfae2d31d59f5d46e.png)
+![bowgui](images/bpmenu.png)
 
 As above, click the particle you wish to use to select it - The skull in the bottom right toggles them on/off!
 Note that the netherstar in the top right will currently only be there for CatTurtleDog200 as this is their custom particles they won in the last build competition!
@@ -75,7 +75,7 @@ This can also be accessed with `/bowmenu`
 
 ### Chat Colours Menu
 
-![chatcol](https://i.gyazo.com/e1b2cb0e36daadca149403bc05ec9869.png)
+![chatcol](images/ccmenu.png)
 
 As above select the colour you wish to use and make sure it is toggled on (the middle item will be coloured if on, and dark if not - click to toggle) and all of your chat text will be changed to that colour!
 
