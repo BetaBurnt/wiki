@@ -100,12 +100,13 @@ Dumping your junk in someone elses chests that you do not have permission to use
 This is a very grey area, but generally having resource gathering mechanisms is allowed so long as they don't cause any problems with the server economy, allow you to gain particularly rapid amounts of XP, mcMMO XP, jobs money/xp, rare loot or cause lag of any kind.
 
 As a generalistaion of what mob farms **are allowed**:
-- Dark room mob farms are fine as long as they aren't too huge because they're not the most efficient thing in the world even with the mobs spawned in them giving jobs xp/money, mcmmo xp and MD drops.
+- Dark room mob farms are fine as long as they aren't too huge because they're not the most efficient thing in the world even with the mobs spawned in them giving jobs xp/money, mcmmo xp and MD drops. However - there are stipulations, see section below on what is not allowed.
 - Mob grinders/farms using spawners are generally fine as long as they don't have stupid amounts of spawners in the one grinder (ie 10+ is too much/efficent). This is generally fine because mobs from spawners **should not give job money/xp, mcmmo xp or MD loot**.
 
 As a generalisation of what mob farms **are not allowed**:
 - Endermen farms in the end.
 - Natural super mob farms such as guardian farms or nether portal farms.
+- Dark room spawners below Y level 20 are **not allowed** as the spawn rates towards bedrock level are considerably higher, which makes the dark room way too efficient even without being too huge. This may also apply to above a certain Y level, but that's a bit more vague - in general if your dark room spawner is able to spawn a stupid amount of mobs very quickly - **it is not allowed**.
 
 These are mostly due to them being way too efficient at gaining jobs xp/money, mcmmo xp and MD loot - if you can spend an hour at them and gain more than a player without access to the farm can get in even a week, it's not acceptable or fair (this does not mean giving public access makes it fair - nobody should be able to gain that much that quick).
 
