@@ -152,9 +152,11 @@ You can double check the cost to rank up, and perks/titles gained at any level w
 
 ##### V.O.I.D.
 
-`/togglevoid` to toggle this on/off (You can do this through the `/util` menu too).
+`/void` will bring up a menu where you can toggle the feature on/off (wuth the top icon) and enable/disable which of the 9 items it can destroy you want it to:
 
->When enabled this will mean that as you mine and dig any dirt, gravel, cobble, andesite, granite, diorite and sand that enters your inventory will be automatically removed/destroyed - allowing you to farm your Mining/Excavation/Jobs for longer without having to empty your inventory! (Note that alternatives do not get removed - such as coarse dirt and red sand).
+![voidmenu](images/voidmenu.png)
+
+For example in the above image VOID is enabled, and will delete any Dirt, Cobblestone, Andesite, Diorite, Granite, Gravel and Netherrack I pick up - but will let me collect Stone and Sand.
 
 ##### Chat Titles
 
