@@ -152,7 +152,7 @@ You can double check the cost to rank up, and perks/titles gained at any level w
 
 ##### V.O.I.D.
 
-`/void` will bring up a menu where you can toggle the feature on/off (wuth the top icon) and enable/disable which of the 9 items it can destroy you want it to:
+`/void` will bring up a menu where you can toggle the feature on/off (with the top icon) and enable/disable which of the 9 items it can destroy you want it to:
 
 ![voidmenu](images/voidmenu.png)
 
