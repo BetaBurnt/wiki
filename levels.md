@@ -156,7 +156,7 @@ You can double check the cost to rank up, and perks/titles gained at any level w
 
 ![voidmenu](images/voidmenu.png)
 
-For example in the above image VOID is enabled, and will delete any Dirt, Cobblestone, Andesite, Diorite, Granite, Gravel and Netherrack I pick up - but will let me collect Stone and Sand.
+For example in the above image VOID is enabled, and will delete any Dirt, Cobblestone, Andesite, Diorite, Granite, Red Sand, Sandstone, Gravel and Netherrack I pick up - but will let me collect Stone and Sand.
 
 ##### Chat Titles
 
