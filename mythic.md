@@ -39,71 +39,83 @@ When they drop they will look something like this:
 
 ![essence](images/essence.png)
 
-To use them simply hold the essence and right click, and then right click the item you are applying it to! Each essence will state whether it is for armour or tools/weapons.
+To use them simply pick the item up in your inventory and right click on the item you wish to add it to! The essence will give an indication of what it can be added to in it's lore, in the `Type(s)` line:
+
+![essencelore](images/essencelore.png)
+
+To clarify it'll say either Armor, Weapon, Melee, a mix of the three or something specific.
+- If it says Armor it can be applied to any Helmet, Chestplate, Leggings or Boots.
+- It it says Weapon it can be applied to any Sword, Axe, Bow or Trident.
+- If it says Melee it can be applied to any Pickaxe, Shovel, Hoe, Fishing Rod or Shears.
+If it says something specific it is only for that type of item - for example if it says Boots it can only be used on boots, nothing else.
 
 
 # Spirit Essence Types
 
 There are a number of different types of Spirit Essence that all do something different! You can use this list as a rough guide. Obviously for those that add enchantments - use them on items the enchants work on (ie don't use a Fletching essence on a shovel...).
 
-**Armour Essence**
-
-|Essence Name|What It Does|
-|---|---|
-|Panic I-IV|When hit with armour that has this you get a brief speed boost|
-|Harden I-IV|When hit with armour that has this you get a brief boost to damage resistance|
-|Frost I-IV|When hit with armour that has this your attacker is slowed for a brief period|
-|Needles I-IV|When hit with armour that has this your attacker is poisoned for a brief period|
-|Spikes I-IV|When hit with armour that has this your attacker will suffer from wither for a brief period|
-|Vampire|When hit with armour that has this your attacker will suffer damage as well|
-|Smokescreen|When hit with armour that has this you will blind both your attacker and others nearby for a brief period|
-|Shadow|When hit with armour that has this you will go invisible for a brief period|
-|Shield I-II|Adds 1 or 2 levels of Protection to the armour it is applied to|
-|Obsidian I-II|Adds 1 or 2 levels of Blast Protection to the armour it is applied to|
-|Asbestos I-II|Adds 1 or 2 levels of Fire Protection to the armour it is applied to|
-|Shell I-II|Adds 1 or 2 levels of Projectile Protection to the armour it is applied to|
-|Float I-II|Adds 1 or 2 levels of Feather Falling to the armour it is applied to|
-|Water Walker|Adds 1 level of Depth Strider to the armour it is applied to|
-|Ice Walker|Adds 1 level of Frost Walker to the armour it is applied to|
-|Gillyweed|Adds 1 level of Respiration to the armour it is applied to|
-
-**Tool Essence**
-
-|Essence Name|What It Does|
-|---|---|
-|Chill I-IV|When you hit someone/thing with a tool/weapon that has this your target is slowed for a brief period|
-|Counter I-IV|When you hit someone/thing with a tool/weapon that has this you gain absorption for a brief period|
-|Weaken I-IV|When you hit someone/thing with a tool/weapon that has this your target is weakened for a brief period|
-|Confusion I-IV|When you hit someone/thing with a tool/weapon that has this your target is confused for a brief period|
-|Darkness I-IV|When you hit someone/thing with a tool/weapon that has this your target is blinded for a brief period|
-|Poison I-IV|When you hit someone/thing with a tool/weapon that has this your target is poisoned for a brief period|
-|Wither I-IV|When you hit someone/thing with a tool/weapon that has this your target will suffer from wither for a brief period|
-|Adrenaline I-IV|When you hit someone/thing with a tool/weapon that has this you will get a speed boost for a brief period|
-|Mucus|When you hit someone/thing with a tool/weapon that has this you will slow both your target and others nearby for a brief period|
-|Toxic Waste|When you hit someone/thing with a tool/weapon that has this you will poison both your target and others nearby for a brief period|
-|Frobscottle|When you hit someone/thing with a tool/weapon that has this you will make your target levitate for a brief period|
-|Mother Earth|When you hit someone/thing with a tool/weapon that has this you will grant yourself and others nearby regeneration for a brief period (not your target)|
-|Fletching I-III|Adds 1, 2 or 3 levels of Power to the tool it is applied to|
-|Whetstone I-II|Adds 1 or 2 levels of Sharpness to the tool it is applied to|
-|Pickpocket I-II|Adds 1 or 2 levels of Looting to the tool it is applied to|
-|Scavenger I-II|Adds 1 or 2 levels of Fortune to the tool it is applied to|
-|Ignis|Adds a level of Flame to the tool it is applied to|
-|Incendia|Adds a level of Fire Aspect to the tool it is applied to|
-|Olympus|Adds a level of Channeling to the tool it is applied to|
+|Essence Name|What It Does|Can it be Combined?|
+|---|---|---|
+|Panic I-IV|When hit with armour that has this you get a brief speed boost| ✔ |
+|Harden I-IV|When hit with armour that has this you get a brief boost to damage resistance| ✔ |
+|Frost I-IV|When hit with armour that has this your attacker is slowed for a brief period| ✔ |
+|Needles I-IV|When hit with armour that has this your attacker is poisoned for a brief period| ✔ |
+|Spikes I-IV|When hit with armour that has this your attacker will suffer from wither for a brief period| ✔ |
+|Chill I-IV|When you hit someone/thing with a tool/weapon that has this your target is slowed for a brief period| ✔ |
+|Counter I-IV|When you hit someone/thing with a tool/weapon that has this you gain absorption for a brief period| ✔ |
+|Weaken I-IV|When you hit someone/thing with a tool/weapon that has this your target is weakened for a brief period| ✔ |
+|Confusion I-IV|When you hit someone/thing with a tool/weapon that has this your target is confused for a brief period| ✔ |
+|Darkness I-IV|When you hit someone/thing with a tool/weapon that has this your target is blinded for a brief period| ✔ |
+|Poison I-IV|When you hit someone/thing with a tool/weapon that has this your target is poisoned for a brief period| ✔ |
+|Wither I-IV|When you hit someone/thing with a tool/weapon that has this your target will suffer from wither for a brief period| ✔ |
+|Adrenaline I-IV|When you hit someone/thing with a tool/weapon that has this you will get a speed boost for a brief period| ✔ |
+|Vampire|When hit with armour that has this your attacker will suffer damage as well| ✘ |
+|Smokescreen|When hit with armour that has this you will blind both your attacker and others nearby for a brief period| ✘ |
+|Shadow|When hit with armour that has this you will go invisible for a brief period| ✘ |
+|Mucus|When you hit someone/thing with a tool/weapon that has this you will slow both your target and others nearby for a brief period| ✘ |
+|Toxic Waste|When you hit someone/thing with a tool/weapon that has this you will poison both your target and others nearby for a brief period| ✘ |
+|Frobscottle|When you hit someone/thing with a tool/weapon that has this you will make your target levitate for a brief period| ✘ |
+|Mother Earth|When you hit someone/thing with a tool/weapon that has this you will grant yourself and others nearby regeneration for a brief period (not your target)| ✘ |
+|Shield I-II|Adds 1 or 2 levels of Protection to the armour it is applied to| ✘ |
+|Obsidian I-II|Adds 1 or 2 levels of Blast Protection to the armour it is applied to| ✘ |
+|Asbestos I-II|Adds 1 or 2 levels of Fire Protection to the armour it is applied to| ✘ |
+|Shell I-II|Adds 1 or 2 levels of Projectile Protection to the armour it is applied to| ✘ |
+|Float I-II|Adds 1 or 2 levels of Feather Falling to the armour it is applied to| ✘ |
+|Water Walker|Adds 1 level of Depth Strider to the armour it is applied to| ✘ |
+|Ice Walker|Adds 1 level of Frost Walker to the armour it is applied to| ✘ |
+|Gillyweed|Adds 1 level of Respiration to the armour it is applied to| ✘ |
+|Fletching I-III|Adds 1, 2 or 3 levels of Power to the tool it is applied to| ✘ |
+|Whetstone I-II|Adds 1 or 2 levels of Sharpness to the tool it is applied to| ✘ |
+|Pickpocket I-II|Adds 1 or 2 levels of Looting to the tool it is applied to| ✘ |
+|Scavenger I-II|Adds 1 or 2 levels of Fortune to the tool it is applied to| ✘ |
+|Ignis|Adds a level of Flame to the tool it is applied to| ✘ |
+|Incendia|Adds a level of Fire Aspect to the tool it is applied to| ✘ |
+|Olympus|Adds a level of Channeling to the tool it is applied to| ✘ |
 
 
 
+# Combining Essences
+
+You can now also mix your essences together to make them stronger! Your essences will state if they can be combined (they will have a line in their lore that starts with `Family:`) - to do so you will need 4 of the exact same essence, same family and level. 
+
+When you have your 4 essences, go to `/mdcombiner` (or `/mdc` for short) and click on the chest to open the Combiner!
+
+![combiner](images/combiner.png)
+
+![combinermenu](images/combinermenu.png)
+
+Click the 4 essences in your inventory to add them, and the bottom empty slot in the combiner will change into a nether star to confirm they are okay to merge - click the star to get your upgraded essence!
 
 
 
-
-
-# Unidentified Items and Tomes -- **CURRENTLY DISABLED DUE TO BUGS**
+# Unidentified Items and Tomes
 
 ![unidentified](images/unidentified.png)
 
-You may also sometimes come across an item that is Unidentified! To reveal it's secrets you will need to either find an Identity Tome (also comes as a rare mob drop) or purchase an Identity Tome through the Pawn Shop (only item sold here - use `/pawn` to get there). 
+You may also sometimes come across an item that is Unidentified - To reveal it's secrets you will need to find an Identity Tome! 
+
+The lore of the unidentified item item will state what dropped it and the tiers it can be when revealed! The item **should** be of a tier that the mob that dropped it can give - if not please report it! (This being why it was previously disabled, because simple mobs like Spiders were giving out Legendary loot via unidentifieds...).
 
 ![tome](images/tome.png)
 
-Simply right click with the tome in your hand, and then right click with the unidentified item to reveal it!
+Simply pick the tome up in your inventory and right click the unidentified item with it to reveal it! 
