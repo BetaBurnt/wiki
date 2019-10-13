@@ -24,13 +24,6 @@ You can also set up to 3 homes for your own private teleportation spots!
 To get to the Nether build a nether portal as normal.
 To reach The End, find an end portal in the Resource World. The end is reset every 2 weeks.
 
-## Player Warps
-
-You can now set up to 10 player warps on your Creative plots to allow people to teleport over and view your builds at any time!
-To do so stand where you want the teleport to be and do `/pwarp set <name>`, or `/pwarp remove <name>` to remove one you have already set!
-
-You can list all player warps via `/pwarps` and either click the option on the list to go there, or do `/pwarp <teleport name>`!
-
 ## Player Shop Teleports
 
 You can use various commands to allow others to teleport to your shop and to add your shop to a list of advertised shops.
