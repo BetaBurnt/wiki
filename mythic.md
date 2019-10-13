@@ -108,7 +108,7 @@ Click the 4 essences in your inventory to add them, and the bottom empty slot in
 
 
 
-# Unidentified Items and Tomes
+# Unidentified Items and Tomes -- **DISABLED AGAIN DUE TO THE MOBS-DROPPING-UNIDENTIFIED-ITEMS-OF-WRONG-TIERS ISSUE**
 
 ![unidentified](images/unidentified.png)
 
