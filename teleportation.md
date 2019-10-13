@@ -21,7 +21,8 @@ You can also set up to 3 homes for your own private teleportation spots!
 
 ## The End and the Nether
 
-To get to the Nether build a nether portal as normal.
+To get to the Nether build a nether portal as normal - Survival world only!.
+
 To reach The End, find an end portal in the Resource World. The end is reset every 2 weeks.
 
 ## Player Shop Teleports
