@@ -12,7 +12,7 @@ Catch mobs with a safari net
 
 ## Recycle Bins
 
-![bin list](images/bin.png)
+![bin list](images/binlist.png)
 
 Note that these are mostly decorative and easier ways of using `/bin` as you just need to click the block, not type a command!
 
