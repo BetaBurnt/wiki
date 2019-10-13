@@ -47,7 +47,7 @@ To clarify it'll say either Armor, Weapon, Melee, a mix of the three or somethin
 - If it says Armor it can be applied to any Helmet, Chestplate, Leggings or Boots.
 - It it says Weapon it can be applied to any Sword, Axe, Bow or Trident.
 - If it says Melee it can be applied to any Pickaxe, Shovel, Hoe, Fishing Rod or Shears.
-If it says something specific it is only for that type of item - for example if it says Boots it can only be used on boots, nothing else.
+- If it says something specific it is only for that type of item - for example if it says Boots it can only be used on boots, nothing else.
 
 
 # Spirit Essence Types
