@@ -57,7 +57,7 @@ To clarify it'll say either:
 There are a number of different types of Spirit Essence that all do something different! You can use this list as a rough guide.
 
 |Essence Name|What It Does|Does it drop from Mobs?|Can it be Combined?|
-|---|---|---|
+|---|---|---|----|
 |Panic I-IV|When hit with armour that has this you get a brief speed boost| ✔ | ✔ |
 |Panic V|Only gained by combining 4 Panic IV's. 10% chance to trigger for much longer than a level IV!| ✘ | ✘ |
 |Harden I-IV|When hit with armour that has this you get a brief boost to damage resistance| ✔ | ✔ |
