@@ -12,7 +12,8 @@
 - [Locking up your Valuables!](lwc.md)
 - [Player Levels](levels.md)
 - [Player Ranks](ranks.md)
-- [Custom Crafting Recipes](crafting.md)
+- [Custom Crafting Recipes for MC Items](crafting.md)
+- [Custom Crafting Recipes for Custom Items](newcraft.md)
 
 ### Economy
 - [Money and Jobs](money.md)
