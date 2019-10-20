@@ -105,3 +105,14 @@ To craft it simply surround a noteblock with white wool:
 ![muffler](images/muffler.png)
 
 Note that the placed block is actually an armour stand - you can move through it. It is annoyingly not placed centrally though, and if you place it under the ceiling the physically visible part of the armour stand will be inside the block above.
+
+
+### Drops of Purity
+
+Got an item but don't really want to use it because it's Cursed? No worries - PURIFY IT!
+
+Craft the Drop of Purity following this recipe:
+
+![drop](images/puritydrop.png)
+
+Then right click on air with it in your (main) hand to open the Item Purification menu. Add your cursed item to the empty slot and close the inventory - it is THAT simple! All other enchants are kept!
