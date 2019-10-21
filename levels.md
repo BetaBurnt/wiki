@@ -36,7 +36,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |25|$95000|Hats & Second set of Bow Particles (This level gets music, ender, witch, anger and spit)|Diver|
 |26|$100000||Viking|
 |27|$120000|Ability to use Safari Nets on: Slimes, Magma Cubes, Endermites and Silverfish.|Butler, Maid|
-|28|$140000||Sprite|
+|28|$140000|Ability to open Shulker Boxes in your hand by shift right clicking with them!|Sprite|
 |29|$160000||Corsair, Buccaneer|
 |30|$180000|18 slot backpack and 3 Extra Hearts|Major, Commander|
 |31|$200000||Maiden|
