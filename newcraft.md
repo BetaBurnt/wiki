@@ -1,6 +1,20 @@
 ![ribbon](images/L-ribbon.png) 
 
-# New Items
+# Table of Contents
+
+- [Safari Nets](#safari-nets)
+- [Recycle Bins](#recycle-bins)
+- [Backpacks](#backpacks)
+- [Chimney Blocks](#chimney-blocks)
+- [TeaLights](#tealights)
+- [Lanterns](#lanterns)
+- [Clocks](#clocks)
+- [Sound Muffler](#sound-muffler)
+- [Drops of Purity](#drops-of-purity)
+- [Effect Bombs](#effect-bombs)
+
+
+
 
 ## Safari Nets
 
@@ -20,6 +34,7 @@ To craft simply follow this guide but for the colour you wish to use (replace th
 
 ![bin recipe 1](images/bin1.png)
 ![bin recipe 2](images/bin2.png)
+
 
 ## Backpacks
 
@@ -57,7 +72,6 @@ Materials you can use:
 - Magma Blocks
 - End Bricks
 
-## TeaLights and Lanterns
 
 ### TeaLights
 
@@ -116,3 +130,87 @@ Craft the Drop of Purity following this recipe:
 ![drop](images/puritydrop.png)
 
 Then right click on air with it in your (main) hand to open the Item Purification menu. Add your cursed item to the empty slot and close the inventory - it is THAT simple! All other enchants are kept!
+
+
+## Effect Bombs
+
+Index:
+- [Barf Bomb](#barf-bomb)
+- [Concussion Bomb](#concussion-bomb)
+- [Fire Bomb](#fire-bomb)
+- [Float Bomb](#float-bomb)
+- [Glitter Bomb](#glitter-bomb)
+- [Heal Bomb](#heal-bomb)
+- [Smoke Bomb](#smoke-bomb)
+- [Snot Bomb](#snot-bomb)
+
+
+These bombs can be used to cause various effects on the players/entities within it's blast radius with no risk of damage to any blocks! What each bomb does varies - but each has an effect on the player/entities in it's radius, a particle effect of some kind and have a 5 second countdown timer above them when placed!
+
+Note that any damage is a set amount - Blast Protection will **not** block it! Not all effect bombs do direct damage - some do not at all and some only via their applied effect.
+
+### Barf Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 4 hearts of set damage and will be given hunger for 8 seconds!
+
+Recipe:
+[barf](images/barfbomb.png)
+
+### Concussion Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 3 hearts of set damage and will be given confusion for 12 seconds!
+
+Recipe:
+[concussion](images/concussionbomb.png)
+
+### Fire Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 2 hearts of set damage and will be set on fire for 8 seconds!
+
+Recipe:
+[fire](images/firebomb.png)
+
+### Float Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be given levitation (a reasonably high level of levitation) for 1 second!
+
+Recipe:
+[float](images/floatbomb.png)
+
+### Glitter Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be given the glowing effect for 10 seconds, with a colourful trail (ala nyan cat) and spiraling halo!
+
+Recipe:
+[glitter](images/glitterbomb.png)
+
+# Heal Bomb
+Any player or entity (including the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be given regeneration for 10 seconds!
+
+Recipe:
+[heal](images/healbomb.png)
+
+# Smoke Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 3 hearts of set damage and will be given blindness for 8 seconds!
+
+Recipe:
+[smoke](images/smokebomb.png)
+
+# Snot Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 2 hearts of set damage and will be given slowness for 5 seconds!
+
+Recipe:
+[snot](images/snotbomb.png)
+
+# Vamp Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 3 hearts of set damage and the player that placed the bomb will be healed by 1 heart for each entity/player damaged!
+
+Recipe:
+[vamp](images/vampbomb.png)
+
+# Venom Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 2 hearts of set damage and will be given poison for 8 seconds!
+
+Recipe:
+[venom](images/venombomb.png)
+
+# Wither Bomb
+Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be given wither for 8 seconds!
+
+Recipe:
+[wither](images/witherbomb.png)
