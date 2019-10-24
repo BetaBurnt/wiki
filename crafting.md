@@ -8,7 +8,7 @@ You can find recipes for new items we have added to the server over on **[this p
 As a quick run down so you don't need to scroll down to find what you're looking for:
 - [Cobweb](#cobweb)
 - [Saddle](#saddle)
-- [Horse Armor](#horse-amor)
+- [Horse Armor](#horse-armor)
 - [Leather](#leather)
 - [Ore Blocks](#ore-blocks)
 - [Chainmail Armor](#chainmail-armor)
