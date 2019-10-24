@@ -4,7 +4,24 @@
 You can find recipes for new items we have added to the server over on **[this page](newcraft.md)** (so as not to make this page excessively large).
 
 
-## Vanilla Item Crafting Tweaks
+# Table of Contents
+As a quick run down so you don't need to scroll down to find what you're looking for:
+- [Cobweb](#cobweb)
+- [Saddle](#saddle)
+- [Horse Armor](#horse-amor)
+- [Leather](#leather)
+- [Ore Blocks](#ore-blocks)
+- [Chainmail Armor](#chainmail-armor)
+- [Slime Ball](#slime-ball)
+- [Name Tag](#name-tag)
+- [Grass](#grass)
+- [Mycelium](#mycelium)
+- [Podzol](#podzol)
+- [Planks](#planks)
+- [Leaves](#leaves)
+- [Misc.](#miscellaneous)
+
+# All of these recipes are for Vanilla items that either lack a recipe in 1.13.2 (or in general) or their current recipes suck so we have another!
 
 ### Cobweb
 
@@ -80,7 +97,7 @@ You can use any 3 of the same sapling to get 2 of their respective block of leav
 
 
 
-# A few others
+# Miscellaneous
 
 - You can craft any block of wool back into 3 string!
 - You can craft any netherwart block back into 9 netherwart!
