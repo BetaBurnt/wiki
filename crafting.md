@@ -1,6 +1,6 @@
 ![ribbon](images/L-ribbon.png) 
 
-## New Items
+# New Items
 You can find recipes for new items we have added to the server over on **[this page](newcraft.md)** (so as not to make this page excessively large).
 
 
@@ -21,7 +21,7 @@ As a quick run down so you don't need to scroll down to find what you're looking
 - [Leaves](#leaves)
 - [Misc.](#miscellaneous)
 
-# All of these recipes are for Vanilla items that either lack a recipe in 1.13.2 (or in general) or their current recipes suck so we have another!
+## All of these recipes are for Vanilla items that either lack a recipe in 1.13.2 (or in general) or their current recipes suck so we have another!
 
 ### Cobweb
 
