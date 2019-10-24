@@ -143,6 +143,9 @@ Index:
 - [Heal Bomb](#heal-bomb)
 - [Smoke Bomb](#smoke-bomb)
 - [Snot Bomb](#snot-bomb)
+- [Vamp Bomb](#vamp-bomb)
+- [Venom Bomb](#venom-bomb)
+- [Wither Bomb](#wither-bomb)
 
 
 These bombs can be used to cause various effects on the players/entities within it's blast radius with no risk of damage to any blocks! What each bomb does varies - but each has an effect on the player/entities in it's radius, a particle effect of some kind and have a 5 second countdown timer above them when placed!
@@ -179,37 +182,37 @@ Any player or entity (not the player that placed the bomb) within an 8 block rad
 Recipe:
 ![glitter](images/glitterbomb.png)
 
-# Heal Bomb
+### Heal Bomb
 Any player or entity (including the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be given regeneration for 10 seconds!
 
 Recipe:
 ![heal](images/healbomb.png)
 
-# Smoke Bomb
+### Smoke Bomb
 Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 3 hearts of set damage and will be given blindness for 8 seconds!
 
 Recipe:
 ![smoke](images/smokebomb.png)
 
-# Snot Bomb
+### Snot Bomb
 Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 2 hearts of set damage and will be given slowness for 5 seconds!
 
 Recipe:
 ![snot](images/snotbomb.png)
 
-# Vamp Bomb
+### Vamp Bomb
 Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 3 hearts of set damage and the player that placed the bomb will be healed by 1 heart for each entity/player damaged!
 
 Recipe:
 ![vamp](images/vampbomb.png)
 
-# Venom Bomb
+### Venom Bomb
 Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be hit with 2 hearts of set damage and will be given poison for 8 seconds!
 
 Recipe:
 ![venom](images/venombomb.png)
 
-# Wither Bomb
+### Wither Bomb
 Any player or entity (not the player that placed the bomb) within an 8 block radius (circular) of this bomb when it explodes will be given wither for 8 seconds!
 
 Recipe:
