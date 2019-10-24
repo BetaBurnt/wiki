@@ -18,7 +18,7 @@
 
 ## Safari Nets
 
-Catch mobs with a safari net
+Catch mobs with a safari net! Craft either a singleuse net or a reusable net with the following recipes and use them to catch and release specific mobs as needed (depending on your player level - the higher the level the more mobs you are able to use nets on!)
 
 ![Single Use Safari Net](images/singlenet.png)
 ![Reusable Safari Net](images/reusablenet.png)
