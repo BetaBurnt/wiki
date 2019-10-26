@@ -107,3 +107,4 @@ You can use any 3 of the same sapling to get 2 of their respective block of leav
 - Ink Sacs can be crafted with a clay ball and either a piece of coal or charcoal (due to the less frequent spawning of Squid now there are other sea critters).
 - Smooth Stone from smelting Stone has been added (as it is only actually a thing in 1.14+ normally).
 - Smooth Quartz from smelting plain Quartz Blocks has been added (again, normally a 1.14+ thing - note that smooth quartz looks like normal quartz in 1.13.2 without texture packs).
+- 8 Concrete Powder of the same colour around an Ice Block = 8 Concrete of the same colour.
