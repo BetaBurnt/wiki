@@ -12,6 +12,7 @@
 - [Sound Muffler](#sound-muffler)
 - [Drops of Purity](#drops-of-purity)
 - [Effect Bombs](#effect-bombs)
+- [Home Storage](#home-storage)
 
 
 
@@ -217,3 +218,103 @@ Any player or entity (not the player that placed the bomb) within an 8 block rad
 
 Recipe:
 ![wither](images/witherbomb.png)
+
+
+# Home Storage
+
+Index:
+- [Cookie Jar](#cookie-jar)
+- [Cake Tin](#cake-tin)
+- [Sugar Pot](#sugar-pot)
+- [Coffee Pot](#coffee-pot)
+- [Egg Basket](#egg-basket)
+- [Vial Chest](#vial-chest)
+- [Jar O'Blaze](#jar-o'blaze)
+- [Jar O'Sulphur](#jar-o'sulphur)
+- [Jar O'Reddust](#jar-o'reddust)
+- [Jar O'Glowdust](#jar-o'glowddust)
+
+These are blocks you can place that have a linked inventory for one specific item, just for you! For example if you place a Cookie Jar in your house you can left click with cookies in your hand to add one per click (or all of what's in your hand if you sneak left click) to your own Cookie Jar storage!
+
+You can then access that Cookie Jar storage anywhere that a Cookie Jar block has been placed and you have permission to build! To retrieve items right click to get one, or sneak right click to get a stack (or however many are left if it's less than a stack). The size of each storage varies for some of these options.
+
+Only the person who placed the container can break it as well!
+
+# Cookie Jar
+
+Recipe:
+![cookiejar](images/cookiejar.png)
+
+Each player can store up to 5000 cookies in their Cookie Jar storage!
+
+
+# Cake Tin
+
+Recipe:
+![caketin](images/caketin.png)
+
+Each player can store up to 250 cakes in their Cake Tin storage!
+
+
+# Sugar Pot
+
+Recipe:
+![sugarpot](images/sugarpot.png)
+
+Each player can store up to 5000 sugar in their Sugar Pot storage!
+
+
+# Coffee Pot
+
+Recipe:
+![coffeepot](images/coffeepot.png)
+
+Each player can store up to 5000 cocoa beans in their Coffee Pot storage!
+
+
+# Egg Basket
+
+Recipe:
+![eggbasket](images/eggbasket.png)
+
+Each player can store up to 2500 eggs in their Egg Basket storage!
+
+
+# Vial Chest
+
+Recipe:
+![vialchest](images/vialchest.png)
+
+Each player can store up to 5000 glass bottles in their Vial Chest storage!
+
+
+# Jar O'Blaze
+
+Recipe:
+![blazejar](images/blazejar.png)
+
+Each player can store up to 5000 blaze powder in their Jar O'Blaze storage!
+
+
+# Jar O'Sulphur
+
+Recipe:
+![sulphurjar](images/sulphurjar.png)
+
+Each player can store up to 5000 gunpowder in their Jar O'Sulphur storage!
+
+
+# Jar O'Reddust
+
+Recipe:
+![redjar](images/redjar.png)
+
+Each player can store up to 5000 redstone dust in their Jar O'Reddust storage!
+
+
+# Jar O'Glowdust
+
+Recipe:
+![glowjar](images/glowjar.png)
+
+Each player can store up to 5000 glowstone dust in their Jar O'Glowdust storage!
