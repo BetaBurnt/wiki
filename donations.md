@@ -25,6 +25,14 @@ If you use the $5/10/20/50 packages and have not done so before you will also re
 
 **NOTE:** The custom donation amount package will **not** give the Donator rank.
 
+# Boosters
+
+Boosters are exactly what they sound like - Purchase a booster and activate it on the server to grant all players 1 hour of either double mcMMO experience or double Jobs experience!
+
+When you purchase any boosters they will be added to your personal pool and can be checked and used from the `/boosters` menu ingame! If there is already one active you can use another to add an hour onto the timer (and there can be a booster for each type active at the same time)!
+
+When a booster is activated it will also be announced in the Discords **#server-boosters** channel!
+
 # Chat Colours
 
 Here you can purchase either all chat colours or individual colours you wish to use. Any that you have purchased grant you the ability to select that colour through the `/ccmenu` ingame, which will change all of your ingame chat text to that colour! The middle option of the `/ccmenu` will also toggle these on or off.
