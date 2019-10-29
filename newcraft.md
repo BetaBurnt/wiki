@@ -13,6 +13,7 @@
 - [Drops of Purity](#drops-of-purity)
 - [Effect Bombs](#effect-bombs)
 - [Home Storage](#home-storage)
+- [Potted Plants](#potted-plants)
 
 
 
@@ -240,7 +241,7 @@ You can then access that Cookie Jar storage anywhere that a Cookie Jar block has
 
 Only the person who placed the container can break it as well!
 
-# Cookie Jar
+## Cookie Jar
 
 Recipe:
 ![cookiejar](images/cookiejar.png)
@@ -248,7 +249,7 @@ Recipe:
 Each player can store up to 5000 cookies in their Cookie Jar storage!
 
 
-# Cake Tin
+## Cake Tin
 
 Recipe:
 ![caketin](images/caketin.png)
@@ -256,7 +257,7 @@ Recipe:
 Each player can store up to 250 cakes in their Cake Tin storage!
 
 
-# Sugar Pot
+## Sugar Pot
 
 Recipe:
 ![sugarpot](images/sugarpot.png)
@@ -264,7 +265,7 @@ Recipe:
 Each player can store up to 5000 sugar in their Sugar Pot storage!
 
 
-# Coffee Pot
+## Coffee Pot
 
 Recipe:
 ![coffeepot](images/coffeepot.png)
@@ -272,7 +273,7 @@ Recipe:
 Each player can store up to 5000 cocoa beans in their Coffee Pot storage!
 
 
-# Egg Basket
+## Egg Basket
 
 Recipe:
 ![eggbasket](images/eggbasket.png)
@@ -280,7 +281,7 @@ Recipe:
 Each player can store up to 2500 eggs in their Egg Basket storage!
 
 
-# Vial Chest
+## Vial Chest
 
 Recipe:
 ![vialchest](images/vialchest.png)
@@ -288,7 +289,7 @@ Recipe:
 Each player can store up to 5000 glass bottles in their Vial Chest storage!
 
 
-# Jar O'Blaze
+## Jar O'Blaze
 
 Recipe:
 ![blazejar](images/blazejar.png)
@@ -296,7 +297,7 @@ Recipe:
 Each player can store up to 5000 blaze powder in their Jar O'Blaze storage!
 
 
-# Jar O'Sulphur
+## Jar O'Sulphur
 
 Recipe:
 ![sulphurjar](images/sulphurjar.png)
@@ -304,7 +305,7 @@ Recipe:
 Each player can store up to 5000 gunpowder in their Jar O'Sulphur storage!
 
 
-# Jar O'Reddust
+## Jar O'Reddust
 
 Recipe:
 ![redjar](images/redjar.png)
@@ -312,9 +313,18 @@ Recipe:
 Each player can store up to 5000 redstone dust in their Jar O'Reddust storage!
 
 
-# Jar O'Glowdust
+## Jar O'Glowdust
 
 Recipe:
 ![glowjar](images/glowjar.png)
 
 Each player can store up to 5000 glowstone dust in their Jar O'Glowdust storage!
+
+
+# Potted Plants
+
+An alternative to the plant pot in MineCraft - you can now create 16 different decorative potted plants!
+
+[plants](images/pottedplants.png)
+
+The crafting recipe is simple - one plant pot and 3 of the plant it's for (shapeless recipe)!
