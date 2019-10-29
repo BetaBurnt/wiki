@@ -325,6 +325,6 @@ Each player can store up to 5000 glowstone dust in their Jar O'Glowdust storage!
 
 An alternative to the plant pot in MineCraft - you can now create 16 different decorative potted plants!
 
-[plants](images/pottedplants.png)
+![plants](images/pottedplants.png)
 
 The crafting recipe is simple - one plant pot and 3 of the plant it's for (shapeless recipe)!
