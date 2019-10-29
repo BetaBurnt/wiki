@@ -327,4 +327,4 @@ An alternative to the plant pot in MineCraft - you can now create 16 different d
 
 ![plants](images/pottedplants.png)
 
-The crafting recipe is simple - one plant pot and 3 of the plant it's for (shapeless recipe)!
+The crafting recipe is simple - one plant pot and 3 of the plant it's for (shapeless recipe - the plant the pot is for is above the pot in the above image)!
