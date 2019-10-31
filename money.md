@@ -108,3 +108,23 @@ Enchanters are paid for using their enchantment tables!
 This job pays for:
 - Enchanting -- Books, Any Sword/Axe/Pickaxe/Shovel/Helmet/Chestplate/Leggings/Boots, Bows, Fishing Rods and Tridents.
 The job also receives a boost on the income based on what enchantments you apply, and the level of the enchantment!
+
+
+# Jobs Titles
+
+Each Job will unlock a new title for use in the ingame chat when you hit level 50 and 100 - you will keep the titles you unlock if you leave the job! The titles they will give you are as follows:
+
+|Job|Level 50 Title|Level 100 Title|
+|---|---|---|
+|Handyman|Handyman|Generalist|
+|Cook|Baker|Chef|
+|Blacksmith|Armorer|Forger|
+|Woodcutter|Woodchuck|Lumberjack|
+|Digger|Mole|Excavator|
+|Miner|Prospector|Spelunker|
+|Farmer|Shepherd|Ranger|
+|Hunter|Squire|Knight|
+|WitchHunter|Templar|Crusader|
+|Fisherman|Sailor|Angler|
+|Brewer|Sage|Alchemist|
+|Enchanter|Mystic|Philosopher|
