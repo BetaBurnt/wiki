@@ -19,10 +19,10 @@ Some jobs should be looked at as a 'Main' job - those that are generally the mor
 - Blacksmith works well with Miner.
 - Cook works well with Farmer.
 - Brewer and Enchanter work well with the Hunter jobs.
-- Blacksmith and Enchanted, while both generally classed as a secondary job, would also work well together.
+- Blacksmith and Enchanter, while both generally classed as a secondary job, would also work well together.
 - Hunter and WitchHunter could also be considered a secondary job to each other as well.
 
-Handyman could work in either aspect as a main or a secondary job.
+Handyman could work in either aspect as a main or a secondary job as it fills in gaps the other jobs (mostly) lack..
 
 Which job is `the best` is entirely down to what you are doing on the server - don't just ask people what earns the most money as their responses are also entirely down to their own jobs and what they've put time into. If they have only ever gotten Miner to a higher level they'll say Miner and that other jobs aren't worthwhile, when in reality if you put the effort into any of the jobs they will pay out just as well as each other in the long run.
 As a general rule when picking jobs what we would advise you to do is `think about what you enjoy doing the most on the server and don't mind grinding, or pick a main job and keep the secondary to reflect what you're actively doing on the server at the time`.
