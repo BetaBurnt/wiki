@@ -18,7 +18,7 @@ Please note that if you leave one and join another the old job is reset to level
 Some jobs should be looked at as a 'Main' job - those that are generally the more common actions and/or are the most farmable (Digger, Miner, Woodcutter, Farmer, Hunter, WitchHunter, Fisherman) - and some other jobs should generally be seen as a 'Secondary' job as they are not what you will likely be doing most of the time but they likely compliment another job. For example:
 - Blacksmith works well with Miner.
 - Cook works well with Farmer.
-- Brewer and Enchanter works well with the Hunter jobs.
+- Brewer and Enchanter work well with the Hunter jobs.
 - Blacksmith and Enchanted, while both generally classed as a secondary job, would also work well together.
 - Hunter and WitchHunter could also be considered a secondary job to each other as well.
 
