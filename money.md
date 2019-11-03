@@ -7,8 +7,9 @@ To give money to another player use `/pay [player] [amount]`.
 
 ## Jobs
 
-#### Please note that Jobs are always undergoing tweaks/changes to try and make them more balanced for all players on the server and so not everyone is always using the same job because it `earns more` (which is a fallacy anyway, it depends entirely on what you want to grind and level up). However these will mostly be tweaks to the money and XP values for the jobs, rather than changes to the jobs themselves.
-#### Any changes to the jobs themselves, such as adding/removing jobs or what they allow you to earn for doing, will be posted on the Discord/Forums prior to it happening!
+**Please note that Jobs are always undergoing tweaks/changes to try and make them more balanced for all players on the server and so not everyone is always using the same job because it `earns more` (which is a fallacy anyway, it depends entirely on what you want to grind and level up). However these will mostly be tweaks to the money and XP values for the jobs, rather than changes to the jobs themselves.**
+
+**Any changes to the jobs themselves, such as adding/removing jobs or what they allow you to earn for doing, will be posted on the Discord/Forums prior to it happening!**
 
 The easiest way to make money on the server is to get a couple of jobs so that you earn money whilst playing on the server!
 You can join up to 2 jobs at a time.
