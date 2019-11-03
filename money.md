@@ -7,9 +7,26 @@ To give money to another player use `/pay [player] [amount]`.
 
 ## Jobs
 
+#### Please note that Jobs are always undergoing tweaks/changes to try and make them more balanced for all players on the server and so not everyone is always using the same job because it `earns more` (which is a fallacy anyway, it depends entirely on what you want to grind and level up). However these will mostly be tweaks to the money and XP values for the jobs, rather than changes to the jobs themselves.
+#### Any changes to the jobs themselves, such as adding/removing jobs or what they allow you to earn for doing, will be posted on the Discord/Forums prior to it happening!
+
 The easiest way to make money on the server is to get a couple of jobs so that you earn money whilst playing on the server!
 You can join up to 2 jobs at a time.
 Please note that if you leave one and join another the old job is reset to level 1!
+
+Some jobs should be looked at as a 'Main' job - those that are generally the more common actions and/or are the most farmable (Digger, Miner, Woodcutter, Farmer, Hunter, WitchHunter, Fisherman) - and some other jobs should generally be seen as a 'Secondary' job as they are not what you will likely be doing most of the time but they likely compliment another job. For example:
+- Blacksmith works well with Miner.
+- Cook works well with Farmer.
+- Brewer and Enchanter works well with the Hunter jobs.
+- Blacksmith and Enchanted, while both generally classed as a secondary job, would also work well together.
+- Hunter and WitchHunter could also be considered a secondary job to each other as well.
+
+Handyman could work in either aspect as a main or a secondary job.
+
+Which job is `the best` is entirely down to what you are doing on the server - don't just ask people what earns the most money as their responses are also entirely down to their own jobs and what they've put time into. If they have only ever gotten Miner to a higher level they'll say Miner and that other jobs aren't worthwhile, when in reality if you put the effort into any of the jobs they will pay out just as well as each other in the long run.
+As a general rule when picking jobs what we would advise you to do is `think about what you enjoy doing the most on the server and don't mind grinding, or pick a main job and keep the secondary to reflect what you're actively doing on the server at the time`.
+
+Planning a player shop around what you will be gaining/making via your jobs - particularly if it's stuff nobody else or not many others have shops for - would also be a good idea.
 
 ### Job Commands
 
@@ -18,53 +35,71 @@ To join a job `/jobs join [job]`
 To leave a job use `/jobs leave [job]`
 To check your stats, and how much job exp you need to get to the next job level use `/jobs stats` (when you are in a job `/jobs info [job]` will be updated for the prices you get at your job level!).
 
+## Index of the Available Jobs:
+- [Handyman](#handyman)
+- [Cook](#cook)
+- [Blacksmith](#blacksmith)
+- [Woodcutter](#woodcutter)
+- [Digger](#digger)
+- [Miner](#miner)
+- [Farmer](#farmer)
+- [Hunter](#hunter)
+- [Witch Hunter](#witch-hunter)
+- [Fisherman](#fisherman)
+- [Brewer](#brewer)
+- [Enchanter](#enchanter)
 
-The jobs available for you to join are:
 #### Handyman --
-The Handyman is the 'average at a lot of things', 'good at nothing in particular' kind of job - it will pay you for a wider range of things than other jobs (with some from every other job being here) but with a lower income.
+The Handyman is the 'average at a lot of things', 'good at nothing in particular' kind of job - it will pay you for a wider range of things than other jobs but with a lower income compared to any other job that's had the same effort put into them to level them up.
 This job pays for:
-- Breaking/Mining -- Dirt/Coarse Dirt, Gravel, Stone/Andesite/Diorite/Granite, Oak/Birch/Spruce/Jungle Logs or Leaves, Coal Ore, Wheat and Sugar Cane.
-- Crafting -- Cookies, Bread, Iron Sword/Axe/Pickaxe/Shovel and Iron/Chainmail Helmet/Chestplate/Leggings/Boots.
-- Cooking/Smelting -- Baked Potatoes, Cod, Salmon and Iron Ingots.
-- Shearing -- White Sheep.
-- Killing -- Chickens, Rabbits, Spiders, Zombies, Zombie Horses/Villagers, Pig Zombies, Blazes and Shulkers.
-- Fishing -- Cod and Salmon.
-- Brewing with -- Nether Wart, Redstone Dust and Glowstone Dust.
-- Enchanting -- Books.
+- Breaking/Mining -- Oak/Spruce/Jungle/Birch/Acacia/Dark Oak Leaves, Coarse Dirt, Snow/Snow Blocks, Nether Bricks, Nether Brick Stairs/Fences, Prismarine, Dark Prismarine, Prismarine Bricks, Bookshelves, Bone Blocks, Chorus Plants/Flowers, Lily Pads, Any Flowers, Tall/Long Grass, Ferns, Large Ferns and Vines. 
+- Crafting -- Wooden Shovel/Sword/Axe/Pickaxe, Leather Helmet/Chestplate/Leggings/Boots and Golden Carrots/Apples.
+- Cooking/Smelting -- Dried Kelp, Popped Chorus Fruit, Charcoal and Bricks.
+- Killing -- Bats, Cod, Salmon, Pufferfish, Tropical Fish, Silverfish, Endermite, Slimes, Elder Guardians and Ender Dragons.
+- Fishing -- Any Music Discs, Sea Grass and Sea Pickles.
+- Brewing with -- Glistering Melon Slices, Fermented Spiders Eyes, Gunpowder and Dragons Breath.
+- Enchanting With -- Books.
+- Enchanting For -- Power 5, Infinity, Sharpness 5, Efficiency 5, Looting 3, Fortune 3, Silk Touch and Impaling 5.
+
+However you will also lose a small amount of income/job XP when:
+- Placing: Nether Bricks, Nether Brick Stairs/Fences, Prismarine, Dark Prismarine and Prismarine Bricks.
 
 #### Cook --
 The Cook will receive an income for cooking! 
 This job pays for:
-- Crafting -- Cookies, Bread, Beetroot Soup, Mushroom Stew, Rabbit Stew, Pumpkin Pie, Cake and Golden Carrots/Apples.
-- Cooking/Smelting -- Baked Potato, Cod, Salmon, Chicken, Steak, Porkchop, Mutton, Rabbit, Kelp and Chorus Fruit.
+- Crafting -- Cookies, Bread, Beetroot Soup, Mushroom/Rabbit Stew, Cakes, Pumpkin Pies, Buckets and Bowls.
+- Cooking/Smelting -- Baked Potato and Cooked Cod/Salmon/Chicken/PorkChop/Beed/Mutton/Rabbit.
 
 #### Blacksmith --
 Blacksmiths will receive an income for crafting weapons and armour, and making the materials needed for them!
 This jobs pays for:
-- Crafting -- Iron/Gold/Diamond Swords/Axes/Pickaxes/Shovels, Iron/Chainmail/Gold/Diamond Helmets/Chestplates/Leggings/Boots, Bows, Arrows and Furnaces.
-- Cooking/Smelting -- Stone, Clay Bricks, Charcoal, Terracotta and Iron/Gold Ingots.
+- Crafting -- Iron/Gold/Diamond Shovels/Swords/Axes/Pickaxes, Bows, Arrows, Iron/Chainmail/Gold/Diamond Helmets/Chestplates/Leggings/Boots, Furnaces, Brewing Stands, Cauldrons, Iron Bars and Fire Charges.
+- Cooking/Smelting -- Iron/Gold Ingots, Stone, Terracotta and Glass.
 
 #### Woodcutter --
 Woodcutter will receive an income for deforestation! Down with the jungles!
 This job pays for:
-- Breaking/Mining (with an Axe) -- Any Logs or Leaves.
-- Placing -- Saplings.
-- Crafting -- Stone/Iron/Gold/Diamond Axes.
+- Breaking/Mining (with an Axe) -- Any Logs.
+- Placing -- Any Sapling.
+- Crafting -- Iron/Gold/Diamond Axes.
 
 This job will, however, also deduct a small amount of pay for:
-- Breaking/Mining -- Saplings.
+- Breaking/Mining -- Any Sapling.
 
 #### Digger --
 The Diggers will receive an income for playing in the dirt!
 This job pays for:
-- Breaking/Mining (with a Shovel) -- Any Dirt/Grass variants, Gravel, Sand, Red Sand, Soul Sand, Clay, Snow Blocks and Snow.
-- Crafting -- Stone/Iron/Gold/Diamond Shovels.
+- Breaking/Mining (with a Shovel) -- Dirt, Podzol, Mycelium, Grass Blocks, Gravel, Sand, Red Sand, Clay and Soul Sand.
+- Crafting -- Iron/Gold/Diamond Shovels.
+
+This job will, however, also deduct a small amount of pay for:
+- Placing -- Podzol, Mycelium or Grass Blocks.
 
 #### Miner --
 Miners receive an income for bringing in the raw minerals and gems!
 This job pays for:
-- Breaking/Mining (with a Pickaxe) -- Stone, Granite, Diorite, Andesite, Mossy Cobble, Plain Terracotta, Sandstone, Red Sandstone, Any Ore Block, Obsidian, Nether Bricks/Stairs/Fence, Red Nether Bricks, Prismarine, Prismarine Bricks, Dark Prismarine and Magma.
-- Crafting -- Stone/Iron/Gold/Diamond Pickaxes.
+- Breaking/Mining (with a Pickaxe) -- Stone, Granite, Diorite, Andesite, Mossy Cobblestone, Terracotta, Sandstone, Red Sandstone, Coal/Redstone/Iron/Gold/Lapis/Diamond/Emerald/Quartz Ore, Glowstone, Obsidian and Magma.
+- Crafting -- Iron/Gold/Diamond Pickaxes.
 
 This job will, however, also deduct a small amount of pay for:
 - Placing -- Any Ore Block.
@@ -72,27 +107,31 @@ This job will, however, also deduct a small amount of pay for:
 #### Farmer --
 Farmers receive an income for sowing their seeds and bringing in the harvest!
 This job pays for:
-- Breaking/Mining -- Chorus Plants/Flowers, Wheat, Potatoes, Carrots, Beetroot, Sugar Cane, Cactus, Melon/Pumpkin Blocks, Cocoa Beans, LilyPads, Vines, NetherWart and Any Flowers.
+- Breaking/Mining -- Wheat, Potatoes, Carrots, Beetroot, Sugar Cane, Pumpkins, Melons, Cocoa Beans, Brown/Red Mushrooms, Cacti and Nether Warts.
+- Placing -- Melon/Pumpkin Seeds (stems... whatever).
 - Shearing -- Any Sheep.
+- Crafting -- Iron/Gold/Diamond Hoes.
 
 This job will, however, also deduct a small amount of pay for:
-- Breaking/Mining -- Melon/Pumpkin Stems.
+- Breaking/Mining -- Melon/Pumpkin Stems and any Coral Fans.
 - Placing -- Melon/Pumpkin Blocks and Sugar Cane.
 
 #### Hunter --
 Hunters receive an income for hunting some of the nasties of the world!
 This job pays for:
-- Killing -- Chickens, Sheep, Cows, Mushroom Cows, Pigs, Horses, Donkeys, Mules, Llamas, Rabbits, Dolphins, Turtles, Fish, Bats, Wolves, Ocelots, Squid, Creepers, Skeletons, Spiders, Zombies, Zombie Villagers and Elder Guardians.
+- Killing -- Chickens, Sheep, Pigs, Cows, Mooshrooms, Horses, Donkeys, Mules, Llamas, Rabbits, Turtles, Dolphins, Squid, Creepers, Ocelots, Wolves, Polar Bears, Skeletons, Spiders, Zombies, Zombie Villagers and Elder Guardians.
+- Crafting -- Iron/Diamond Axes/Swords.
 
-#### WitchHunter --
+#### Witch Hunter --
 WitchHunters receive an income for hunting the mobs that Hunters generally steer clear of!
 This job pays for:
-- Killing -- Strays, Husks, Drowned, Skeletal/Zombie Horses, Endermen, Slimes, Guardians, Witches, Pig Zombies, Wither Skeletons, Blazes, Magma Cubes, Ghasts, Phantoms, Silverfish, Shulkers, Evokers, Withers and the Ender Dragon.
+- Killing -- Pig Zombies, Blazes, Ghasts, Magma Cubes, Enderman, Shulkers, Guardians, Husks, Strays, Drowned, Skeleton/Zombie Horse, Evokers, Vindicators, Vex, Phantoms, Witches, Wither Skeletons, Withers and Elder Guardians.
+- Crafting -- Golden Axes/Swords and Bows.
 
 #### Fisherman --
 Fisherman are paid for playing with their rod and tackle!
 This job pays for:
-- Fishing -- Any Fish, Any Record, Lapis Lazuli, Iron/Gold Ingots, Diamonds, Kelp, Sea Grass, Sea Pickles.
+- Fishing -- Cod, Salmon, Pufferfish, Tropical Fish, Iron/Gold Ingots, Lapis, Diamonds, Emeralds, Nautilus Shells and Heart of the Seas.
 - Crafting -- Fishing Rods.
 
 This job will, however, also deduct a small amount of pay for:
@@ -101,7 +140,8 @@ This job will, however, also deduct a small amount of pay for:
 #### Brewer --
 Brewers receive an income for standing around a cauldron cacking into the coloured smoke plumes!
 This job pays for:
-- Brewing with -- NetherWart, Redstone/Glowstone Dust, Normal/Fermented Spider Eyes, Blaze Powder, Sugar, Glistering Melon Slices, Magma Cream, Ghast Tears, Golden Carrots, Pufferfish, Rabbit Feet, Phantom Membranes, Turtle Shells and Dragons Breath.
+- Brewing with -- Nether Warts, Redstone/Glowstone Dust, Gunpowder, Spiders Eyes, Blaze Powder, Sugar, Pufferfish, Rabbit Feet, Glistering Melon Slices, Turtle Shells, Phantom Membranes, Magma Cream, Ghast Tears, Golden Carrots, Fermented Spiders Eyes and Dragons Breath.
+- Crafting -- Glass Bottles.
 
 #### Enchanter --
 Enchanters are paid for using their enchantment tables!
