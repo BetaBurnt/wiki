@@ -91,7 +91,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |80|$4000000|8 Extra Hearts & Fifth set of Bow Effects (This level gets sparkle, cupid, molten, boom and nether)|Emperor, Empress|
 |81|$4500000|Access to use `/feed` (fully feeds your hunger bar) three times per day.|Phoenix, Titan, Hydra, Sylph|
 |82|$4500000||Alpha|
-|83|$5000000|Access to `/back` to go back to your last location (such as where you died). Note that this may *NOT* be used for PvP purposes.|Shadow, Dark|
+|83|$5000000|Access to `/back` to go back to your last location (note that this is your last **Teleport** location - to go back to where you died you will require a DeathPoint Ticket). Note that this may *NOT* be used for PvP purposes.|Shadow, Dark|
 |84|$5000000||Beta|
 |85|$5500000||Nightmare, Reaper|
 |86|$5500000||Gamma|
