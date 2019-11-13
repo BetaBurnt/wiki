@@ -1,9 +1,9 @@
 ![ribbon](images/L-ribbon.png) 
 
 Quicklinks:
-- ![Rule 1: Be courteous and respectful.](#rule-1:-be-courteous-and-respectful.)
-- ![Rule 2: Harassment is not allowed.](#rule-2:-harassment-is-not-allowed.)
-- ![Rule 2.5: PvP and Harassment.](#rule-2.5:-pvp-and-harassment)
+- [Rule 1: Be courteous and respectful](#rule-1:-be-courteous-and-respectful.)
+- [Rule 2: Harassment is not allowed](#rule-2:-harassment-is-not-allowed.)
+- [Rule 2.5: PvP and Harassment](#rule-2.5:-pvp-and-harassment)
 
 
 ## Rule 1: Be courteous and respectful.
