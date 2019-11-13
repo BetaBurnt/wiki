@@ -1,5 +1,9 @@
 ![ribbon](images/L-ribbon.png) 
 
+Quicklinks:
+- [Rule 1: Be courteous and respectful.](#rule-1:-be-courteous-and-respectful.)
+
+
 ## Rule 1: Be courteous and respectful.
 
 We expect polite behaviour on the server. This means no foul language, no deliberately malicious comments, no bullying of any kind, no racism or prejudice, no sexual harassment, no spawn camping, no threats and no unfair treatment of any kind.
