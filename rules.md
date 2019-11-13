@@ -13,7 +13,7 @@ Quicklinks:
 - [Rule 7: No Alt Accounts](#no-alt-accounts)
 - [Rule 8: No Pointless Bugging of the Staff](#no-pointless-bugging-of-the-staff)
 - [Rule 9: Keep the Chat Clean](#keep-the-chat-clean)
-- [Rule 10: Report All Bugs!](#report-all-bugs!)
+- [Rule 10: Report All Bugs](#report-all-bugs)
 - [The Staff Policy on Other Forms of Media](#the-staff-policy-on-other-forms-of-media)
 - [General Clarification on All Rules](#general-clarification)
 
@@ -214,7 +214,7 @@ This ties into Rules 1 and 2.
 - Please avoid topics in the server chat that are very likely to cause arguments and if they seem to be starting one, or annoying other players, drop the conversation. Obvious touchy topics being religious beliefs and politics, and the things touched on in Rule #1 but anything that causes arguments etc... should be dropped, not continued.
 
 
-## Rule 10: Report all bugs!
+## Rule 10: Report All Bugs
 If you come across something broken/not working as expected and it can be used to gain an unfair advantage over other players - such as duplication bugs, invincibility glitches etc... - report it to the staff team by using the `/bug` command!
 
 Abusing any bugs can and will get you banned from the server, plus if you report a bug rather than abuse it you’ll get some serious reputation points in terms of the staff.
@@ -222,7 +222,7 @@ Abusing any bugs can and will get you banned from the server, plus if you report
 This is not limited to bugs/glitches/unintentional features we have added via plugins - Anything that is not intentional is NOT allowed, even if it is an issue in Minecraft itself (such as AFK fish farms, or enderpearl glitching through doors etc...).
 
 
-## The Staff Policy on other forms of media
+## The Staff Policy on Other Forms of Media
 The moderation team will not act on any forms of hate/problems outside of LC related media. If the issue in question happened anywhere outside of the server, discord or forums, it is not our responsibility and please do not bring it over to LC!
 
 
