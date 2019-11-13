@@ -1,12 +1,13 @@
 ![ribbon](images/L-ribbon.png) 
 
 Quicklinks:
-- [Rule 1: Be courteous and respectful](#rule-1:-be-courteous-and-respectful.)
-- [Rule 2: Harassment is not allowed](#rule-2:-harassment-is-not-allowed.)
-- [Rule 2.5: PvP and Harassment](#rule-2.5:-pvp-and-harassment)
+- [Rule 1: Be courteous and respectful](#be-courteous-and-respectful)
+- [Rule 2: Harassment is not allowed](#harassment-is-not-allowed)
+- [Rule 2.5: PvP and Harassment](#pvp-and-harassment)
 
 
-## Rule 1: Be courteous and respectful.
+## Rule 1: 
+## Be Courteous and Respectful
 
 We expect polite behaviour on the server. This means no foul language, no deliberately malicious comments, no bullying of any kind, no racism or prejudice, no sexual harassment, no spawn camping, no threats and no unfair treatment of any kind.
 
@@ -14,13 +15,15 @@ If any user is found to be using any LegionCraft services to upset others, they 
 
 We also encourage users to try and be helpful, friendly and sociable, though these qualities are not enforced.
 
-## Rule 2: Harassment is not allowed.
+## Rule 2: 
+## Harassment is Not Allowed.
 
 Harassment is defined as sexually, emotionally, physically, or verbally abusing another player.
 
 This can be anywhere from insulting a player, abusing PVP, or making strange sexual remarks towards the player.
 
-### Rule 2.5: PvP and Harassment
+### Rule 2.5: 
+### PvP and Harassment
 
 There is a fine line between PVP and harassment:
 
