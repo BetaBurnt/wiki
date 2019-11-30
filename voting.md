@@ -122,13 +122,15 @@ Here you can purchase:
 
 |Item|Cost|Extra Information|
 |---|---|---|
-|Totem of Undying|40 Tokens||
-|$2500|3 Tokens||
-|Slime Crystal|5 Tokens|Right click with the item it gives to check if the chunk you are in is a slime chunk|
-|Colour Palette|15 Tokens|Drop the item it gives you onto an item you want to rename and you can then rename it with colours!|
-|Rainbow Essence|15 Tokens|Use the item given on a glass block to turn it into Rainbow Glass which changes colour every few seconds!  **Note:** Limit of 10 Rainbow Glass blocks per player, and breaking on (you can't break someone elses unless you're BurntValentine) has a chance to return the Essence!|
+|Totem of Undying|30 Tokens||
+|Colour Palette|10 Tokens|Drop the item it gives you onto an item you want to rename and you can then rename it with colours!|
 |Baby Tag|10 Tokens|Forces a mob to stay as a baby for life! Renames at the same time as a normal nametag (if the mob is an adult when used it'll change to a baby)|
-|Return/DeathPoint Ticket|20 Tokens|Acts as either a teleport to your last death point (in DeathPoint mode - default mode when purchased), or your last teleport point (in Return mode - does not take you to death points). Shift right click with one in your hand to change the mode!|
-|Extra Towny Chunk Claim|8 Tokens|An additional chunk claim for your town - You **must** be the town mayor to do this!|
+|Slime Crystal|3 Tokens|Right click with the item it gives to check if the chunk you are in is a slime chunk|
+|Rainbow Essence|10 Tokens|Use the item given on a glass block to turn it into Rainbow Glass which changes colour every few seconds!  **Note:** Limit of 10 Rainbow Glass blocks per player, and breaking on (you can't break someone elses unless you're BurntValentine) has a chance to return the Essence!|
+|Return/DeathPoint Ticket|15 Tokens|Acts as either a teleport to your last death point (in DeathPoint mode - default mode when purchased), or your last teleport point (in Return mode - does not take you to death points). Shift right click with one in your hand to change the mode!|
+|$5000|4 Tokens||
+|Scratch Card|15 Tokens|Has a chance to give either $25000, $50000, $75000 or a smaller chance of $0|
+|Raffle Ticket|35 Tokens|Has a chance to give much higher amounts of money than a Scratch Card, but with a higher chance of $0|
+|Extra Towny Chunk Claim|5 Tokens|An additional chunk claim for your town - You **must** be the town mayor to do this!|
 |V.O.I.D. Access|20 Tokens|Grants you 6 hours of VOID usage from the time of purchase. You can toggle it through the `/utils` menu - when on it will remove all "junk" items while digging or mining (cobblestone, stone, andesite, diorite, granite, gravel, sand, dirt)|
 |Random Legendary MD Item|200 Tokens|Get a random MD Legendary drop!|
