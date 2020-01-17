@@ -76,7 +76,7 @@ There are different packages available for different sets of disguises - when yo
 |Farmyard Package|Pig, Cow, Sheep, Chicken, Mushroom Cow, Horse, Donkey and Mule|
 |Nether/End Package|Blaze, Magma Cube, Pig Zombie, Endermite, Silverfish and Wither Skeleton|
 |Hostile Package|Skeleton Horse, Zombie Horse, Creeper, Skeleton, Stray, Husk, Zombie, Spider, Cave Spider, Slime and Guardian|
-|Non-Hostile Package|Bat, Ocelot, Wolf, Polar Bear, Rabbit and Squid|
+|Non-Hostile Package|Bat, Ocelot, Cat, Wolf, Polar Bear, Rabbit and Squid|
 |1.11/1.12 Package|Evoker, Vindicator, Illusioner, Vex, Parrot and Llama|
 |1.13 Package|Cod, Salmon, Pufferfish, Tropical Fish, Turtle, Dolphin, Drowned and Phantom|
 |1.14/1.15 Package|Fox, Panda, Wandering Trader, Trader Llama, Pillager and Ravager|
