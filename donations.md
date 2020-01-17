@@ -19,8 +19,6 @@ As a quick run down so you don't need to scroll down to find what you're looking
 These are __donations__ - any donations go towards the upkeep of the server and any costs for future chages/additions etc... 
 As such refunds are **not applicable**. Please be sure that you can afford to and that you have permission to if it is with somebody elses money before you donate!
 
-The donations you can purchase are split into a couple of groups - General Donations, Chat Colours, Disguises, Trails and Others.
-
 
 # General Donations
 
