@@ -79,7 +79,7 @@ There are different packages available for different sets of disguises - when yo
 |Non-Hostile Package|Bat, Ocelot, Cat, Wolf, Polar Bear, Rabbit and Squid|
 |1.11/1.12 Package|Evoker, Vindicator, Illusioner, Vex, Parrot and Llama|
 |1.13 Package|Cod, Salmon, Pufferfish, Tropical Fish, Turtle, Dolphin, Drowned and Phantom|
-|1.14/1.15 Package|Fox, Panda, Wandering Trader, Trader Llama, Pillager and Ravager|
+|1.14/1.15 Package|Fox, Bee, Panda, Wandering Trader, Trader Llama, Pillager and Ravager|
 |Objects Package|Boats, Minecarts, Item Drops, Falling Blocks, Ender Crystals and Shulker Bullets|
 |||
 
