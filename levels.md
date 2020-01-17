@@ -14,7 +14,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |3|$3500||Outlaw, Bandit|
 |4|$5000||Fugitive, Rogue|
 |5|$6500|Portable workbench|Magician, Mage|
-|6|$8000|Ability to use Safari Nets on: Mushroom Cows, Wolves, Ocelots, Squid, Horses, Mules and Donkeys.|Ruffian, Sellsword|
+|6|$8000|Ability to use Safari Nets on: Mushroom Cows, Squid, Horses, Mules and Donkeys.|Ruffian, Sellsword|
 |7|$10000||Warlock|
 |8|$12500||Druid|
 |9|$15000||Wizard, Witch|
@@ -25,13 +25,13 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |14|$27500||Bard|
 |15|$30000| 9 Slot Backpack & First set of Bow Effects (This level gets rocket, critical, critical2, potion and redstone)|Deckhand, Swabbie|
 |16|$35000||Merchant|
-|17|$40000||Sleuth, Detective|
+|17|$40000|Ability to use Safari Nets on: Wolves, Ocelots, Cats and Bees|Sleuth, Detective|
 |18|$45000|A fourth /sethome!|Jester, Performer|
 |19|$50000|Ability to use Safari Nets on: Skeletons, Guardians, Polar Bears and Zombie Pigmen.|Herald|
 |20|$57500|2 Extra Hearts, Ability to toggle The Combiner & ability to have up to 30 player shops.|Noble|
 |21|$65000||Officer, Airman|
 |22|$72500||Engineer, Blacksmith|
-|23|$80000||Lieutenant|
+|23|$80000|Ability to use Safari Nets on: Pandas and Foxes|Lieutenant|
 |24|$87500||Huntsman, Mercenary|
 |25|$95000|Hats & Second set of Bow Particles (This level gets music, ender, witch, anger and spit)|Diver|
 |26|$100000||Viking|
@@ -51,7 +51,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |40|$460000|4 Extra Hearts, Third set of Bow Effects (This level gets burnt, dust, jelly, snowball and totem) & ability to have up to 40 player shops.|Earl, Jarl|
 |41|$500000||Marquis, Marquess|
 |42|$550000||Puppet|
-|43|$600000|Ability to use Safari Nets on: Llamas, Zombie/Skeleton Horses, Evokers, Vindicators and Vex.|Brigadier, Colonel|
+|43|$600000|Ability to use Safari Nets on: Llamas, Trader Llamas Zombie/Skeleton Horses, Evokers, Vindicators and Vex.|Brigadier, Colonel|
 |44|$650000||Sniper|
 |45|$700000|Flashlight ability|Conjuror|
 |46|$750000||Samurai|
@@ -65,7 +65,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |54|$1200000||Paladin|
 |55|$1400000|27 slot backpack|Sultan, Pharaoh|
 |56|$1400000||Assassin, Slayer|
-|57|$1600000||Kaiser, Shogun|
+|57|$1600000|Ability to use Safari Nets on: Pillagers.|Kaiser, Shogun|
 |58|$1600000||Admiral|
 |59|$1800000||Judge|
 |60|$1800000|6 Extra Hearts, Fourth set of Bow Effects (This level gets poof, fire, lavadrips, water and droplets) & ability to have up to 50 player shops.|Summoner|
@@ -75,7 +75,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |64|$2200000||Prince, Princess|
 |65|$2400000|Items picked up will go into your backpack automatically when your inventory is full|Consul|
 |66|$2400000||Thane|
-|67|$2600000||Pontiff|
+|67|$2600000|Ability to use Safari Nets on: Ravagers.|Pontiff|
 |68|$2600000||Duke, Duchess|
 |69|$2800000||Dragon, Wyvern|
 |70|$2800000|7 Extra Hearts & Ability to toggle V.O.I.D.|Champion|
