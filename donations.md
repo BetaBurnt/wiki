@@ -52,6 +52,7 @@ There are also upgrade options so if you buy a single colour title today but lat
 
 **Note**: You can change the colour/s of the title at any time by contacting BurntValentine! The package is for the word itself and the amount of colours you can use - to change the word or how many colours it can have you'd need to either buy a new title or an upgrade!
 
+
 # Disguises
 
 Also somewhat self explanatory - they grant you the ability to disguise yourself as something else! 
@@ -59,27 +60,23 @@ There are different packages available for different sets of disguises - when yo
 
 ## The packages available and what they give you are:
 
-||Disguises It Grants|
+|Package Name|Disguises It Grants|
+|---|---|
 |Humanoid Package|Enderman, Snowman, Iron Golem, Witch, Villager and Zombie Villager|
+|Farmyard Package|Pig, Cow, Sheep, Chicken, Mushroom Cow, Horse, Donkey and Mule|
 |Nether/End Package|Blaze, Magma Cube, Pig Zombie, Endermite, Silverfish and Wither Skeleton|
 |Hostile Package|Skeleton Horse, Zombie Horse, Creeper, Skeleton, Stray, Husk, Zombie, Spider, Cave Spider, Slime and Guardian|
 |Non-Hostile Package|Bat, Ocelot, Wolf, Polar Bear, Rabbit and Squid|
 |1.11/1.12 Package|Evoker, Vindicator, Illusioner, Vex, Parrot and Llama|
 |1.13 Package|Cod, Salmon, Pufferfish, Tropical Fish, Turtle, Dolphin, Drowned and Phantom|
-|Objects Package|Boats, Minecarts, Armor Stands and Item Drops|
+|1.14/1.15 Package|Fox, Panda, Wandering Trader, Trader Llama, Pillager and Ravager|
+|Objects Package|Boats, Minecarts, Item Drops, Falling Blocks, Ender Crystals and Shulker Bullets|
+|||
 
-You can also choose to purchase an individual disguise out of any of the above options - when purchased simply let BurntValentine know which one you want!
+There is also a **Modifications Package** which will allow you to set some specific modifications to the disguises you own. You can view a full list of the modifications each mob has access to on the page ![HERE](dismods.md).
 
-There is also a **Modifications Package** which will grant the following (you require the mob disguise that these are for as well or this package will do nothing):
-- Baby Disguises (all mobs that have a baby form)
-- Professions (Villagers)
-- Held Block Selection (Endermen)
-- Powered (Creepers)
-- Tamed/Angry (Wolves)
-- Collar Colours (Tamed Wolves)
-- Rabbit Types (including the Killer Bunny)
-- Saddles On/Off (Pig)
-- Sheep Colours
+You can also choose to purchase an individual disguise out of any of the above options - when purchased simply let BurntValentine know which one you want! All individual disguises come with that mobs specific modifications!
+
 
 # Trails
 
