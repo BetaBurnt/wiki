@@ -301,6 +301,7 @@ You will have access to both `/dis minecart` and `/dis minecart_furnace`. While 
 Mods for `/dis minecart`:
 - `setBlockInCart <block>` - set the block the minecart carries (including hoppers, tnt etc... so it can look like the other cart types).
 - `setBlockOffset <value>` - offset the position of the block in the minecart.
+
 Mods for `/dis minecart_furnace`:
 - `setFueled` - set the furnace to be lit (this is the only reason it can be used alongside `/dis minecart`, as while that disguise can set the block in it to a furnace, it can't set it to be lit).
 - `setBlockOffset <value>` - offset the position of the furnace in the minecart.
