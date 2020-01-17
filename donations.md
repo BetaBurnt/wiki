@@ -5,6 +5,16 @@
 
 You can purchase donations via our [Donation Store](http://store.legioncraft.co.uk/) at any time - when purchased you should receive anything they grant ingame within 20 minutes (if not let BurntValentine know!).
 
+### Table of Contents
+As a quick run down so you don't need to scroll down to find what you're looking for:
+- [General Donations](#general-donations)
+- [Boosters](#boosters)
+- [Chat Colours](#chat-colours)
+- [Chat Titles](#chat-titles)
+- [Disguises](#disguises)
+- [Trails](#trails)
+- [Others](#others)
+
 **Please Note::**
 These are __donations__ - any donations go towards the upkeep of the server and any costs for future chages/additions etc... 
 As such refunds are **not applicable**. Please be sure that you can afford to and that you have permission to if it is with somebody elses money before you donate!
@@ -73,7 +83,7 @@ There are different packages available for different sets of disguises - when yo
 |Objects Package|Boats, Minecarts, Item Drops, Falling Blocks, Ender Crystals and Shulker Bullets|
 |||
 
-There is also a **Modifications Package** which will allow you to set some specific modifications to the disguises you own. You can view a full list of the modifications each mob has access to on the page ![HERE](dismods.md).
+There is also a **Modifications Package** which will allow you to set some specific modifications to the disguises you own. You can view a full list of the modifications each mob has access to on the page [HERE](dismods.md).
 
 You can also choose to purchase an individual disguise out of any of the above options - when purchased simply let BurntValentine know which one you want! All individual disguises come with that mobs specific modifications!
 
@@ -95,26 +105,29 @@ The modes also alter slightly depending on the particle used - for example if yo
 
 These sets of trails, plus a quick screenshot of what they look like (in various modes) are as follows:
 
-## Colorful Trails Pack
+### Colorful Trails Pack
 - [Breath](https://i.gyazo.com/b6953d3ff15809dbc351ac9fa2f33bab.png) (Old screenshot with an old mode as it is broken in updated plugin - waiting on fix)
 - [Green](https://i.gyazo.com/3fd3c78a285c1f29ef5abc3d97ac8d4c.png)
 - [Fun](https://i.gyazo.com/262191af28054b381f951efa8c8414d8.png)
 - [Spell](https://i.gyazo.com/3e18df5a5070b68fb206071b1f6d8b72.png) (One of the hardest to screenshot.... it looks alright ingamee)
 - [Note](https://i.gyazo.com/6fefeeb7ee3653d73ab99a152d18b93e.png)
-## Burnt Trails Pack
+
+### Burnt Trails Pack
 - [Void](https://i.gyazo.com/9bc613a8e3192d459d458d3e71f5330c.png)
 - [Lava Pop](https://i.gyazo.com/74bd3044a9b126b6284fc61a6d6326f6.png) (Easily the most insane trail)
 - [Smoke](https://i.gyazo.com/b87e2b8726011c555e6069f184ecaa07.png)
 - [Lava](https://i.gyazo.com/03639f8b70c26d1f978f578d45b4e06c.png)
 - [Flame](https://i.gyazo.com/8b69ad07d6664978796d4406cc67d2ad.png)
-## Magic Trails Pack
+
+### Magic Trails Pack
 - [Totem](https://i.gyazo.com/664f9e2eff6dd69b57cbb28d37625841.png)
 - [Ender](https://i.gyazo.com/9378611bf466fbf73a4e0dd3e05519f9.png)
 - [Enchant](https://i.gyazo.com/01ea705bb5f69d96c238ff3305fe4244.png) (Another that is hard to screenshot!)
 - [Magic](https://i.gyazo.com/ab4bea6cb21d7966125aeba99ad6fa59.png)
 - [White Magic](https://i.gyazo.com/9651e7c7cfa370adf962bc47b4ae4873.png)
 - [Witch Magic](https://i.gyazo.com/36ee20329fda2eae773f3e228db25e18.png)
-## Misc Package 1
+
+### Misc Package 1
 - [Slime](https://i.gyazo.com/94c452cae83df778152a1f625c35035d.png)
 - [Angry](https://i.gyazo.com/dde737cba95c9a1c8b09b95471b15c40.png)
 - [Heart](https://i.gyazo.com/8fd7d331650b36a56e2c6a0a1e584228.png)
@@ -122,7 +135,8 @@ These sets of trails, plus a quick screenshot of what they look like (in various
 - [Crit](https://i.gyazo.com/5770a82511699d75288753beba7da32b.png)
 - [Spark](https://i.gyazo.com/29b359d5c9c2fde1905b05d34c4c61cd.png)
 - [EndRod](https://i.gyazo.com/c19041714eeb81b60f3ed518326106d3.png)
-## Misc Package 2
+
+### Misc Package 2
 - [Splash](https://i.gyazo.com/c369e4c4debd448bae3457fb655f48f3.png)
 - [Snowball](https://i.gyazo.com/bb8dba162ec5b54886fcc023df06075f.png)
 - [Water](https://i.gyazo.com/41d28b5c1b5fdc4259b5b7dd24b66db4.png)
@@ -133,11 +147,11 @@ You can also purchase any of above trails individually - just let BurntValentine
 
 There are also two specialist trail types - Rain and Wings! I'll give an example of both but each has variations and can be edited in certain ways.
 
-## Rain
+### Rain
 
 ![rain](https://i.gyazo.com/c1ab618ab12237770ed73fc1ca3d7e20.png)
 
-## Wings
+### Wings
 
 ![wings](https://i.gyazo.com/d01268d3fafe0ee776bb26a082173b4f.png)
 
