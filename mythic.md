@@ -45,8 +45,8 @@ To use them simply pick the item up in your inventory and right click on the ite
 
 To clarify it'll say either:
 - `Armor` - it can be applied to any Helmet, Chestplate, Leggings or Boots.
-- `Weapon` - it can be applied to any Sword, Axe, Bow or Trident.
-- `Tools` - it can be applied to any Pickaxe, Shovel, Hoe, Fishing Rod or Shears.
+- `Weapon` - it can be applied to any Sword, Axe, Bow, Crossbow or Trident.
+- `Tools` - it can be applied to anything in the Weapon types **and** Pickaxe, Shovel, Hoe, Fishing Rod or Shears.
 - `Bladed-tools` - it can be applied to any Sword or Axe
 - `Fortunable-tools` - it can be applied to any Shovel, Pickaxe or Axe.
 - If it says something specific it is only for that type of item - for example if it says Boots it can only be used on boots, nothing else.
@@ -104,11 +104,14 @@ There are a number of different types of Spirit Essence that all do something di
 |Gillyweed|Adds 1 level of Respiration to the armour it is applied to| ✔ | ✘ |
 |Fletching I-III|Adds 1, 2 or 3 levels of Power to the tool it is applied to| ✔ | ✘ |
 |Whetstone I-II|Adds 1 or 2 levels of Sharpness to the tool it is applied to| ✔ | ✘ |
+|Power Shot I-II|Adds 1 or 2 levels of Piercng to the tool it is applied to| ✔ | ✘ |
 |Pickpocket I-II|Adds 1 or 2 levels of Looting to the tool it is applied to| ✔ | ✘ |
 |Scavenger I-II|Adds 1 or 2 levels of Fortune to the tool it is applied to| ✔ | ✘ |
+|Quick Draw I-II|Adds 1 or 2 levels of Quick Charge to the tool it is applied to| ✔ | ✘ |
 |Ignis|Adds a level of Flame to the tool it is applied to| ✔ | ✘ |
 |Incendia|Adds a level of Fire Aspect to the tool it is applied to| ✔ | ✘ |
 |Olympus|Adds a level of Channeling to the tool it is applied to| ✔ | ✘ |
+|Duplication|Adds a level of MultiShot to the tool it is applied to| ✔ | ✘ |
 
 
 
