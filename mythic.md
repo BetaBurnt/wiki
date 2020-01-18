@@ -107,7 +107,7 @@ There are a number of different types of Spirit Essence that all do something di
 |Power Shot I-II|Adds 1 or 2 levels of Piercng to the tool it is applied to| ✔ | ✘ |
 |Pickpocket I-II|Adds 1 or 2 levels of Looting to the tool it is applied to| ✔ | ✘ |
 |Scavenger I-II|Adds 1 or 2 levels of Fortune to the tool it is applied to| ✔ | ✘ |
-|Quick Draw I-II|Adds 1 or 2 levels of Quick Charge to the tool it is applied to| ✔ | ✘ |
+|Quick Draw I-II|Adds 1 or 2 levels of Quick Charge to the tool it is applied to. Please bear in mind that Quick Charge 6+ stops it from working!| ✔ | ✘ |
 |Ignis|Adds a level of Flame to the tool it is applied to| ✔ | ✘ |
 |Incendia|Adds a level of Fire Aspect to the tool it is applied to| ✔ | ✘ |
 |Olympus|Adds a level of Channeling to the tool it is applied to| ✔ | ✘ |
