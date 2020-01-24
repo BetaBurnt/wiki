@@ -96,23 +96,28 @@ Here you can purchase:
 
 |Item|Cost|
 |---|---|
-|Safari Net - Single Use|10 Tokens|
-|Safari Net - Reusable|45 Tokens|
 |Wolf Egg|20 Tokens|
 |Rabbit Egg|12 Tokens|
 |Sheep Egg|12 Tokens|
 |Llama Egg|18 Tokens|
+|Bee Egg|10 Tokens|
+|Cat Egg|18 Tokens|
 |Horse Egg|18 Tokens|
 |Chicken Egg|12 Tokens|
 |Pig Egg|12 Tokens|
 |Parrot Egg|15 Tokens|
 |Turtle Egg|15 Tokens|
-|Ocelot Egg|18 Tokens|
+|Ocelot Egg|15 Tokens|
 |Cow Egg|12 Tokens|
 |Mushroom Cow Egg|15 Tokens|
 |Villager Egg|50 Tokens|
-|Shulker Shell|8 Tokens|
+|Panda Egg|15 Tokens|
+|Fox Egg|15 Tokens|
+|Safari Net - Single Use|8 Tokens|
+|Safari Net - Reusable|60 Tokens|
 |Dragon Breath|12 Tokens|
+|Shulker Shell|8 Tokens|
+
 
 ### Misc Shop
 
