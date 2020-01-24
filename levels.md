@@ -165,4 +165,4 @@ A full list of the titles currently added through your player levels can be foun
 
 #### Upgradable Hoppers
 
-You can read up how to get and use these hoppers (hoppers.md)[HERE]!
+You can read up how to get and use these hoppers [hoppers.md](HERE)!
