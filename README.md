@@ -22,17 +22,18 @@
 - [Donation Store](donations.md)
 
 ### Features
+- [Bonus Bill](bonusbill.md)
+- [Titles](titles.md)
 - [Graves](graves.md)
 - [McMMO Skills](mcmmo.md)
 - [Towny](towny.md)
 - [Brewery](brewery.md)
+- [Upgradable Hoppers](hopper.md)
 - [Utilities](utilities.md)
 - [Getting Married](marriage.md)
 - [Elevators](elevators.md)
 - [Mythic Drops](mythic.md)
-- [Titles](titles.md)
 - [Custom Storage](storage.md)
-- [Bonus Bill](bonusbill.md)
 
 ### Editing the Wiki
 
