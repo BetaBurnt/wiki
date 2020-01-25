@@ -21,11 +21,11 @@ From this GUI you can do a couple of things:
 - Remove the pet you currently have out by clicking on the Cage icon at the bottom.
 
 You can also run these commands to do the same and one thing extra:
-- `/pet pet <pet type>` to summon the pet (note that the GUI is easier for this, as not all pets are named as simply as they are in the GUI).
-- `/pet setname <name>` to rename the pet you have out. This can be up to 25 characters and colour codes can be used!
-- `/pet sit` to tell your pet to sit & stay or get up & follow.
-- `/pet call` to call your pet to your side.
-- `/pet remove` to remove the pet you currently have out.
+- `/mpet pet <pet type>` to summon the pet (note that the GUI is easier for this, as not all pets are named as simply as they are in the GUI).
+- `/mpet setname <name>` to rename the pet you have out. This can be up to 25 characters and colour codes can be used!
+- `/mpet sit` to tell your pet to sit & stay or get up & follow.
+- `/mpet call` to call your pet to your side.
+- `/mpet remove` to remove the pet you currently have out.
 
 ### *There are a few things to note regarding these pets*:
 
