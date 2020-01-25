@@ -13,6 +13,7 @@ As a quick run down so you don't need to scroll down to find what you're looking
 - [Chat Titles](#chat-titles)
 - [Disguises](#disguises)
 - [Trails](#trails)
+- [Pets](#pets)
 - [Others](#others)
 
 **Please Note::**
@@ -152,6 +153,11 @@ There are also two specialist trail types - Rain and Wings! I'll give an example
 ### Wings
 
 ![wings](https://i.gyazo.com/d01268d3fafe0ee776bb26a082173b4f.png)
+
+
+# Pets
+
+You can read up on the Pets and Pet Packages [HERE](pets.md)!
 
 
 # Others
