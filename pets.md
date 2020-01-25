@@ -51,3 +51,4 @@ On top of this there are a couple of pet packs that will gran access to multiple
 |PokéPack|The Charmander, Bulbasaur and Squirtle Pets|$12.00|$3.00|
 |Halloween Pack|The Ghost, Headless Horseman, Pumpkin Kid and Scarecrow Pets|$15.00|$5.00|
 |Jungle Pack|The Gorilla, Monkey and Sloth Pets|$12.00|$3.00|
+|Fish Pack|The Flying Fish, Flying Cod, Flying Salmon and Flying Clownfish Pets|$15.00|$5.00|
