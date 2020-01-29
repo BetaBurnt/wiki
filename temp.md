@@ -13,12 +13,12 @@ For example they are way more likely to give harsher punishments for someone who
 
 Quicklinks:
 - [Rule 1: Be Courteous and Respectful](#be-courteous-and-respectful)
-- [Rule 1a: Keep the Chat Clean](#keep-the-chat-clean)
+  - [Rule 1a: Keep the Chat Clean](#keep-the-chat-clean)
 - [Rule 2: Harassment is Not Allowed](#harassment-is-not-allowed)
-- [Rule 2a: PvP and Harassment](#pvp-and-harassment)
+  - [Rule 2a: PvP and Harassment](#pvp-and-harassment)
 - [Rule 3: Griefing is Not Allowed](#griefing-is-not-allowed)
-- [Rule 3a: Placement Grief](#placement-grief)
-- [Rule 3b: Raiding](#raiding)
+  - [Rule 3a: Placement Grief](#placement-grief)
+  - [Rule 3b: Raiding](#raiding)
 - [Rule 4: Keep the Environment Nice](#keep-the-environment-nice)
 - [Rule 5: Super Farming is Not Allowed](#super-farming-is-not-allowed)
 - [Rule 6: No Client Mods (with exceptions)](#no-client-mods)
