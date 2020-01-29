@@ -25,8 +25,8 @@ Quicklinks:
 - [Rule 7: No Alt Accounts](#no-alt-accounts)
 - [Rule 8: No Pointless Bugging of the Staff](#no-pointless-bugging-of-the-staff)
 - [Rule 9: Report All Bugs](#report-all-bugs)
-- [The Staff Policy on Other Forms of Media](#the-staff-policy-on-other-forms-of-media)
 - [General Punishment Guidelines](#general-punishment-guidelines)
+- [The Staff Policy on Other Forms of Media](#the-staff-policy-on-other-forms-of-media)
 
 
 
