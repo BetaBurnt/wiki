@@ -233,7 +233,7 @@ If you continue to toe the line for harrassment for example you will then be mor
 - New players (trolls..) breaking this rule straight off the bat and over and over again will be warned and banned straight away if they continue, they will not be muted or tempbanned (with a forum appeal posted).
 ### Rule 2/2a: Harrassment/PvP Harrassment:
 - Minor instances of harrassment will result in a warning and/or kicks/mutes depending on the situation. If the player persists then it will result in a tempban or a permanent ban (with appeal).
-- Major instances would depend heavily on the situatio0n but very likely a tempban or permanent ban (with or without appeal depending on the situation).
+- Major instances would depend heavily on the situation but very likely a tempban or permanent ban (with or without appeal depending on the situation).
 ### Rule 3/3a/3b: Grief and Unfair Riaiding:
 - Minor instances, such as breaking a few blocks by accident and not fixing/reporting it correctly or placement grief to get of an area the first time rather than teleporting, will result in warnings not to do so again. Continued instances will result in temp or permanent bans (with appeal).
 - Major instances, such as demolishing part of someones build, will result in a permanent ban (with appeal).
