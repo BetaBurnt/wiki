@@ -41,7 +41,7 @@ This basically boils down to:
 We also encourage users to try and be helpful, friendly and sociable - particularly to players new to our server - though these qualities are not enforced.
 
 ### Rule 1a:
-#### Keep the Chat Clean
+## Keep the Chat Clean
 
 - You may swear on the server in general conversation, but swearing maliciously at another player is prohibited. Being overly crude in general, swearing or otherwise, is also prohibited.
 - Excessive swearing is also not allowed - it is annoying and offputting to new players. Don't go overboard.
