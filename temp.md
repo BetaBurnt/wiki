@@ -1,17 +1,5 @@
 ![ribbon](images/L-ribbon.png) 
 
-## General Clarifications To Keep In Mind
-
-Just because you can do something in Vanilla Minecraft/singleplayer does **not** mean it is okay on the server. 
-Mega farms may be something you can make in singleplayer/Vanilla for example, but this is a multiplayer server where a lot of people will have their games ruined if everybody has stupid amounts of money/skills/items and the economy is ruined.
-
-As a general rule of thumb, ontop of the below rules, **use some common sense**. Just because something is not **explicitly** stated on here does not mean it is okay - if it may **possibly** fit into one of our rules then it is likely not okay - check with staff first.
-
-And while there is a list of the general guidelines for the punishments we will give for rule breaking - this is ultimately down to staff discretion at the time. 
-For example they are way more likely to give harsher punishments for someone who comes on and starts breaking rules immediately (whether they've read the rules or not, as you have **no** excuse not to know the rules of the server you're playing on), than if an older player slips up and breaks a rule by accident even if it was the same rule broken.
-
-
-Quicklinks:
 - [Rule 1: Be Courteous and Respectful](#be-courteous-and-respectful)
   - [Rule 1a: Keep the Chat Clean](#keep-the-chat-clean)
 - [Rule 2: Harassment is Not Allowed](#harassment-is-not-allowed)
@@ -27,6 +15,17 @@ Quicklinks:
 - [Rule 9: Report All Bugs](#report-all-bugs)
 - [General Punishment Guidelines](#general-punishment-guidelines)
 - [The Staff Policy on Other Forms of Media](#the-staff-policy-on-other-forms-of-media)
+
+## General Clarifications To Keep In Mind
+
+Just because you can do something in Vanilla Minecraft/singleplayer does **not** mean it is okay on the server. 
+Mega farms may be something you can make in singleplayer/Vanilla for example, but this is a multiplayer server where a lot of people will have their games ruined if everybody has stupid amounts of money/skills/items and the economy is ruined.
+
+As a general rule of thumb, ontop of the below rules, **use some common sense**. Just because something is not **explicitly** stated on here does not mean it is okay - if it may **possibly** fit into one of our rules then it is likely not okay - check with staff first.
+
+And while there is a list of the general guidelines for the punishments we will give for rule breaking - this is ultimately down to staff discretion at the time. 
+For example they are way more likely to give harsher punishments for someone who comes on and starts breaking rules immediately (whether they've read the rules or not, as you have **no** excuse not to know the rules of the server you're playing on), than if an older player slips up and breaks a rule by accident even if it was the same rule broken.
+
 
 
 
@@ -263,9 +262,3 @@ Unfair raiding would depend on the situation. Shooting someones chickens over a 
 
 ## The Staff Policy on Other Forms of Media
 The moderation team will not act on any forms of hate/problems outside of LC related media. If the issue in question happened anywhere outside of the server, discord or forums, it is not our responsibility and please do not bring it over to LC!
-
-
-
-
-
-
