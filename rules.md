@@ -6,10 +6,10 @@
   - [Rule 2a: PvP and Harassment](#pvp-and-harassment)
 - [Rule 3: Griefing is Not Allowed](#griefing-is-not-allowed)
   - [Rule 3a: Placement Grief](#placement-grief)
-  - [Rule 3b: Raiding](#raiding)
+  - [Rule 3b: Unfair Raiding](#unfair-raiding)
 - [Rule 4: Keep the Environment Nice](#keep-the-environment-nice)
 - [Rule 5: Super Farming is Not Allowed](#super-farming-is-not-allowed)
-- [Rule 6: No Client Mods (with exceptions)](#no-client-mods)
+- [Rule 6: Client Mod Limitations)](#client-mod-limitations)
 - [Rule 7: No Alt Accounts](#no-alt-accounts)
 - [Rule 8: No Pointless Bugging of the Staff](#no-pointless-bugging-of-the-staff)
 - [Rule 9: Report All Bugs](#report-all-bugs)
@@ -28,7 +28,7 @@ For example they are way more likely to give harsher punishments for someone who
 
 
 
-
+### Rule 1:
 ## Be Courteous and Respectful
 This basically boils down to:
 - No deliberately malicious comments.
@@ -40,7 +40,8 @@ This basically boils down to:
 
 We also encourage users to try and be helpful, friendly and sociable - particularly to players new to our server - though these qualities are not enforced.
 
-### Keep the Chat Clean
+### Rule 1a:
+#### Keep the Chat Clean
 
 - You may swear on the server in general conversation, but swearing maliciously at another player is prohibited. Being overly crude in general, swearing or otherwise, is also prohibited.
 - Excessive swearing is also not allowed - it is annoying and offputting to new players. Don't go overboard.
@@ -52,13 +53,15 @@ We also encourage users to try and be helpful, friendly and sociable - particula
 - Please avoid topics in the server chat that are very likely to cause arguments and if they seem to be starting one, or annoying other players, drop the conversation. Obvious touchy topics being religious beliefs and politics, and the things touched on in Rule #1 but anything that causes arguments etc... should be dropped, not continued.
 
 
+### Rule 2:
 ## Harassment is Not Allowed.
 Harassment can be defined as sexually, emotionally, physically, or verbally abusing another player. 
 
 This can be anywhere from insulting a player, abusing PVP, or making strange sexual remarks towards the player. 
 Please also be aware that just because you might find something acceptable to do/say in your own circle of friends in real life does not mean that it **is** acceptable when speaking to people online who do not know you or what you are or are not being serious about.
 
-### PvP and Harassment
+### Rule 2a:
+## PvP and Harassment
 There is a fine line between PVP and harassment. For example these would definitely fall under harrassment and are not allowed:
 - Camping outside a players home to attack them.
 - Setting a home teleport in or near their house etc.. to get back to attack them whenever you want to.
@@ -68,6 +71,7 @@ There is a fine line between PVP and harassment. For example these would definit
 In general, as stated at the top of the page, just use some common sense. PVP **is allowed** but don't take the piss/cause problems with it.
 
 
+### Rule 3:
 ## Griefing is Not Allowed
 "Don't grief" basically means "**don't touch what isn't yours**". 
 In most cases sticking by this will avoid you being banned for griefing - if it's not naturally generated or your own stuff, leave it alone..
@@ -79,7 +83,8 @@ There are a few exceptions to this:
 HOWEVER - If you break a block and do not replace it/report it immediately, and it is reported by another player or staff find it hours later, then it will be treated as a grief regardless of how it happened.
 If you break blocks in order to specifically get into someones house/build etc.. and it is found then that *IS* grief, whether it was replaced or not. We can generally figure out if this was the case by the number of blocks broken and whether anything else happened inside the area.
 
-### Placement Grief
+### Rule 3a:
+## Placement Grief
 If you place a block in someone elses build area that is as much griefing as it is to break things. Unless you have been given permission to place in/edit the area by the player who lives there do not place or break anything.
 
 If you get into an area someone else has built, either because it's not entirely walled off or the doors/gates are not locked, and fall down into an area you cannot jump up out of, then the smart thing to do would be to use a `/home`, `/t spawn`, go to `/spawn` or `/tpa` to someone instead.
@@ -87,7 +92,8 @@ Placing a block to get out and then leaving it there is placement grief, as ther
 
 >Note that none of this applies to the Resource world, Nether or the End - All of these worlds are free for all. Do not build/live in them (aside from them being griefable they will also be reset regularly).
 
-### Raiding
+### Rule 3b:
+## Unfair Raiding
 Raiding IS allowed with some restrictions.
 
 Fair Raiding, which **is allowed**, includes:
@@ -113,6 +119,7 @@ If you come across a fenced off farm or animal pen you may **NOT**:
 - Use safari nets to catch mobs from a walled/fenced off area.
 
 
+### Rule 4:
 ## Keep the Environment Nice
 - Lava/water pillars, 1x1 holes or towers, or any other structure in the Survival world that serves no purpose and ruins the landscape are susceptible to removal.
 - When getting logs, try to cut down the whole tree. No floating logs and leaves please.
@@ -124,6 +131,7 @@ If you come across an area near you that you did not notice that has been built 
 If the player has been on more recently than 45 days, and/or it's a large build that may be shared between players, it is not permitted to be touched/moved in any way except by the people who own it.
 
 
+### Rule 5:
 ## Super Farming is Not Allowed
 This is a very grey area, but generally having resource gathering mechanisms is allowed so long as:
 - **They don't cause any problems with the server economy.**
@@ -152,7 +160,8 @@ These limitations are - in part - in place because some jobs are grindable while
 It should also be noted that any mechanism that you use while AFK are prohibited from the server, such as slides that push you around with water to bump your acrobatics, AFK fish farming or any other bug/glitch/unintentional feature (whether it is caused by Minecraft itself or a plugin we have added). This includes going AFK near spawners or dark rooms to build up an excessive amount of mobs at once.
 
 
-## No Client Mods
+### Rule 6:
+## Client Mod Limitations
 With some exceptions. 
 We particularly discourage the use of modifications that allow or cause:
 
@@ -191,17 +200,20 @@ If a mod is not on this list, ask an admin/owner first to make sure it is allowe
 This rule also applies to doing *ANYTHING* with the intention of crashing the server, or another players client, or causing damage to the server itself. We have protections in place to stop the majority of this but if we find what we know to be an item made for this purpose you will be banned - whether it worked or not - and will not have an appeal posted.
 
 
+### Rule 7:
 ## No Alt Accounts
 There is seriously no need/reason/point to having an alt account unless you use one for development purposes. Which you will never need on another persons server - so no.
 
 This extends to the use of Bots - regardless of what they are for/do, they are not a server feature and are not welcome on the server.
 
 
+### Rule 8:
 ## No Pointless Bugging of the Staff
 Don’t bother asking for OP, rank ups, or any special treatment - it only reduces your chances of getting them in the future.
 No PMC reviewers, we know they aren't real and even on the slightest chance you are telling the truth, you will still NOT get any special treatment. The same applies to people requesting fly for making videos etc...
 If you say our name and we don’t reply, that means we are busy. If it is a staff matter use `/report [message]`, if it is a personal matter use `/mail send [playername] [message]` or message us on the forums/discord and we will get to you when we are available.
 
+### Rule 9:
 ### Staff Warnings
 Just because it is not on this list does not mean the staff can’t warn you for it, there will be times where a rule isn’t posted on here, you do whatever isnt posted and the staff team deems it inappropriate, for this you will receive a warning. Should you continue this act you will be banned from the server.
 
