@@ -29,6 +29,7 @@
 - [Towny](towny.md)
 - [Brewery](brewery.md)
 - [Upgradable Hoppers](hopper.md)
+- [Liquid Tanks](tanks.md)
 - [Utilities](utilities.md)
 - [Getting Married](marriage.md)
 - [Elevators](elevators.md)
