@@ -80,7 +80,6 @@ There are different packages available for different sets of disguises - when yo
 |1.13 Package|Cod, Salmon, Pufferfish, Tropical Fish, Turtle, Dolphin, Drowned and Phantom|
 |1.14/1.15 Package|Fox, Bee, Panda, Wandering Trader, Trader Llama, Pillager and Ravager|
 |Objects Package|Boats, Minecarts, Item Drops, Falling Blocks, Ender Crystals and Shulker Bullets|
-|||
 
 There is also a **Modifications Package** which will allow you to set some specific modifications to the disguises you own. You can view a full list of the modifications each mob has access to on the page [HERE](dismods.md).
 
