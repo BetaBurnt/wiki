@@ -8,7 +8,6 @@
 - [TeaLights](#tealights)
 - [Lanterns](#lanterns)
 - [Clocks](#clocks)
-- [Sound Muffler](#sound-muffler)
 - [Drops of Purity](#drops-of-purity)
 - [Effect Bombs](#effect-bombs)
 - [Home Storage](#home-storage)
@@ -101,17 +100,6 @@ Add the dye you wish to use in the bottom middle slot to change the colour of th
 
 **Note::** You can get the chimneys, tealights and lanterns while in creative with `/deco`!
 Clocks and Recycle Bins currently cannot be gotten in Creative, as they're more for the utility than the effects.
-
-
-### Sound Muffler
-
-Farm animals annoying you? Sound of your nether portal driving you up the wall? Place a sound muffler by them! It'll muffle most sounds in a 16 block radius of where it is placed!
-
-To craft it simply surround a noteblock with white wool:
-
-![muffler](images/muffler.png)
-
-Note that the placed block is actually an armour stand - you can move through it. It is annoyingly not placed centrally though, and if you place it under the ceiling the physically visible part of the armour stand will be inside the block above.
 
 
 ### Drops of Purity
@@ -319,3 +307,16 @@ An alternative to the plant pot in MineCraft - you can now create 16 different d
 ![plants](images/pottedplants.png)
 
 The crafting recipe is simple - one plant pot and 3 of the plant it's for (shapeless recipe - the plant the pot is for is above the pot in the above image)!
+
+
+
+
+### Sound Muffler -- DISABLED DUE TO BUGS IN 1.15.2 FOR NOW
+
+Farm animals annoying you? Sound of your nether portal driving you up the wall? Place a sound muffler by them! It'll muffle most sounds in a 16 block radius of where it is placed!
+
+To craft it simply surround a noteblock with white wool:
+
+![muffler](images/muffler.png)
+
+Note that the placed block is actually an armour stand - you can move through it. It is annoyingly not placed centrally though, and if you place it under the ceiling the physically visible part of the armour stand will be inside the block above.
