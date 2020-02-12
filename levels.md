@@ -136,9 +136,32 @@ You can double check the cost to rank up, and perks/titles gained at any level w
 
 ##### The Combiner
 
-`/combine` to toggle this on/off (You can do this through the `/util` menu too).
+`/combine` will bring up a menu where you can toggle the feature on/off (with the top icon) and enable/disable which of the listed items it will attempt to combine as you pick them up:
 
->When enabled this will cause any Glowstone, Redstone, Quartz, Lapis, Iron/Gold Ingots, Diamonds, Emeralds, Iron/Gold Nuggets or Coal you pick up to automatically be converted into their respective blocks (or ingots for the nuggets) as you pick them up!
+![combiner](images/combiner.png)
+
+For example in the above image the Combiner is enabled, and will attempt to combine all of the items listed except for coal, redstone, lapis and bones.
+
+The Combiner will attempt to combine the following if enabled in the above menu:
+
+|Items picked up (amount of)|Combined Output|
+|---|---|
+|Coal (9)|1 Coal Block|
+|Iron Nugget (9)|1 Iron Ingot|
+|Iron Ingot (9)|1 Iron Block|
+|Gold Nugget (9)|1 Gold Ingot|
+|Gold Ingot (9)|1 Gold Block|
+|Redstone Dust (9)|1 Redstone Block|
+|Lapis Lazuli (9)|1 Lapis Lazuli Block|
+|Glowstone Dust (4)|1 Glowstone Block|
+|Nether Quartz (4)|1 Quartz Block|
+|Diamond (9)|1 Diamond Block|
+|Emerald (9)|1 Emerald Block|
+|Rotten Flesh (9)|1 Leather|
+|Bone (4)|1 Bone Block|
+
+**Note::** This only triggers in the item pick up event - for example if you have the options for combining Iron Nuggets and Iron Ingots enabled, the Ingots you get from picked up Nuggets **will not** combine unless you drop them and pick them back up.
+
 
 ##### The Item Magnet
 
