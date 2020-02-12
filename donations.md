@@ -16,6 +16,8 @@ As a quick run down so you don't need to scroll down to find what you're looking
 - [Pets](#pets)
 - [Others](#others)
 
+- [Monthly Donation Drive](#monthly-donation-drive)
+
 **Please Note::**
 These are __donations__ - any donations go towards the upkeep of the server and any costs for future chages/additions etc... 
 As such refunds are **not applicable**. Please be sure that you can afford to and that you have permission to if it is with somebody elses money before you donate!
@@ -200,3 +202,17 @@ The options you have when creating a brew are:
 - How long it needs to be barrel aged
 - How strong you want the alcohol content to be (can be 0 - ie non-alcoholic)
 - Whether you want the recipe book for it to be added to the mob drops, just to be given to you or not have a recipe book at all!
+
+
+
+## Monthly Donation Drive
+
+In addition to the perks above that you will receive for donating to the server, as an extra thank you if we manage to cover the servers monthly costs just in donations for that month there is now also an additional reward!
+
+Each month every paid for donations (ie not freebies that used coupon codes) will be added to and count towards the new Donation Drive goal - which is set at $75 currently (to cover the costs of the forums, donation store and the system the server runs on).
+
+If that months goal of $75 is reached then a 12 hour Booster will drop on the 1st of the following month! Each month will rotate between whether this is a 12 hour Jobs XP Booster or a 12 Hour mcMMO XP Booster but if the goal was reached this will always drop at **6:30PM UK/Server time on the 1st of the following month**!
+
+A few notes regarding this:
+- Any additional donations in that month **do not** count towards future drive goals, it is reset to $0 on the 1st of each month.
+- The drive boosters will work alongside normal player boosters so if there are any active when the drive booster drops, or if you activate any while the drive booster is activated, it'll add time as normal!
