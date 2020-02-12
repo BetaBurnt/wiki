@@ -35,6 +35,7 @@
 - [Elevators](elevators.md)
 - [Mythic Drops](mythic.md)
 - [Custom Storage](storage.md)
+- [The Collector](collector.md)
 
 ### Editing the Wiki
 
