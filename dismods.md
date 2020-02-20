@@ -3,9 +3,8 @@
 # Disguise Modifications
 
 This page will keep a rough list of the modifications each disguise can use. 
-This is mostly due to the fact that command tab complete will show you *all* of the modifications the plugin has for that disguise, when you will not have access to them all.
 
-To use a disguise modification simply type `/dis <mob/object>` into the chat, put a space and it will list the mods that disguise has. Either find the ones you want and have access to or type them out. If you put another space it'll bring up the options available for that mod in most cases (if it brings up the mods list again there are no options it's just an on/off thing, and some it won;'t react to but they'll be listed below). 
+To use a disguise modification simply type `/dis <mob/object>` into the chat, put a space and it will list the mods that disguise has. If you put another space it'll bring up the options available for that mod in most cases (if it brings up the mods list again there are no options it's just an on/off thing, and for some it won't react to but they'll be listed below). 
 
 As an example example to be a baby fox you would do `/dis fox setBaby` or to set yourself as a red fox specifically `/dis fox setType RED`.
 
