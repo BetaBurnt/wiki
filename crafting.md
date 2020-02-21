@@ -67,7 +67,8 @@ The same can be done for all ore blocks, simply replace the Iron Ingots with eit
 
 ### Name Tag
 
-![Name Tag](images/nametag.png)
+![Name Tag](images/nametag.png)<br>
+Any type of sign may be used!
 
 ### Grass
 
