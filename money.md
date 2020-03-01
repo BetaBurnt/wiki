@@ -54,7 +54,7 @@ To check your stats, and how much job exp you need to get to the next job level 
 The Handyman is the 'average at a lot of things', 'good at nothing in particular' kind of job - it will pay you for a wider range of things than other jobs but with a lower income compared to any other job that's had the same effort put into them to level them up.
 This job pays for:
 - Breaking/Mining -- Oak/Spruce/Jungle/Birch/Acacia/Dark Oak Leaves, Coarse Dirt, Snow/Snow Blocks, Nether Bricks, Nether Brick Stairs/Fences, Prismarine, Dark Prismarine, Prismarine Bricks, Bookshelves, Bone Blocks, Chorus Plants/Flowers, Lily Pads, Any Flowers, Tall/Long Grass, Ferns, Large Ferns and Vines. 
-- Crafting -- Wooden Shovel/Sword/Axe/Pickaxe, Leather Helmet/Chestplate/Leggings/Boots and Golden Carrots/Apples.
+- Crafting -- Wooden Shovel/Sword/Axe/Pickaxe, Leather Helmet/Chestplate/Leggings/Boots, Leather Horse Armour, Honeycomb/Honey Blocks, Campfires, Cartography Tables, Lecterns, Looms, Any Banner Patterns and Golden Carrots/Apples.
 - Cooking/Smelting -- Dried Kelp, Popped Chorus Fruit, Charcoal and Bricks.
 - Killing -- Bats, Cod, Salmon, Pufferfish, Tropical Fish, Silverfish, Endermite, Slimes, Elder Guardians and Ender Dragons.
 - Fishing -- Any Music Discs, Sea Grass and Sea Pickles.
@@ -68,13 +68,13 @@ However you will also lose a small amount of income/job XP when:
 ### Cook
 The Cook will receive an income for cooking! 
 This job pays for:
-- Crafting -- Cookies, Bread, Beetroot Soup, Mushroom/Rabbit Stew, Cakes, Pumpkin Pies, Buckets and Bowls.
+- Crafting -- Cookies, Bread, Beetroot Soup, Mushroom/Rabbit/Suspicious Stew, Cakes, Pumpkin Pies, Buckets and Bowls.
 - Cooking/Smelting -- Baked Potato and Cooked Cod/Salmon/Chicken/PorkChop/Beed/Mutton/Rabbit.
 
 ### Blacksmith
 Blacksmiths will receive an income for crafting weapons and armour, and making the materials needed for them!
 This jobs pays for:
-- Crafting -- Iron/Gold/Diamond Shovels/Swords/Axes/Pickaxes, Bows, Arrows, Iron/Chainmail/Gold/Diamond Helmets/Chestplates/Leggings/Boots, Furnaces, Brewing Stands, Cauldrons, Iron Bars and Fire Charges.
+- Crafting -- Iron/Gold/Diamond Shovels/Swords/Axes/Pickaxes, Bows, Crossbows, Arrows, Iron/Chainmail/Gold/Diamond Helmets/Chestplates/Leggings/Boots, Furnaces, Blast Furnaces, Fletching Tables, Grindstones, Smithing Tables, Smokers, Stonecutters, Brewing Stands, Cauldrons, Iron Bars, Fire Charges and Lanterns.
 - Cooking/Smelting -- Iron/Gold Ingots, Stone, Terracotta and Glass.
 
 ### Woodcutter
@@ -108,26 +108,33 @@ This job will, however, also deduct a small amount of pay for:
 ### Farmer
 Farmers receive an income for sowing their seeds and bringing in the harvest!
 This job pays for:
-- Breaking/Mining -- Wheat, Potatoes, Carrots, Beetroot, Sugar Cane, Pumpkins, Melons, Cocoa Beans, Brown/Red Mushrooms, Cacti and Nether Warts.
-- Placing -- Melon/Pumpkin Seeds (stems... whatever).
+- Breaking/Mining -- Wheat, Potatoes, Carrots, Beetroot, Sugar Cane, Pumpkins, Melons, Cocoa Beans, Brown/Red Mushrooms, Cacti, Bamboo, Nether Warts.
+- Placing -- Melon/Pumpkin Seeds (stems... whatever), Bee Hives and Sweet Berry Bushes.
 - Shearing -- Any Sheep.
-- Crafting -- Iron/Gold/Diamond Hoes.
+- Collecting -- From Bee Hives/Nests, Composters and Sweet Berry Bushes.
+- Crafting -- Iron/Gold/Diamond Hoes and Composters.
 
 This job will, however, also deduct a small amount of pay for:
-- Breaking/Mining -- Melon/Pumpkin Stems and any Coral Fans.
-- Placing -- Melon/Pumpkin Blocks and Sugar Cane.
+- Breaking/Mining -- Melon/Pumpkin Stems, Any Coral Fans, Bee Nests/Hives and Sweet Berry Bushes.
+- Placing -- Melon/Pumpkin Blocks, Bamboo and Sugar Cane.
 
 ### Hunter
 Hunters receive an income for hunting some of the nasties of the world!
 This job pays for:
-- Killing -- Chickens, Sheep, Pigs, Cows, Mooshrooms, Horses, Donkeys, Mules, Llamas, Rabbits, Turtles, Dolphins, Squid, Creepers, Ocelots, Wolves, Polar Bears, Skeletons, Spiders, Zombies, Zombie Villagers and Elder Guardians.
+- Killing -- Chickens, Sheep, Pigs, Cows, Mooshrooms, Horses, Donkeys, Mules, Llamas, Rabbits, Turtles, Dolphins, Squid, Creepers, Ocelots, Wolves, Trader Llamas, Polar Bears, Skeletons, Spiders, Zombies, Zombie Villagers, Wandering Traders and Elder Guardians.
 - Crafting -- Iron/Diamond Axes/Swords.
+
+This job will, however, also deduct a small amount of pay for:
+- Killing -- Bees, Foxes and Pandas. Yes this stacks if you're both a Hunter and a Witch Hunter.
 
 ### Witch Hunter
 WitchHunters receive an income for hunting the mobs that Hunters generally steer clear of!
 This job pays for:
-- Killing -- Pig Zombies, Blazes, Ghasts, Magma Cubes, Enderman, Shulkers, Guardians, Husks, Strays, Drowned, Skeleton/Zombie Horse, Evokers, Vindicators, Vex, Phantoms, Witches, Wither Skeletons, Withers and Elder Guardians.
+- Killing -- Pig Zombies, Blazes, Ghasts, Magma Cubes, Enderman, Shulkers, Guardians, Husks, Strays, Drowned, Skeleton/Zombie Horse, Evokers, Vindicators, Pillagers, Ravagers, Vex, Phantoms, Witches, Wither Skeletons, Withers and Elder Guardians.
 - Crafting -- Golden Axes/Swords and Bows.
+
+This job will, however, also deduct a small amount of pay for:
+- Killing -- Bees, Foxes and Pandas. Yes this stacks if you're both a Hunter and a Witch Hunter.
 
 ### Fisherman
 Fisherman are paid for playing with their rod and tackle!
@@ -147,7 +154,7 @@ This job pays for:
 ### Enchanter
 Enchanters are paid for using their enchantment tables!
 This job pays for:
-- Enchanting -- Books, Any Sword/Axe/Pickaxe/Shovel/Helmet/Chestplate/Leggings/Boots, Bows, Fishing Rods and Tridents.
+- Enchanting -- Books, Any Sword/Axe/Pickaxe/Shovel/Helmet/Chestplate/Leggings/Boots, Bows, Crossbows, Fishing Rods and Tridents.
 The job also receives a boost on the income based on what enchantments you apply, and the level of the enchantment!
 
 
