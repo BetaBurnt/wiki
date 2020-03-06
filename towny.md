@@ -59,8 +59,8 @@ The costs of setting up and running your town/nation are as follows:
 
 - To create the town itself it will cost you $5000 from your own balance - so please make sure that you are sure of where you wish to build, and have the funds, before setting it up as this will not be refunded if you change your mind!
 - To create a nation it will cost you $50000 from your own balance.
-- To claim extra chunks it will withdraw $150 from your town bank for each chunk you claim.
-- To claim an outpost (a chunk of land not connected to the rest of your town) it will withdraw $500 from your town bank for each outpost claimed.
+- To claim extra chunks it will withdraw $300 from your town bank for each chunk you claim.
+- To claim an outpost (a chunk of land not connected to the rest of your town) it will withdraw $1500 from your town bank for each outpost claimed.
 - The daily tax/upkeep to keep the town is $5000 per day for your town, and $50000 each day for a nation, which is taken from the town/nation bank balance. This will increase the more residents there are in your town, and the more towns there are in your nation - Make sure to keep an eye on the costs and your town/nation bank balance at all times!
 
 Only a town/nation owner can withdraw from the bank with `/t withdraw [amount]` and `/n withdraw [amount]`! If you are not the owner please be sure that you wish to donate your money to the bank before depositing it!
@@ -78,8 +78,8 @@ Towny allows the use of multiple chat channels to allow you to speak to specific
 These channels are:
 
 - `/g` - The Global channel which you are in by default and allows all players on the server to see what you are saying.
-- `/tc` - The Town channel which allows only residents of your own town to see what you are saying.
-- `/nc` - The Nation channel which allows residents of all towns in your nation to see what you are saying.
+- `/tchat` - The Town channel which allows only residents of your own town to see what you are saying.
+- `/nchat` - The Nation channel which allows residents of all towns in your nation to see what you are saying.
 
 
 ## Notes
