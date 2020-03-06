@@ -32,7 +32,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |21|$65000|Ability to have up to 3 Upgradable Hoppers.|Officer, Airman|
 |22|$72500||Engineer, Blacksmith|
 |23|$80000|Ability to use Safari Nets on: Pandas and Foxes|Lieutenant|
-|24|$87500||Huntsman, Mercenary|
+|24|$87500|Ability to create JumpPads, and GravityTubes up to 10 blocks high.|Huntsman, Mercenary|
 |25|$95000|Hats|Diver|
 |26|$100000||Viking|
 |27|$120000|Ability to use Safari Nets on: Slimes, Magma Cubes, Endermites and Silverfish.|Butler, Maid|
@@ -42,7 +42,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |31|$200000||Maiden|
 |32|$220000|Ability to use Safari Nets on: Dolphins and Turtles.|Captain,Cap'n|
 |33|$240000|A fifth /sethome!|Father, Mother|
-|34|$260000||Priest, Priestess|
+|34|$260000|Ability to create GravityTubes up to 10 blocks high.|Priest, Priestess|
 |35|$280000|Ability to use Silk Touch on spawners & Access to the Item Magnet|Disciple, Scholar|
 |36|$300000|Ability to use Safari Nets on: Creepers, Blazes, Witches, Endermen, Wither Skeletons and Shulkers.|Lord, Lady|
 |37|$340000||Viscount|
@@ -52,7 +52,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |41|$500000||Marquis, Marquess|
 |42|$550000||Puppet|
 |43|$600000|Ability to use Safari Nets on: Llamas, Trader Llamas Zombie/Skeleton Horses, Evokers, Vindicators and Vex.|Brigadier, Colonel|
-|44|$650000||Sniper|
+|44|$650000|Ability to create GravityTubes up to 10 blocks high.|Sniper|
 |45|$700000|Flashlight ability|Conjuror|
 |46|$750000||Samurai|
 |47|$800000|A sixth /sethome!|Marshall|
@@ -62,7 +62,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |51|$1000000|Access to `/feed` (fully feeds your hunger bar) once per day & Bonus Bill's monetary rewards will be 5x as much.|Gnome, Harpy|
 |52|$1000000||Professor|
 |53|$1200000|Ability to have up to 7 Upgradable Hoppers.|Regent|
-|54|$1200000||Paladin|
+|54|$1200000|Ability to create GravityTubes up to 10 blocks high.|Paladin|
 |55|$1400000|27 slot backpack|Sultan, Pharaoh|
 |56|$1400000||Assassin, Slayer|
 |57|$1600000|Ability to use Safari Nets on: Pillagers.|Kaiser, Shogun|
@@ -72,7 +72,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |61|$2000000||Vampire, Zombie|
 |62|$2000000|A seventh /sethome!|Spirit|
 |63|$2200000||Praetor|
-|64|$2200000||Prince, Princess|
+|64|$2200000|Ability to create GravityTubes up to 10 blocks high.|Prince, Princess|
 |65|$2400000|Items picked up will go into your backpack automatically when your inventory is full|Consul|
 |66|$2400000||Thane|
 |67|$2600000|Ability to use Safari Nets on: Ravagers.|Pontiff|
