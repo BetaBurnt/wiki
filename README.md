@@ -23,6 +23,7 @@
 
 ### Features
 - [Bonus Bill](bonusbill.md)
+- [The Collector](collector.md)
 - [Titles](titles.md)
 - [Graves](graves.md)
 - [McMMO Skills](mcmmo.md)
@@ -35,7 +36,7 @@
 - [Elevators](elevators.md)
 - [Mythic Drops](mythic.md)
 - [Custom Storage](storage.md)
-- [The Collector](collector.md)
+- [JumpPads/GravityTubes](jpgt.md)
 
 ### Editing the Wiki
 
