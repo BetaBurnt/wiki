@@ -296,16 +296,18 @@ For some modifications you can simply type the setting rather than the setting a
 Of the 4 main modifications, only `setGlowing` will work with boat disguises.
 
 ## Minecarts
-You will have access to both `/dis minecart` and `/dis minecart_furnace`. While hopped/tnt etc.. minecarts can be used they are pointless as they add no new modifications normal minecart disguises have, and you can set the block the minecart carries anyway.
+You will have access to `/dis minecart`, `/dis minecart_chest`, `/dis minecart_tnt`, `/dis minecart_hopper` and `/dis minecart_furnace`. Note that while hopper/tnt/chest minecarts can be used they add no new modifications normal minecart disguises don't already have, and you can set the block the minecart carries anyway.
 Mods for `/dis minecart`:
 - `setBlockInCart <block>` - set the block the minecart carries (including hoppers, tnt etc... so it can look like the other cart types).
+
+Mods for `/dis minecart`, `/dis minecart_chest`, `/dis minecart_hopper` and `/dis minecart_tnt`:
 - `setBlockOffset <value>` - offset the position of the block in the minecart.
 
 Mods for `/dis minecart_furnace`:
 - `setFueled` - set the furnace to be lit (this is the only reason it can be used alongside `/dis minecart`, as while that disguise can set the block in it to a furnace, it can't set it to be lit).
 - `setBlockOffset <value>` - offset the position of the furnace in the minecart.
 
-Of the 4 main modifications, only `setGlowing` will work with minecart disguises.
+Of the 4 main modifications, only `setGlowing` will work with the minecart disguises.
 
 ## Item Drops
 - `setItemStack <item>` - set the item you appear as.
