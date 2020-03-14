@@ -24,7 +24,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |13|$25000||Ensign|
 |14|$27500||Bard|
 |15|$30000| 9 Slot Backpack, First set of Bow Effects (This level gets Default, Magic Crit, Sparks, Music and Redstone), Access to `/tfly` to toggle flight on only in your own towns claimed area|Deckhand, Swabbie|
-|16|$35000||Merchant|
+|16|$35000|First set of Elytra Effects (This level gets Default, Magic Crit, Sparks, Music and Redstone)|Merchant|
 |17|$40000|Ability to use Safari Nets on: Wolves, Ocelots, Cats and Bees|Sleuth, Detective|
 |18|$45000|A fourth /sethome!|Jester, Performer|
 |19|$50000|Ability to use Safari Nets on: Skeletons, Guardians, Polar Bears and Zombie Pigmen.|Herald|
@@ -37,7 +37,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |26|$100000||Viking|
 |27|$120000|Ability to use Safari Nets on: Slimes, Magma Cubes, Endermites and Silverfish.|Butler, Maid|
 |28|$140000|Ability to open Shulker Boxes in your hand by shift right clicking with them!|Sprite|
-|29|$160000||Corsair, Buccaneer|
+|29|$160000|Second set of Elytra Effects (This level gets Swirls, Dust, Spell, Angry and Spit)|Corsair, Buccaneer|
 |30|$180000|18 slot backpack and 3 Extra Hearts|Major, Commander|
 |31|$200000||Maiden|
 |32|$220000|Ability to use Safari Nets on: Dolphins and Turtles.|Captain,Cap'n|
@@ -50,7 +50,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |39|$420000||Forsaken, Rover|
 |40|$460000|4 Extra Hearts, Third set of Bow Effects (This level gets Smoke, Ender Breath, Lava, Water and Honey) & ability to have up to 40 player shops.|Earl, Jarl|
 |41|$500000||Marquis, Marquess|
-|42|$550000||Puppet|
+|42|$550000|Third set of Elytra Effects (This level gets Glowstone, Ender Breath, Lava, Water and Honey)|Puppet|
 |43|$600000|Ability to use Safari Nets on: Llamas, Trader Llamas Zombie/Skeleton Horses, Evokers, Vindicators and Vex.|Brigadier, Colonel|
 |44|$650000|Ability to create GravityTubes up to 10 blocks high.|Sniper|
 |45|$700000|Flashlight ability|Conjuror|
@@ -76,7 +76,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |65|$2400000|Items picked up will go into your backpack automatically when your inventory is full|Consul|
 |66|$2400000||Thane|
 |67|$2600000|Ability to use Safari Nets on: Ravagers.|Pontiff|
-|68|$2600000||Duke, Duchess|
+|68|$2600000|Fourth set of Elytra Effects (This level gets Cloud, Flames, Sneeze, Nautilus and Hearts)|Duke, Duchess|
 |69|$2800000||Dragon, Wyvern|
 |70|$2800000|7 Extra Hearts & Ability to toggle V.O.I.D.|Champion|
 |71|$3000000|Access to `/feed` (fully feeds your hunger bar) twice per day.|Centurion|
@@ -93,7 +93,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |82|$4500000||Alpha|
 |83|$5000000|Access to `/back` to go back to your last location (note that this is your last **Teleport** location - to go back to where you died you will require a DeathPoint Ticket). Note that this may *NOT* be used for PvP purposes.|Shadow, Dark|
 |84|$5000000||Beta|
-|85|$5500000||Nightmare, Reaper|
+|85|$5500000|Fifth set of Elytra Effects (This level gets Sparkles, Totem, End Rod, Dark Magic and Nether)|Nightmare, Reaper|
 |86|$5500000||Gamma|
 |87|$6000000|9 Extra Hearts|Ballista, Berserker|
 |88|$6000000||Delta|
@@ -108,7 +108,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |97|$16000000|Ability to have up to 20 Upgradable Hoppers.|Warden|
 |98|$18000000||Celestial|
 |99|$20000000||Burnt, Valentine|
-|100|$25000000|10/Max Extra Hearts and Final set of Bow Effects (This level gets Colourful and Rainbow)|Legionnaire|
+|100|$25000000|10/Max Extra Hearts, Final set of Bow Effects and Elytra Effects (This level gets Colourful and Rainbow for both)|Legionnaire|
 
 >For all heart increases you need to relog when you go up to that level to load the changes!
 
