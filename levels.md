@@ -23,7 +23,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |12|$22500|Ability to use Safari Nets on: Zombies, Spiders and Cave Spiders.|Recruit, Private|
 |13|$25000||Ensign|
 |14|$27500||Bard|
-|15|$30000| 9 Slot Backpack, Access to `/tfly` to toggle flight on only in your own towns claimed area|Deckhand, Swabbie|
+|15|$30000| 9 Slot Backpack, First set of Bow Effects (This level gets Default, Magic Crit, Sparks, Music and Redstone), Access to `/tfly` to toggle flight on only in your own towns claimed area|Deckhand, Swabbie|
 |16|$35000||Merchant|
 |17|$40000|Ability to use Safari Nets on: Wolves, Ocelots, Cats and Bees|Sleuth, Detective|
 |18|$45000|A fourth /sethome!|Jester, Performer|
@@ -33,7 +33,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |22|$72500||Engineer, Blacksmith|
 |23|$80000|Ability to use Safari Nets on: Pandas and Foxes|Lieutenant|
 |24|$87500|Ability to create JumpPads, and GravityTubes up to 10 blocks high.|Huntsman, Mercenary|
-|25|$95000|Hats|Diver|
+|25|$95000|Hats, Second set of Bow Effects (This level gets Dust, Swirls, Spell, Angry and Spit)|Diver|
 |26|$100000||Viking|
 |27|$120000|Ability to use Safari Nets on: Slimes, Magma Cubes, Endermites and Silverfish.|Butler, Maid|
 |28|$140000|Ability to open Shulker Boxes in your hand by shift right clicking with them!|Sprite|
@@ -48,7 +48,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |37|$340000||Viscount|
 |38|$380000|Ability to have up to 5 Upgradable Hoppers.|Baron, Baroness|
 |39|$420000||Forsaken, Rover|
-|40|$460000|4 Extra Hearts & ability to have up to 40 player shops.|Earl, Jarl|
+|40|$460000|4 Extra Hearts, Third set of Bow Effects (This level gets Smoke, Ender Breath, Lava, Water and Honey) & ability to have up to 40 player shops.|Earl, Jarl|
 |41|$500000||Marquis, Marquess|
 |42|$550000||Puppet|
 |43|$600000|Ability to use Safari Nets on: Llamas, Trader Llamas Zombie/Skeleton Horses, Evokers, Vindicators and Vex.|Brigadier, Colonel|
@@ -68,7 +68,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |57|$1600000|Ability to use Safari Nets on: Pillagers.|Kaiser, Shogun|
 |58|$1600000||Admiral|
 |59|$1800000||Judge|
-|60|$1800000|6 Extra Hearts & ability to have up to 50 player shops.|Summoner|
+|60|$1800000|6 Extra Hearts, Fourth set of Bow Effects (This level gets Cloud, Flames, Sneeze, Nautilus and Hearts) & ability to have up to 50 player shops.|Summoner|
 |61|$2000000||Vampire, Zombie|
 |62|$2000000|A seventh /sethome!|Spirit|
 |63|$2200000||Praetor|
@@ -88,7 +88,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |77|$3750000|An eighth /sethome!|Nephilim|
 |78|$3750000|Ability to use Safari Nets on: Phantoms|Demon|
 |79|$4000000||Angel|
-|80|$4000000|8 Extra Hearts|Emperor, Empress|
+|80|$4000000|8 Extra Hearts and Fifth set of Bow Effects (This level gets Sparkles, Totem, End Rod, Boom and Nether)|Emperor, Empress|
 |81|$4500000|Access to use `/feed` (fully feeds your hunger bar) three times per day.|Phoenix, Titan, Hydra, Sylph|
 |82|$4500000||Alpha|
 |83|$5000000|Access to `/back` to go back to your last location (note that this is your last **Teleport** location - to go back to where you died you will require a DeathPoint Ticket). Note that this may *NOT* be used for PvP purposes.|Shadow, Dark|
@@ -108,7 +108,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |97|$16000000|Ability to have up to 20 Upgradable Hoppers.|Warden|
 |98|$18000000||Celestial|
 |99|$20000000||Burnt, Valentine|
-|100|$25000000|10/Max Extra Hearts|Legionnaire|
+|100|$25000000|10/Max Extra Hearts and Final set of Bow Effects (This level gets Colourful and Rainbow)|Legionnaire|
 
 >For all heart increases you need to relog when you go up to that level to load the changes!
 
