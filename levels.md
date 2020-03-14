@@ -126,9 +126,11 @@ You can double check the cost to rank up, and perks/titles gained at any level w
 `/bp` or `/backpack`
 >Note that items in your backpack do not drop when you die.
 
-##### Bow Effects:
+##### Bow and Elytra Effects:
 
-`/bowmenu` to list the effects you have unlocked, choose which to use and/or toggle them on/off!
+`/bmenu` to list the bow effects you have unlocked, choose which to use and/or toggle them on/off! These effects will trail any arrow you fire from a bow or crossbow!
+
+`/emenu` to list the elytra effects you have unlocked, choose which to use and/or toggle them on/off! These effects will trail you while you glide with an elytra!
 
 ##### Hats
 
