@@ -13,7 +13,9 @@ If you punch a shop sign and do not want to purchase from/sell to that shop simp
 >Note that some item names will not fit on the sign for the shop - when you punch the sign to buy/sell it will state what is being sold in full in the chat!
 
 **PLEASE NOTE::**
-Shop teleports are **just** for shops. They are not to be used to give public access to villager trades or to mob spawners/grinders. Setting these up for your friends or town members to access is fine, but not for every player on the server to access at any time they like.
+
+**Shop teleports are just for shop use.** 
+They are **not** to be used to give public access to villager trades or to mob spawners/grinders. Setting these up for your friends or town members to access is fine, but not for every player on the server to access at any time they like.
 
 ## Admin/Pawn Shop
 
