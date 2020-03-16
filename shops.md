@@ -12,11 +12,6 @@ If you punch a shop sign and do not want to purchase from/sell to that shop simp
 
 >Note that some item names will not fit on the sign for the shop - when you punch the sign to buy/sell it will state what is being sold in full in the chat!
 
-**PLEASE NOTE::**
-
-**Shop teleports are just for shop use.** 
-They are **not** to be used to give public access to villager trades or to mob spawners/grinders. Setting these up for your friends or town members to access is fine, but not for every player on the server to access at any time they like.
-
 ## Admin/Pawn Shop
 
 ![admin](images/ashop.jpg)
@@ -26,18 +21,24 @@ There is a shop at spawn (on the island to the right when you go to `/spawn`, or
 
 ## Shop Teleports
 
-You can use various commands to allow others to teleport to your shop and to add your shop to a list of advertised shops.
+You can use various commands to allow others to teleport to your shop and to add your shop to a list for all to see.
+
+**PLEASE NOTE::**
+
+**Shop teleports are just for shop use.** 
+They are **not** to be used to give public access to villager trades or to mob spawners/grinders. Setting these up for your friends or town members to access is fine, but not for every player on the server to access at any time they like.
+
 
 Commands:
-- Set your shop tp where you are with `/setshop`
-- Go to your own shop with `/shop`
-- Teleport to another players shop, if they have one, with `/shoptp <name>`
-- Delete your shop teleport *and* advert with `/delshop`
-- Lock/unlock your shop teleport with `/shoplock`
+- Set your shop tp where you are and add it to the shops list with `/setpshop`
+- Go to your own shop with `/pshop`
+- Teleport to another players shop, if they have one, with `/pshop <name>`
+- Delete your shop teleport and remove it from the list with `/delpshop` (any set lore for the shop will remain)
 
-- List shops that have bought an advert in a menu, and click them to go to them, with `/shops`
-- Set the message in your advert (colour codes allowed) with `/shopadvert <message>`
-- Remove the message/lore entirely from your advert with `/clearshopadvert`
-- Buy an advert in the /shops listing (which costs $5000) with `/buyadvert`
-
-Shop adverts will last till the end of the month, regardless of when you buy it, as the adverts will wipe on the 1st of each month. If/when the plugin devs adds timed adverts their end I'll use that instead but for now it's an all or nothing advert wipe and I'd rather keep inactive shops out of the list.
+- List all shops and click their icon to go to them with `/pshops`
+- Set the lore for your shop in this list (colour codes allowed) with `/setpshoplore <1-4> <message>`
+**Note that you can't have gaps in the lore lines, so if you enter 3 as the lore line in the command but don't have text in lines 1 or 2 it'll set it in the lowest free space**
+- Delete the lore of the set line from your shop in this list with `/delpshoplore <1-4>`
+**Note as above, can't have gaps in the lore lines, so if you had 4 lines set and delete line 3 it will move the text in line 4 down to line 3**
+- Set the icon for your shop in the shops list to the item in your hand with `/setpshopicon`
+**Note - Base item only, no name/lore/enchants etc.. will carry over**
