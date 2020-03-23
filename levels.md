@@ -59,7 +59,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |48|$850000|Ability to use Safari Nets on: Drowned, Husks and Strays.|Ninja|
 |49|$900000||Magister, Prefect|
 |50|$950000|5 Extra Hearts|General|
-|51|$1000000|Access to `/feed` (fully feeds your hunger bar) once per day & Bonus Bill's monetary rewards will be 5x as much.|Gnome, Harpy|
+|51|$1000000|Bonus Bill's monetary rewards will be 5x as much.|Gnome, Harpy|
 |52|$1000000||Professor|
 |53|$1200000|Ability to have up to 7 Upgradable Hoppers.|Regent|
 |54|$1200000|Ability to create GravityTubes up to 10 blocks high.|Paladin|
@@ -79,7 +79,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |68|$2600000|Fourth set of Elytra Effects (This level gets Cloud, Flames, Sneeze, Nautilus and Hearts)|Duke, Duchess|
 |69|$2800000||Dragon, Wyvern|
 |70|$2800000|7 Extra Hearts & Ability to toggle V.O.I.D.|Champion|
-|71|$3000000|Access to `/feed` (fully feeds your hunger bar) twice per day.|Centurion|
+|71|$3000000||Centurion|
 |72|$3000000||Count, Countess|
 |73|$3250000|Ability to have up to 10 Upgradable Hoppers.|Guardian, Protector|
 |74|$3250000||Elder|
@@ -89,7 +89,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |78|$3750000|Ability to use Safari Nets on: Phantoms|Demon|
 |79|$4000000||Angel|
 |80|$4000000|8 Extra Hearts and Fifth set of Bow Effects (This level gets Sparkles, Totem, End Rod, Boom and Nether)|Emperor, Empress|
-|81|$4500000|Access to use `/feed` (fully feeds your hunger bar) three times per day.|Phoenix, Titan, Hydra, Sylph|
+|81|$4500000||Phoenix, Titan, Hydra, Sylph|
 |82|$4500000||Alpha|
 |83|$5000000|Access to `/back` to go back to your last location (note that this is your last **Teleport** location - to go back to where you died you will require a DeathPoint Ticket). Note that this may *NOT* be used for PvP purposes.|Shadow, Dark|
 |84|$5000000||Beta|
@@ -99,7 +99,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |88|$6000000||Delta|
 |89|$7000000||Shield Master, Shield Maiden|
 |90|$7000000||Omega|
-|91|$8000000|Access to /heal (fully feeds your hunger bar and heals your health) once per day.|Daeva, ArchFiend|
+|91|$8000000||Daeva, ArchFiend|
 |92|$8000000|A ninth, final /sethome!|Esper|
 |93|$9000000||Spectre, Revenant|
 |94|$10000000|Access to `/fly` to toggle creative fly when in Survival. Note that this may *NOT* be used for accessing other players build areas or for PvP.|Lifeless, Zombified|
