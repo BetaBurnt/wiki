@@ -4,7 +4,7 @@
 
 You can now purchase and upgrade special hoppers!
 
-To purchase your upgradable hopper simply do `/uhopper get` - note that this costs $2500.
+To purchase your upgradable hopper simply do `/uhopper get` - note that this costs $10000. You can also do `/uhopper get <amount>` to get more than 1 at once.
 This hopper will be locked to you - it will have no use for normal block locks and does not push items to a chest under it like a Vanilla hopper!
 
 These hoppers work very differently!
