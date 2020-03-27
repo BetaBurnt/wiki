@@ -9,7 +9,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 
 |Level|Cost|Perks|Titles|
 |---|---|---|---|
-|1|Free|Ability to use Safari Nets on: Cows, Sheep, Chickens, Pigs, Bats and Rabbits,  ability to have up to 20 player shops & ability to have 1 Upgradable Hopper.|Visitor, Commoner, Peasant|
+|1|Free|Ability to use Safari Nets on: Cows, Sheep, Chickens, Pigs, Bats and Rabbits &  ability to have up to 20 player shops|Visitor, Commoner, Peasant|
 |2|$2000||Villager|
 |3|$3500||Outlaw, Bandit|
 |4|$5000||Fugitive, Rogue|
@@ -29,7 +29,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |18|$45000|A fourth /sethome!|Jester, Performer|
 |19|$50000|Ability to use Safari Nets on: Skeletons, Guardians, Polar Bears and Zombie Pigmen.|Herald|
 |20|$57500|2 Extra Hearts, Ability to toggle The Combiner & ability to have up to 30 player shops.|Noble|
-|21|$65000|Ability to have up to 3 Upgradable Hoppers.|Officer, Airman|
+|21|$65000||Officer, Airman|
 |22|$72500||Engineer, Blacksmith|
 |23|$80000|Ability to use Safari Nets on: Pandas and Foxes|Lieutenant|
 |24|$87500|Ability to create JumpPads, and GravityTubes up to 10 blocks high.|Huntsman, Mercenary|
@@ -39,14 +39,14 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |28|$140000|Ability to open Shulker Boxes in your hand by shift right clicking with them!|Sprite|
 |29|$160000|Second set of Elytra Effects (This level gets Swirls, Dust, Spell, Angry and Spit)|Corsair, Buccaneer|
 |30|$180000|18 slot backpack and 3 Extra Hearts|Major, Commander|
-|31|$200000||Maiden|
+|31|$200000|Access to get your own Upgradeable Hoppers.|Maiden|
 |32|$220000|Ability to use Safari Nets on: Dolphins and Turtles.|Captain,Cap'n|
 |33|$240000|A fifth /sethome!|Father, Mother|
 |34|$260000|Ability to create GravityTubes up to 10 blocks high.|Priest, Priestess|
 |35|$280000|Ability to use Silk Touch on spawners & Access to the Item Magnet|Disciple, Scholar|
 |36|$300000|Ability to use Safari Nets on: Creepers, Blazes, Witches, Endermen, Wither Skeletons and Shulkers.|Lord, Lady|
 |37|$340000||Viscount|
-|38|$380000|Ability to have up to 5 Upgradable Hoppers.|Baron, Baroness|
+|38|$380000||Baron, Baroness|
 |39|$420000||Forsaken, Rover|
 |40|$460000|4 Extra Hearts, Third set of Bow Effects (This level gets Smoke, Ender Breath, Lava, Water and Honey) & ability to have up to 40 player shops.|Earl, Jarl|
 |41|$500000||Marquis, Marquess|
@@ -61,7 +61,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |50|$950000|5 Extra Hearts|General|
 |51|$1000000|Bonus Bill's monetary rewards will be 5x as much.|Gnome, Harpy|
 |52|$1000000||Professor|
-|53|$1200000|Ability to have up to 7 Upgradable Hoppers.|Regent|
+|53|$1200000||Regent|
 |54|$1200000|Ability to create GravityTubes up to 10 blocks high.|Paladin|
 |55|$1400000|27 slot backpack|Sultan, Pharaoh|
 |56|$1400000||Assassin, Slayer|
@@ -81,7 +81,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |70|$2800000|7 Extra Hearts & Ability to toggle V.O.I.D.|Champion|
 |71|$3000000||Centurion|
 |72|$3000000||Count, Countess|
-|73|$3250000|Ability to have up to 10 Upgradable Hoppers.|Guardian, Protector|
+|73|$3250000||Guardian, Protector|
 |74|$3250000||Elder|
 |75|$3500000|36 slot backpack|King, Queen|
 |76|$3500000||Dictator|
@@ -105,7 +105,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |94|$10000000|Access to `/fly` to toggle creative fly when in Survival. Note that this may *NOT* be used for accessing other players build areas or for PvP.|Lifeless, Zombified|
 |95|$12000000|45 slot backpack|Saint|
 |96|$14000000||Risen, Necromancer|
-|97|$16000000|Ability to have up to 20 Upgradable Hoppers.|Warden|
+|97|$16000000||Warden|
 |98|$18000000||Celestial|
 |99|$20000000||Burnt, Valentine|
 |100|$25000000|10/Max Extra Hearts, Final set of Bow Effects and Elytra Effects (This level gets Colourful and Rainbow for both)|Legionnaire|
