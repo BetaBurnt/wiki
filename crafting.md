@@ -110,3 +110,4 @@ You can use any 3 of the same sapling to get 2 of their respective block of leav
 - Smooth Quartz from smelting plain Quartz Blocks has been added (again, normally a 1.14+ thing - note that smooth quartz looks like normal quartz in 1.13.2 without texture packs).
 - 8 Concrete Powder of the same colour around an Ice Block = 8 Concrete of the same colour.
 - 4 Bones in a 2x2 square will give you 1 Bone Block (loss compared to Vanilla bonemeal > bone block, but less steps to make and less inventory space to mass produce bone blocks).
+- 4 Grass or 4 Fern placed anywhere in a crafting table or your inventory crafting (shapeless) = 1 Tall Grass or 1 Tall Fern.
