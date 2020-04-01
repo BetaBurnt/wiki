@@ -57,6 +57,7 @@ Most of the liquid types also give the tank some different features as well! The
 - [Milk Tanks](#milk-tanks)
 - [Mushroom Soup Tanks](#mushroom-soup-tanks)
 - [Rabbit Stew and Beetroot Soup Tanks](#rabbit-stew-and-beetroot-soup-tanks)
+- [Honey Tanks](#honey-tanks)
 - [Dragon Breath Tanks](#dragon-breath-tanks)
 
 
@@ -109,6 +110,14 @@ Note that it's done by XP level not by units like other liquids so if you have 3
 ![beetroottanks](images/beetroottanks.png)
 
 - Standing under a powered rabbit stew or beetroot soup tank when hungry will use 1 unit of stew and feed you.
+
+
+## Honey Tanks
+
+![honeyranks](images/honeytanks.png)
+
+- As with the other food-related tanks, standing under a powered honey tank when hungry will provide saturation.
+- These can be filled automatically by placing them one below an active beehive/nest.
 
 
 ## Dragon Breath Tanks
