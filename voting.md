@@ -78,8 +78,10 @@ Here you can purchase:
 |Obsidian Spade|20 Tokens|Diamond Shovel with Efficiency 3, Unbreaking 4 and Fortune 2|
 |Emerald Spade|40 Tokens|Diamond Shovel with Efficiency 5, Unbreaking 5 and Fortune 4|
 |Crystal Scoop|100 Tokens|Diamond Shovel with Efficiency 6, Unbreaking 5 and Fortune 6|
-|Antique Bow|8 Tokens|Bow with Power 5, Punch 2, Unbreaking 3 and Looting 2|
+|Antique Bow|15 Tokens|Bow with Power 5, Punch 2, Unbreaking 3 and Looting 2|
 |Crystal Longbow|100 Tokens|Bow with Power 7, Punch 4, Unbreaking 5 and Looting 4, Infinity|
+|Antique Crossbow|15 Tokens|Crossbow with Looting 2, Piercing 3, Quick Charge 2 and Unbreaking 3|
+|Crystal Arbalest|100 Tokens|Crossbow with Looting 4, Multishot, Piercing 7, Quick Charge 4 and Unbreaking 5|
 |Antique Pole|8 Tokens|Fishing Rod with Luck 2, Lure 2 and Unbreaking 2|
 |Obsidian Rod|20 Tokens|Fishing Rod with Luck 7 and Unbreaking 5|
 |Emerald Rod|40 Tokens|Fishing Rod with Lure 5 and Unbreaking 5|
