@@ -334,4 +334,6 @@ For the differing colours just stick the relevant dye in the center slot!
 
 When you place your own post box only youw ill be able to right click it to open the contents - other players will be either be told whose postbox it is on right click, or if they are holding a packaged item will drop the package into your postbox on right click!
 
-Note that postboxes ae limited to 3 rows/27 items - if someones postbox is full you cannot send them anything else!
+Simply right click while holding a package to open it!
+
+Note that postboxes are limited to 3 rows/27 items - if someones postbox is full you cannot send them anything else!
