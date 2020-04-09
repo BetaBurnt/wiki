@@ -12,6 +12,7 @@
 - [Effect Bombs](#effect-bombs)
 - [Home Storage](#home-storage)
 - [Potted Plants](#potted-plants)
+- [Player Gifts and PostBoxes](#player-gifts-and-postboxes)
 
 
 
@@ -311,12 +312,26 @@ The crafting recipe is simple - one plant pot and 3 of the plant it's for (shape
 
 
 
-### Sound Muffler -- DISABLED DUE TO BUGS IN 1.15.2 FOR NOW
+# Player Gifts and PostBoxes
 
-Farm animals annoying you? Sound of your nether portal driving you up the wall? Place a sound muffler by them! It'll muffle most sounds in a 16 block radius of where it is placed!
+Want to send someone an item but they're not online, and you don't know where you can leave it for them? Post it to them!
 
-To craft it simply surround a noteblock with white wool:
+You can now craft Packing Paper so you can wrap up items as gifts. To craft simply put a piece of string and a piece of paper anywhere in a crafting table - when you have the packing paper in your inventory hold the item stack you want to send and do `/wrap` to package it up ready!
 
-![muffler](images/muffler.png)
+Once you have packaged the items up correctly, you can send them by holding them and doing `/gift <player to send to>` and it will automatically be sent to them!
 
-Note that the placed block is actually an armour stand - you can move through it. It is annoyingly not placed centrally though, and if you place it under the ceiling the physically visible part of the armour stand will be inside the block above.
+If the player in question is online at the time they will be told that they have been sent a gift in the ingame chat at the time - if they were not online they will be sent a notification when they log in next!
+
+To retrieve your gifts you can either right click on the red postbox located at the server spawn - which will work for all players - or you can craft your own postboxes which come in a variety of colours and will only work for the person who places them!
+
+![postboxes](images/postboxes.png)
+
+You can craft your own postbox following this recipe:
+
+![postboxrecipe](images/postboxrecipe.png)
+
+For the differing colours just stick the relevant dye in the center slot!
+
+When you place your own post box only youw ill be able to right click it to open the contents - other players will be either be told whose postbox it is on right click, or if they are holding a packaged item will drop the package into your postbox on right click!
+
+Note that postboxes ae limited to 3 rows/27 items - if someones postbox is full you cannot send them anything else!
