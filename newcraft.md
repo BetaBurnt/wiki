@@ -332,7 +332,7 @@ You can craft your own postbox following this recipe:
 
 For the differing colours just stick the relevant dye in the center slot!
 
-When you place your own post box only youw ill be able to right click it to open the contents - other players will be either be told whose postbox it is on right click, or if they are holding a packaged item will drop the package into your postbox on right click!
+When you place your own post box only you will be able to right click it to open the contents - other players will be either be told whose postbox it is on right click, or if they are holding a packaged item will drop the package into your postbox on right click!
 
 Simply right click while holding a package to open it!
 
