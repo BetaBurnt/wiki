@@ -25,7 +25,7 @@ Each tank placed can be filled with one of the following liquids:
 - Beetroot Stew
 - Dragon Breath
 - Experience
-(Potentially Honey in the next plugin update)
+- Honey
 
 Each one of these has a different amount that can be stored as well! 
 These are as follows:
@@ -37,6 +37,7 @@ These are as follows:
 - Beetroot Stew - 24 units.
 - Dragon Breath - 50 units.
 - Experience - 30 levels.
+- Honey - 50 units.
 
 For the most part this works as 3 units per bucket and 1 unit for each bottle/bowl used. 
 For Experience the meter given on the tank is the amount of XP levels the tank contains, so each bottle will not add 1 to the value.
