@@ -46,7 +46,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |35|$280000|Ability to use Silk Touch on spawners & Access to the Item Magnet|Disciple, Scholar|
 |36|$300000|Ability to use Safari Nets on: Creepers, Blazes, Witches, Endermen, Wither Skeletons and Shulkers.|Lord, Lady|
 |37|$340000||Viscount|
-|38|$380000||Baron, Baroness|
+|38|$380000|Access to the FastCraft workbench!|Baron, Baroness|
 |39|$420000||Forsaken, Rover|
 |40|$460000|4 Extra Hearts, Third set of Bow Effects (This level gets Smoke, Ender Breath, Lava, Water and Honey) & ability to have up to 40 player shops.|Earl, Jarl|
 |41|$500000||Marquis, Marquess|
