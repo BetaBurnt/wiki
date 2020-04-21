@@ -119,6 +119,7 @@ In the above case for example I have the combiner on (the toaster in the top row
 - 4 Quartz > 1 Quartz Block
 - 9 Rotten Flesh > 1 Leather
 - 9 Nether Warts > 1 Nether Wart Block
+- 9 Wheat > 1 Haybale
 
 However I have these options disabled so it won't process them:
 - 9 Iron Nuggets > 1 Iron Ingot
@@ -128,9 +129,11 @@ However I have these options disabled so it won't process them:
 - 4 Bones > 1 Bone Block
 - 3 Wheat > 1 Bread
 
-You can also access this menu directly via `/combiner`.
+Note that only one of the two Wheat options can be active at once - if you activate the Wheat > Bread option when the Wheat > Haybales option was already enabled it will disable the Haybales option (and vice versa). 
 
-Note that this only happens on pickup - so picking up enough iron nuggets to make 9 iron ingots will not turn those ingots into an iron block if you have both options enabled - but if you drop those ingots and pick them back up it will!
+Note that this also only happens on pickup - so picking up enough iron nuggets to make 9 iron ingots will not turn those ingots into an iron block if you have both options enabled - but if you drop those ingots and pick them back up it will!
+
+You can also access this menu directly via `/combiner`.
 
 ## Item Magnet
 
