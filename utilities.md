@@ -92,11 +92,12 @@ The colours at the bottom (dark red, dark grey and black) are staff only so non-
 
 ## V.O.I.D.
 
-![voidmenu](images/vmenu.png)
+![voidmenu](images/vmenu.png)![voidmenu2](images/vmenu2.png)
 
 The VOID, when active, will delete certain items as you pick them up so they don't bloat your inventory with junk!
-From this menu you can toggle VOID on/off using the icon on the top line, and when active (when the icon is green as shown) any items with a green glass pane under them will be deleted on pickup! For example in the above image I have VOID on, and any Dirt, Cobblestone, Diorite, Andesite, Granite, Red Sand, Sandstone, Gravel, Netherrack and Wheat Seeds will be deleted as I pick them up.
-To toggle an item on.off just click it's icon!
+From this menu you can toggle VOID on/off using the icon on the top line, and when active (when the icon is green as shown) any items with a green glass pane under them will be deleted on pickup! 
+For example in the above image I have VOID on, and any Dirt, Cobblestone, Diorite, Andesite, Granite, Red Sand, Sandstone, Gravel, Netherrack, Wheat Seeds, Cocoa Beans, Feathers, Rotten Flesh, Bones, Gunpowder, Spider Eyes, String, Flint and Sticks will be deleted as I pick them up.
+To toggle an item on/off just click it's icon!
 
 This can be unlocked for use at any time when you get to level 70, and can be toggled from the `/util` menu!
 For those not yet at level 70 - you can purchase temporary usage of this through the `/tokenshop`!
