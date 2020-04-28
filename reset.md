@@ -4,7 +4,15 @@
 
 You can vote on whether this happens, and if so when it's likely to happen, [HERE!](https://www.strawpoll.me/19891864)
 
-Please note however:
+Note that if the reset happens:
+- If the reset gets voted in for 1.16 - the time this is likely to happen is **August/September 2020**
+- If the reset gets voted in for 1.17 - the time this is likely to happen is **May/June 2021**
+
+There is still plenty of time with the server as it is, and any builds you want to continue with in Creative or have a schematic sent to you for use on singleplayer or whatever can be sorted post-reset (the current server will be launched separately so you can go on and ticket any builds you need a schematic for) but they won't be carried over to the new Survival.
+
+Also - as we've had the same spawn for a long while... If someone wants to apply for Builder so when we get to reset times a new spawn could be built.... Please feel free ;) Apply [HERE](https://lc-forums.enjin.com/home/m/51940343/viewforum/9622123)!
+
+
 ### Why is a Reset being discussed?
 
 The server has stagnated. No server can remain the same forever, same as no server can just endlessly keep adding more and more to the server - it causes issues long-term.
