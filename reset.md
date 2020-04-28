@@ -84,6 +84,7 @@ Skript-related stuff:
 - Survival Spawn (new one, obviously - if I can get someone to build me one cause I can't build for shit and Cal's on MC-burnout).
 - New hidden titles for the new spawn - staff titles will remain - maybe not quite so many.
 - Updates to things that haven't had them for a while (mostly skript related shit, like `/menu` and `/guides`).
+- Make Creative access a low level perk (likely level 5?) so people can't just join and go e dicks in Creative.
 
 
 # Player Suggested Changes For The Reset - And If They're Likely Or Not
