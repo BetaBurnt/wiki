@@ -116,3 +116,4 @@ If you want to make suggestions drop them in the `#server-reset-discussion` chan
 These are more or less going ahead unless anyone has any MAJOR issue with them, and I mean major.
 - Lift no-griefing/raiding rule in Survival for anything not on town land to encourage more Towny usage. **However** - as the keeping survival pretty rule is staying, still not to decimate large areas of Survival unnecessarily, ie don't turn what was a players little shack into a big hole in the floor...
 - No sending people money for the purpose of them levelling up faster (ie no high job level players providing the money for others to level up quickly). Your player level, and the perks they give, are supposed to be something **you** earned, not someone earned for you.
+- Tweak the PVP/Harassment rules to be less OTT/offputting.
