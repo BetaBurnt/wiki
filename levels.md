@@ -42,7 +42,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |31|$200000|Access to get your own Upgradeable Hoppers.|Maiden|
 |32|$220000|Ability to use Safari Nets on: Dolphins and Turtles.|Captain,Cap'n|
 |33|$240000|A fifth /sethome!|Father, Mother|
-|34|$260000|Ability to create GravityTubes up to 10 blocks high.|Priest, Priestess|
+|34|$260000|Ability to create GravityTubes up to 20 blocks high.|Priest, Priestess|
 |35|$280000|Ability to use Silk Touch on spawners & Access to the Item Magnet|Disciple, Scholar|
 |36|$300000|Ability to use Safari Nets on: Creepers, Blazes, Witches, Endermen, Wither Skeletons and Shulkers.|Lord, Lady|
 |37|$340000||Viscount|
@@ -52,7 +52,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |41|$500000||Marquis, Marquess|
 |42|$550000|Third set of Elytra Effects (This level gets Glowstone, Ender Breath, Lava, Water and Honey)|Puppet|
 |43|$600000|Ability to use Safari Nets on: Llamas, Trader Llamas Zombie/Skeleton Horses, Evokers, Vindicators and Vex.|Brigadier, Colonel|
-|44|$650000|Ability to create GravityTubes up to 10 blocks high.|Sniper|
+|44|$650000|Ability to create GravityTubes up to 30 blocks high.|Sniper|
 |45|$700000|Flashlight ability|Conjuror|
 |46|$750000||Samurai|
 |47|$800000|A sixth /sethome!|Marshall|
@@ -62,7 +62,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |51|$1000000|Bonus Bill's monetary rewards will be 5x as much.|Gnome, Harpy|
 |52|$1000000||Professor|
 |53|$1200000||Regent|
-|54|$1200000|Ability to create GravityTubes up to 10 blocks high.|Paladin|
+|54|$1200000|Ability to create GravityTubes up to 40 blocks high.|Paladin|
 |55|$1400000|27 slot backpack|Sultan, Pharaoh|
 |56|$1400000||Assassin, Slayer|
 |57|$1600000|Ability to use Safari Nets on: Pillagers.|Kaiser, Shogun|
@@ -72,7 +72,7 @@ Each level costs a set amount to rank up to (you can't skip levels by paying an 
 |61|$2000000||Vampire, Zombie|
 |62|$2000000|A seventh /sethome!|Spirit|
 |63|$2200000||Praetor|
-|64|$2200000|Ability to create GravityTubes up to 10 blocks high.|Prince, Princess|
+|64|$2200000|Ability to create GravityTubes up to 50 blocks high.|Prince, Princess|
 |65|$2400000|Items picked up will go into your backpack automatically when your inventory is full|Consul|
 |66|$2400000||Thane|
 |67|$2600000|Ability to use Safari Nets on: Ravagers.|Pontiff|
