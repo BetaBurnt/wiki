@@ -111,6 +111,7 @@ If you want to make suggestions drop them in the `#server-reset-discussion` chan
 - Staff will remain staff.
 
 Players will also be allowed to carry over a single chest worth of **decorative** items. This can be any form of player/mob/decorative head (including event/build competition heads), banners or maps (so yes, you can keep your munuke-maps)! When the reset is coming up I'll put a note up to stick what you want to keep in a chest and ticket it so I can copy them over!
+Costumes that you take over to LC3 will also still retain their skin-altering ability!
 
 
 # Changes To Server Rules Post-Reset
