@@ -119,7 +119,7 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 - The only mob farms/grinders that will be allowed are reasonable sized dark room spawners or a simple grinder around a spawner block you've found, but only if you are actively having to kill the mobs yourself (ie they cannot fall onto hopper or go through lava to kill them so you get their drops while AFK next to them, as per the above note on AFK farming).
 - Fully automated crop farms will not be permitted (ie they run by themselves in the background so you end up with chests full of crops without actually doing anything yourself), but using redstone contraptions that you turn on to gather stuff quickly and then turn off while you're not there (ie waterfalls to pop wheat off and funnel them into hoppers/chests but that only turn on via a switch, not via a redstone clock or anything)
 
-<br>RE: `Reasonable sized dark rooms` - You need to use some common sense for that realistically but if it's large enough to be spawning hundreds of mobs in a very short time, it's not allowed, and if it requires digging out a crap tonne of land just for the dark rooms... not allowed.
+<br>RE: `Reasonable sized dark rooms` - You need to use some common sense for that realistically but if it's large enough to be spawning hundreds of mobs in a very short time, it's not allowed, and if it requires digging out an area across multiple chunks just for the dark rooms... not allowed (keep it at a reasonable size - ie not 200 blocks wide and 4+ layers high).
 
 
 # Planned Tweaks To Features/Plugins We Are Keeping
