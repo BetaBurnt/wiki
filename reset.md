@@ -87,13 +87,6 @@ Skript-related stuff:
 - Make Creative access a low level perk (likely level 5?) so people can't just join and go e dicks in Creative.
 
 
-# Player Suggested Changes For The Reset - And If They're Likely Or Not
-
-- A Permanent Nether. This **is** likely to happen - if it does portals from Survival will go to a permanent Nether you can build and claim town outposts in, and portals made in Resources will take you to a Nether for resource gathering only. Changes that will be made include Wither Skeletons being Resource Nether **only**, and the world scaling being lowered both to make setting a border on the permanent nether easier and so you can't travel about **quite** as easily via the nether with the normal 1 > 8 scaling between Nether and Overworld.
-- Removal of VOID and the Combiner. Semi-likely? Not major if they go (if people aren't too bothered) but at the same time, we could do with them because... level perks... Need to get something out of levelling up!
-
-If you want to make suggestions drop them in the `#server-reset-discussion` channel on our Discord!
-
 # Things That Will Still Be There In One Form Or Another But Will Be Reset
 
 - All worlds bar Creative - Creative will carry over.
@@ -121,3 +114,31 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 - No sending people money for the purpose of them levelling up faster (ie no high job level players providing the money for others to level up quickly). Your player level, and the perks they give, are supposed to be something **you** earned, not someone earned for you.
 - Tweak the PVP/Harassment rules to be less OTT/offputting.
 - Client Mod Rule Tweaks - Minimaps and Dynamic Lighting a nono. As DynMap will be gone and griefing will be more of a thing minimaps could be a bit abusable for keeping track of peoples places (and it's already going to be work to make sure people aren't abusing /homes or /pshops for going back to peoples places unfairly) and as far as Dynamic Lighting goes.... Use torches like normal or the flashlight perk.
+
+
+# Planned Tweaks To Features/Plugins We Are Keeping
+
+- **ASyncWorldEdit** - will do actions a little faster than before the reset.
+- **Brewery** - 92 Brews we have on LC2... so culling them a little bit and tidying them up (all LC2 dono brews will be present still but most of the older/similar brews will be dropped or changed a little, but I will also add some new ones before the reset), mob drop recipes will obvs be edited to reflect this. 
+- **Brewery** - If you log out while heavily drunk and don't log back in for a while you may also log in to "wake up" at a random place around spawn (it may repeat spots, but loads of places around the spawn will been set - it just picks between the two closest spots to where you logged out). 
+- **Brewery** - Milk will be removed as a means to reduce drunkness. Bread will still be viable, and to add to this so will cookies, baked potatoes, beetroot soup, cooked chicken/cod/mutton/porkchop/rabbit/salmon, steak, mushroom stew, pumpkin pie, rabbit stew and golden/enchanted golden apples. All of these will reduce your drunk level by a certain amount (it also reduces by itself over time) except for Golden Apples and Enchanted Golden Apples which will fully sober you up in one go.
+- **Titles** - Title ordering will start with the karma title, then custom/dono titles, then level titles and job titles will be on the end. Probably going to drop hidden titles (or at least have less of them - and if they stay they'll be different ones) and won't be doing them for events/competitions (but may have something else planned for them post-reset).
+
+
+# Player Suggested Changes For The Reset - And If They're Likely Or Not
+
+- **Suggestion:** A Permanent Nether. 
+- **Likelihood:** This is happening.
+**Notes RE this suggestion:**
+- The permanent Nether will be linked to the Survival world and a temporary Nether will be linked to the Resource world so you will still have one to go destroy. These will be SN and RN (SurvivalNether and ResourceNether) in the chat.
+- Scaling will be changed in the permanent Nether. Normally 1 chunk in the Nether is 8 chunks in the Overworld - as this would mean making fast travelling around the Survival world too easy, and also makes setting a world border on the permanent worlds more of a pain in the ass, so this is going to be changed from 1:8 to 1:2 in the Survival Nether (it will stay 1:8 in the Resource Nether).
+- Wither Skeletons will not spawn in the permanent Nether (everything else will as normal).
+- It will not be allowed to plaster an area in slabs to focus mob spawns in a small location for farming (this will be included in the new rules post-reset as the superfarming rule will be simplified/clarified for a number of things).
+
+- **Suggestion:** Removal of VOID and the Combiner. 
+- **Likelihood:** Removal not likely - however changing them likely.
+**Notes RE this suggestion:**
+I would say no to removal for the primary reason that the level perks are quite limited (at least with non-decorative stuff) and we need things to make the levels something people want to bother with - HOWEVER, we could limit them more. For example we could have them unlock at X level but only for a few of the options they can be used for (primary thought being to not unlock the ability to combine/void things that are mostly used by digger/miners as it'll help slow those jobs a bit better without changing the jobs themselves) and then have more unlock at a higher level.
+Also - if these do stay - they will be locked into X items, rather than just keep adding stuff to them, because they do run a lot of checks per option, don't want them to get excessive (likely lock them to two pages of options at most each - or even just lock them to the options they have right now).
+
+If you want to make suggestions drop them in the `#server-reset-discussion` channel on our Discord!
