@@ -114,6 +114,11 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 - No sending people money for the purpose of them levelling up faster (ie no high job level players providing the money for others to level up quickly). Your player level, and the perks they give, are supposed to be something **you** earned, not someone earned for you.
 - Tweak the PVP/Harassment rules to be less OTT/offputting.
 - Client Mod Rule Tweaks - Minimaps and Dynamic Lighting a nono. As DynMap will be gone and griefing will be more of a thing minimaps could be a bit abusable for keeping track of peoples places (and it's already going to be work to make sure people aren't abusing /homes or /pshops for going back to peoples places unfairly) and as far as Dynamic Lighting goes.... Use torches like normal or the flashlight perk.
+**Superfarming clarifications/changes (mostly from what ISNT allowed to what IS because it's shorter):** <br>
+- All/any forms of AFK farming will not be allowed.
+- The only mob farms/grinders that will be allowed are reasonable sized dark room spawners or a simple grinder around a spawner block you've found, but only if you are actively having to kill the mobs yourself (ie they cannot fall onto hopper or go through lava to kill them so you get their drops while AFK next to them, as per the above note on AFK farming).
+- Fully automated crop farms will not be permitted (ie they run by themselves in the background so you end up with chests full of crops without actually doing anything yourself), but using redstone contraptions that you turn on to gather stuff quickly and then turn off while you're not there (ie waterfalls to pop wheat off and funnel them into hoppers/chests but that only turn on via a switch, not via a redstone clock or anything)
+RE: `Reasonable sized dark rooms` - You need to use some common sense for that realistically but if it's large enough to be spawning hundreds of mobs in a very short time, it's not allowed, and if it requires digging out a crap tonne of land just for the dark rooms... not allowed.
 
 
 # Planned Tweaks To Features/Plugins We Are Keeping
