@@ -127,17 +127,17 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 
 # Player Suggested Changes For The Reset - And If They're Likely Or Not
 
-- **Suggestion:** A Permanent Nether. 
-- **Likelihood:** This is happening.
-**Notes RE this suggestion:**
+**Suggestion:** A Permanent Nether. <br>
+**Likelihood:** This is happening. <br>
+**Notes RE this suggestion:** <br>
 - The permanent Nether will be linked to the Survival world and a temporary Nether will be linked to the Resource world so you will still have one to go destroy. These will be SN and RN (SurvivalNether and ResourceNether) in the chat.
 - Scaling will be changed in the permanent Nether. Normally 1 chunk in the Nether is 8 chunks in the Overworld - as this would mean making fast travelling around the Survival world too easy, and also makes setting a world border on the permanent worlds more of a pain in the ass, so this is going to be changed from 1:8 to 1:2 in the Survival Nether (it will stay 1:8 in the Resource Nether).
 - Wither Skeletons will not spawn in the permanent Nether (everything else will as normal).
 - It will not be allowed to plaster an area in slabs to focus mob spawns in a small location for farming (this will be included in the new rules post-reset as the superfarming rule will be simplified/clarified for a number of things).
 
-- **Suggestion:** Removal of VOID and the Combiner. 
-- **Likelihood:** Removal not likely - however changing them likely.
-**Notes RE this suggestion:**
+**Suggestion:** Removal of VOID and the Combiner. <br>
+**Likelihood:** Removal not likely - however changing them likely. <br>
+**Notes RE this suggestion:** <br>
 I would say no to removal for the primary reason that the level perks are quite limited (at least with non-decorative stuff) and we need things to make the levels something people want to bother with - HOWEVER, we could limit them more. For example we could have them unlock at X level but only for a few of the options they can be used for (primary thought being to not unlock the ability to combine/void things that are mostly used by digger/miners as it'll help slow those jobs a bit better without changing the jobs themselves) and then have more unlock at a higher level.
 Also - if these do stay - they will be locked into X items, rather than just keep adding stuff to them, because they do run a lot of checks per option, don't want them to get excessive (likely lock them to two pages of options at most each - or even just lock them to the options they have right now).
 
