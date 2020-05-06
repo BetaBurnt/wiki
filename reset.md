@@ -1,12 +1,17 @@
 ![ribbon](images/L-ribbon.png) 
 
-# Potential Server Reset
+# Server Reset
 
-You can vote on whether this happens, and if so when it's likely to happen, [HERE!](https://www.strawpoll.me/19891864)
+The poll on whether the reset happens or not, and when if so, has ended! The results were pretty one sides in favour of a reset (6 against to 25 for the reset) and the votes for the reset were in favour of a reset for 1.16, making it sooner rather than later (which from my end, is better).
 
-Note that if the reset happens:
-- If the reset gets voted in for 1.16 - the time this is likely to happen is **August/September 2020**
-- If the reset gets voted in for 1.17 - the time this is likely to happen is **May/June 2021**
+This means that the likely time frame for the reset to happen is **August/September 2020**. It may be later than this if plugins take too long updating, but at the very earliest it will be August.
+
+A couple of things to note for LC2 prior to the reset:<br>
+- All bans will carry over, and the rules won't be changed prior to the reset in any way (having a shelf life for the current server does not mean you are free to break our rules).
+- The hourly job limit on income has been disabled so if you wish to grind like a madman for the player levels prior to the reset feel free to do so.
+- Voting will be disabled on June 1st when the May top voters are tallied, as voting bumps adverts and at that point new players will have less and less time to do anything on the server before the reset (all adverts will be updated to state there is a planned reset coming up when I disable voting on them). As such this is the last chance to get top voter rewards, such as the top voter donation store coupon (as all dono stuff will carry over) prior to the reset!
+- To go into the above note - when voting has been disabled all players will be given 7 tokens once a day on log in so if you wanted to grab anything from the token shop for the time you have left on LC2 you can still save up for them.
+
 
 There is still plenty of time with the server as it is, and any builds you want to continue with in Creative or have a schematic sent to you for use on singleplayer or whatever can be sorted post-reset (the current server will be launched separately so you can go on and ticket any builds you need a schematic for) but they won't be carried over to the new Survival.
 
