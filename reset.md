@@ -134,6 +134,55 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 - **Brewery** - If you log out while heavily drunk and don't log back in for a while you may also log in to "wake up" at a random place around spawn (it may repeat spots, but loads of places around the spawn will been set - it just picks between the two closest spots to where you logged out). 
 - **Brewery** - Milk will be removed as a means to reduce drunkness. Bread will still be viable, and to add to this so will cookies, baked potatoes, beetroot soup, cooked chicken/cod/mutton/porkchop/rabbit/salmon, steak, mushroom stew, pumpkin pie, rabbit stew and golden/enchanted golden apples. All of these will reduce your drunk level by a certain amount (it also reduces by itself over time) except for Golden Apples and Enchanted Golden Apples which will fully sober you up in one go.
 - **Titles** - Title ordering will start with the karma title, then custom/dono titles, then level titles and job titles will be on the end. Probably going to drop hidden titles (or at least have less of them - and if they stay they'll be different ones) and won't be doing them for events/competitions (but may have something else planned for them post-reset).
+- **CMI/Sleep** - Night time speed up when players are sleeping will no longer exclude AFK players & the speed that night passes has been dropped (previously it was 10x for one and went up to 40x max - now it's 5x for one and up to 25x max).
+- **CMI/Level Perks** - You will start with 2 /sethomes instead of 3, with up to 7 max from level perks. Trusted players will start with 3 (and still up to 7 max from level perks).
+- **CMI/Homes** - In theory it should stop you from setting homes in areas you do not have permission to build in (ie not being able to set home in another town). Obviously we physically cannot stop people from setting homes anywhere in the wilderness, whether that be right by a town so they can come and annoy you etc... but if you suspect anybody has done this report it to staff and we'll check into it (as we will now) and if they have we'll remove the home and warn them.
+- **CMI/AFK tweaks** - Item pickup will be disabled when AFK as will XP gains (note that when AFK if you would pick up an item it just won't pick up, but for XP it'll vanish due to issues with XP in MC itself), and spawners near an AFK player will not spawn mobs (natural mob spawns will still occur but only because the amount of checks the plugin has to make to prevent that can be a bit much - AFK'ing next to a spawner/dark room etc... to build mobs up is against the rules regardless of whether it happens).
+- **CMI/Spawners** - Spawners can no longer be silk touched by anybody but myself (if it's absolutely necessary for some reason), as it's no longer a player perk.
+- **CMI/Chairs** - You will only sit on slabs/stairs with a rapid double click (to avoid sitting by mistake).
+- **CMI/Totems** - They will still work from anywhere in your inventory, however they have a 5 minute cooldown so you cannot carry loads into a fight with someone and expect them to keep reviving you endlessly.
+- **CMI/Staff Shit** - Jails enabled.
+- **CMI/Custom Recipes**:
+#Cobweb Recipe - Staying
+#Saddle Recipe - Staying
+#Horse Armour Recipes - Staying
+#Leather Recipe - __Gone__
+#Ore Block Recipes - __Gone__
+#Chainmail Equipment Recipes - Staying
+#Slimeball Recipe - __Gone__
+#Nametag Recipe - Staying
+#Wool > String Recipes - __Gone__
+#Grass/Podzol/Mycelium Recipes - __Gone__
+#Saplings > Planks Recipes - Staying
+#Saplings > Leaves Recipes - Staying
+#Prismarine Bricks Recipe - __Gone__
+#Dark Primarine Recipe - __Gone__
+#Chimney Recipes - Staying
+#Quartz Block > Quartz Recipe - __Gone__
+#Candle Recipes - Staying
+#Ink Sac Recipe - __Gone__
+#Lantern Recipes - __Gone__
+#Recycle Bin Recipes - Staying.
+#Stone > Smooth Stone Recipe - __Gone__ (as it should have been removed when we updated from 1.13 but mehh)
+#Quartz Block > Smooth Quartz - __Gone__ (as above...)
+#Gravel Recipe - __Gone__
+#Clock Recipes - Staying
+#MicroChest & Uogrades Recipes - Staying
+#Backpack Recipes - __Gone__
+#Drop of Purity Recipe - Staying
+#Bomb Recipes - __Gone__
+#Cookie Jar/Cake Tin/Egg Basket/Coffee Pot Recipes - __Gone__
+#Vial Chest/Jar O'Glowdust/ Jar O'Reddust/Jar O'Sulphur/Jar O'Blaze/Sugar Pot Recipes - Staying
+#Concrete QOL Recipes - __Gone__
+#Potted Plant Recipes - Staying
+#Sandstone/Smooth Sandstone > Sand Recipes - __Gone__
+#Red Sandstone/Smooth Red Sandstone > Red Sand Recipes - __Gone__
+#Nether Wart Block > Nether Warts Recipe - Staying
+#Bones > Bone Block Recipe - Staying
+#Large Fern/Grass Recipes - Staying
+#Postboxes/Packing Paper Recipes - Staying
+
+This drops the amount of custom recipes the server is handling from 252 to 141... :L
 
 
 # Player Suggested Changes For The Reset - And If They're Likely Or Not
