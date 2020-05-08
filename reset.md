@@ -156,7 +156,7 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 #Saplings > Planks Recipes - Staying
 #Saplings > Leaves Recipes - Staying
 #Prismarine Bricks Recipe - __Gone__
-#Dark Primarine Recipe - __Gone__
+#Dark Prismarine Recipe - __Gone__
 #Chimney Recipes - Staying
 #Quartz Block > Quartz Recipe - __Gone__
 #Candle Recipes - Staying
@@ -167,7 +167,7 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 #Quartz Block > Smooth Quartz - __Gone__ (as above...)
 #Gravel Recipe - __Gone__
 #Clock Recipes - Staying
-#MicroChest & Uogrades Recipes - Staying
+#MicroChest & Upgrades Recipes - Staying
 #Backpack Recipes - __Gone__
 #Drop of Purity Recipe - Staying
 #Bomb Recipes - __Gone__
