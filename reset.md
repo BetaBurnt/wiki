@@ -186,28 +186,28 @@ This drops the amount of custom recipes the server is handling from 252 to 141..
 - **Elevators** - Will ignore some new blocks placed in the two blocks above the elevator along with the stuff it already does (warped/crimson signs/buttons, polished blackstone buttons & soul torches - also added paintings and item frames).
 - **Elevators** - Max distance between floors dropped from 36 to 24.
 - **Jobs** - Max level capped at 100, rather than 120 as it is now.
-- **Jobs/Handyman**:
-__Gain__: Villager Trading for Emeralds (as in, if you get emeralds FROM the villager), mining Crying Obsidian and Nether Gold Ore and breaking Crimson/Warped Roots and Nether Sprouts.
+- **Jobs/Handyman**:<br>
+__Gain__: Villager Trading for Emeralds (as in, if you get emeralds FROM the villager), mining Crying Obsidian and Nether Gold Ore and breaking Crimson/Warped Roots and Nether Sprouts.<br>
 __Loss__: Placing Nether Gold Ore.
-- **Jobs/Woodcutter**:
-__Gain__: Stripping logs and stems (v v small payout, no XP) and breaking Warped/Crimson Stems.
+- **Jobs/Woodcutter**:<br>
+__Gain__: Stripping logs and stems (v v small payout, no XP) and breaking Warped/Crimson Stems.<br>
 __Loss__: Placing Warped/Crimson Fungi.
-- **Jobs/Miner**:
-__Gain__: Mining Ancient Debris, Basalt, Polished Basalt, Blackstone and Crimson/Warped Nylium.
+- **Jobs/Miner**:<br>
+__Gain__: Mining Ancient Debris, Basalt, Polished Basalt, Blackstone and Crimson/Warped Nylium.<br>
 __Loss__: Placing Ancient Debris.
-- **Jobs/Digger**: 
-__Gain__: Breaking Soul Soil, Nether Wart Blocks and Warped Wart Blocks.
+- **Jobs/Digger**: <br>
+__Gain__: Breaking Soul Soil, Nether Wart Blocks and Warped Wart Blocks.<br>
 __Loss__: Placing Soul Soul.
-- **Jobs/Blacksmith**:
+- **Jobs/Blacksmith**:<br>
 __Gain__: Crafting Chains (v small payout, cause easy as hell to do), Respawn Anchors, Lodestones and Netherite Ingots and smelting Netherite Scraps.
-- **Jobs/Farmer**:
+- **Jobs/Farmer**:<br>
 __Gain__: Breaking Warped/Crimson Fungi, Shroomlights, Weeping Vines and Twisting Vines.
-- **Jobs/Hunter**:
+- **Jobs/Hunter**:<br>
 __Gain__: Killing Piglins and Hoglins.
-- **Jobs/WitchHunter**:
+- **Jobs/WitchHunter**:<br>
 __Gain__: Killing Striders and Zoglins (and Zombie Pigmen swapped for Zombified Piglins... obviously...).
-- **Jobs/Enchanter**:
-__Gain__: Enchanting of Netherite Tools and Armor.
+- **Jobs/Enchanter**:<br>
+__Gain__: Enchanting of Netherite Tools and Armor.<br>
 Not sure how Jobs will handle making Netherite stuff yet so we'll have to wait for their actual 1.16 updates for that.
 - **LightLevel** - Disabled until level 21.
 
