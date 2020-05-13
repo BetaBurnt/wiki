@@ -181,9 +181,35 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 #Bones > Bone Block Recipe - Staying
 #Large Fern/Grass Recipes - Staying
 #Postboxes/Packing Paper Recipes - Staying
-
 This drops the amount of custom recipes the server is handling from 252 to 141... :L
-
+- **Elevators** - Will work with the new 1.16 slabs (blackstone slabs, crimson slabs, warped slabs, polished blackstone slabs & polished blackstone brick slabs)
+- **Elevators** - Will ignore some new blocks placed in the two blocks above the elevator along with the stuff it already does (warped/crimson signs/buttons, polished blackstone buttons & soul torches - also added paintings and item frames).
+- **Elevators** - Max distance between floors dropped from 36 to 24.
+- **Jobs** - Max level capped at 100, rather than 120 as it is now.
+- **Jobs/Handyman**:
+__Gain__: Villager Trading for Emeralds (as in, if you get emeralds FROM the villager), mining Crying Obsidian and Nether Gold Ore and breaking Crimson/Warped Roots and Nether Sprouts.
+__Loss__: Placing Nether Gold Ore.
+- **Jobs/Woodcutter**:
+__Gain__: Stripping logs and stems (v v small payout, no XP) and breaking Warped/Crimson Stems.
+__Loss__: Placing Warped/Crimson Fungi.
+- **Jobs/Miner**:
+__Gain__: Mining Ancient Debris, Basalt, Polished Basalt, Blackstone and Crimson/Warped Nylium.
+__Loss__: Placing Ancient Debris.
+- **Jobs/Digger**: 
+__Gain__: Breaking Soul Soil, Nether Wart Blocks and Warped Wart Blocks.
+__Loss__: Placing Soul Soul.
+- **Jobs/Blacksmith**:
+__Gain__: Crafting Chains (v small payout, cause easy as hell to do), Respawn Anchors, Lodestones and Netherite Ingots and smelting Netherite Scraps.
+- **Jobs/Farmer**:
+__Gain__: Breaking Warped/Crimson Fungi, Shroomlights, Weeping Vines and Twisting Vines.
+- **Jobs/Hunter**:
+__Gain__: Killing Piglins and Hoglins.
+- **Jobs/WitchHunter**:
+__Gain__: Killing Striders and Zoglins (and Zombie Pigmen swapped for Zombified Piglins... obviously...).
+- **Jobs/Enchanter**:
+__Gain__: Enchanting of Netherite Tools and Armor.
+Not sure how Jobs will handle making Netherite stuff yet so we'll have to wait for their actual 1.16 updates for that.
+- **LightLevel** - Disabled until level 21.
 
 # Player Suggested Changes For The Reset - And If They're Likely Or Not
 
