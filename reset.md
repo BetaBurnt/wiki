@@ -186,8 +186,9 @@ This drops the amount of custom recipes the server is handling from 252 to 141..
 - **Elevators** - Will ignore some new blocks placed in the two blocks above the elevator along with the stuff it already does (warped/crimson signs/buttons, polished blackstone buttons & soul torches - also added paintings and item frames).
 - **Elevators** - Max distance between floors dropped from 36 to 24.
 - **Jobs** - Max level capped at 100, rather than 120 as it is now.
+- **Jobs/Limits** - When you hit the $1mil/hour limit you will also stop earning jobs XP until the hour period ends and resets your limit. Note that if this is enabled there has to be a limit of # XP every set period of time set as well... annoyingly... so it's set to 5mil XP per hour so if you hit this before the $1mil (shouldn't be able to... but in case anything messes up) your income will also stop until the hour is up.
 - **Jobs/Handyman**:<br>
-__Gain__: Villager Trading for Emeralds (as in, if you get emeralds FROM the villager), mining Crying Obsidian and Nether Gold Ore and breaking Crimson/Warped Roots and Nether Sprouts.<br>
+__Gain__: Villager Trading for Emeralds (as in, if you get emeralds FROM the villager), mining Crying Obsidian and Nether Gold Ore, breaking Crimson/Warped Roots and Nether Sprouts and killing players (small bonus for winning in PVP - nowhere near high enough to encourage people to be annoying about it).<br>
 __Loss__: Placing Nether Gold Ore.
 - **Jobs/Woodcutter**:<br>
 __Gain__: Stripping logs and stems (v v small payout, no XP) and breaking Warped/Crimson Stems.<br>
@@ -203,9 +204,9 @@ __Gain__: Crafting Chains (v small payout, cause easy as hell to do), Respawn An
 - **Jobs/Farmer**:<br>
 __Gain__: Breaking Warped/Crimson Fungi, Shroomlights, Weeping Vines and Twisting Vines.
 - **Jobs/Hunter**:<br>
-__Gain__: Killing Piglins and Hoglins.
+__Gain__: Killing Piglins, Hoglins and players (small bonus for winning in PVP - nowhere near high enough to encourage people to be annoying about it).
 - **Jobs/WitchHunter**:<br>
-__Gain__: Killing Striders and Zoglins (and Zombie Pigmen swapped for Zombified Piglins... obviously...).
+__Gain__: Killing Striders, Zoglins (and Zombie Pigmen swapped for Zombified Piglins... obviously...) and players (small bonus for winning in PVP - nowhere near high enough to encourage people to be annoying about it).
 - **Jobs/Enchanter**:<br>
 __Gain__: Enchanting of Netherite Tools and Armor.<br>
 Not sure how Jobs will handle making Netherite stuff yet so we'll have to wait for their actual 1.16 updates for that.
