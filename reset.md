@@ -142,46 +142,46 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 - **CMI/Chairs** - You will only sit on slabs/stairs with a rapid double click (to avoid sitting by mistake).
 - **CMI/Totems** - They will still work from anywhere in your inventory, however they have a 5 minute cooldown so you cannot carry loads into a fight with someone and expect them to keep reviving you endlessly.
 - **CMI/Staff Shit** - Jails enabled.
-- **CMI/Custom Recipes**:
-#Cobweb Recipe - Staying
-#Saddle Recipe - Staying
-#Horse Armour Recipes - Staying
-#Leather Recipe - __Gone__
-#Ore Block Recipes - __Gone__
-#Chainmail Equipment Recipes - Staying
-#Slimeball Recipe - __Gone__
-#Nametag Recipe - Staying
-#Wool > String Recipes - __Gone__
-#Grass/Podzol/Mycelium Recipes - __Gone__
-#Saplings > Planks Recipes - Staying
-#Saplings > Leaves Recipes - Staying
-#Prismarine Bricks Recipe - __Gone__
-#Dark Prismarine Recipe - __Gone__
-#Chimney Recipes - Staying
-#Quartz Block > Quartz Recipe - __Gone__
-#Candle Recipes - Staying
-#Ink Sac Recipe - __Gone__
-#Lantern Recipes - __Gone__
-#Recycle Bin Recipes - Staying.
-#Stone > Smooth Stone Recipe - __Gone__ (as it should have been removed when we updated from 1.13 but mehh)
-#Quartz Block > Smooth Quartz - __Gone__ (as above...)
-#Gravel Recipe - __Gone__
-#Clock Recipes - Staying
-#MicroChest & Upgrades Recipes - Staying
-#Backpack Recipes - __Gone__
-#Drop of Purity Recipe - Staying
-#Bomb Recipes - __Gone__
-#Cookie Jar/Cake Tin/Egg Basket/Coffee Pot Recipes - __Gone__
-#Vial Chest/Jar O'Glowdust/ Jar O'Reddust/Jar O'Sulphur/Jar O'Blaze/Sugar Pot Recipes - Staying
-#Concrete QOL Recipes - __Gone__
-#Potted Plant Recipes - Staying
-#Sandstone/Smooth Sandstone > Sand Recipes - __Gone__
-#Red Sandstone/Smooth Red Sandstone > Red Sand Recipes - __Gone__
-#Nether Wart Block > Nether Warts Recipe - Staying
-#Bones > Bone Block Recipe - Staying
-#Large Fern/Grass Recipes - Staying
-#Postboxes/Packing Paper Recipes - Staying
-This drops the amount of custom recipes the server is handling from 252 to 141... :L
+- **CMI/Custom Recipes**:<br>
+#Cobweb Recipe - Staying<br>
+#Saddle Recipe - Staying<br>
+#Horse Armour Recipes - Staying<br>
+#Leather Recipe - __Gone__<br>
+#Ore Block Recipes - __Gone__<br>
+#Chainmail Equipment Recipes - Staying<br>
+#Slimeball Recipe - __Gone__<br>
+#Nametag Recipe - Staying<br>
+#Wool > String Recipes - __Gone__<br>
+#Grass/Podzol/Mycelium Recipes - __Gone__<br>
+#Saplings > Planks Recipes - Staying<br>
+#Saplings > Leaves Recipes - Staying<br>
+#Prismarine Bricks Recipe - __Gone__<br>
+#Dark Prismarine Recipe - __Gone__<br>
+#Chimney Recipes - Staying<br>
+#Quartz Block > Quartz Recipe - __Gone__<br>
+#Candle Recipes - Staying<br>
+#Ink Sac Recipe - __Gone__<br>
+#Lantern Recipes - __Gone__<br>
+#Recycle Bin Recipes - Staying.<br>
+#Stone > Smooth Stone Recipe - __Gone__ (as it should have been removed when we updated from 1.13 but mehh)<br>
+#Quartz Block > Smooth Quartz - __Gone__ (as above...)<br>
+#Gravel Recipe - __Gone__<br>
+#Clock Recipes - Staying<br>
+#MicroChest & Upgrades Recipes - Staying<br>
+#Backpack Recipes - __Gone__<br>
+#Drop of Purity Recipe - Staying<br>
+#Bomb Recipes - __Gone__<br>
+#Cookie Jar/Cake Tin/Egg Basket/Coffee Pot Recipes - __Gone__<br>
+#Vial Chest/Jar O'Glowdust/ Jar O'Reddust/Jar O'Sulphur/Jar O'Blaze/Sugar Pot Recipes - Staying<br>
+#Concrete QOL Recipes - __Gone__<br>
+#Potted Plant Recipes - Staying<br>
+#Sandstone/Smooth Sandstone > Sand Recipes - __Gone__<br>
+#Red Sandstone/Smooth Red Sandstone > Red Sand Recipes - __Gone__<br>
+#Nether Wart Block > Nether Warts Recipe - Staying<br>
+#Bones > Bone Block Recipe - Staying<br>
+#Large Fern/Grass Recipes - Staying<br>
+#Postboxes/Packing Paper Recipes - Staying<br>
+This drops the amount of custom recipes the server is handling from 252 to 141... :L<br>
 - **Elevators** - Will work with the new 1.16 slabs (blackstone slabs, crimson slabs, warped slabs, polished blackstone slabs & polished blackstone brick slabs)
 - **Elevators** - Will ignore some new blocks placed in the two blocks above the elevator along with the stuff it already does (warped/crimson signs/buttons, polished blackstone buttons & soul torches - also added paintings and item frames).
 - **Elevators** - Max distance between floors dropped from 36 to 24.
