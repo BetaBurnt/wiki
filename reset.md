@@ -218,12 +218,12 @@ Not sure how Jobs will handle making Netherite stuff yet so we'll have to wait f
 - **MD/Essences** - Can't do till 1.16 drops but I'll add an enchant-essence for the new Soul Speed enchant. Minor change - essence items will glow.
 - **MD/Identifying** - Will remain disabled. Still buggy and doesn't limit drops to the tiers the mob that dropped it is allowed to have (ie a Creeper isn't 100% guaranteed to drop only a Common tier unidentified item when thats the only tier it's allowed to drop).
 - **MD/Mobs** - A couple of the overly common mobs have been disabled from dropping MD loot (Zombies, Skeletons, Spiders, Slimes and Magma Cubes - the latter two because while not common per spawn each spawn can be a fair few deaths which each trigger a chance for loot to drop. Also haven't added Striders to those that can drop MD loot but all other 1.16 mobs can).
+- **MD/TokenShop** - Will keep the option to buy random MD essences but will no longer have an option to buy tiered items.
+- **MD/Rare Loot** - When the dragon is killed it is guaranteed an MD drop same as it currently always has a Legendary drop - but post-reset it'll have a small chance for it to be a Crystalline drop as well (otherwise they can only be gained from events/competitions).
 - **MultiVerse** - Scaling from Survival > Survival Nether set to 1:2 and working, nether portals in Survival and Resources set to go to their correct/respective nether worlds only.
 - **Shops** - You will be able to create shops in the permanent Survival Nether if you want to build your shop area there (shop teleports can also now be set in this world).
 - **Shops/Costs for having Shops** - It will cost $250 to create a shop, and there will be a 10% tax on shop transactions. For example if you buy an item from a shop for $10 the owner of the shop gets $9 of it - sell an item to a shop for $10 you will get $9 of it - and the $1 extra is removed from the server economy.
 - **Shops/Limits** - Minimum price, $2.50 (ie the cheapest you'll be able to buy a stack, dirt or otherwise, is $160 - that's still dirt cheap [ha pun], if you think that's unacceptable even for new players, gtfo). Maximum price, $25,000,000 (as that'll be the max player balance).
-- **MD** - When the dragon is killed it is guaranteed an MD drop same as it currently always has a Legendary drop - but post-reset it'll have a small chance for it to be a Crystalline drop as well (otherwise they can only be gained from events/competitions).
-- **TokenShop** - Will keep the option to buy random MD essences but will no longer have an option to buy tiered items.
 
 
 # Player Suggested Changes For The Reset - And If They're Likely Or Not
