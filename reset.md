@@ -36,6 +36,21 @@ I'll keep a note of the potential changes that the reset will come with on this 
 Please note that these are only **potential changes** - they will change here and there between now and any reset happening, as things are suggested or thought of.
 As such please do not take what is written on this page as **this is what will happen on the reset**, as it may not be.
 
+
+# Polls Open For Voting On
+
+- Should we Re-Enable TNT in Survival/Survival Nether? - https://www.strawpoll.me/20064010/
+- Should we Re-enable FireSpread? - https://www.strawpoll.me/20071305/
+- Should we Re-enable Snowman Snow Trails? - https://www.strawpoll.me/20070776/
+- Should we Re-enable Creeper Block Damage? - https://www.strawpoll.me/20070801/
+- Should we Re-enable Fireball (ie Ghast) Block Damage? - https://www.strawpoll.me/20070799/
+- Should we Re-enable Wither Block Damage? - https://www.strawpoll.me/20070793/
+- Should we Re-enable Enderman Block Theft? - https://www.strawpoll.me/20070796/
+- Should we Re-enable Mob Trampling? - https://www.strawpoll.me/20070787/
+- Should we Re-enable Zombie Door Breaking? - https://www.strawpoll.me/20070783/
+- How to Limit Mending? - https://www.strawpoll.me/20091699/
+
+
 # Plugins/Features Currently Up For Removal
 
 - Mending. Yes - most of you will probably blow a gasket over this but this enchantment has been top of my list to get rid off the first chance I get since it was added to the damn game. We have other ways to repair shit that aren't as easily abusable, and it discourages abusing Villagers if it's not there.
@@ -224,7 +239,48 @@ Not sure how Jobs will handle making Netherite stuff yet so we'll have to wait f
 - **Shops** - You will be able to create shops in the permanent Survival Nether if you want to build your shop area there (shop teleports can also now be set in this world).
 - **Shops/Costs for having Shops** - It will cost $250 to create a shop, and there will be a 10% tax on shop transactions. For example if you buy an item from a shop for $10 the owner of the shop gets $9 of it - sell an item to a shop for $10 you will get $9 of it - and the $1 extra is removed from the server economy.
 - **Shops/Limits** - Minimum price, $2.50 (ie the cheapest you'll be able to buy a stack, dirt or otherwise, is $160 - that's still dirt cheap [ha pun], if you think that's unacceptable even for new players, gtfo). Maximum price, $25,000,000 (as that'll be the max player balance).
-
+- **Voting** - Should process the vote **as** you vote, not when you next log in.
+- **Voting** - Should also just broadcast that X player voted, rather than both the broadcast and messaging you directly that you voted.
+- **Voting** - With the above change you no longer get messages when you next log in to confirm that you voted, so I've set a custom one up that should just tell you that you've received X tokens since you last logged in from voting.
+- **World Scaling** - Changed the Resource Nether scaling from the default of 1:8 to 1:4, for reasons in the next change.
+- **WorldBorders** - Survival/End borders kept as they are for now (10000/7500), Resource increased from 7500 to 8000, Resource Nether set to 2000 (8000/4 - hence the change of scaling, as a 1:8 scale means the usable resource nether is tiny), Survival Nether set to 5000 (10000/2). Easy to change as we go if needed but should be fine like this.<br>
+**TShop Stuff**:<br>
+- Added a confirm purchase feature to all shops (some were missing) so nobody can accidentally buy the wrong thing. If you do and confirmed it... tough it won't be refunded, you confirmed it.
+- Removed the Shield from the armour shop (partly it was only there for Mending which is disabled).
+- Removed Mending from the Elytra, added Unbreaking. Removed Mending from the Crystal Rod.
+- Lowered the Unbreaking enchants across the board.
+- Removed the Leather and Chainmail armour set options.
+- Removed the Emerald tool/weapon sets and rejigged the enchants between the leftover sets.
+- Renamed the Tridents from Emerald/Crystal/Ruby to Antique/Obsidian/Crystal to suit the other sets.
+- Added a Demonic Armour set. Will be Netherite (currently just a placeholder) and slightly better than the Crystal set. 100 each.
+- Added Demonic Tools/Weapons. Will be Netherite and slightly better than the Crystal set. 125 each.
+- Lowered Crystal enchants a bit (they will still be very useful items, but need to work in Netherite sets without them being too OTT to make them better than Crystal)
+- Removed Reusable SafariNets (will be comp/event reward only).
+- Removed Shulker Shells.
+- Removed Rainbow Glass Essence.
+- VOID Access increased from 6 hours to 8, and it will allow access to **all** VOID options (ie what you would normally get at top level unlocks)
+- Added temporary use of `/tfly` for 15 tokens for 1 hour.
+- ReturnTickets are now just "DeathPoint Scrolls". These will only take you back to your last recorded death point. Note that if location you died at is not air or water it won't work because the return point is unsafe (the item in the token shop says this - it does also check to the sides of where you died and if it finds air/a safe spot it'll save there as your return point instead).
+**TShop/Price Changes**:<br>
+__Armour__: <br>
+- Iron/Antique Armour set up from 35 to 40.
+- Diamond/Crystal Armour set up from 60 to 80 (as Crystal is better than Token, just lacking the empty cores).
+- Diamond/Token Armour set down from 75 to 70.
+__Weapons/Tools__:<br>
+- Iron/Antique set up from 15 to 25 (as it's now in line with the old Obsidian but Iron not Diamond)
+- Antique Bow/Crossbow up to 45 tokens.
+- Diamond/Obsidian set up from 35 to 45
+- Diamond/Token set down from 75 to 70
+- Diamond/Crystal set down from 125 to 100 **except** for the Crystal Bow/Crossbow/Fishing Rod as they won't get a Netherite upgrade, and the Crystal Trident which has gone up from 50 to 65 (was the Ruby Trident previously)
+__Mob Stuff__:<br>
+- Singleuse Net up from 8 to 15 tokens.
+- Dragon Breath down from 12 to 8 per bottle.
+__Misc Stuff__:<br>
+- NameTags and BabyTags dropped from 10 to 7 tokens (note that I will add 1.16 mobs with baby forms to work with the baby tag post-reset).
+- VOID Access up from 20 to 35 tokens.
+- **Graves** - Set up to only save X items at set levels, tested somewhat and it seems to work right, I'll test more at a later time. Gives a reminder in the grave message when you die that only X of your items were stored in the grave and the rest dropped.
+- **Graves** - Removed the hologram with the name as it's not important for people to know who the grave belongs to (and the hologram is why you can't click the grave from above). The particles remain as you can click through them.
+- **Graves** - When 1.16 is out so I can do it I'm going to swap the cobblestone wall it uses now out for a blackstone wall.
 
 # Player Suggested Changes For The Reset - And If They're Likely Or Not
 
