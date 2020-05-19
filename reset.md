@@ -250,24 +250,23 @@ Not sure how Jobs will handle making Netherite stuff yet so we'll have to wait f
 - VOID Access decreased from 6 hours to 4, and it will allow access to **all** VOID options (ie what you would normally get at top level unlocks)
 - Added temporary use of `/tfly` for 10 tokens for 1 hour.
 - Added temporary full use of `/combine` for 15 tokens for 4 hours.
-- ReturnTickets are now just "DeathPoint Scrolls". These will only take you back to your last recorded death point. Note that if location you died at is not air or water it won't work because the return point is unsafe (the item in the token shop says this - it does also check to the sides of where you died and if it finds air/a safe spot it'll save there as your return point instead).
+- ReturnTickets are now just "DeathPoint Scrolls". These will only take you back to your last recorded death point. Note that if location you died at is not air or water it won't work because the return point is unsafe (the item in the token shop says this - it does also check to the sides of where you died and if it finds air/a safe spot it'll save there as your return point instead).<br>
 **TShop/Price Changes**:<br>
 __Armour__: <br>
 - Iron/Antique Armour set up from 35 to 40.
 - Diamond/Crystal Armour set up from 60 to 80 (as Crystal is better than Token, just lacking the empty cores).
-- Diamond/Token Armour set down from 75 to 70.
+- Diamond/Token Armour set down from 75 to 70.<br>
 __Weapons/Tools__:<br>
 - Iron/Antique set up from 15 to 25 (as it's now in line with the old Obsidian but Iron not Diamond)
 - Antique Bow/Crossbow up to 45 tokens.
 - Diamond/Obsidian set up from 35 to 45
 - Diamond/Token set down from 75 to 70
-- Diamond/Crystal set down from 125 to 100 **except** for the Crystal Bow/Crossbow/Fishing Rod as they won't get a Netherite upgrade, and the Crystal Trident which has gone up from 50 to 65 (was the Ruby Trident previously)
+- Diamond/Crystal set down from 125 to 100 **except** for the Crystal Bow/Crossbow/Fishing Rod as they won't get a Netherite upgrade, and the Crystal Trident which has gone up from 50 to 65 (was the Ruby Trident previously)<br>
 __Mob Stuff__:<br>
 - Singleuse Net up from 8 to 15 tokens.
-- Dragon Breath down from 12 to 8 per bottle.
+- Dragon Breath down from 12 to 8 per bottle.<br>
 __Misc Stuff__:<br>
-- NameTags and BabyTags dropped from 10 to 7 tokens (note that I will add 1.16 mobs with baby forms to work with the baby tag post-reset).
-<br>
+- NameTags and BabyTags dropped from 10 to 7 tokens (note that I will add 1.16 mobs with baby forms to work with the baby tag post-reset).<br>
 - **Graves** - Set up to only save X items at set levels, tested somewhat and it seems to work right, I'll test more at a later time. Gives a reminder in the grave message when you die that only X of your items were stored in the grave and the rest dropped.
 - **Graves** - Removed the hologram with the name as it's not important for people to know who the grave belongs to (and the hologram is why you can't click the grave from above). The particles remain as you can click through them.
 - **Graves** - When 1.16 is out so I can do it I'm going to swap the cobblestone wall it uses now out for a blackstone wall.
