@@ -131,6 +131,12 @@ These are more or less going ahead unless anyone has any MAJOR issue with them, 
 <br>RE: `Reasonable sized dark rooms` - You need to use some common sense for that realistically but if it's large enough to be spawning hundreds of mobs in a very short time, it's not allowed, and if it requires digging out an area across multiple chunks just for the dark rooms... not allowed (keep it at a reasonable size - ie not 200 blocks wide and 4+ layers high).
 
 
+# Things Planned to be Added
+- Auctions - to allow for rarer items to be auctioned for X amount of time for people to bid on rather than use shops for them.
+- Villager Trade Limits - Specifically for Enchanted Books. This is in part for if Mending gets voted to remain as a villager trade but it'll allow me to set the minimum emeralds needed for a trade of any enchanted book in villager trades, which then makes enchants a bit harder to farm (which currently is one of the MANY issues Minecraft multiplayer has that Mojang doesn't bother to set up properly).
+- If it's updated/usable on 1.16, a WorldEdit particle visualiser you can use to keep a better eye on what you've selected.
+
+
 # Tweaks and Changes I've Configured Ready for the Reset
 
 - **ASyncWorldEdit** - will do actions a little faster than before the reset.
