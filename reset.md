@@ -270,7 +270,7 @@ __Misc Stuff__:<br>
 - **Graves** - Set up to only save X items at set levels, tested somewhat and it seems to work right, I'll test more at a later time. Gives a reminder in the grave message when you die that only X of your items were stored in the grave and the rest dropped.
 - **Graves** - Removed the hologram with the name as it's not important for people to know who the grave belongs to (and the hologram is why you can't click the grave from above). The particles remain as you can click through them.
 - **Graves** - When 1.16 is out so I can do it I'm going to swap the cobblestone wall it uses now out for a blackstone wall.
-- **Donator** - Those with Donator rank will have access to use `/se <line> <text>` which will edit the text of a sign you're looking at without having to break it. Can use colour codes. **If this abused for editing other players signs you will lose the permission to use it, Donator or not**.
+- **Donator** - Those with Donator rank will have access to use `/se <line> <text>` which will edit the text of a sign you're looking at without having to break it. Can use colour codes. **If this abused for editing other players signs you will lose the permission to use it, Donator or not**.<br>
 - **Various Skript Changes**:<br>
 __/menu__ - Removed DynMap link and the Help option - added a link to the Wiki instead. Added buttons for `/events`, `/pshops` and one for the auctions when it's added.<br>
 __/guides__ - Removed. Instead `/guides` will now give you the wiki link.<br>
