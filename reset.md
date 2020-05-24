@@ -275,6 +275,7 @@ __Misc Stuff__:<br>
 - NameTags and BabyTags dropped from 10 to 7 tokens (note that I will add 1.16 mobs with baby forms to work with the baby tag post-reset).<br>
 - **Graves** - Set up to only save X items at set levels, tested somewhat and it seems to work right, I'll test more at a later time. Gives a reminder in the grave message when you die that only X of your items were stored in the grave and the rest dropped.
 - **Graves** - Removed the hologram with the name as it's not important for people to know who the grave belongs to (and the hologram is why you can't click the grave from above). The particles remain as you can click through them.
+- **Graves** - Time between death and the grave popping dropped from 20 to 15 minutes.
 - **Graves** - When 1.16 is out so I can do it I'm going to swap the cobblestone wall it uses now out for a blackstone wall.
 - **Donator** - Those with Donator rank will have access to use `/se <line> <text>` which will edit the text of a sign you're looking at without having to break it. Can use colour codes. **If this abused for editing other players signs you will lose the permission to use it, Donator or not**.<br>
 - **Various Skript Changes**:<br>
@@ -284,4 +285,47 @@ __/util__ - Updated the locked messages for new unlock levels. Removed the Item 
 __VOID__ - Split into 3 unlocks at levels 74 (Sticks, Seeds, Cocoa, Feathers, Rotten Flesh, Gunpowder, Spider Eyes, String and Flint), 83 (Andesite, Diorite, Granite, Red Sand, Sandstone) and 92 (Dirt, Cobble, Stone, Sand, Gravel, Netherrack). Swapped the GUI around too so the first unlock (which is all of the stuff on the current page 2) is on page 1.<br>
 __Combiner__ - Split into 3 unlocks at levels 67 (Iron/Gold Nuggets, Bones, Wheat > Hay Bale/Bread), 79 (Coal, Iron/Gold Ingots, Lapis, Glowstone) and 88 (Redstone, Quartz, Diamonds, Emeralds). Removed Rotten Flesh > Leather and Netherwarts > Netherwart Blocks options.<br>
 __/levelinfo__ - Updated ready for the level perk changes. Permissions all changed/set as well.<br>
-__/bin__ - Now only has 3 rows rather than 5 so you can't bin as much as quickly.<br>
+__/bin__ - Now only has 3 rows rather than 5, timer dropped from 30 to 15 seconds before it wipes the bin contents.<br>
+__Chat Colour Menu__: Make it keep the menu open when you toggle it on/off (not sure why I didn't before when it stays open when you choose an actual colour... :L). `/cctoggle` will work by itself outside of the menu as well. Note that when you toggle through the menu it does close briefly then reopens (unlike when you change the colour) because it needs to do that to update the icon that says if you have them enabled or not.<br>
+__Disguise GUI__: Updated for the new mobs.<br>
+__DisCheck__: Updated command to check for whether you have the new 1.16 pack or 1.16 mob disguises.<br>
+__DonationDrive__: Replaced all mcMMO stuff with McRPG ready.<br>
+__Boosters__: As above. It should convert any mcMMO boosters you have left to McRPG boosters when you log in for the first time post-reset. There isn't actually a means to boost McRPG XP globally just yet but it has been suggested and confirmed it'll be added sometime soon so hopefully the dev adds that before we update/reset<br>
+__MobDrops__: Head drops added for the new mobs.<br>
+__ShopTPs__: Can only be set in Survival and the Survival Nether (currently it's only disabled in Creative...).<br>
+__/towny prices__: Updated RE changes below. Also added a "per resident upkeep" note for the `/upkeep` command info to make it more obvious that while the total upkeep may look like a lot it really isn't.<br>
+**Towny Tweaks**:<br>
+__Town Level Changes__:<br>
+- 2-4 Residents (Hamlet) - $10000 upkeep.<br>
+- 5-9 Residents (Village) - $30000 upkeep.<br>
+- 10-14 Residents (Town) - $60000 upkeep.<br>
+- 15-19 Residents (Large Town) - $100000 upkeep - outpost claims up from 2 to 3.<br>
+- 20-24 Residents (City) - $175000 upkeep.<br>
+- 25-29 Residents (Large City) - $300000 upkeep - outpost claims up from 3 to 4.<br>
+- 30-39 Residents (Metropolis) - $450000 upkeep - outpost claims up from 4 to 5.<br>
+- 40-49 Residents (Megalopolis) - $600000 upkeep - outpost claims up from 5 to 6.<br>
+- 50+ Residents (Utopia) - $750000 upkeep - outpost claims up from 6 to 8.<br>
+Settlements (1 resident towns) are staying as they are now, as are chunk claims as they go up to 200 without nations as it is. 
+The major increase to upkeep is to help keep excess money more under control. If 1 player with a decent job can fund a town of 50+ for 1 day with an hour or less of job grind without any input from another player, it's more than doable by the time you get to 50+ in one town (talking post reset upkeep levels, current upkeep levels are absurdly low even after I last increased them). Considering that if you hit 50 exactly at $750000 upkeep that's still only $15000 per player which is nothing in the grand scheme of things even at lower job levels and you don't need to split it evenly if you have newer players that can't pay that.<br>
+__Nation Level Changes__:<br>
+- 15-29 Residents - $200000 upkeep<br>
+- 30-49 Residents - $400000 upkeep<br>
+- 50-69 Residents - $750000 upkeep<br>
+- 70-99 Residents - $1200000 upkeep<br>
+- 100+ Residents - $1750000 upkeep<br>
+As above - when you have that many residents and have done enough to have towns and nations up and running, it's not that much in the grand scheme of things. Bonus town claims now go up by 50 every time the nation level goes up, after the first increase of 25 and starts at 25 (so 25/50/100/150/200/250 instead of the current 10/50/90/130/170/210).
+All nation levels provide 1 extra outpost claim for their towns.<br>
+__Default Town Changes__:<br>
+- Public will be disabled by default (ie only town players will be able to `/t spawn` to your town unless you toggle it on yourself).<br>
+- PVP in town land will be enabled by default.<br>
+__Misc. Town Stuff__:<br>
+- Cost to set up a new town dropped to $2500 (base upkeep remains $5000/day however).<br>
+- Cost to claim a chunk increased to $350.<br>
+- Minimum distance between claims from different towns will be ignored for towns in the same nation.<br>
+- Minimum distance between claims from different towns not in the same nation has been increased to 20 chunks.<br>
+- Outposts above your towns limits will be disabled from working (eg if you were able to set 4 but your town has shrunk to only allow for 3 them `/t outpost 4` will no longer work - though I believe the land itself stays claimed and if you go back over the resident count needed for 4 outposts it'll work as it did before).<br>
+- Time between `/t spawn`'s increased from 30 to 60 seconds.<br>
+- Time between allowing for PVP to be toggled in town/plots increased from 30 to 60 seconds.<br>
+- `/n spawn` disabled (excessive, you can already use every town in the nations spawn intop of homes).<br>
+- Town banks have a max limit of $10000000.<br>
+- Town banks have a max limit of $25000000.<br>
