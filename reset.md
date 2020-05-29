@@ -42,16 +42,20 @@ If nobody questions it however, it'll likely go through as listed on here - so i
 
 # Polls Open For Voting On
 
-- Should we Re-Enable TNT in Survival/Survival Nether? - https://www.strawpoll.me/20064010/
-- Should we Re-enable FireSpread? - https://www.strawpoll.me/20071305/
-- Should we Re-enable Snowman Snow Trails? - https://www.strawpoll.me/20070776/
-- Should we Re-enable Creeper Block Damage? - https://www.strawpoll.me/20070801/
-- Should we Re-enable Fireball (ie Ghast) Block Damage? - https://www.strawpoll.me/20070799/
-- Should we Re-enable Wither Block Damage? - https://www.strawpoll.me/20070793/
-- Should we Re-enable Enderman Block Theft? - https://www.strawpoll.me/20070796/
-- Should we Re-enable Mob Trampling? - https://www.strawpoll.me/20070787/
-- Should we Re-enable Zombie Door Breaking? - https://www.strawpoll.me/20070783/
-- How to Limit Mending? - https://www.strawpoll.me/20091699/
+- None Currently.
+
+# Polls That Ended - The Results?
+
+- __**TNT?**__: Keep it to the Resource worlds only.
+- __**FireSpread?**__: Was very close between not enabling and the option to only enable it for in Resource, so I'm going to keep it off in Survival worlds and enable it in the Resource worlds (for all types as that was the next highest result).
+- __**Snowman Trails?**__: Re-enabled.
+- __**Creeper Block Damage?**__: Re-enabled in Resource worlds.
+- __**Fireball Block Damage?**__: Re-enabled in Resource Nether.
+- __**Wither Block Damage?**__: Re-enabled for both on spawn and the projectiles it shoots.
+- __**Enderman Block Theft?**__: Was 1 vote into a yes so I'll leave it off in Survival worlds but on in Resource worlds.
+- __**Crop Trampling?**__: Left disabled (wimps).
+- __**Zombie Door Breaking?**__: Re-enabled. Worlds on Hard will have this (Resource, End, RNether and SNether) - locked doors do not break but if the locks get lifted due to inactivity then they will be breakable by zombies again.
+- __**Mending Limitations**__: Will be removed from Villager trades as keeping it wasn't a top voted for option, but I'll keep the top two voted for options. Mending will be available as a boss drop (small chance from withers/elder guardians, guaranteed one from the dragon), will be added to event/competition rewards and (rather than add it to the token shop, at least not straight away post-reset) as Xuqi suggested I'll also add it as a chance to get on day 14 and 28 from Bill (also gonna up the chances a bit for bill stuff).
 
 
 # Plugins/Features Being Removed (that aren't listed specifically in the list of things I've already configured further down the page)
