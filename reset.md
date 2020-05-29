@@ -42,7 +42,7 @@ If nobody questions it however, it'll likely go through as listed on here - so i
 
 # Polls Open For Voting On
 
-- None Currently.
+- None Currently. More may appear down the line!
 
 # Polls That Ended - The Results?
 
@@ -333,3 +333,6 @@ __Misc. Town Stuff__:<br>
 - `/n spawn` disabled (excessive, you can already use every town in the nations spawn intop of homes).<br>
 - Town banks have a max limit of $10000000.<br>
 - Town banks have a max limit of $25000000.<br>
+- **DailyBonus/Bill** - Added Mending 1 books as a rare reward on the 14th and 28th days.
+- **DailyBonus/Bill** - Upped the chances of the not-guaranteed rewards a bit (for all - titles and armour, mending is a similar chance). 
+- **DailyBonus/Bill** - Have also put checks in for whether you have space for any items gained from Bill (as we actually don't have that currently so if you won the lucky armour or tried to claim the totems/apples but had no space you'd just get nothing... :L) - if you don't have space you'll be told to open a ticket by a chest about it and I'll be sent a mail to tell me what you won (so you can't lie). Also swapped all references to Return Tickets for DeathPoint Scrolls.
