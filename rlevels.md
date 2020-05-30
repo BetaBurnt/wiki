@@ -131,7 +131,7 @@ QuickLinks to Information on Perks Below:
 - [TownyFlight](#townyflight)
 - [Flashlight](#flashlight)
 - [The Combiner](#the-combiner)
-- [V.O.I.D.](#v.o.i.d.)
+- [V.O.I.D.](#void)
 
 
 #### Chat Titles
@@ -258,7 +258,7 @@ Only one of the Wheat options can be active at a time.
 
 **Note::** This only triggers in the item pick up event - for example if you have the options for combining Iron Nuggets and Iron Ingots enabled, the Ingots you get from picked up Nuggets **will not** combine unless you drop them and pick them back up.
 
-#### V.O.I.D.
+#### VOID
 
 `/void` will bring up a menu where you can toggle the feature on/off (with the top icon) and enable/disable which of the items it can destroy:
 
