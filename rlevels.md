@@ -254,6 +254,8 @@ The Combiner can attempt to combine the following if enabled in the above menu (
 |Wheat (3)|1 Bread|
 |Wheat (9)|1 Haybale|
 
+Only one of the Wheat options can be active at a time.
+
 **Note::** This only triggers in the item pick up event - for example if you have the options for combining Iron Nuggets and Iron Ingots enabled, the Ingots you get from picked up Nuggets **will not** combine unless you drop them and pick them back up.
 
 #### V.O.I.D.
