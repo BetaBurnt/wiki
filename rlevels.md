@@ -7,7 +7,7 @@ Each player has two ladders they can climb on the server - their [server rank](r
 There are 100 player levels that you can advance through using your ingame balance, which can be earned through use of your [jobs](money.md)!
 Each level costs a set amount to rank up to (you can't skip levels by paying an excess) with the `/levelup` command, which will tell you how much you need if you do not yet have enough to rank up! 
 
-The perks you gain along the way are:
+The perks you gain along the way are as follows (there is also more detailed information below the chart):
 
 |Level|Cost|Perks|Titles|
 |---|---|---|---|
@@ -63,7 +63,7 @@ The perks you gain along the way are:
 |50|$950000|- **SafariNets**: Ability to net Drowned, Husks, Strays and Zombified Piglins.|General|
 |51|$1000000|- **Health**: A fifth extra heart (may need to relog for it to take effect).<br>- **DailyBonus**: Monetary rewards from the dailybonus (Bonus Bill) are now 5x as much.|Gnome, Harpy|
 |52|$1000000|- **Player Shops**: Up to 35.<br>- **Graves**: Will save your equipped armour, hotbar, offhand, top row and all but the rightmost slot of the middle row of your inventory. Other items will drop.|Professor|
-|53|$1200000|- **Flashlight** - Ability to toggle your flashlight with `/fl`.<br- **BowEffects**: Fourth set unlocked. Access with `/bmenu`.>|Regent|
+|53|$1200000|- **Flashlight** - Ability to toggle your flashlight with `/fl`.<br> **BowEffects**: Fourth set unlocked. Access with `/bmenu`.>|Regent|
 |54|$1200000||Paladin|
 |55|$1400000|- **SafariNets**: Ability to net Silverfish, Endermites, Witches and Creepers.|Sultan, Pharaoh|
 |56|$1400000||Assassin, Slayer|
@@ -111,3 +111,156 @@ The perks you gain along the way are:
 |98|$18000000||Celestial|
 |99|$20000000||Burnt, Valentine|
 |100|$25000000|- **SetHomes**: Up to 7.<br>- **Health**: A tenth extra heart (may need to relog for it to take effect).<br>- **Suffix**: The option to request a custom symbol and colour for your suffix (the level symbol/number in the chat).|Legionnaire|
+
+> You can also double check the cost to rank up, and perks/titles gained at any level with the `/levelinfo` command ingame!
+
+QuickLinks to Information on Perks Below:
+- [Chat Titles](#chat-titles)
+- [Player Shops](#player-shops)
+- [Player Homes](#player-homes)
+- [Graves](#graves)
+- [Creative](#creative)
+- [Health](#health)
+- [SafariNets](#safarinets)
+- [Hats](#hats)
+- [Bow/Elytra Effects](#bow-and-elytra-effects)
+- [WorkBench](#workbench)
+- [BackPack](#backpack)
+- [GravityTubes/JumpPads](#gravity-tubes-and-jump-pads)
+- [Light Level](#light-level)
+- [TownyFlight](#townyflight)
+- [Flashlight](#flashlight)
+- [The Combiner](#the-combiner)
+- [V.O.I.D.](#v.o.i.d.)
+
+
+#### Chat Titles
+
+You will get new titles as you go up the levels, which you can select/change/disable via the GUI brought up with `/titles`!
+A full list of the titles currently added through your player levels can be found [here](titles.md)!
+
+#### Player Shops
+
+You can create up to a set amount of player chest shops - as you level up you can create more so you can buy/sell more options at once!
+You can view the full information on player shops [HERE](shops.md)!
+
+#### Player Homes
+
+You can set a home, go to a home and delete homes with these commands:
+- `/sethome <name>`
+- `/home <name>`
+- `/delhome <name>`
+You can also pull up a list of your homes with `/homes` and can teleport to them or delete them by clicking them as they state.
+
+You will start with 2 homes and can get up to 7 maximum by levelling up. 
+Note that these are **not** to be abused in any way - do not set a home in someone elses property/town without their permission to do so, and do not abuse homes for harrassing/attacking others.
+
+#### Graves
+
+Graves will store a certain amount of your items when you die, more as you level up, so that they do not drop - this means they won't despawn/disappear anywhere near as quickly and players cannot steal them right away.
+You can view the full information on graves [HERE](graves.md)!
+
+#### Creative
+
+This unlocks more access in the Creative world. By default you will only have access to go to the Creative world and look around, and build on other peoples plots if they add you - as you level up you will be able to claim your own plot to build on and eventually also have access to use WorldEdit on your plot (and others you have access to build on) as well!
+
+#### Health
+
+Your health will go up as your level does! By default you will have the normal 10 hearts (20 health) you normally would on Minecraft, however as you level up you will go up a heart at a time all the way to 20 hearts (40 health)!
+When you go up to a level that increases your health you may need to relog for it to take effect!
+
+#### SafariNets
+
+SafariNets can be purchased through the [TokenShop](voting.md) (single-use nets only) or won through events/competitions (single-use and reusable) - depending on your level you can then use them to pick up and move certain types of mobs!
+You can release mobs of any type, you just can't catch mobs unless you're at a level that allows you to!
+
+#### Hats
+
+You can stick a block or hat on your head, instead of a helmet! To do so just hold the item/block and do `/hat`!
+
+Note that they give no benefit to your defense unlike helmets, however some items/blocks look great when worn! A prime example is an End Rod, which makes you look like a unicorn!
+
+#### Bow and Elytra Effects
+
+Bow and Elytra Effects add particle effects to either arrows you shoot (whether that be from a bow or crossbow) or a trail of particles behind you while you glide around with an Elytra!
+
+To list the effects you have unlocks, choose which you wish to use and to toggle them on/off use `/bmenu` or `/emenu`!
+
+#### Workbench
+
+As you level up you will gain access to either access a virtual workbench from anywhere with `/wb`, or to the FastCraft workbench when you use a physical workbench!
+The FastCraft bench will list all items you can make from the items in your inventory and allow you to change the amount to make and just click to process them all at once. Note that it will list what items it is using for the recipe - make sure it's not trying to use anything rare before crafting (for example a recipe that calls for a Ghast Tear may try and use a Drop of Purity)!
+
+#### Backpack
+
+Once you have unlocked the backpack you can access it via `/bp` or `/backpack`.
+Items in your backpack do not drop when you die - allowing for some useful items to be taken with you anywhere you go! The backpack unlocks in three stages and allows for 9-27 items to be stored.
+At a certain level you will also unlock the ability to have items go into your backpack on pickup if your main inventory is full as well.
+
+#### Gravity Tubes and Jump Pads
+
+Gravity Tubes will allow you to set a location that will lift you up a set distance (similar to how water over soulsand works, but without the water...) - the height you can make them depends on your level!
+Jump Pads allow you to set a pressureplate to act like a launch pad with some set parameters.
+You can read up on both in more detail [HERE](jpgt.html)
+
+#### Light Level
+
+This will give you access to `/ll` - when toggles on it will show you via some particles only you can see whether mobs can spawn on each block around you!
+If no particles are shown the block cannot have mobs spawn on it, if the particles are yellow then mobs can spawn there at night and if they are red mobs can spawn there any time!
+
+#### Upgradable Hoppers
+
+Upgradable hoppers are an alternative to normal hoppers that you can upgrade to do a much wider range of things.
+You can read up how to get and use these hoppers, and what they can do, [HERE](hopper.md)!
+
+#### TownyFlight
+
+This will allow you to fly on claimed land for the town that you are in, and on town land in allied towns!
+When on land claimed for your town or an allied town simply do `/tfly` to enable and then fly as you would in Creative!
+
+Note that if you have this on and leave town land it will turn off - you will drop (no fall damage) and will need to do `/tfly` again when you are back on town land to re-activate.
+
+This is **not** to be used during PVP!
+
+#### Flashlight
+
+You can toggle this on/off with `/fl`.
+When enabled everything will be as bright as it would be in the daylight or if you were using night vision - note that as with night vision it will not stop mobs spawning so be aware of this when using it while mining etc...!
+
+#### The Combiner
+
+`/combine` will bring up a menu where you can toggle the feature on/off (with the top icon) and enable/disable which of the listed items it will attempt to combine as you pick them up:
+
+![combiner](images/combiner.png)
+
+For example in the above image the Combiner is enabled, and will attempt to combine all of the items listed except for coal, redstone, lapis and bones.
+
+The Combiner can attempt to combine the following if enabled in the above menu (when you are at the right level to use them):
+
+|Items picked up (amount of)|Combined Output|
+|---|---|
+|Coal (9)|1 Coal Block|
+|Iron Nugget (9)|1 Iron Ingot|
+|Iron Ingot (9)|1 Iron Block|
+|Gold Nugget (9)|1 Gold Ingot|
+|Gold Ingot (9)|1 Gold Block|
+|Redstone Dust (9)|1 Redstone Block|
+|Lapis Lazuli (9)|1 Lapis Lazuli Block|
+|Glowstone Dust (4)|1 Glowstone Block|
+|Nether Quartz (4)|1 Quartz Block|
+|Diamond (9)|1 Diamond Block|
+|Emerald (9)|1 Emerald Block|
+|Bone (4)|1 Bone Block|
+|Wheat (3)|1 Bread|
+|Wheat (9)|1 Haybale|
+
+**Note::** This only triggers in the item pick up event - for example if you have the options for combining Iron Nuggets and Iron Ingots enabled, the Ingots you get from picked up Nuggets **will not** combine unless you drop them and pick them back up.
+
+#### V.O.I.D.
+
+`/void` will bring up a menu where you can toggle the feature on/off (with the top icon) and enable/disable which of the items it can destroy:
+
+![voidmenu](images/voidmenu.png)
+
+For example in the above image VOID is enabled, and will delete any Dirt, Cobblestone, Andesite, Diorite, Granite, Red Sand, Sandstone, Gravel and Netherrack I pick up - but will let me collect Stone and Sand.
+As with The Combiner this happens as you pick items up so if you have dirt enabled in the VOID it will delete the dirt as you pick them up.
