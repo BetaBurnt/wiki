@@ -6,6 +6,8 @@ You can vote once per link every 24 hours (once every 12 hours for ServerPact). 
 
 Note that you do not need to be online to vote - all votes will be queued for when you net log in!
 
+# Voting is now disabled until the reset! Links can stay so I don't forget them but they can't be voted at - you will receive 7 tokens a day on the current server on log in (the timer resets at the 11PM UK/Server time restart) to use in the token store until the reset!
+
 ### Voting Links
 - [MinecraftList.org](https://minecraftlist.org/vote/2846)
 - [Minecraft-MC.com](https://minecraft-mp.com/server/228349/vote/)
