@@ -336,3 +336,23 @@ __Misc. Town Stuff__:<br>
 - **DailyBonus/Bill** - Added Mending 1 books as a rare reward on the 14th and 28th days.
 - **DailyBonus/Bill** - Upped the chances of the not-guaranteed rewards a bit (for all - titles and armour, mending is a similar chance). 
 - **DailyBonus/Bill** - Have also put checks in for whether you have space for any items gained from Bill (as we actually don't have that currently so if you won the lucky armour or tried to claim the totems/apples but had no space you'd just get nothing... :L) - if you don't have space you'll be told to open a ticket by a chest about it and I'll be sent a mail to tell me what you won (so you can't lie). Also swapped all references to Return Tickets for DeathPoint Scrolls.
+- **FastCraft** - Allowed me to change the GUI icons so they've gone from <https://i.gyazo.com/985babbe9bf5a4aa6971bb2141f27c0f.png> to <https://i.gyazo.com/aae502c29f69f4be8d47aa2932c56534.png>. Only reason the sword is there still for page reference is because it needs to be something with durability to have the bar -.-
+- **ChestSort** - You will now be able to use whatever sort options you have enabled (middle click and double click on an empty space by default) to sort your backpack as well! You can also now toggle how you sort/move items with `/sort hotkeys` (was added prior to the build we have on LC2 now but I don't think I noticed), and two new options are now available. These are to move all of your items into the chest or out of the chest by left/right clicking outside of the inventory.
+- **LibsDisguises** - Supposedly a number of fixes for disguises that were a bit buggy (like items that flew off when you set it before settling down... and squid was apparently a bg buggy? some others too).
+- **ASyncWOrldEdit** - A lot of bug fixes so hopefully some of the stuff it bugged a bit on will work better.
+
+Also installed and set up 3 new plugins:
+- **Villager Trade Limits** - This being what will remove Mending books from Villager trades (not sure if it 100% removes it or just tweaks it to the options I set... so I set it to need Bedrock.... so even if it shows you won't be able to get it from Villagers - just from boss drops, events/competitions, maybe top voter rewards, bill and rare chance in loot chests as normal). I haven't put limits on the other enchants - I will later down the line if too many trades are popping up that take the piss (specifically for rarer/higher level enchants, not for common stuff) but even if that happens it won't be that low (should also be noted that cheesing trades via infecting/curing a villager to stack discounts and drop trades to dirt cheap is patched via plugins too, on LC2 currently as well - it's an exploit, whether it's a "mechanic" of the game or not [just like the many many other things that are easy to exploit and basically break the game, particularly on multiplayer/servers, that Mojang flat out ignores] it makes it excrutiatingly easy to get an excess of high end stuff and is not how things should work so it's an exploit and should be treated as such).
+- **WE Visualiser** - Will be enabled/disabled with `/wesv toggle` (or aliases I've added of `/wesee`, `/wsee` or `/cui`). Will look like this: <https://i.gyazo.com/c79dd6957520684f01fb7f8b99691df8.png>.
+- **WE Visualiser** - Can also enabled/disabled a different outline for your clipboard (ie if you copy something you can get a rough idea of where it'll place) with `/wesv toggle clipboard` (or aliases I've added of `/weseeclip`, `/wseeclip`, `/wseec`, `/cuiclip` or `/cuic`). Will look like this: <https://i.gyazo.com/fac5713d6a4cb1c8b329ce882e647d70.jpg>.
+Note that the larger a selection you have the less particles there will be, the smaller the more (or it looks like it cause they're crammed).
+- **Auctions** - Will add a wiki page on it at some point detailing how to use it. Limits I've put in place are:
+- Minimum Start Price - $500
+- Maximum Start Price - $1000000
+- Minimum Bid Increase - $100
+- Maximum Bid Increase - $500000
+- Minimum Duration - 1 hour
+- Maximum Duration - 7 days
+- Max Number of Active Auctions - 15 for members, 20 for trusted, 25 for donators (for staff/builders its 20 as they get trusted, unless they also have donator)
+- Winnings (money or items) are not automatically given to you - you claim them from the Auction GUI.
+- Cannot be used at all in Creative (not even to bid, because that's just the limits it allows...).
