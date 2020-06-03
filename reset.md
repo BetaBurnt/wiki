@@ -356,3 +356,10 @@ Note that the larger a selection you have the less particles there will be, the 
 - Max Number of Active Auctions - 15 for members, 20 for trusted, 25 for donators (for staff/builders its 20 as they get trusted, unless they also have donator)
 - Winnings (money or items) are not automatically given to you - you claim them from the Auction GUI.
 - Cannot be used at all in Creative (not even to bid, because that's just the limits it allows...).
+
+
+## Wiki Page Updates For The Reset
+
+I'll go through the wiki here and there and make a secondary page for updated info when needed so I can copy them straight over when the reset happens, and list them here so you can see changes.
+
+- [Player Levels Page](rlevels.md)
