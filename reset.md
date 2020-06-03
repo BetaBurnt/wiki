@@ -362,4 +362,4 @@ Note that the larger a selection you have the less particles there will be, the 
 
 I'll go through the wiki here and there and make a secondary page for updated info when needed so I can copy them straight over when the reset happens, and list them here so you can see changes.
 
-- [Player Levels Page](rlevels.md)
+- [Player Levels Page](rlevels.md) - Just needs the images for the Combiner/VOID menus updating.
