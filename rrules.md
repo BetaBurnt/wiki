@@ -22,8 +22,8 @@ For example they are way more likely to give harsher punishments for someone who
 - [Rule 6: Client Mods)](#client-mods)
 - [Rule 7: No Alt Accounts](#no-alt-accounts)
 - [Rule 8: No Bug or Exploit Abuse](#no-bug-or-exploit-abuse)
-- [Rule 9: No Pointless Bugging of the Staff](#no-pointless-bugging-of-the-staff)
-- [Rule 10: Report All Bugs](#report-all-bugs)
+- [Rule 9: No Staff Bugging](#no-staff-bugging)
+- [Staff Warnings](#staff-warnings)
 - [General Punishment Guidelines](#general-punishment-guidelines)
 - [The Staff Policy on Other Forms of Media](#the-staff-policy-on-other-forms-of-media)
 
@@ -51,8 +51,8 @@ Again - this is only what we ask of our players to keep the game enjoyable for t
 
 
 
-### Rule 1:
-## Be Respectful
+## Rule 1:
+### Be Respectful
 This basically boils down to:
 - No deliberately malicious comments.
 - No bullying.
@@ -64,7 +64,7 @@ This basically boils down to:
 We also encourage users to try and be helpful, friendly and sociable - particularly to players new to our server - though these qualities are not enforced.
 
 ### Rule 1a:
-## Chat Rules
+### Chat Rules
 
 - You may swear on the server in general conversation, but swearing maliciously at another player is prohibited. Being overly crude in general, swearing or otherwise, is also prohibited in global channels.
 - Excessive swearing is also not allowed - it is annoying and offputting to new players. Don't go overboard.
@@ -76,15 +76,15 @@ We also encourage users to try and be helpful, friendly and sociable - particula
 - Please avoid topics in the server chat that are very likely to cause arguments and if they seem to be starting one, or annoying other players, drop the conversation.
 
 
-### Rule 2:
-## No Harassment
+## Rule 2:
+### No Harassment
 Harassment can be defined as sexually, emotionally, physically, or verbally abusing another player. 
 
 This can be anywhere from insulting a player, abusing PVP, or making strange sexual remarks towards the player. 
 Please also be aware that just because you might find something acceptable to do/say in your own circle of friends in real life does not mean that it **is** acceptable when speaking to people online who do not know you or what you are or are not being serious about.
 
 ### Rule 2a:
-## PvP and Harassment
+### PvP and Harassment
 There is a fine line between PVP and harassment that is easy to cross if you get carried away. 
 For example these would definitely fall under harrassment and are not allowed:
 - Camping outside a players home to attack them.
@@ -96,8 +96,8 @@ In general, as stated at the top of the page, just use some common sense. PVP **
 It is also asked not to annoy new players by hunting them down - there's no benefit to it anyway (they won't have decent loot yet, and they don't drop their head in PvP deaths until level 10).
 
 
-### Rule 3:
-## Keep the Environment Nice
+## Rule 3:
+### Keep the Environment Nice
 - Lava/water pillars, 1x1 holes or towers, or any other structure in the Survival world that serves no purpose and ruins the landscape are susceptible to removal if spotted/reported.
 - When getting logs, try to cut down the whole tree. No floating logs and leaves please.
 - Do not dig up entire areas, such as deserts, in Survival.
@@ -108,8 +108,8 @@ In general keep as much of your resource gathering in the Resource world, `/reso
 Only dig large areas out in the Survival world if you plan on building in that area specifically - resource gathering and job grinding should be kept to the Resource world.
 
 
-### Rule 4:
-## Auto Farming
+## Rule 4:
+### Auto Farming
 This is a very grey area, but generally having automatic resource gathering mechanisms is allowed so long as:
 - **They don't cause any problems with the server economy.**
 - **They don't cause lag of any kind.**
@@ -125,8 +125,8 @@ This includes going AFK near automated farms to keep them active in loaded chunk
 **As with all server rules - just because it is not explicitly stated here does not mean it is/isn't okay. Use some common sense when comparing to the rules that are listed and/or ask the staff to be sure!**
 
 
-###Rule 5
-## Mob Farms or Grinders
+## Rule 5
+### Mob Farms or Grinders
 In general only the following **are allowed**:
 - Dark room mob farms/grinders are allowed, as long as they aren't too huge (ie multiple chunks wide, many floors high etc..), because they're not the most efficient thing in the world even with the mobs spawning in them giving jobs xp/money, mcrpg xp and MD drops. 
 These kinds of farms/grinders are also not permitted to be below Y level 20, as the spawn rates increase considerably towards bedrock. In general if your dark room spawner is able to spawn a stupid amount of mobs very quickly - **it is not allowed**.
@@ -148,8 +148,8 @@ As with the auto-farms above, it should also be noted that any mechanism that yo
 As always, use some common sense. Just because something is doable in Vanilla does not make it okay in a multiplayer/server scenario - if you can get a lot from doing literally nothing once it's set up - it's likely not okay. Check with staff first.
 
 
-### Rule 6:
-## Client Mods
+## Rule 6:
+### Client Mods
 Any form of client mod (or "hack") that allows any form of unfair advantage over other players is not allowed.
 This includes, but is not limited to:
 - X-Ray of any kind.
@@ -189,29 +189,28 @@ This rule also applies to doing *ANYTHING* with the intention of crashing the se
 We have protections in place to stop the majority of this but if we find what we know to be an item made for this purpose you will be banned - whether it worked or not - and will not have an appeal posted.
 
 
-### Rule 7:
-## No Alt Accounts
+## Rule 7:
+### No Alt Accounts
 There is seriously no need/reason/point to having an alt account unless you use one for development purposes. Which you will never need on another persons server - so no.
 
 This extends to the use of Bots - regardless of what they are for/do, they are not a server feature and are not welcome on the server.
 
 
-### Rule 8:
-## No Bug or Exploit Abuse
+## Rule 8:
+### No Bug or Exploit Abuse
 If you come across something broken/not working as expected and it can be used to gain an unfair advantage over other players - such as duplication bugs, invincibility glitches etc... - report it to the staff team by using the `/bug` command ASAP so it can be fixed!
 
 Once reported the bug/glitch should be avoided until it has been patched/fixed. Abuse of any bug/glitch will result in punishments.
 If something you "can do in Vanilla" allows for you to gain an excessive amount of items faster than you should be able to, or access to an area you shouldn't have access to etc... **it is an exploit**. Whether it's doable in Vanilla does not change this - abuse the exploits and you will be punished for doing so.
 
 
-### Rule 9:
-## No Staff Bugging
+## Rule 9:
+### No Staff Bugging
 Don’t bother asking for OP, rank ups, or any special treatment - it only reduces your chances of getting them in the future.
 No PMC reviewers, we know they aren't real and even on the slightest chance you are telling the truth, you will still NOT get any special treatment. The same applies to people requesting fly for making videos etc...
 If you say our name and we don’t reply, that means we are busy. If it is a staff matter use `/report [message]`, if it is a personal matter use `/mail send [playername] [message]` or message us on the forums/discord and we will get to you when we are available.
 
 
-### Rule 10:
 ### Staff Warnings
 Just because it is not on this list does not mean the staff can’t warn you for it, there will be times where a rule isn’t posted on here, you do whatever isnt posted and the staff team deems it inappropriate, for this you will receive a warning. Should you continue this act you will be punished further whether that be kicks, mutes or a ban.
 
