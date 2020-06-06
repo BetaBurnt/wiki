@@ -356,6 +356,7 @@ Note that the larger a selection you have the less particles there will be, the 
 - Max Number of Active Auctions - 15 for members, 20 for trusted, 25 for donators (for staff/builders its 20 as they get trusted, unless they also have donator)
 - Winnings (money or items) are not automatically given to you - you claim them from the Auction GUI.
 - Cannot be used at all in Creative (not even to bid, because that's just the limits it allows...).
+- **RTP** - Cooldown between random teleports increased from 1 to 5 minutes.
 
 
 ## Wiki Page Updates For The Reset
