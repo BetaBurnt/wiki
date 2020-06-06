@@ -78,5 +78,5 @@ There is a loss compared to Vanilla bonemeal > bone block, but less steps to mak
 
 ### Tall Grass and Ferns
 
-![tgrass](images/tgrass.png)<br>
+![tgrass](images/tgrass.png)
 ![tfern](images/tfern.png)
