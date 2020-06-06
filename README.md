@@ -1,6 +1,6 @@
 ![ribbon](images/L-ribbon.png) 
 
-**PLEASE READ FIRST - The linked page goes over a potential upcoming server reset!**
+**PLEASE READ FIRST - The linked page goes over an upcoming server reset!**
 - [Future Server Reset](reset.md)
 
 ### Server Information
