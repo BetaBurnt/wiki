@@ -42,7 +42,7 @@ Note that if you yourself have been griefed you can ask the staff who did it - h
 ### Raiding
 Raiding **is allowed**
 
-However, as with the above rule for griefing, it is asked that you don't go overboard with it.
+However, as with the above suggestion for griefing, it is asked that you don't go overboard with it.
 
 For example if you break into someones farm, maybe don't take every single crop so that they have something to replant from (or don't break the pumpkin/melon stems etc...).
 The same applies for animals - maybe leave them a couple of them so they can breed them to get their farm back in working order.
