@@ -27,7 +27,7 @@ For example they are way more likely to give harsher punishments for someone who
 - [General Punishment Guidelines](#general-punishment-guidelines)
 - [The Staff Policy on Other Forms of Media](#the-staff-policy-on-other-forms-of-media)
 
-## Unenforced Rules and Suggestions:
+# Unenforced Rules and Suggestions:
 ### Griefing
 Griefing **is allowed**.
 However - it is asked that you do not go pointlessly overboard with it.
