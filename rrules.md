@@ -1,7 +1,6 @@
 ![ribbon](images/L-ribbon.png) 
 
-## General Clarifications To Keep In Mind
-
+# General Clarifications To Keep In Mind
 Just because you can do something in Vanilla Minecraft/singleplayer does **not** mean it is okay on the server. 
 Mega farms may be something you can make in singleplayer/Vanilla for example, but this is a multiplayer server where a lot of people will have their games ruined if everybody has stupid amounts of money/skills/items and the economy is ruined.
 
@@ -50,6 +49,7 @@ The same applies for animals - maybe leave them a couple of them so they can bre
 Again - this is only what we ask of our players to keep the game enjoyable for those being griefed/raidied - It's not fun to come back to all of your stuff being destroyed (this is not a Factions server). This is not enforced however as this is a major aspect of Vanilla gameplay.
 
 
+# Server Rules
 
 ## Rule 1:
 ### Be Respectful
