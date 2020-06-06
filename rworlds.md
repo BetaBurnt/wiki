@@ -37,7 +37,7 @@ You can access this world from any nether portal built in the Resource world and
 ### The End
 
 You can access the End from any end portal/stronghold found in the Resource world! 
-This world is reset once a month, and accessible only for a week when it resets, to bring back the dragon for you to have another go at bagging the dragon egg, and to reset resources and end cities!
+This world is reset once every 3 weeks, and accessible only for a week when it resets, to bring back the dragon for you to have another go at bagging the dragon egg, and to reset resources and end cities!
 
 > Do not build in this world
 
