@@ -1,6 +1,33 @@
 ![ribbon](images/L-ribbon.png) 
 
-# Unenforced Rules and Suggestions:
+## General Clarifications To Keep In Mind
+
+Just because you can do something in Vanilla Minecraft/singleplayer does **not** mean it is okay on the server. 
+Mega farms may be something you can make in singleplayer/Vanilla for example, but this is a multiplayer server where a lot of people will have their games ruined if everybody has stupid amounts of money/skills/items and the economy is ruined.
+
+As a general rule of thumb, ontop of the below rules, **use some common sense**. 
+Just because something is not **explicitly** stated on here does not mean it is okay - if it may **possibly** fit into one of our rules then it is likely not okay. If you're not sure about something then check with staff first.
+
+And while there is a list of the general guidelines for the punishments we will give for rule breaking - this is ultimately down to staff discretion at the time. 
+For example they are way more likely to give harsher punishments for someone who comes on and starts breaking rules immediately (whether they've read the rules or not, as you have **no** excuse not to know the rules of the server you're playing on), than if an older player slips up and breaks a rule by accident even if it was the same rule broken.
+
+- [Unenforced Rules and Suggestions](#unenforced-rules-and-suggestions) - Please make sure to read these as well.
+- [Rule 1: Be Respectful](#be-respectful)
+  - [Rule 1a: Chat Rules](#chat-rules)
+- [Rule 2: No Harassment](#no-harassment)
+  - [Rule 2a: PvP and Harassment](#pvp-and-harassment)
+- [Rule 3: Keep the Environment Nice](#keep-the-environment-nice)
+- [Rule 4: Auto Farming](#auto-farming)
+- [Rule 5: Mob Farms or Grinders](#mob-farms-or-grinders)
+- [Rule 6: Client Mods)](#client-mods)
+- [Rule 7: No Alt Accounts](#no-alt-accounts)
+- [Rule 8: No Bug or Exploit Abuse](#no-bug-or-exploit-abuse)
+- [Rule 9: No Pointless Bugging of the Staff](#no-pointless-bugging-of-the-staff)
+- [Rule 10: Report All Bugs](#report-all-bugs)
+- [General Punishment Guidelines](#general-punishment-guidelines)
+- [The Staff Policy on Other Forms of Media](#the-staff-policy-on-other-forms-of-media)
+
+## Unenforced Rules and Suggestions:
 ### Griefing
 Griefing **is allowed**.
 However - it is asked that you do not go pointlessly overboard with it.
@@ -21,35 +48,6 @@ For example if you break into someones farm, maybe don't take every single crop 
 The same applies for animals - maybe leave them a couple of them so they can breed them to get their farm back in working order.
 
 Again - this is only what we ask of our players to keep the game enjoyable for those being griefed/raidied - It's not fun to come back to all of your stuff being destroyed (this is not a Factions server). This is not enforced however as this is a major aspect of Vanilla gameplay.
-
-
-Now to the actual enforced rules.
-
-- [Rule 1: Be Respectful](#be-respectful)
-  - [Rule 1a: Chat Rules](#chat-rules)
-- [Rule 2: No Harassment](#no-harassment)
-  - [Rule 2a: PvP and Harassment](#pvp-and-harassment)
-- [Rule 3: Keep the Environment Nice](#keep-the-environment-nice)
-- [Rule 4: Auto Farming](#auto-farming)
-- [Rule 5: Mob Farms or Grinders](#mob-farms-or-grinders)
-- [Rule 6: Client Mods)](#client-mods)
-- [Rule 7: No Alt Accounts](#no-alt-accounts)
-- [Rule 8: No Bug or Exploit Abuse](#no-bug-or-exploit-abuse)
-- [Rule 9: No Pointless Bugging of the Staff](#no-pointless-bugging-of-the-staff)
-- [Rule 10: Report All Bugs](#report-all-bugs)
-- [General Punishment Guidelines](#general-punishment-guidelines)
-- [The Staff Policy on Other Forms of Media](#the-staff-policy-on-other-forms-of-media)
-
-## General Clarifications To Keep In Mind
-
-Just because you can do something in Vanilla Minecraft/singleplayer does **not** mean it is okay on the server. 
-Mega farms may be something you can make in singleplayer/Vanilla for example, but this is a multiplayer server where a lot of people will have their games ruined if everybody has stupid amounts of money/skills/items and the economy is ruined.
-
-As a general rule of thumb, ontop of the below rules, **use some common sense**. 
-Just because something is not **explicitly** stated on here does not mean it is okay - if it may **possibly** fit into one of our rules then it is likely not okay. If you're not sure about something then check with staff first.
-
-And while there is a list of the general guidelines for the punishments we will give for rule breaking - this is ultimately down to staff discretion at the time. 
-For example they are way more likely to give harsher punishments for someone who comes on and starts breaking rules immediately (whether they've read the rules or not, as you have **no** excuse not to know the rules of the server you're playing on), than if an older player slips up and breaks a rule by accident even if it was the same rule broken.
 
 
 
