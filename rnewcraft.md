@@ -106,7 +106,6 @@ You can then access that Cookie Jar storage anywhere that a Cookie Jar block has
 
 ## Sugar Pot
 
-Recipe:
 ![sugarpot](images/sugarpot.png)
 
 Each player can store up to 5000 sugar in their Sugar Pot storage!
@@ -114,7 +113,6 @@ Each player can store up to 5000 sugar in their Sugar Pot storage!
 
 ## Vial Chest
 
-Recipe:
 ![vialchest](images/vialchest.png)
 
 Any type of planks can be used, but all 7 planks must be of the same type.
@@ -123,7 +121,6 @@ Each player can store up to 5000 glass bottles in their Vial Chest storage!
 
 ## Jar O'Blaze
 
-Recipe:
 ![blazejar](images/blazejar.png)
 
 Each player can store up to 5000 blaze powder in their Jar O'Blaze storage!
@@ -131,7 +128,6 @@ Each player can store up to 5000 blaze powder in their Jar O'Blaze storage!
 
 ## Jar O'Sulphur
 
-Recipe:
 ![sulphurjar](images/sulphurjar.png)
 
 Each player can store up to 5000 gunpowder in their Jar O'Sulphur storage!
@@ -139,7 +135,6 @@ Each player can store up to 5000 gunpowder in their Jar O'Sulphur storage!
 
 ## Jar O'Reddust
 
-Recipe:
 ![redjar](images/redjar.png)
 
 Each player can store up to 5000 redstone dust in their Jar O'Reddust storage!
@@ -147,7 +142,6 @@ Each player can store up to 5000 redstone dust in their Jar O'Reddust storage!
 
 ## Jar O'Glowdust
 
-Recipe:
 ![glowjar](images/glowjar.png)
 
 Each player can store up to 5000 glowstone dust in their Jar O'Glowdust storage!
