@@ -339,7 +339,7 @@ __Misc. Town Stuff__:<br>
 - **FastCraft** - Allowed me to change the GUI icons so they've gone from <https://i.gyazo.com/985babbe9bf5a4aa6971bb2141f27c0f.png> to <https://i.gyazo.com/aae502c29f69f4be8d47aa2932c56534.png>. Only reason the sword is there still for page reference is because it needs to be something with durability to have the bar -.-
 - **ChestSort** - You will now be able to use whatever sort options you have enabled (middle click and double click on an empty space by default) to sort your backpack as well! You can also now toggle how you sort/move items with `/sort hotkeys` (was added prior to the build we have on LC2 now but I don't think I noticed), and two new options are now available. These are to move all of your items into the chest or out of the chest by left/right clicking outside of the inventory.
 - **LibsDisguises** - Supposedly a number of fixes for disguises that were a bit buggy (like items that flew off when you set it before settling down... and squid was apparently a bg buggy? some others too).
-- **ASyncWOrldEdit** - A lot of bug fixes so hopefully some of the stuff it bugged a bit on will work better.
+- **ASyncWorldEdit** - A lot of bug fixes so hopefully some of the stuff it bugged a bit on will work better.
 
 Also installed and set up 3 new plugins:
 - **Villager Trade Limits** - This being what will remove Mending books from Villager trades (not sure if it 100% removes it or just tweaks it to the options I set... so I set it to need Bedrock.... so even if it shows you won't be able to get it from Villagers - just from boss drops, events/competitions, maybe top voter rewards, bill and rare chance in loot chests as normal). I haven't put limits on the other enchants - I will later down the line if too many trades are popping up that take the piss (specifically for rarer/higher level enchants, not for common stuff) but even if that happens it won't be that low (should also be noted that cheesing trades via infecting/curing a villager to stack discounts and drop trades to dirt cheap is patched via plugins too, on LC2 currently as well - it's an exploit, whether it's a "mechanic" of the game or not [just like the many many other things that are easy to exploit and basically break the game, particularly on multiplayer/servers, that Mojang flat out ignores] it makes it excrutiatingly easy to get an excess of high end stuff and is not how things should work so it's an exploit and should be treated as such).
@@ -366,3 +366,10 @@ I'll go through the wiki here and there and make a secondary page for updated in
 - [Player Levels Page](rlevels.md) - Just needs the images for the Combiner/VOID menus updating.
 - [Server Rules Page](rrules.md)
 - [Server Staff](rstaff.md)
+- [Messaging and Chat](rchat.md) - Party section will be adde when I've actually checked how it works with mcrpg
+- [Basic Teleportation](rteleportation.md)
+- [Locations](rworlds.md)
+- [Locking up your Valuables!](rlwc.md)
+- [Player Ranks](rranks.md)
+- [Custom Crafting Recipes for MC Items](rcrafting.md) - Will update the chainmail stuff when I can update the actual recipes
+- [Crafting Recipes for Custom Items](rnewcraft.md)
