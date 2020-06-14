@@ -42,7 +42,7 @@ If nobody questions it however, it'll likely go through as listed on here - so i
 
 # Polls Open For Voting On
 
-- None Currently. More may appear down the line!
+- https://strawpoll.com/8bz8g43d - Which of these feaures would you like to be worked on first?
 
 # Polls That Ended - The Results?
 
