@@ -44,6 +44,16 @@ If nobody questions it however, it'll likely go through as listed on here - so i
 
 - https://strawpoll.com/8bz8g43d - Which of these feaures would you like to be worked on first?
 
+The text on the descriptions got cut off at the end - so they should say::
+
+__**Trophies**__: Similar to those we had in LC1 that Winter set up where you do X amount of a certain thing and you get a trophy for it which you can retrieve from a case and place it wherever to show it off. If broken by someone other than the person it belongs to it'll just vanish so people can't run off with your trophies, and you can get it again from your trophy case any time - though only one of each trophy can be placed per player.
+
+__**Stat Trackers**__: Tags you can apply to weapons/tools to track how many times X things have been done (eg for a pickaxe you could have a tracker to tell you in the item lore how many times you have mined diamond ore with that specific pickaxe, or a sword with how many hostile mobs you have killed etc...). Note that this, when I start on it, will be the one that will likely take the longest due to making it check and change the lore correctly which I'm not sure how to do but fairly damn sure I can do :thinking: 
+
+__**Temporary Effect Scrolls**__: Scrolls for the Token Shop you can trade your tokens for that give potion effects for a set amount of time (would be open to the same limits as normal potion effects, ie vanish when drinking milk). Would also mean potion effects you can't actually get from potions can be given.
+
+__**Flash Tags**__: Tags you add to a weapon/tool that will create a particle effect when you hit a mob/player with it.
+
 # Polls That Ended - The Results?
 
 - __**TNT?**__: Keep it to the Resource worlds only.
