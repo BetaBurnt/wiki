@@ -42,17 +42,7 @@ If nobody questions it however, it'll likely go through as listed on here - so i
 
 # Polls Open For Voting On
 
-- https://strawpoll.com/8bz8g43d - Which of these feaures would you like to be worked on first?
-
-The text on the descriptions got cut off at the end - so they should say::
-
-__**Trophies**__: Similar to those we had in LC1 that Winter set up where you do X amount of a certain thing and you get a trophy for it which you can retrieve from a case and place it wherever to show it off. If broken by someone other than the person it belongs to it'll just vanish so people can't run off with your trophies, and you can get it again from your trophy case any time - though only one of each trophy can be placed per player.
-
-__**Stat Trackers**__: Tags you can apply to weapons/tools to track how many times X things have been done (eg for a pickaxe you could have a tracker to tell you in the item lore how many times you have mined diamond ore with that specific pickaxe, or a sword with how many hostile mobs you have killed etc...). Note that this, when I start on it, will be the one that will likely take the longest due to making it check and change the lore correctly which I'm not sure how to do but fairly damn sure I can do :thinking: 
-
-__**Temporary Effect Scrolls**__: Scrolls for the Token Shop you can trade your tokens for that give potion effects for a set amount of time (would be open to the same limits as normal potion effects, ie vanish when drinking milk). Would also mean potion effects you can't actually get from potions can be given.
-
-__**Flash Tags**__: Tags you add to a weapon/tool that will create a particle effect when you hit a mob/player with it.
+- None right now! More may appear later on.
 
 # Polls That Ended - The Results?
 
@@ -66,6 +56,7 @@ __**Flash Tags**__: Tags you add to a weapon/tool that will create a particle ef
 - __**Crop Trampling?**__: Left disabled (wimps).
 - __**Zombie Door Breaking?**__: Re-enabled. Worlds on Hard will have this (Resource, End, RNether and SNether) - locked doors do not break but if the locks get lifted due to inactivity then they will be breakable by zombies again.
 - __**Mending Limitations**__: Will be removed from Villager trades as keeping it wasn't a top voted for option, but I'll keep the top two voted for options. Mending will be available as a boss drop (small chance from withers/elder guardians, guaranteed one from the dragon), will be added to event/competition rewards and (rather than add it to the token shop, at least not straight away post-reset) as Xuqi suggested I'll also add it as a chance to get on day 14 and 28 from Bill (also gonna up the chances a bit for bill stuff).
+- __**Which New Feature To Work On First For The Reset?**__: Trophies.
 
 
 # Plugins/Features Being Removed (that aren't listed specifically in the list of things I've already configured further down the page)
@@ -383,3 +374,32 @@ I'll go through the wiki here and there and make a secondary page for updated in
 - [Player Ranks](rranks.md)
 - [Custom Crafting Recipes for MC Items](rcrafting.md) - Will update the chainmail stuff when I can update the actual recipes
 - [Crafting Recipes for Custom Items](rnewcraft.md)
+- [Trophies](rtrophies.md) - WIP: Likely to change a fair bit prior to the reset
+
+
+
+# 1.16 HAS NOW DROPPED
+
+This means I can start testing plugins on Spigot 1.16 to see what is completely borked and we need to wait for before we can continue towards the reset (as all plugins need to be updated and usable before I can finish a load of stuff I need to do/change before the reset - so them being ready is the next stage, **not** the last stage as it would be for a straight up update not a reset).
+
+So - I have set up a second test server (the first is what I've been doing all of the above changes on and until 1.16 is ready to actually update to it'll stay on 1.15.2) just to run the plugins on Spigot 1.16.1 so I can keep an eye on what we're waiting on. 
+For now bare in mind this is just going by the console output during startup for now, so a plugin that isn't listed below may still need updating for 1.16, I just haven't had a mess on the server to check just yet because... time.
+- **Loads But Highly Likely To Need An Update (judging by errors/messages given during startup)**:
+--- WorldEdit (and from that WorldGuard)
+--- ChatFeelings
+--- MiniaturePets
+--- Elevator (loads/works but can't recognise 1.16 materials)
+
+- **Not Loading At All - Requires Update For 1.16**:
+--- LibsDisguises
+--- Skript & a number of Skript Addons (it loads.... but there's **loads** of errors and most of our scripts fail because of it, so **definitely** need to wait for an update from them to fix all the issues). To show how many errors there are... 5690 lines in the startup logs are **just** scripts failing to load and spamming errors :L
+--- Scripts. Once Skript and addons are sorted I'll need to fix a lot of scripts too for changes made (main one that's gonna need changes through a lot of scripts is zombie pigman > zombified piglin -.- Won't take too long once everythings ready to go but it's annoying)
+--- LightAPI (used by Skripts to make light sources, like for the Candles)
+--- HolographicDisplays
+--- SuperTrails (dono trails)
+--- SafariNets
+--- Auctions
+--- Jobs
+
+Anything not listed has either already updated for 1.16 support, has marked their latest version as working fine on 1.16 or while it hasn't explicity updated for 1.16 it loads okay so may be fine (prior to proper testing). Didn't see the point in listing EVERY DAMN PLUGIN - you only really need to know what we're waiting on.
+When the plugins are mostly all in the likely good to go section I'll update the Reset Test server to 1.16.* and get testing for any problems when doing stuff ingame, and can then start updating a number of things for 1.16-related stuff (mostly skripts, as Skript will then know wtf I'm telling it to check for...).
