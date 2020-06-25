@@ -3,6 +3,7 @@
 # Trophies
 
 [[[THIS IS A WIP - ANYTHING ON HERE IS OPEN TO BE CHANGED PRIOR TO THE RESET]]]
+**More Trophies are likely to be added prior to the server Reset/Update**.
 
 As you play on the server doing your day to day Minecrafting you will be doing actions that count towards trophies - not that much different to the achievement/trophies you might gain when playing your Playstation or Xbox!
 
