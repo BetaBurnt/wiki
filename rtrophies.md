@@ -33,6 +33,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 
 ## What Trophies Are Available?
 **===-------------------------------------------------------------------------------------------------------------------------------------------------===**
+
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
 |Coal Miner|Mine Coal Ore|**Bronze**: 250<br>**Silver:** 1000<br>**Gold**: 2500|This does not count any ores broken with a Silk Touch tool!|
@@ -46,6 +47,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |Ancient Miner|Mine Ancient Debris|**Bronze**: 50<br>**Silver:** 250<br>**Gold**: 1000|This does not count any blocks broken with a Silk Touch tool!|
 
 **===-------------------------------------------------------------------------------------------------------------------------------------------------===**
+
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
 |Animal Culling I|Kill certain Animals.<br>**Mobs That Count**: Cows, Sheep, Chickens, Horses, Cats, Bats, Ocelots, Wolves, Parrots, Rabbits or Llamas.|**Bronze**: 150<br>**Silver:** 1000<br>**Gold**: 2500||
@@ -61,6 +63,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |Dragon Hunter|Kill Ender Dragons.|**Bronze**: 1<br>**Silver:** 2<br>**Gold**: 3||
 
 **===-------------------------------------------------------------------------------------------------------------------------------------------------===**
+
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
 |Cake Baker|Craft Cakes|**Bronze**: 50<br>**Silver:** 100<br>**Gold**: 500|Each craft event is 1 point - if you use the FastCraft menu to create multiple cakes at once, each craft event is 1 regardless.|
@@ -72,6 +75,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |WoodStripper|Strip Overworld logs.|**Bronze**: 150<br>**Silver:** 750<br>**Gold**: 1500|This will not register the log stripping if the axe is in your offhand.|
 
 **===-------------------------------------------------------------------------------------------------------------------------------------------------===**
+
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
 |Legionnaire|Actively play on the server.|**Bronze**: 24 Hours<br>**Silver:** 7 Days<br>**Gold**: 1 Month (28 Days)|This is done via Skript so it's not 100% accurate, but it won't be far off.|
