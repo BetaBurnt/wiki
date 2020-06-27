@@ -80,5 +80,5 @@ I have split these into a few sections just so it's not one giant table.
 |Trusted|Gain the Trusted Rank.||The Trusted rank is only given out by staff, randomly - do not ask for it, the second you do you won't get it!|
 |Donator|Gain the Donator Rank.||You can get the Donator rank by purchasing any of the General Donation packages in the Donation Store (except for the custom amount option)|
 |**-----**|**-----**|**-----**|**-----**|
-|Platinum|Max out the level of other Trophies.|**Platinum**: 10 Tophies Maxed.<br>**TRUE Platinum:** ALL Other Trophies Maxed.|The other trophies in this table, and on the same row in your `/case`, do not count towards the Platinum trophy.|
+|Platinum|Max out the level of other Trophies.|**Platinum**: 10 Tophies Maxed.<br>**TRUE Platinum:** ALL Other Trophies Maxed.|The other trophies in this specific table, and on the same row in your `/case`, do not count towards the Platinum trophy.|
 
