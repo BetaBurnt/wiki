@@ -32,7 +32,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 
 
 ## What Trophies Are Available?
-<c>**===------------------------------------------------------------------------------------------------------------------------===**</c>
+<center>**===------------------------------------------------------------------------------------------------------------------------===**</center>
 
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
