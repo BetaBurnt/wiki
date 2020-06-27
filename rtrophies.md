@@ -2,16 +2,13 @@
 
 # Trophies
 
-[[[THIS IS A WIP - ANYTHING ON HERE IS OPEN TO BE CHANGED PRIOR TO THE RESET]]]
-**More Trophies are likely to be added prior to the server Reset/Update**.
-
 As you play on the server doing your day to day Minecrafting you will be doing actions that count towards trophies - not that much different to the achievement/trophies you might gain when playing your Playstation or Xbox!
 
 You can view which trophies you have unlocked, when you will unlock the next level of a trophy and what counts towards each trophy with `/case`, which will bring up a GUI like so:
 
 ![trophycase](images/trophycase.png) 
 
-In this example I have unlocked the first level of two trophies, and the second level of a third - which shows information about the trophy like so:
+In this example I have unlocked the first level of five trophies, and the second level of a sixth - which shows information about the trophy like so:
 
 ![trophyinfo](images/trophyinfo.png) 
 
@@ -36,6 +33,8 @@ Note that some items don't work with the holograms for some reason... as an exam
 
 ## What Trophies Are Available?
 
+I have split these into a few sections just so it's not one giant table.
+
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
 |Coal Miner|Mine Coal Ore|**Bronze**: 250<br>**Silver:** 1000<br>**Gold**: 2500|This does not count any ores broken with a Silk Touch tool!|
@@ -47,7 +46,9 @@ Note that some items don't work with the holograms for some reason... as an exam
 |Diamond Miner|Mine Diamond Ore|**Bronze**: 250<br>**Silver:** 1000<br>**Gold**: 2500|This does not count any ores broken with a Silk Touch tool!|
 |Emerald Miner|Mine Emerald Ore|**Bronze**: 50<br>**Silver:** 250<br>**Gold**: 1000|This does not count any ores broken with a Silk Touch tool!|
 |Ancient Miner|Mine Ancient Debris|**Bronze**: 50<br>**Silver:** 250<br>**Gold**: 1000|This does not count any blocks broken with a Silk Touch tool!|
-|**-----**|**-----**|**-----**|**-----**|
+
+|Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
+|---|---|---|---|
 |Animal Culling I|Kill certain Animals.<br>**Mobs That Count**: Cows, Sheep, Chickens, Horses, Cats, Bats, Ocelots, Wolves, Parrots, Rabbits or Llamas.|**Bronze**: 150<br>**Silver:** 1000<br>**Gold**: 2500||
 |Animal Culling II|Kill certain Animals.<br>**Mobs That Count**: Donkeys, Mules, Pandas, Skeleton/Zombie Horses, Foxes, Trader Llamas, Polar Bears, Mooshrooms or Bees.|**Bronze**: 150<br>**Silver:** 1000<br>**Gold**: 2500||
 |Hostile Mob Culling|Kill certain Mobs.<br>**Mobs That Count**: Skeletons, Zombies, Creepers, Husks, Strays, Spiders, Cave Spiders, Zoglins or Zombified Piglins.|**Bronze**: 150<br>**Silver:** 1000<br>**Gold**: 2500|Spawner mobs are not counted!|
@@ -59,17 +60,25 @@ Note that some items don't work with the holograms for some reason... as an exam
 |Wither Hunter|Kill Withers.|**Bronze**: 1<br>**Silver:** 10<br>**Gold**: 50||
 |Elder Hunter|Kill Elder Guardians.|**Bronze**: 1<br>**Silver:** 10<br>**Gold**: 50||
 |Dragon Hunter|Kill Ender Dragons.|**Bronze**: 1<br>**Silver:** 2<br>**Gold**: 3||
-|**-----**|**-----**|**-----**|**-----**|
+
+|Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
+|---|---|---|---|
 |Cake Baker|Craft Cakes|**Bronze**: 50<br>**Silver:** 100<br>**Gold**: 500|Each craft event is 1 point - if you use the FastCraft menu to create multiple cakes at once, each craft event is 1 regardless.|
 |Iron Crafter|Craft Iron Equipment (Any Iron Armour, Weapon or Tool).|**Bronze**: 150<br>**Silver:** 750<br>**Gold**: 1500|Each craft event is 1 point - if you use the FastCraft menu to create multiple cakes at once, each craft event is 1 regardless.<br>This counts for shift clicking in a crafting table - if you shift click it is 1 point, even if you made 10 items.|
 |Diamond Crafter|Craft Diamond Equipment (Any Iron Armour, Weapon or Tool).|**Bronze**: 150<br>**Silver:** 750<br>**Gold**: 1500|Each craft event is 1 point - if you use the FastCraft menu to create multiple cakes at once, each craft event is 1 regardless.<br>This counts for shift clicking in a crafting table - if you shift click it is 1 point, even if you made 10 items.|
 |Harvester|Harvest Fully Grown Crops (Wheat, Potatoes, Carrots or Beetroot).|**Bronze**: 250<br>**Silver:** 1000<br>**Gold**: 2500||
 |Enchanter|Use an Enchantment Table.|**Bronze**: 50<br>**Silver:** 500<br>**Gold**: 1000|Each item enchanted via an enchantment table is 1 point.|
-|**-----**|**-----**|**-----**|**-----**|
+|Fishing|Successfully fish up items.|**Bronze**: 500<br>**Silver:** 1500<br>**Gold**: 3000|Every item successfully fished up is 1 point, not just fish.|
+|WoodStripper|Strip Overworld logs.|**Bronze**: 150<br>**Silver:** 750<br>**Gold**: 1500|This will not register the log stripping if the axe is in your offhand.|
+
+|Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
+|---|---|---|---|
 |Legionnaire|Actively play on the server.|**Bronze**: 24 Hours<br>**Silver:** 7 Days<br>**Gold**: 1 Month (28 Days)|This is done via Skript so it's not 100% accurate, but it won't be far off.|
-|**-----**|**-----**|**-----**|**-----**|
+|Vote Count|Vote for the server on any of the vote links.|**Bronze**: 250<br>**Silver:** 750<br>**Gold**: 1500||
+|Top Voter|Be the Top Voter at least once.|||
+|Builder|Place in a Build Competition.|**Bronze**: Place 1st<br>**Silver:** Place 2nd<br>**Gold**: Place 3rd||
 |Trusted|Gain the Trusted Rank.||The Trusted rank is only given out by staff, randomly - do not ask for it, the second you do you won't get it!|
 |Donator|Gain the Donator Rank.||You can get the Donator rank by purchasing any of the General Donation packages in the Donation Store (except for the custom amount option)|
 |**-----**|**-----**|**-----**|**-----**|
-|Platinum|Max out the level of other Trophies.|**Platinum**: 10 Tophies Maxed.<br>**TRUE Platinum:** ALL Other Trophies Maxed.||
-|**-----**|**-----**|**-----**|**-----**|
+|Platinum|Max out the level of other Trophies.|**Platinum**: 10 Tophies Maxed.<br>**TRUE Platinum:** ALL Other Trophies Maxed.|The other trophies in this table, and on the same row in your `/case`, do not count towards the Platinum trophy.|
+
