@@ -32,7 +32,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 
 
 ## What Trophies Are Available?
-
+**===--------------------------------------------------===**
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
 |Coal Miner|Mine Coal Ore|**Bronze**: 250<br>**Silver:** 1000<br>**Gold**: 2500|This does not count any ores broken with a Silk Touch tool!|
@@ -44,8 +44,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |Diamond Miner|Mine Diamond Ore|**Bronze**: 250<br>**Silver:** 1000<br>**Gold**: 2500|This does not count any ores broken with a Silk Touch tool!|
 |Emerald Miner|Mine Emerald Ore|**Bronze**: 50<br>**Silver:** 250<br>**Gold**: 1000|This does not count any ores broken with a Silk Touch tool!|
 |Ancient Miner|Mine Ancient Debris|**Bronze**: 50<br>**Silver:** 250<br>**Gold**: 1000|This does not count any blocks broken with a Silk Touch tool!|
-
-
+**===--------------------------------------------------===**
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
 |Animal Culling I|Kill certain Animals.<br>**Mobs That Count**: Cows, Sheep, Chickens, Horses, Cats, Bats, Ocelots, Wolves, Parrots, Rabbits or Llamas.|**Bronze**: 150<br>**Silver:** 1000<br>**Gold**: 2500||
