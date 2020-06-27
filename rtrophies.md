@@ -32,7 +32,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 
 
 ## What Trophies Are Available?
-**===-------------------------------------------------------------------------------------------------------------------------------------------------===**
+**===------------------------------------------------------------------------------------------------------------------------===**
 
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
@@ -46,7 +46,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |Emerald Miner|Mine Emerald Ore|**Bronze**: 50<br>**Silver:** 250<br>**Gold**: 1000|This does not count any ores broken with a Silk Touch tool!|
 |Ancient Miner|Mine Ancient Debris|**Bronze**: 50<br>**Silver:** 250<br>**Gold**: 1000|This does not count any blocks broken with a Silk Touch tool!|
 
-**===-------------------------------------------------------------------------------------------------------------------------------------------------===**
+**===------------------------------------------------------------------------------------------------------------------------===**
 
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
