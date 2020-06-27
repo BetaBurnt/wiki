@@ -32,7 +32,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 
 
 ## What Trophies Are Available?
-**===--------------------------------------------------------------------------------------------------------------------------------===**
+**===---------------------------------------------------------------------------------------------------------------------------------===**
 
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
@@ -46,7 +46,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |**Emerald Miner**|Mine Emerald Ore|**Bronze**: 50<br>**Silver:** 250<br>**Gold**: 1000|This does not count any ores broken with a Silk Touch tool!|
 |**Ancient Miner**|Mine Ancient Debris|**Bronze**: 50<br>**Silver:** 250<br>**Gold**: 1000|This does not count any blocks broken with a Silk Touch tool!|
 
-**===--------------------------------------------------------------------------------------------------------------------------------===**
+**===---------------------------------------------------------------------------------------------------------------------------------===**
 
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
@@ -62,7 +62,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |**Elder Hunter**|Kill Elder Guardians.|**Bronze**: 1<br>**Silver:** 10<br>**Gold**: 50||
 |**Dragon Hunter**|Kill Ender Dragons.|**Bronze**: 1<br>**Silver:** 2<br>**Gold**: 3||
 
-**===--------------------------------------------------------------------------------------------------------------------------------===**
+**===---------------------------------------------------------------------------------------------------------------------------------===**
 
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
@@ -74,7 +74,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |**Fishing**|Successfully fish up items.|**Bronze**: 500<br>**Silver:** 1500<br>**Gold**: 3000|Every item successfully fished up is 1 point, not just fish.|
 |**WoodStripper**|Strip Overworld logs.|**Bronze**: 150<br>**Silver:** 750<br>**Gold**: 1500|This will not register the log stripping if the axe is in your offhand.|
 
-**===--------------------------------------------------------------------------------------------------------------------------------===**
+**===---------------------------------------------------------------------------------------------------------------------------------===**
 
 |Trophy|What Counts Towards This Trophy|When Each Level Unlocks|Notes|
 |---|---|---|---|
@@ -84,7 +84,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |**Builder**|Place in a Build Competition.|**Bronze**: Place 1st<br>**Silver:** Place 2nd<br>**Gold**: Place 3rd||
 |**Trusted**|Gain the Trusted Rank.||The Trusted rank is only given out by staff, randomly - do not ask for it, the second you do you won't get it!|
 |**Donator**|Gain the Donator Rank.||You can get the Donator rank by purchasing any of the General Donation packages in the Donation Store (except for the custom amount option)|
-|**--------**|**--------**|**--------**|**--------**|
+|**---------**|**---------**|**---------**|**---------**|
 |**Platinum**|Max out the level of other Trophies.|**Platinum**: 10 Tophies Maxed.<br>**TRUE Platinum:** ALL Other Trophies Maxed.|The other trophies in this specific table, and on the same row in your `/case`, do not count towards the Platinum trophy.|
 
-**===--------------------------------------------------------------------------------------------------------------------------------===**
+**===---------------------------------------------------------------------------------------------------------------------------------===**
