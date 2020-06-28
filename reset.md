@@ -252,7 +252,7 @@ Not sure how Jobs will handle making Netherite stuff yet so we'll have to wait f
 - Removed the Leather and Chainmail armour set options.
 - Removed the Emerald tool/weapon sets and rejigged the enchants between the leftover sets.
 - Renamed the Tridents from Emerald/Crystal/Ruby to Antique/Obsidian/Crystal to suit the other sets.
-- Added a Demonic Armour set. Will be Netherite (currently just a placeholder) and slightly better than the Crystal set. 100 each.
+- Added a Demonic Armour set. Will be Netherite (currently just a placeholder) and slightly better than the Crystal set. 120 each.
 - Added Demonic Tools/Weapons. Will be Netherite and slightly better than the Crystal set. 125 each.
 - Lowered Crystal enchants a bit (they will still be very useful items, but need to work in Netherite sets without them being too OTT to make them better than Crystal)
 - Removed Reusable SafariNets (will be comp/event reward only).
