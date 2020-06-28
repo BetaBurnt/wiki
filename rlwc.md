@@ -4,7 +4,7 @@
 
 On LegionCraft we use LWC for block protection.
 
-Nothing will lock automatically - this is a grief-and-raiding-allowed server, so if you want to protect some valuables you need to make sure you lock them!
+**Nothing will lock automatically** - this is a grief-and-raiding-allowed server, so if you want to protect some valuables you need to make sure you lock them!
 Anything locked will be unbreakable/lootable to anybody but the player that locked them (they can be raided by people you give access to specifically) - **however** locks are not permanent. 
 If you are not online for more than 28 days all of your locks will lift and your stuff becomes fair game for greifers/looters again - The only way to guarantee protection for things long term is to have a town with adequate funds to keep it alive!
 
