@@ -375,6 +375,9 @@ I'll go through the wiki here and there and make a secondary page for updated in
 - [Custom Crafting Recipes for MC Items](rcrafting.md) - Will update the chainmail stuff when I can update the actual recipes
 - [Crafting Recipes for Custom Items](rnewcraft.md)
 - [Trophies](rtrophies.md)
+- [Voting](rvoting.md) - Needs updated images for the token shop pages
+- [Bonus Bill](rbonusbill.md) - Will need a new image of him in the new spawn
+- [Vanilla Changes](rchanges.md) - Needs an image of the changes ShulkerBox recipe
 
 
 
@@ -385,8 +388,6 @@ This means I can start testing plugins on Spigot 1.16 to see what is completely 
 So - I have set up a second test server (the first is what I've been doing all of the above changes on and until 1.16 is ready to actually update to it'll stay on 1.15.2) just to run the plugins on Spigot 1.16.1 so I can keep an eye on what we're waiting on. 
 For now bare in mind this is just going by the console output during startup for now, so a plugin that isn't listed below may still need updating for 1.16, I just haven't had a mess on the server to check just yet because... time.
 - **Loads But Highly Likely To Need An Update (judging by errors/messages given during startup)**:<br>
---- WorldEdit (and from that WorldGuard)<br>
---- ChatFeelings<br>
 --- MiniaturePets<br>
 --- Elevator (loads/works but can't recognise 1.16 materials)<br>
 
@@ -395,9 +396,6 @@ For now bare in mind this is just going by the console output during startup for
 --- Skript & a number of Skript Addons (it loads.... but there's **loads** of errors and most of our scripts fail because of it, so **definitely** need to wait for an update from them to fix all the issues). To show how many errors there are... 5690 lines in the startup logs are **just** scripts failing to load and spamming errors :L<br>
 --- Scripts. Once Skript and addons are sorted I'll need to fix a lot of scripts too for changes made (main one that's gonna need changes through a lot of scripts is zombie pigman > zombified piglin -.- Won't take too long once everythings ready to go but it's annoying)<br>
 --- LightAPI (used by Skripts to make light sources, like for the Candles)<br>
---- HolographicDisplays<br>
---- SuperTrails (dono trails)<br>
---- SafariNets<br>
 --- Auctions<br>
 --- Jobs<br>
 
