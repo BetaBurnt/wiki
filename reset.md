@@ -367,14 +367,14 @@ I'll go through the wiki here and there and make a secondary page for updated in
 - [Player Levels Page](rlevels.md) - Just needs the images for the Combiner/VOID menus updating.
 - [Server Rules Page](rrules.md)
 - [Server Staff](rstaff.md)
-- [Messaging and Chat](rchat.md) - Party section will be adde when I've actually checked how it works with mcrpg
+- [Messaging and Chat](rchat.md) - Party section will be added when I've actually checked how it works with mcrpg
 - [Basic Teleportation](rteleportation.md)
 - [Locations](rworlds.md)
 - [Locking up your Valuables!](rlwc.md)
 - [Player Ranks](rranks.md)
 - [Custom Crafting Recipes for MC Items](rcrafting.md) - Will update the chainmail stuff when I can update the actual recipes
 - [Crafting Recipes for Custom Items](rnewcraft.md)
-- [Trophies](rtrophies.md) - WIP: Likely to change a fair bit prior to the reset
+- [Trophies](rtrophies.md)
 
 
 
