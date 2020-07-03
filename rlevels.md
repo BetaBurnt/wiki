@@ -264,6 +264,6 @@ Only one of the Wheat options can be active at a time.
 
 ![voidmenu](images/voidmenu.png)
 
-For example in the above image VOID is enabled, and will delete any Dirt, Cobblestone, Andesite, Diorite, Granite, Red Sand, Sandstone, Gravel and Netherrack I pick up - but will let me collect Stone and Sand.
+For example in the above image VOID is currently disabled, but if I switch it on it will delete any Dirt, Cobblestone, Andesite, Diorite, Granite, Red Sand, Sandstone, Gravel and Netherrack I pick up - but will let me collect Stone and Sand.
 There are more options on a second page (by clicking the redstone).
 As with The Combiner this happens as you pick items up so if you have dirt enabled in the VOID it will delete the dirt as you pick them up.
