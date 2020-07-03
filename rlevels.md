@@ -262,7 +262,7 @@ Only one of the Wheat options can be active at a time.
 
 `/void` will bring up a menu where you can toggle the feature on/off (with the top icon) and enable/disable which of the items it can destroy:
 
-![voidmenu](images/voidmenu.png)
+![voidmenu](images/vmenu.png)
 
 For example in the above image VOID is currently disabled, but if I switch it on it will delete any Dirt, Cobblestone, Andesite, Diorite, Granite, Red Sand, Sandstone, Gravel and Netherrack I pick up - but will let me collect Stone and Sand.
 There are more options on a second page (by clicking the redstone).
