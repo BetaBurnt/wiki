@@ -5,7 +5,7 @@
 
 You can purchase a Miniature Pet or two from our [Donation Store](http://store.legioncraft.co.uk/) at any time - when purchased you should receive your purchase ingame within 20 minutes (if not let BurntValentine know!).
 
-You can view images on the different pets that are available [HERE](https://imgur.com/a/zCpsT6C)!
+You can view images on the different pets that are available [HERE](https://imgur.com/a/sl4Gb8m)!
 
 When you have purchased at least one Miniature Pet you can summon them via the `/petgui` (aliases of `/pets`, `/mpets` and `/mpetgui`):
 
