@@ -233,7 +233,7 @@ When enabled everything will be as bright as it would be in the daylight or if y
 
 ![combiner](images/combiner.png)
 
-For example in the above image the Combiner is enabled, and will attempt to combine all of the items listed except for coal, redstone, lapis and bones.
+For example in the above image the Combiner is enabled, and will attempt to combine all of the items listed except for coal, redstone, lapis and bones and will convert my wheat into bread.
 
 The Combiner can attempt to combine the following if enabled in the above menu (when you are at the right level to use them):
 
@@ -265,4 +265,5 @@ Only one of the Wheat options can be active at a time.
 ![voidmenu](images/voidmenu.png)
 
 For example in the above image VOID is enabled, and will delete any Dirt, Cobblestone, Andesite, Diorite, Granite, Red Sand, Sandstone, Gravel and Netherrack I pick up - but will let me collect Stone and Sand.
+There are more options on a second page (by clicking the redstone).
 As with The Combiner this happens as you pick items up so if you have dirt enabled in the VOID it will delete the dirt as you pick them up.
