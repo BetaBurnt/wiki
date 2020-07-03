@@ -364,7 +364,7 @@ Note that the larger a selection you have the less particles there will be, the 
 
 I'll go through the wiki here and there and make a secondary page for updated info when needed so I can copy them straight over when the reset happens, and list them here so you can see changes.
 
-- [Player Levels Page](rlevels.md) - Just needs the images for the Combiner/VOID menus updating.
+- [Player Levels Page](rlevels.md)
 - [Server Rules Page](rrules.md)
 - [Server Staff](rstaff.md)
 - [Messaging and Chat](rchat.md) - Party section will be added when I've actually checked how it works with mcrpg
@@ -377,7 +377,12 @@ I'll go through the wiki here and there and make a secondary page for updated in
 - [Trophies](rtrophies.md)
 - [Voting](rvoting.md) - Needs updated images for the token shop pages
 - [Bonus Bill](rbonusbill.md) - Will need a new image of him in the new spawn
-- [Vanilla Changes](rchanges.md) - Needs an image of the changes ShulkerBox recipe
+- [Vanilla Changes](rchanges.md)
+- [Donation Perks](rdonations.md)
+- [Towny](rtowny.md)
+- [Utilities](rutilities.nd)
+- [Graves](rgraves.md) - Needs a new image of the grave when I've swapped it to use Blackstone Walls
+- [Disguise Modifications](rdismods.md)
 
 
 
@@ -388,16 +393,14 @@ This means I can start testing plugins on Spigot 1.16 to see what is completely 
 So - I have set up a second test server (the first is what I've been doing all of the above changes on and until 1.16 is ready to actually update to it'll stay on 1.15.2) just to run the plugins on Spigot 1.16.1 so I can keep an eye on what we're waiting on. 
 For now bare in mind this is just going by the console output during startup for now, so a plugin that isn't listed below may still need updating for 1.16, I just haven't had a mess on the server to check just yet because... time.
 - **Loads But Highly Likely To Need An Update (judging by errors/messages given during startup)**:<br>
---- MiniaturePets<br>
---- Elevator (loads/works but can't recognise 1.16 materials)<br>
+- MultiVerse<br>
 
 - **Not Loading At All - Requires Update For 1.16**:<br>
---- LibsDisguises<br>
 --- Skript & a number of Skript Addons (it loads.... but there's **loads** of errors and most of our scripts fail because of it, so **definitely** need to wait for an update from them to fix all the issues). To show how many errors there are... 5690 lines in the startup logs are **just** scripts failing to load and spamming errors :L<br>
 --- Scripts. Once Skript and addons are sorted I'll need to fix a lot of scripts too for changes made (main one that's gonna need changes through a lot of scripts is zombie pigman > zombified piglin -.- Won't take too long once everythings ready to go but it's annoying)<br>
 --- LightAPI (used by Skripts to make light sources, like for the Candles)<br>
---- Auctions<br>
 --- Jobs<br>
+--- MiniaturePets
 
 Anything not listed has either already updated for 1.16 support, has marked their latest version as working fine on 1.16 or while it hasn't explicity updated for 1.16 it loads okay so may be fine (prior to proper testing). Didn't see the point in listing EVERY DAMN PLUGIN - you only really need to know what we're waiting on.
 When the plugins are mostly all in the likely good to go section I'll update the Reset Test server to 1.16.* and get testing for any problems when doing stuff ingame, and can then start updating a number of things for 1.16-related stuff (mostly skripts, as Skript will then know wtf I'm telling it to check for...).
