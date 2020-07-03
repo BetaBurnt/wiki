@@ -137,6 +137,6 @@ These channels are:
 
 ## Notes
 
-For anything not covered in this post please refer to the [official command list for Towny](http://towny.palmergames.com/towny/towny-commands/). 
+For anything not covered in this post please refer to the [official command list for Towny](https://github.com/TownyAdvanced/Towny/wiki/Towny-Commands). 
 Note that you will obviously not have access to any admin commands, and you will only be able to use commands that you are a relevant rank in the town to use (eg: only the Mayor can change the name of the town or withdraw from the bank etc...).
 The sections relevant to you are the `/towny`, `/plot`, `/resident`, `/town` and `/nation` sections. 
