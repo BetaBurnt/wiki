@@ -75,6 +75,9 @@ The costs of setting up and running your town/nation are as follows:
 - To claim extra chunks it will withdraw $350 from your town bank for each chunk you claim.
 - To claim an outpost (a chunk of land not connected to the rest of your town) it will withdraw $1500 from your town bank for each outpost claimed.
 
+**Note**:
+Your Town Bank can only hold up to $10,000,000 at a time.
+
 ## Town Level Information
 
 As more players join your Town it will grow in size, go up between the Town levels, and will become more expensive to keep running.
@@ -122,6 +125,9 @@ Your Nation bank must **always** have enough to cover the daily upkeep - these a
 |Realm|100+ Residents|$1,750,000|250|
 
 **Note:** As with Towns, while the upkeep costs may look daunting as they go up, remember that as they go up there is also more residents to split it between. As your jobs go up it will also be **very** easy to manage this.
+
+**Note 2**:
+As with the Town Bank your Nation Bank has a cap on how much it can hold at a time - which is up to $25,000,000.
 
 ## Chat Channels
 
