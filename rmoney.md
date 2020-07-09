@@ -7,6 +7,10 @@ To give money to another player use `/pay [player] [amount]`.
 
 The main ways to earn money on the server are via [player shops](shops.md), [auctions](auctions.md) or Jobs - as the first two have other pages dedicated to them this page will explain Jobs!
 
+## Money Limits
+
+Your player balance is capped at $25,000,000 - so make sure you start spending that dough when you're approaching the limit!
+
 ## Jobs
 
 The easiest way to make money on the server is to get a couple of jobs so that you earn money whilst playing on the server! You can join up to 2 jobs at a time.<br>
