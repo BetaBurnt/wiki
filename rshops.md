@@ -32,6 +32,9 @@ While you will be able to set shops up as a new player, there are limits to how 
 |64-68|45 Shops|
 |69+|50 Shops|
 
+**A couple of other small limits to note:**<br>
+- The lowest you can sell/buy items for is $2.50 per item. In general, aside from like...dirt... nothing should be set that low anyway. This is mostly to avoid selling/buying for anywhere near as cheaply as the Pawn Shop, but in general be sensible when setting shops up - don't set them stupidly low, it messes with the server economy heavily when doing that or constantly trying to undercut everyone.
+- You cannot sell/buy an item through shops for more than $25,000,000 per item - as that's the cap on a players balance!
 
 ## Shop Teleports
 
