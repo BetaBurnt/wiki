@@ -383,6 +383,10 @@ I'll go through the wiki here and there and make a secondary page for updated in
 - [Utilities](rutilities.nd)
 - [Graves](rgraves.md) - Needs a new image of the grave when I've swapped it to use Blackstone Walls
 - [Disguise Modifications](rdismods.md)
+- [Player Shops](rshops.md) - Just needs a new pawn shop image when it's built.
+- [Money and Jobs](rmoney.md) - Need to update Fisherman for Jobs when I know what you can get from fishing with McRPG.
+- [Player Auctions](auctions.md)
+- [Mythic Drops](rmythic.md) - Needs a new image for the combiner in the new spawn
 
 
 
