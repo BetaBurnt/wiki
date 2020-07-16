@@ -98,7 +98,7 @@ When used this will grant short buffs of Strength and Resistance, however when i
 
 As the Tier of this ability increases, so does the time the buff stays active and how long the debuff lasts goes down!
 
-|Tier|Strength/Resistance Level|Active Buff Time|Weakness/Mining Fatigue Level|Active Debuff Time|Swords Level Required To Upgrade (plus 1 Ability Point)|
+|Tier|Strength/Resistance Level|Active Buff Time|Weakness/Mining Fatigue Level|Active Debuff Time|Axes Level Required To Upgrade (plus 1 Ability Point)|
 |---|---|---|---|----|----|
 |1|1/1|15 Seconds|2/2|90 Seconds||
 |2|1/1|17 Seconds|2/2|80 Seconds|375|
