@@ -57,7 +57,7 @@ This increases the damage that Shred does to the victims armour durability (in a
 
 As the Tier of this ability increases, so does the range of additional durability damage it can add.
 
-|Tier|Range of Additional Damage|Swords Level Required To Upgrade (plus 1 Ability Point)|
+|Tier|Range of Additional Damage|Axes Level Required To Upgrade (plus 1 Ability Point)|
 |---|---|---|
 |1|1-2||
 |2|1-3|400|
