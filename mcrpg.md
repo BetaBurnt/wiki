@@ -156,8 +156,10 @@ Tier 5 - 18 Slots.
 - `/mcparty rename <name>` - Rename the party (currently party owner only).
 - `/mcparty disband <name>` - Disband the party (currently party owner only).
 
-**NOTE:**<br>
+**NOTES:**<br>
 If you disband a party that still has items in the Private or Party Banks - **YOU WILL LOSE THE ITEMS**. They cannot be recovered.
+<br><br>
+If you are offline for more than 7 days you will also be removed from your active party (if this is the owner if the party I assume this will disband the party - so bare this in mind!).
 
 
 # Misc. Information and Extra Commands
