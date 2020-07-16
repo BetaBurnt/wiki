@@ -91,7 +91,7 @@ As the Tier of this ability increases, so does the duration it stays active and 
 
 ### **Blast Mining**.
 
-When activated it destorys set blocks in a radius around you, revealing the ores hidden nearby!<br>
+When activated it destroys set blocks in a radius around you, revealing the ores hidden nearby!<br>
 
 **How to Activate?** - Right click with a pickaxe to ready, then right click with TNT to use a puece of TNT and activate the blast.<br>
 **What Mining Level does Tier 1 Unlock?**: 300<br>
