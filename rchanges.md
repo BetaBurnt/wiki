@@ -34,8 +34,9 @@ If both items are enchanted and combinable (and not an enchanted book) - so for 
 **2:**
 If one item is enchanted and the other is not and they are combinable (and again, not an enchanted book) - so for example a damaged enchanted diamond sword and an unenchanted diamond sword, intention being to repair the enchanted sword - then there is a risk of losing or downgrading your enchantments in the repair process.
 
-When you attempt this you will be given a warning about this, and the repair will be cancelled (this warning triggers the first time, and every 10th repair after as a reminder) - if you run it again the repair will go through.
-When the repair goes through there is a 30% chance of losing the enchantments entirely - if that doesn't happen, there is a 50% chance that the enchantments will go down 1 level each (and be removed if they were at level 1). If neither triggers you will keep the enchantments as they are.
+When you attempt this you will be given a warning about this, and the repair will be cancelled (this warning triggers the first time, and every 10th repair after as a reminder) - if you run it again the repair will go through.<br>
+When the repair goes through there is a 20% chance of losing the enchantments entirely - if that doesn't happen, there is a 40% chance that just one enchantment will be removed (but it's not guaranteed that one will, there's a luck roll donw on each enchant and if any fail they're removed - once one is removed the rest are not rolled for). <br>
+If neither triggers you will keep the enchantments as they are.
 
 The only guarantee to repair an item in full and keep it's enchantments is to use the repair sign at the server spawn.
 
