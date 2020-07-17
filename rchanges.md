@@ -21,7 +21,10 @@ As a quick run down so you don't need to scroll down to find what you're looking
 - [Nether Scaling](#nether-scaling)
 - [Notable Explot Patches](#notable-exploit-patches)
 
-## Brewing Stand API
+<br>
+<br>
+
+## Brewing Stand GUI
 
 This is overriden by the McRPG Sorcery Skills custom GUI for brewing - it works the same, it just looks vastly different.
 You can view the change on the [Sorcery](mcsorcery.md) page.
