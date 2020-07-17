@@ -12,6 +12,7 @@ Any major ones that players are likely to notice/care about will be listed on th
 
 ## Table of Contents
 As a quick run down so you don't need to scroll down to find what you're looking for:
+- [Brewing Stand GUI](#brewing-stand-api)
 - [Anvil Repairing and Enchanting](#anvil-repairing-and-enchanting)
 - [Aquiring Mending](#aquiring-mending)
 - [Elytra Limits](#elytra-limits)
@@ -19,6 +20,11 @@ As a quick run down so you don't need to scroll down to find what you're looking
 - [ShulkerBox Recipe Tweak](#shulkerbox-recipe-tweak)
 - [Nether Scaling](#nether-scaling)
 - [Notable Explot Patches](#notable-exploit-patches)
+
+## Brewing Stand API
+
+This is overriden by the McRPG Sorcery Skills custom GUI for brewing - it works the same, it just looks vastly different.
+You can view the change on the [Sorcery](mcsorcery.md) page.
 
 ## Anvil Repairing and Enchanting
 
