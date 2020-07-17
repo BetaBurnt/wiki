@@ -42,7 +42,12 @@ If nobody questions it however, it'll likely go through as listed on here - so i
 
 # Polls Open For Voting On
 
-- None right now! More may appear later on.
+Due to how McRPG handles brewing for its Sorcery skill, because of how limited and awkward the brewing stand API is (the way mcMMO handled it was ridiculous and not good by any means from a backend perspective), they have to override the brewing stand GUI with a custom one.
+While this works remarkably well, and allows not only for the potions that the Sorcery skill adds by default but also allows me to add custom potions (not brews, proper potions) if/when I want to (chances I will want to are slim but it's nice to have the option), it does interfere with the Brewery plugins distilling feature as that requires a brewing stand... and doesn't work with the McRPG brewing GUI.
+
+As such we need to decide whether to disable Sorcery (which will remove the skill entirely - no new potions, none of the Sorcery abilities, nothing - but it will return the Vanilla brewing GUI), remove Brewery or just tweak the Brews that currently require being distilled so they have either a longer brew time or require more aging as a compromise.
+
+- https://www.strawpoll.me/20600656
 
 # Polls That Ended - The Results?
 
@@ -387,6 +392,18 @@ I'll go through the wiki here and there and make a secondary page for updated in
 - [Money and Jobs](rmoney.md) - Need to update Fisherman for Jobs when I know what you can get from fishing with McRPG.
 - [Player Auctions](auctions.md)
 - [Mythic Drops](rmythic.md) - Needs a new image for the combiner in the new spawn
+- [McRPG](mcrpg.md)<br>
+--- [Swords Skill](mcswords.md)<br>
+--- [Axes Skill](mcaxes.md)<br>
+--- [Archery Skill](mcunarmed.md)<br>
+--- [Unarmed Skill](mcunarmed.md)<br>
+--- [Mining Skill](mcmining.md) - Need to figure out how you set the remote transfer output chest<br>
+--- [Woodcutting Skill](mcwoodcutting.md)<br>
+--- [Excavation Skill](mcexcavation.md)<br>
+--- [Herbalism Skill](mcherbalism.md)<br>
+--- [Fishing Skill](mcfishing.md)<br>
+--- [Sorcery Skill](mcsorcery.md)<br>
+--- [Fitness Skill](mcfitness.md)
 
 
 
@@ -400,10 +417,7 @@ For now bare in mind this is just going by the console output during startup for
 - MultiVerse<br>
 
 - **Not Loading At All - Requires Update For 1.16**:<br>
---- Skript & a number of Skript Addons (it loads.... but there's **loads** of errors and most of our scripts fail because of it, so **definitely** need to wait for an update from them to fix all the issues). To show how many errors there are... 5690 lines in the startup logs are **just** scripts failing to load and spamming errors :L<br>
---- Scripts. Once Skript and addons are sorted I'll need to fix a lot of scripts too for changes made (main one that's gonna need changes through a lot of scripts is zombie pigman > zombified piglin -.- Won't take too long once everythings ready to go but it's annoying)<br>
---- LightAPI (used by Skripts to make light sources, like for the Candles)<br>
---- Jobs<br>
+--- McRPG<br>
 --- MiniaturePets
 
 Anything not listed has either already updated for 1.16 support, has marked their latest version as working fine on 1.16 or while it hasn't explicity updated for 1.16 it loads okay so may be fine (prior to proper testing). Didn't see the point in listing EVERY DAMN PLUGIN - you only really need to know what we're waiting on.
