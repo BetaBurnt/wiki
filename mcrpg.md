@@ -19,7 +19,7 @@ McRPG adds a number of skills for you to level up and unlock new abilities for, 
 The sections you can access from here are:
 
 **-- Your Profile**:
-This is the skull icon in the `/mcrpg` menu. When you hover over this icon it will give you a run down of your currentpower level and the level of each of your skills.<br>
+This is the skull icon in the `/mcrpg` menu. When you hover over this icon it will give you a run down of your current power level and the level of each of your skills.<br>
 
 If you then click on this icon it will take you to a page of some options you can toggle on/off. For example, just a couple of these options are:<br>
 - Change the display type of the information given with `/mcdisplay <skill>` between Scoreboard, Action Bar and Boss Bar.
@@ -31,7 +31,7 @@ As well as a few others.
 **-- Skill Menu**:
 This is the sword icon in the `/mcrpg` menu. When clicked it will take you to this page:
 
-![mcrpgskills](images/mcrpgskills.png)<br>Note that this menu will look different as the plugin is developed and more skills are added.
+![mcrpgskills](images/mcrpgskills.png)<br>Note that this menu may look different as the plugin is developed and more skills are added.
 
 From here you can hover over a skills icon to see your current level and the chance you have for the skills default ability to trigger, and if you click the skills icon it will list all abilities that skill has with a small note on what they do and when they unlock!
 
@@ -74,6 +74,7 @@ Currently you have access to use the following skills:
 - [Fishing](mcfishing.md)
 - [Sorcery](mcsorcery.md)
 - [Fitness](mcfitness.md)
+- [Taming](mctaming.md)
 
 Note that you can also find Ability Unlock and Ability Upgrade Books as a rare mob drop. These will either unlock a specific Ability (regardless of the level of the Skill it is for at the time), or will upgrade a specific Ability one tier (if it is not already at it's top tier).
 
