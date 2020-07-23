@@ -54,7 +54,7 @@ Note that you can only have **9 Abilities** active in your loudout at once, and 
 
 # McRPG Skills
 
-McRPG grants you access to 11 Skills currently - each with their own abilities you can level up and include in your loadout to customize your gameplay to your own style a little.<br>
+McRPG grants you access to 12 Skills currently - each with their own abilities you can level up and include in your loadout to customize your gameplay to your own style a little.<br>
 
 Each skill levels up as you do certain actions.<br>
 As the skill reaches a certain level it will start to unlock it's abilities (aside from their default ability, which just requires yout o be level 1 in a skill) on their first Tier.<br>
@@ -67,6 +67,7 @@ Currently you have access to use the following skills:
 - [Axes](mcaxes.md)
 - [Archery](mcarchery.md)
 - [Unarmed](mcunarmed.md)
+- [Taming](mctaming.md)
 - [Mining](mcmining.md)
 - [Woodcutting](mcwoodcutting.md)
 - [Excavation](mcexcavation.md)
@@ -74,7 +75,6 @@ Currently you have access to use the following skills:
 - [Fishing](mcfishing.md)
 - [Sorcery](mcsorcery.md)
 - [Fitness](mcfitness.md)
-- [Taming](mctaming.md)
 
 Note that you can also find Ability Unlock and Ability Upgrade Books as a rare mob drop. These will either unlock a specific Ability (regardless of the level of the Skill it is for at the time), or will upgrade a specific Ability one tier (if it is not already at it's top tier).
 
