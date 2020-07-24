@@ -73,6 +73,7 @@ Note that some items don't work with the holograms for some reason... as an exam
 |**Enchanter**|Use an Enchantment Table.|**Bronze**: 50<br>**Silver:** 500<br>**Gold**: 1000|Each item enchanted via an enchantment table is 1 point.|
 |**Fishing**|Successfully fish up items.|**Bronze**: 500<br>**Silver:** 1500<br>**Gold**: 3000|Every item successfully fished up is 1 point, not just fish.|
 |**WoodStripper**|Strip Overworld logs.|**Bronze**: 150<br>**Silver:** 750<br>**Gold**: 1500|This will not register the log stripping if the axe is in your offhand.|
+|**Netherite Crafter**|Craft Netherite Ingots.|**Bronze**: 10<br>**Silver:** 100<br>**Gold**: 250|Each craft event is 1 point - if you use the FastCraft menu to create multiple cakes at once, each craft event is 1 regardless.<br>This counts for shift clicking in a crafting table - if you shift click it is 1 point, even if you made 10 items.|
 
 **===---------------------------------------------------------------------------------------------------------------------------------===**
 
