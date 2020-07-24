@@ -1,18 +1,15 @@
 ![ribbon](images/L-ribbon.png) 
 
-**PLEASE READ FIRST - The linked page goes over an upcoming server reset!**
-- [Future Server Reset](reset.md)
-
 ### Server Information
-- [About The Server](about.md)
 - [Server Rules](rules.md)
 - [Reporting Issues/Contacting Staff](staff.md)
 - [Messaging and Chat](chat.md)
+- [Notable Changes to Vanilla Mechanics](changes.md)
 
 ### Getting Started
-- [Locations](locations.md)
-- [Basic Teleportation](teleportation.md)
-- [Locking up your Valuables!](lwc.md)
+- [Server Worlds](worlds.md)
+- [Teleportation Information](teleportation.md)
+- [Locking your Valuables](lwc.md)
 - [Player Levels](levels.md)
 - [Player Ranks](ranks.md)
 - [Custom Crafting Recipes for MC Items](crafting.md)
@@ -24,22 +21,21 @@
 - [Voting/Token Shop](voting.md)
 - [Donation Store](donations.md)
 
-### Features
+### Some Core Features
 - [Bonus Bill](bonusbill.md)
-- [The Collector](collector.md)
 - [Titles](titles.md)
 - [Graves](graves.md)
-- [McMMO Skills](mcmmo.md)
+- [Skills and Abilities](mcrpg.md)
 - [Towny](towny.md)
 - [Brewery](brewery.md)
 - [Upgradable Hoppers](hopper.md)
+- [JumpPads/GravityTubes](jpgt.md)
 - [Liquid Tanks](tanks.md)
 - [Utilities](utilities.md)
-- [Getting Married](marriage.md)
 - [Elevators](elevators.md)
 - [Mythic Drops](mythic.md)
 - [Custom Storage](storage.md)
-- [JumpPads/GravityTubes](jpgt.md)
+- [Trophies](trophies.md)
 
 ### Editing the Wiki
 
