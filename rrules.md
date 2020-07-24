@@ -114,7 +114,7 @@ This is a very grey area, but generally having automatic resource gathering mech
 - **They don't cause any problems with the server economy.**
 - **They don't cause lag of any kind.**
 - **They don't allow you to gather crops/loot etc.. too rapidly.** 
-- **They don't allow you to gain particularly rapid amounts of XP, mcMMO XP or jobs money/xp.** (shouldn't be possible as you should only get these when actively doing things yourself but just to clarify)
+- **They don't allow you to gain particularly rapid amounts of XP, McRPG XP or jobs money/xp.** (shouldn't be possible as you should only get these when actively doing things yourself but just to clarify)
 
 Tree farms are also limited. 
 In general they are fine as long as they are not above a large hopper setup for transferring the items as hoppers are also a common cause of lag when used in excess.
@@ -253,7 +253,7 @@ Unfair raiding would depend on the situation. Shooting someones chickens over a 
 - If an account is confirmed to be an alt it will be banned with no appeal.
 ### Rule 8: Bug/Exploit Abuse:
 - If you are found to have been abusing a bug/glitch for unfair gain that you did not report you will be tempbanned or banned (with appeal) depending on the situation.
-- **Anything** gained through bug/glitch abuse will be removed (player levels, XP, job XP/levels, mcMMO levels, items etc...).
+- **Anything** gained through bug/glitch abuse will be removed (player levels, XP, job XP/levels, McRPG levels, items etc...).
 ### Rule 9: Bugging The Staff:
 - This will only ever result in warnings or mutes, unless you become particularly annoying and won't stop when asked to, in which case it will result in a tempban.
 
