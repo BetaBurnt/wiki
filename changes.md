@@ -19,7 +19,7 @@ As a quick run down so you don't need to scroll down to find what you're looking
 - [Hopper Limits](#hopper-limits)
 - [ShulkerBox Recipe Tweak](#shulkerbox-recipe-tweak)
 - [Nether Scaling](#nether-scaling)
-- [Notable Explot Patches](#notable-exploit-patches)
+- [Notable Exploit Patches](#notable-exploit-patches)
 
 <br>
 <br>
