@@ -13,11 +13,6 @@ To ignore a player who is annoying you use the command `/ignore [player]` - You 
 To see the real username of a player with a nickname use `/realname [nickname]`.
 To see when a player was last online use `/seen [player]`.
 
-
-### Party Chat
-[[[[NEEDS UPDATING WHEN I GO THROUGH MCRPG SO I KNOW WHAT THE COMMANDS ARE]]]]
-
-
 ### Towny Chat Channels
 Town, Ally and Nation chat allow for communication between players that are members of either your town, nation or all allied nations. 
 
@@ -29,6 +24,9 @@ You can also use `/tchat [message]` etc.. to send a message to that specific cha
 
 To go back to global chat use `/g` (or `/gchat`, `/global` or `/general`) or `/g [message]` to send a message to the global chat without moving to it!
 
+### Party Chat
+
+You can read up on McRPG's Party system and commands [HERE](http://legioncraft.co.uk/wiki/mcrpg.html#parties).
 
 ### Titles
 Titles allow you to enable a chat prefix for your player - become a Knight, a Wizard or just a Peasant if you really wish.
