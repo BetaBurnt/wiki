@@ -7,7 +7,7 @@ QuickLinks:
 - [Spirit Essence Types](#spirit-essence-types)
 - [Combining Essences](#combining-essences)
 - [Spirit Core Extenders](#spirit-core-extenders)
-= [Fixing Invalid Enchants](#fixing-invalid-enchants)
+- [Fixing Invalid Enchants](#fixing-invalid-enchants)
 
 MythicDrops is the plugin used to handle weapon/tool/armour drops from mob kills that gives a bit of variety to what you can find.<br> 
 For example you'll most commonly (though not too frequently) come across items with no to one or two low level enchants in the Common tier, for example:
