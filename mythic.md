@@ -2,6 +2,13 @@
 
 # MythicDrops
 
+QuickLinks:
+- [Empty Cores and Spirit Essences](#empty-cores-and-spirit-essences)
+- [Spirit Essence Types](#spirit-essence-types)
+- [Combining Essences](#combining-essences)
+- [Spirit Core Extenders](#spirit-core-extenders)
+= [Fixing Invalid Enchants](#fixing-invalid-enchants)
+
 MythicDrops is the plugin used to handle weapon/tool/armour drops from mob kills that gives a bit of variety to what you can find.<br> 
 For example you'll most commonly (though not too frequently) come across items with no to one or two low level enchants in the Common tier, for example:
 
@@ -31,7 +38,8 @@ And then there is the Crystalline rank - the rarest and best you can find, only 
 Each tier has different potential item drops and drops from different mobs - which mobs drop what tier and what tier contains what items you'll have to find out for yourself! As a general example however without ruining everything - you won't get diamond items in the Common tier, and rarer enemies will only drop rarer tiers (ie if you summon a Wither it will only drop Epic or Legendary level items)
 
 
-# Empty Cores and Spirit Essence
+
+# Empty Cores and Spirit Essences
 
 Along with these drops there is a potential for the item to have empty cores - these allow you to attach a Spirit Essence to that item!
 
@@ -52,6 +60,7 @@ To clarify it'll say either:
 - `Bladed-tools` - it can be applied to any Sword or Axe
 - `Fortunable-tools` - it can be applied to any Shovel, Pickaxe or Axe.
 - If it says something specific it is only for that type of item - for example if it says Boots it can only be used on boots, nothing else.
+
 
 
 # Spirit Essence Types
@@ -129,6 +138,19 @@ When you have your 4 essences, go to `/mdcombiner` (or `/mdc` for short) and cli
 ![combinermenu](images/combinermenu.png)
 
 Click the 4 essences in your inventory to add them, and the bottom empty slot in the combiner will change into a nether star to confirm they are okay to merge - click the star to get your upgraded essence!
+
+
+
+# Spirit Core Extenders
+
+You may come across an item called a Spirit Core Extender here and there - they will be a gold nugget that looks like this:
+
+![mdextender](images/mdextender.png)
+These allow certain items to receive an extra Empty Core for you to add Spirit Essences to - simply pick the extender up and right click onto an item to add the additional Empty Core!
+
+This cannot be done to any item however - only items with Extender Slots can use these items, such as this:
+
+![mdextslot](images/mdextslot.png)
 
 
 
