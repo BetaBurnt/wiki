@@ -117,6 +117,10 @@ As the Tier of this ability increases, so does the radius of the blast!
 - Soul Sand
 - Mossy Cobblestone
 - Cobblestone
+- Soul Soil
+- Basalt
+- Blackstone
+- Crimson/Warped Nylium
 
 |Tier|Blast Radius|Mining Level Required To Upgrade (plus 1 Ability Point)|
 |---|---|---|
