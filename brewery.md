@@ -2,20 +2,21 @@
 
 # Brewery
 
-
 Brewery has been added! So what do you need to know?
 
-Well first up it’s important to understand the advanced difficulty brewery will now have in comparison to vanilla brewery, but with that difficulty comes many new fascinating drinks. There are many steps in creating these new drinks and if one step is not perfectly done it can ruin the entire drink.
+Well first up it’s important to understand the different/extra stages brewery brews have in comparison to vanilla brews, but with that difficulty comes many new fascinating drinks. There are many steps in creating these new drinks and if one step is not perfectly done it can ruin the entire drink.
+
+- [Brewing Cauldron](#brewing-cauldron)
+- [Aging Barrels](#aging-barrels)
+- [Side Notes](#side-notes)
 
 Step one involves brewing the ingredients you plan to use, while at first finding what ingredients to use is trial and error, eventually you’ll know enough recipes to become a master.
 
 ## Recipes
 
-Currently recipe book drops are disabled due to needing to be manually made (there are a very large amount of drinks to make a book for each one... so it's on the bench for now)
+Recipe books will drop at random from mobs killed by players directly. These books will list the ingredients for a specific brew and the steps to make it!
 
-When this has been re-added you will be able to find recipe books that show you what ingredients to use, which will drop randomly from overworld hostile mobs.
-
-## Brewing
+## Brewing Cauldron
 
 To brew the ingredients you must:
 
@@ -27,21 +28,18 @@ To brew the ingredients you must:
 
 >To find out how long your ingredients have been brewing simply right click the cauldron with a clock in your hand.
 
-Step two involves distilling the bottle the correct amount of times in a brewing stand.
+The final extra step - for some drinks - is aging.
 
-To do so is simple:
+To age your drink you must first create aging barrels - There are two types of barrels you can create, along with using a normal MC barrel.
 
-1. Put the fermented bottle in a brewing stand.
-2. Put a glowstone dust in the top of the brewing stand as a filter.
+## Aging Barrels
 
->Some recipes require NO distilling
+### MC Barrel
 
-The final step - for some drinks - is ageing.
-
-To age your drink you must first create ageing barrels - There are two types of barrels you can create.
+If you place a brew into a normal Minecraft barrel it will still age as with the custom barrels, however it can only hold up to 6 brews at a time!
 
 ### Small Barrel
-To make this you’ll need 8 wooden stairs and a sign.
+To make this you’ll need 8 wooden stairs and a sign (the stairs must be all the same type of wood, but any overworld-wood can be used).
 
 ![smallbarrel](images/smallbarrel.png)
 
@@ -51,7 +49,7 @@ Then to finalize your barrel place a sign in the lower right corner with Barrel 
 The message “Barrel created” should appear if done correctly
 
 ### Big Barrel
-To build you’ll need 5 fences, 16 wooden stairs, 18 wood planks, a sign and have it be hollow inside.
+To build you’ll need 5 fences, 16 wooden stairs, 18 wood planks, a sign and have it be hollow inside (the stairs and planks must be all the same type of wood, but any overworld-wood can be used).
 
 ![bigbarrel](images/bigbarrel.png)
 
@@ -65,4 +63,4 @@ Put your now distilled bottles in for aging and leave them there for the request
 To know how long you must leave them in there open the barrel up and check the lore of the bottle.
 
 ## Side Notes
-You will be able to craft a lot of alcoholic beverages on the server but note that drinking too much will have a ton of negative side effects such as slurred 'speech', wandering off randomly and throwing up soulsand (you can't pick it up, it's just visual). That being said if you are drunk, eating bread or drinking milk can help you sober up but the best medicine is time. 
+You will be able to craft a lot of alcoholic beverages on the server but note that drinking too much will have a ton of negative side effects such as slurred 'speech', wandering off randomly and throwing up soulsand (you can't pick it up, it's just visual). That being said if you are drunk, eating most foods or drinking milk can help you sober up slowly but the best medicine is time (or buy a Sobering Thought from the pawn shop - this is an instant sober up item). 
