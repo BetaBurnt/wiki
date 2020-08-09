@@ -63,4 +63,7 @@ Put your now distilled bottles in for aging and leave them there for the request
 To know how long you must leave them in there open the barrel up and check the lore of the bottle.
 
 ## Side Notes
-You will be able to craft a lot of alcoholic beverages on the server but note that drinking too much will have a ton of negative side effects such as slurred 'speech', wandering off randomly and throwing up soulsand (you can't pick it up, it's just visual). That being said if you are drunk, eating most foods or drinking milk can help you sober up slowly but the best medicine is time (or buy a Sobering Thought from the pawn shop - this is an instant sober up item). 
+You will be able to craft a lot of alcoholic beverages on the server but note that drinking too much will have a ton of negative side effects such as slurred 'speech', wandering off randomly and throwing up soulsand (you can't pick it up, it's just visual).
+That being said if you are drunk, eating most foods or drinking milk can help you sober up slowly but the best medicine is time - alternatively you can craft a Sobering Thought - this is an instant sober up item! You can make it with one piece of paper and two cocoa beans!
+
+![sober](images/sober.png)
