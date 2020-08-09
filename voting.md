@@ -46,10 +46,10 @@ Here you can purchase:
 |Crystal Armour|80 Tokens|Diamond Chestplate with Unbreaking 3, Protection 4, Blast Protection 3 and Projectile Protection 3|
 |Crystal Cuisses|80 Tokens|Diamond Leggings with Unbreaking 3, Protection 4 and Fire Protection 4|
 |Crystal Spurs|80 Tokens|Diamond Boots with Unbreaking 3, Protection 4, Feather Falling 3 and Depth Strider 2|
-|Demonic SkullCap|120 Tokens|Netherite Helmet with Unbreaking 4, Protection 5, Projectile Protection 4, Respiration 3 and Aqua Affinity|
-|Demonic Mail|120 Tokens|Netherite Chestplate with Unbreaking 4, Protection 5, Blast Protection 4 and Projectile Protection 3|
-|Demonic Protectors|120 Tokens|Netherite Leggings with Unbreaking 4, Protection 5 and Fire Protection 4|
-|Demonic Boots|120 Tokens|Netherite Boots with Unbreaking 4, Protection 5, Feather Falling 4 and Soul Speed|
+|Demonic SkullCap|150 Tokens|Netherite Helmet with Unbreaking 4, Protection 5, Projectile Protection 4, Respiration 3 and Aqua Affinity|
+|Demonic Mail|150 Tokens|Netherite Chestplate with Unbreaking 4, Protection 5, Blast Protection 4 and Projectile Protection 3|
+|Demonic Protectors|150 Tokens|Netherite Leggings with Unbreaking 4, Protection 5 and Fire Protection 4|
+|Demonic Boots|150 Tokens|Netherite Boots with Unbreaking 4, Protection 5, Feather Falling 4 and Soul Speed|
 |Crystal Wings|100 Tokens|Elytra with Unbreaking 2|
 |---------|---------|---------|
 |Token Cap|75 Tokens|Diamond Helmet with Unbreaking 2, Protection 2, Respiration 2, Projectile Protection 2 and 3 MD Essence Cores|
@@ -68,22 +68,22 @@ Here you can purchase:
 |Antique Sword|25 Tokens|Iron Sword with Sharpness 3, Smite 1, Unbreaking 2 and Looting 1|
 |Obsidian Sword|45 Tokens|Diamond Sword with Sharpness 4, Smite 3, Unbreaking 2 and Looting 2|
 |Crystal Blade|100 Tokens|Diamond Sword with Sharpness 5, Smite 4, Bane of Arthropods 4, Unbreaking 4 and Looting 3|
-|Demonic Blade|125 Tokens|Netherite Sword with Sharpness 7, Smite 5, Bane of Arthropods 5, Unbreaking 4 and Looting 4|
+|Demonic Blade|150 Tokens|Netherite Sword with Sharpness 7, Smite 5, Bane of Arthropods 5, Unbreaking 4 and Looting 4|
 |Antique Pickaxe|25 Tokens|Iron Pickaxe with Efficiency 3, Unbreaking 2 and Fortune 1|
 |Obsidian Pickaxe|45 Tokens|Diamond Pickaxe with Efficiency 3, Unbreaking 2 and Fortune 3|
 |Crystal Pick|100 Tokens|Diamond Pickaxe with Efficiency 5, Unbreaking 4 and Fortune 4|
-|Demonic Pick|125 Tokens|Netherite Pickaxe with Efficiency 6, Unbreaking 4 and Fortune 6|
+|Demonic Pick|150 Tokens|Netherite Pickaxe with Efficiency 6, Unbreaking 4 and Fortune 6|
 |Antique Axe|25 Tokens|Iron Axe with Sharpness 3, Efficiency 2, Unbreaking 2 and Fortune 1|
 |Obsidian Axe|45 Tokens|Diamond Axe with Sharpness 4, Efficiency 3, Unbreaking 2 and Fortune 2|
 |Crystal Hatchet|100 Tokens|Diamond Axe with Sharpness 4, Smite 3, Bane of Arthropods 3, Efficiency 3, Unbreaking 4, Looting 2 and Fortune 2|
-|Demonic Hatchet|125 Tokens|Netherite Axe with Sharpness 5, Smite 4, Bane of Arthropods 4, Efficiency 5, Unbreaking 4, Looting 3 and Fortune 3|
+|Demonic Hatchet|150 Tokens|Netherite Axe with Sharpness 5, Smite 4, Bane of Arthropods 4, Efficiency 5, Unbreaking 4, Looting 3 and Fortune 3|
 |Antique Spade|25 Tokens|Iron Shovel with Efficiency 3 and Unbreaking 2|
 |Obsidian Spade|45 Tokens|Diamond Shovel with Efficiency 3, Unbreaking 2 and Fortune 2|
 |Crystal Scoop|100 Tokens|Diamond Shovel with Efficiency 5, Unbreaking 4 and Fortune 3|
-|Demonic Scoop|125 Tokens|Netherite Shovel with Efficiency 6, Unbreaking 4 and Fortune 5|
+|Demonic Scoop|150 Tokens|Netherite Shovel with Efficiency 6, Unbreaking 4 and Fortune 5|
 |Antique Pole|25 Tokens|Fishing Rod with Luck of the Sea 2, Lure 2 and Unbreaking 2|
 |Obsidian Rod|45 Tokens|Fishing Rod with Luck of the Sea 2, Lure 4 and Unbreaking 3|
-|Crystal Rod|125 Tokens|Fishing Rod with Luck of the Sea 7, Lure 5 and Unbreaking 4|
+|Crystal Rod|150 Tokens|Fishing Rod with Luck of the Sea 7, Lure 5 and Unbreaking 4|
 |Antique Trident|25 Tokens|Trident with Loyalty 1, Impaling 3 and Unbreaking 2|
 |Obsidian Trident|45 Tokens|Trident with Loyalty 3, Impaling 4 and Unbreaking 3|
 |Crystal Trident|70 Tokens|Trident with Channeling 1, Loyalty 2, Impaling 5 and Unbreaking 3|
