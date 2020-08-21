@@ -36,7 +36,7 @@ As the Tier of this ability increases, so does the increased chances for Double 
 
 ### **Remote Transfer**.
 
-This allows you to designate an output chest to transfer certain mined materials to automatically. [[Currently unsure how you specify the output chest]]
+This allows you to designate an output chest to transfer certain mined materials to automatically. To designate your transfer chest look at a chest and do `/mclink`!
 
 **What Mining Level does Tier 1 Unlock?**: 200
 
