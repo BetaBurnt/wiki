@@ -97,7 +97,7 @@ The perks you gain along the way are as follows (there is also more detailed inf
 |84|$5000000||Beta|
 |85|$5500000|- **SafariNets**: Ability to net Pillagers.|Nightmare, Reaper|
 |86|$5500000||Gamma|
-|87|$6000000||Ballista, Berserker|
+|87|$6000000|- **SafariNets**: Ability to net Piglin Brutes.|Ballista, Berserker|
 |88|$6000000|- **Combiner**: Full access to `/combine`. Adds ability to combine Redstone, Quartz, Diamonds and Emeralds into their respective Block forms on pickup.|Delta|
 |89|$7000000||Shield Master, Shield Maiden|
 |90|$7000000|- **SafariNets**: Ability to net Ravagers.|Omega|
