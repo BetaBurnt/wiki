@@ -67,6 +67,7 @@ For some modifications you can simply type the setting rather than the setting a
 - [Hoglin](#hoglin)
 - [Zoglin](#zoglin)
 - [Piglin](#piglin)
+- [Piglin_Brute](#piglin-brute)
 - [Strider](#strider)
 - [Boats](#boats)
 - [Minecarts](#minecarts)
@@ -306,6 +307,10 @@ For some modifications you can simply type the setting rather than the setting a
 - `setShaking` - set the disguise to shake (as if it's about to transform).
 - `setItemInMainHand <item>` - set the item the disguise will carry.
 - `setDancing` - set the disguise to do a weird jig.
+
+## Piglin Brute
+- `setItemInMainHand <item>` - set the item the disguise will carry.
+- `setItemInOffHand <item>` - set the item the disguise will carry in their offhand.
 
 ## Strider
 - `setBaby` - make the disguise a baby.
