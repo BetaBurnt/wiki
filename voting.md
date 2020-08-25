@@ -23,6 +23,8 @@ These will include various things such as coupons for the donation store, random
 
 The first time you place 1st in the top voters you will also unlock a new title and the Top Voter Trophy!
 
+**Note:** If you get 1st place in the Top Voters of a month you will not be counted in the rankings the following month, to avoid the same person winning the top rewards constantly.
+
 
 # Token Shop
 
