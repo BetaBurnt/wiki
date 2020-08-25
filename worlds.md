@@ -35,10 +35,13 @@ These worlds are entirely for the purpose of gathering materials for your Surviv
 
 You can access the End from any end portal/stronghold found in the Resource world! (**There is no End world linked to the Survival worlds**).
 
-**Do not build in this world** - it is reset once every 3 weeks to bring back the dragon for you to have another go at bagging the dragon egg (you cannot summon new dragons via End Crystals as you can in singleplayer/Vanilla), and to reset resources and end cities!
+**Do not build in this world** - it is reset once every 2 weeks to bring back the dragon for you to have another go at bagging the dragon egg (you cannot summon new dragons via End Crystals as you can in singleplayer/Vanilla), and to reset resources and end cities!
 
 **Please note that the End is only open for one week at a time!**<br>
-For example if the End resets and opens today it'll be open for one week, and then it'll close and be inaccessible for 2 weeks until the next reset.
+For example if the End resets and opens today it'll be open for one week, and then it'll close and be inaccessible for a week until the next reset.
+
+**Please also note**:<br>
+If you are one of the last 3 players to have killed the Ender Dragon the End will remain locked to you for 1 hour extra when it opens for everybody else, to allow someone else a chance to take the dragon on! Once that hour lifts it's fair game again!
 
 ## Creative
 
