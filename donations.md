@@ -28,7 +28,7 @@ As such refunds are **not applicable** at any time. Please be 100% sure that you
 This section will allow you to make a donation without purchasing a specific ingame perk. You can donate either through the $5/10/20/50 packages or through the package that allows you to choose how much to donate ($1+)!
 
 If you use the $5/10/20/50 packages and have not done so before you will also receive the Donator rank ingame as a thank you - this grants you the ability to:
-- Change your ingame name via `/nick` (you can use colour codes for this as well) 
+- Change your ingame name via `/nick` (you can use colour codes for this as well, hex codes included - while the formatting &k-o codes can be used they are **not permitted**. We just can't block them right now and give full hex access). 
 - Use colour codes on signs ingame
 - Get a 4th `/sethome` (if you already have 4+ from your server levels this does not add an extra home)
 - Use `/sit` to sit where you stand, rather than being limited to just stairs/slabs/carpets
@@ -58,12 +58,17 @@ The `/ccmenu` with all colours purchased would look like this (ignore the bottom
 
 Somewhat self explanatory - they allow you to purchase a custom title for the ingame chat! 
 
-You can either purchase a single colour title, a title with up to 3 colour changes or a title with as many colour changes as you want! 
-Each title is limited to 15 characters - this does not include the colour codes or the space on the end (which is not required if you don't want it, but it is what puts the gap between the title and your name in the chat - you could switch it to a dash or something too!).
+You can either purchase a single colour title, a title with up to 3 colour changes or a title with as many colour changes as you want! **Note** that these packages are limited to the & colour codes (&0-9/a-f, the &k-o formatting codes are not allowed).
+
+There is also a package for Gradient Titles! This allows you to have any number of the & codes as with the Infinite package, but you can also use 1-4 Hex codes instead if you wish! This allows you to choose a fully custom single colour rather than be locked into the & colours, or you can have 2-4 colours spread through your title to make a gradient!
+**Note** that when using a gradient the more space between each colour of the gradient the better it looks - so shorter titles should stick to 2 colour gradients etc...
+
+Each title is limited to 15 characters - this does not include the colour/hex codes or the space on the end (which is not required if you don't want it, but it is what puts the gap between the title and your name in the chat - you could switch it to a dash or something too!).
 
 There are also upgrade options so if you buy a single colour title today but later on decide you want it with multiple colours you can buy an upgrade!
 
-**Note**: You can change the colour/s of the title at any time by contacting BurntValentine! The package is for the word itself and the amount of colours you can use - to change the word or how many colours it can have you'd need to either buy a new title or an upgrade!
+**Note**: You can change the colour/s of the title at any time by contacting BetaBurnt! The package is for the word itself and the amount of colours you can use - to change the word or how many colours it can have you'd need to either buy a new title or an upgrade!
+You can view what titles you have and which package they are set to with `/mytitles` ingame!
 
 
 # Disguises
