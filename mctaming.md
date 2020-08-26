@@ -141,7 +141,10 @@ As the Tier of this ability increases so does the health of your Hellhounds, whe
 |4|9|✔|8 Seconds|825|
 |5|12|✔|10 Seconds|1000|
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## Extra for Taming
 
