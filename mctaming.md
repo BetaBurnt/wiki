@@ -140,3 +140,14 @@ As the Tier of this ability increases so does the health of your Hellhounds, whe
 |3|7|✔|6 Seconds|650|
 |4|9|✔|8 Seconds|825|
 |5|12|✔|10 Seconds|1000|
+
+
+
+## Extra for Taming
+
+### Crystallized Blood
+
+When a wolf kills a mob, there is a chance for it to drop blood (increased chance if bleeding). 
+These can be put on tools, weapons and armor to increase exp gained when using them! **However** - This also makes them unstable and has a low chance of breaking on use. 
+
+There is also a rare Blood Curse that can drop. Attack a player with it to silence them and prevent all abilities from being activated for a few seconds.
