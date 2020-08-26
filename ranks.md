@@ -66,10 +66,10 @@ This rank cannot be given straight out, it must be earned by someone who has alr
 
 #### Admin
 
-This rank is the top rank on the server (besides Owner), and currently is more cosmetic than anything - it is essentially the head of the staff/mod team.
-Anybody with this rank is the also the team that will help to develop new features for the server and help resolve bugs/issues on the server.
+This rank is the top rank on the server (besides Owner), and acts as the head of the moderation team.
+Anybody with this rank is the also part of the team that will help to develop new features for the server and help resolve bugs/issues on the server.
 
-This rank cannot be applied for - it is granted to trustworthy players who have been helpful enough to have earned it. This rank is extremely hard to get however - the role requires dedication, responsibility and technical skill, so it is not given out lightly.
+This rank cannot be applied for - it is granted to trustworthy players who have been helpful enough to have earned it, and that have shown an interest in it. This rank is extremely hard to get however - the role requires dedication, responsibility and technical skill, so it is not given out lightly.
 
 #### Owner
 
