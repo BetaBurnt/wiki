@@ -3,7 +3,7 @@
 # List of Server Staff
 
 **Owner**: 
-- BurntValentine
+- BetaBurnt
 
 **SrMods**:
 - IreliaRamora
