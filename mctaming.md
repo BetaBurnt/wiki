@@ -144,7 +144,6 @@ As the Tier of this ability increases so does the health of your Hellhounds, whe
 <br>
 <br>
 <br>
-<br>
 
 ## Extra for Taming
 
