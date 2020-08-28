@@ -100,9 +100,9 @@ Index:
 - [Jar O'Reddust](#jar-o'reddust)
 - [Jar O'Glowdust](#jar-o'glowddust)
 
-These are blocks you can place that have a linked inventory for one specific item, just for you! For example if you place a Cookie Jar in your house you can left click with cookies in your hand to add one per click (or all of what's in your hand if you sneak left click) to your own Cookie Jar storage!
+These are blocks you can place that have a linked inventory for one specific item, just for you! For example if you place a Sugar Pot in your house you can left click with sugar in your hand to add one per click (or all of what's in your hand if you sneak left click) to your own Sugar Pot storage!
 
-You can then access that Cookie Jar storage anywhere that a Cookie Jar block has been placed and you have permission to build! To retrieve items right click to get one, or sneak right click to get a stack (or however many are left if it's less than a stack). The size of each storage varies for some of these options.
+You can then access that Sugar Pot storage anywhere that a Sugar Pot block has been placed and you have permission to build! To retrieve items right click to get one, or sneak right click to get a stack (or however many are left if it's less than a stack). The size of each storage varies for some of these options.
 
 ## Sugar Pot
 
