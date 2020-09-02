@@ -13,7 +13,7 @@ Any major ones that players are likely to notice/care about will be listed on th
 ## Table of Contents
 As a quick run down so you don't need to scroll down to find what you're looking for:
 - [Brewing Stand GUI](#brewing-stand-api)
-- [Anvil Repairing and Enchanting](#anvil-repairing-and-enchanting)
+- ~~[Anvil Repairing and Enchanting](#anvil-repairing-and-enchanting)~~ **Disabled due to plugin bugs - for now Anvils work as they do in Vanilla**.
 - [Aquiring Mending](#aquiring-mending)
 - [Elytra Limits](#elytra-limits)
 - [Hopper Limits](#hopper-limits)
@@ -29,7 +29,7 @@ As a quick run down so you don't need to scroll down to find what you're looking
 This is overriden by the McRPG Sorcery Skills custom GUI for brewing - it works the same, it just looks vastly different.
 You can view the change on the [Sorcery](mcsorcery.md) page.
 
-## Anvil Repairing and Enchanting
+~~## Anvil Repairing and Enchanting~~ **Disabled due to plugin bugs - for now Anvils work as they do in Vanilla**.
 
 Anvil repairing in Vanilla makes it a little too easy to avoid losing rarer equipment or enchants, and in some cases a little too easy to mix enchants from multiple items.
 The "only X repairs per item" part of the mechanic doesn't really help limit it enough or give enough of a risk of loss - which is a major feature of Survival.
