@@ -29,28 +29,30 @@ As a quick run down so you don't need to scroll down to find what you're looking
 This is overriden by the McRPG Sorcery Skills custom GUI for brewing - it works the same, it just looks vastly different.
 You can view the change on the [Sorcery](mcsorcery.md) page.
 
-~~## Anvil Repairing and Enchanting~~ **Disabled due to plugin bugs - for now Anvils work as they do in Vanilla**.
+## Anvil Repairing and Enchanting 
 
-Anvil repairing in Vanilla makes it a little too easy to avoid losing rarer equipment or enchants, and in some cases a little too easy to mix enchants from multiple items.
+**Disabled due to plugin bugs - for now Anvils work as they do in Vanilla**.
+
+~~Anvil repairing in Vanilla makes it a little too easy to avoid losing rarer equipment or enchants, and in some cases a little too easy to mix enchants from multiple items.
 The "only X repairs per item" part of the mechanic doesn't really help limit it enough or give enough of a risk of loss - which is a major feature of Survival.
 
-As such we do tweak how anvil repairing/enchanting works a little - for anyone that has played on a server with mcMMO, it works in a similar fashion to how their repair works (as this was added when we also had mcMMO prior to 1.16, when we switched to McRPG).
+~~As such we do tweak how anvil repairing/enchanting works a little - for anyone that has played on a server with mcMMO, it works in a similar fashion to how their repair works (as this was added when we also had mcMMO prior to 1.16, when we switched to McRPG).
 We do this in two ways:
 
-**1**:
+~~**1**:
 If both items are enchanted and combinable (and not an enchanted book) - so for example two diamond swords you want to merge the enchants on - it will mix the enchants as it normally would, however it will keep the durability level of the original item with the highest durability.
 
-**2:**
+~~**2:**
 If one item is enchanted and the other is not and they are combinable (and again, not an enchanted book) - so for example a damaged enchanted diamond sword and an unenchanted diamond sword, intention being to repair the enchanted sword - then there is a risk of losing or downgrading your enchantments in the repair process.
 
-When you attempt this you will be given a warning about this, and the repair will be cancelled (this warning triggers the first time, and every 10th repair after as a reminder) - if you run it again the repair will go through.<br>
+~~When you attempt this you will be given a warning about this, and the repair will be cancelled (this warning triggers the first time, and every 10th repair after as a reminder) - if you run it again the repair will go through.<br>
 When the repair goes through there is a 20% chance of losing the enchantments entirely - if that doesn't happen, there is a 40% chance that just one enchantment will be removed (but it's not guaranteed that one will, there's a luck roll donw on each enchant and if any fail they're removed - once one is removed the rest are not rolled for). <br>
 If neither triggers you will keep the enchantments as they are.
 
-The only guarantee to repair an item in full and keep it's enchantments is to use the repair sign at the server spawn.
+~~The only guarantee to repair an item in full and keep it's enchantments is to use the repair sign at the server spawn.
 
-**Note:**
-Anvils will work normally when both items are unenchanted, only one item is present (ie renaming an item) or if one of the items is an enchanted book.
+~~**Note:**
+Anvils will work normally when both items are unenchanted, only one item is present (ie renaming an item) or if one of the items is an enchanted book.~~
 
 
 ## Aquiring Mending
