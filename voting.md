@@ -138,14 +138,16 @@ Here you can purchase:
 
 |Item|Cost|Extra Information|
 |---|---|---|
-|Totem of Undying|30 Tokens||
-|Colour Palette|7 Tokens|Drop the item it gives you onto an item you want to rename and you can then rename it with colours!|
-|Baby Tag|7 Tokens|Forces a mob to stay as a baby for life! Renames at the same time as a normal nametag (if the mob is an adult when used it'll change to a baby)|
 |Slime Crystal|3 Tokens|Right click with the item it gives to check if the chunk you are in is a slime chunk|
+|Extra Towny Chunk Claim|5 Tokens|An additional chunk claim for your town - You **must** be the town mayor to do this!|
+|Baby Tag|7 Tokens|Forces a mob to stay as a baby for life! Renames at the same time as a normal nametag (if the mob is an adult when used it'll change to a baby)|
+|Colour Palette|7 Tokens|Drop the item it gives you onto an item you want to rename and you can then rename it with the old & colours! (costs 1 XP level to rename)|
+|Hex Renamer|20 Tokens|Right click with the item it gives you then hold the item you wish to rename and type the new name (with colour codes - including hex/gradient code support) in the chat! (costs 5 XP levels to rename)|
+|Totem of Undying|30 Tokens||
 |DeathPoint Scroll|15 Tokens|When held and sneak-right clicked with it will return you to your last recorded death point!|
-|Random Legendary MD Item|200 Tokens|Get a random MD Legendary drop!|
-|Random MD Essence|60 Tokens|Get a random MD Essence!|
 |Temporary TFly Access|10 Tokens|1 Hour of access to use `/tfly` to fly within your towns borders|
 |Temporary Combiner Access|15 Tokens|Grants you 4 hours of full Combiner usage from the time of purchase. You can access the Combiner menu, turn it on/off and toggle what gets combined on pickup with `/combine`|
 |Temporary V.O.I.D. Access|20 Tokens|Grants you 4 hours of full V.O.I.D. usage from the time of purchase. You can access the VOID menu, turn it on/off and toggle what gets destroyed on pickup with `/void`|
-|Extra Towny Chunk Claim|5 Tokens|An additional chunk claim for your town - You **must** be the town mayor to do this!|
+|Random Legendary MD Item|200 Tokens|Get a random MD Legendary drop!|
+|Random MD Essence|60 Tokens|Get a random MD Essence!|
+
