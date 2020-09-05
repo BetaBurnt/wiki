@@ -17,6 +17,7 @@ As a quick run down so you don't need to scroll down to find what you're looking
 - [Netherwarts](#netherwarts)
 - [Bone Blocks](#bone-blocks)
 - [Tall Grass and Ferns](#tall-grass-and-fern)
+- [Coral Blocks](#coral-blocks)
 
 ## All of these recipes are for Vanilla items that either lack a recipe in the current server version or their current recipes suck for one reason or another so we have tweaked them!
 
@@ -80,3 +81,12 @@ There is a loss compared to Vanilla bonemeal > bone block, but less steps to mak
 
 ![tgrass](images/tgrass.png)
 ![tfern](images/tfern.png)
+
+### Coral Blocks
+
+You can make your own coral blocks using Coral Fans and Coral - either like so, 1 coral and 4 stone replacing the coral with the type of block you want:
+
+![coral1](images/coralblock1.png)
+
+Or like so, 1 coral fan and 8 stone - again, replacing the fan with the type of block you want:
+![coral2](images/coralblock2.png)
