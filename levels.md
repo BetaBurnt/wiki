@@ -20,12 +20,12 @@ The perks you gain along the way are as follows (there is also more detailed inf
 |7|$10000||Warlock|
 |8|$12500||Druid|
 |9|$15000||Wizard, Witch|
-|10|$17500|- **Creative**: Ability to use WorldEdit on your plot.<br>- **Graves**: Will save your equipped armour, hotbar and offhand. Other items will drop.<br>- **PvP**: You will drop a copy of your head when you die in PvP.|Knave|
+|10|$17500|- **Creative**: Ability to use WorldEdit on your plot.<br>- **Graves**: Will save your equipped armour, hotbar and offhand. Other items will drop.|Knave|
 |11|$20000|- **Health**: An extra heart (may need to relog for it to take effect).<br>- **SafariNets**: Ability to net Bats, Chickens, Rabbits and Pigs.|Scout, Archer|
 |12|$22500|- **Hats**: Wear a block/item on your head. Hold it and do `/hat`.<br>- **BowEffects**: First set unlocked. Access with `/bmenu`.|Recruit, Private|
 |13|$25000||Ensign|
 |14|$27500||Bard|
-|15|$30000|- **SafariNets**: Ability to net Cows, Sheep, Squid and Zombies|Deckhand, Swabbie|
+|15|$30000|- **SafariNets**: Ability to net Cows, Sheep, Squid and Zombies<br>- **PvP**: You will drop a copy of your head when you die in PvP.|Deckhand, Swabbie|
 |16|$35000||Merchant| 
 |17|$40000|- **ElytraEffects**: First set unlocked. Access with `/emenu`.|Sleuth, Detective|
 |18|$45000|- **Player Shops**: Up to 15.|Jester, Performer|
