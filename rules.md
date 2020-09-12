@@ -88,7 +88,7 @@ Please also be aware that just because you might find something acceptable to do
 There is a fine line between PVP and harassment that is easy to cross if you get carried away. 
 For example these would definitely fall under harrassment and are not allowed:
 - Camping outside a players home to attack them.
-- Setting a home teleport in or near their house etc.. to get back to attack them whenever you want to (in general do not set a home anywhere near anybody elses stuff without their permission).
+- Setting a home teleport in or near their house etc.. to get back to attack them whenever you want to (in general do not set a home anywhere near anybody elses stuff without their permission for any reason - not for pvp, not for grief/raiding, not for anything).
 - Provoking someone to attack you, for example continuously spamming the player to annoy them into fighting you.
 - If a player asks you to leave - leave. If they don't want to participate in PVP and you refuse to leave then it crosses into harrassment territory.
 
