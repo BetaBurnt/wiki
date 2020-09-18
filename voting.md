@@ -85,7 +85,7 @@ Here you can purchase:
 |Demonic Scoop|150 Tokens|Netherite Shovel with Efficiency 6, Unbreaking 4 and Fortune 5|
 |Antique Pole|25 Tokens|Fishing Rod with Luck of the Sea 2, Lure 2 and Unbreaking 2|
 |Obsidian Rod|45 Tokens|Fishing Rod with Luck of the Sea 2, Lure 4 and Unbreaking 3|
-|Crystal Rod|150 Tokens|Fishing Rod with Luck of the Sea 7, Lure 5 and Unbreaking 4|
+|Crystal Rod|150 Tokens|Fishing Rod with Luck of the Sea 7, Lure 5, Unbreaking 4 and Mending|
 |Antique Trident|25 Tokens|Trident with Loyalty 1, Impaling 3 and Unbreaking 2|
 |Obsidian Trident|45 Tokens|Trident with Loyalty 3, Impaling 4 and Unbreaking 3|
 |Crystal Trident|70 Tokens|Trident with Channeling 1, Loyalty 2, Impaling 5 and Unbreaking 3|
