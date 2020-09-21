@@ -29,8 +29,8 @@ As the Tier of this ability increases, so does the chance of triggering the area
 |Tier|Chance To Trigger|Radius|Woodcutting Level Required To Upgrade (plus 1 Ability Point)|
 |---|---|---|---|
 |1|10%|1||
-|2|12.5%|1|175|
-|3|15%|1|250|
+|2|15%|1|175|
+|3|20%|1|250|
 |4|20%|2|375|
 |5|25%|2|500|
 
