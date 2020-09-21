@@ -45,11 +45,11 @@ As the Tier of this ability increases, so does the chance of area digging as wel
 
 |Tier|Trigger Chance|Radius|Excavation Level Required To Upgrade (plus 1 Ability Point)|
 |---|---|---|---|
-|1|20%|1||
-|2|30%|1|275|
-|3|40%|1|425|
-|4|55%|2|575|
-|5|70%|2|700|
+|1|10%|1||
+|2|15%|1|275|
+|3|20%|1|425|
+|4|20%|2|575|
+|5|25%|2|700|
 
 ### **Mana Deposit**.
 
