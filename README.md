@@ -5,6 +5,8 @@
 - [Reporting Issues/Contacting Staff](staff.md)
 - [Messaging and Chat](chat.md)
 - [Notable Changes to Vanilla Mechanics](changes.md)
+- [Events and Competitions](events.md)
+- [Monthly Rewards](monthlyrewards.md)
 
 ### Getting Started
 - [Server Worlds](worlds.md)
