@@ -31,9 +31,9 @@ Each month will have 3 secret tasks that will be recorded as you do them. This c
 
 **September 2020 Task 1**: Strider Murderer<br>
 **Prizes for 1st Place**: <br>
-- 10000 McRPG EXP<br>
-- 5x Strider Eggs<br>
-- 1x Reusable SafariNet<br>
+10000 McRPG EXP<br>
+5x Strider Eggs<br>
+1x Reusable SafariNet<br>
 **Top Players**:<br>
 **1st** - Xuqi - 10<br>
 **1st** - DrowsyOrc - 10<br>
@@ -44,9 +44,9 @@ Each month will have 3 secret tasks that will be recorded as you do them. This c
 
 **September 2020 Task 2**: Be Welcoming (say "Welcome", such as to new players)<br>
 **Prize for 1st Place**: <br>
-- 10000 McRPG EXP<br>
-- 3x Colour Palletes<br>
-- 2x Hex Tags<br>
+10000 McRPG EXP<br>
+3x Colour Palletes<br>
+2x Hex Tags<br>
 **Top Players**:<br>
 **1st** - Xuqi - 35<br>
 **2nd** - xXRosieTheBossXx - 24<br>
@@ -62,9 +62,9 @@ Each month will have 3 secret tasks that will be recorded as you do them. This c
 
 **September 2020 Task 3**: Death Count<br>
 **Prize for 1st Place**:<br>
-- 10000 McRPG EXP<br>
-- 3x DeathPoint Scrolls<br>
-- 2x Totem of Undying<br>
+10000 McRPG EXP<br>
+3x DeathPoint Scrolls<br>
+2x Totem of Undying<br>
 **Top Players**:<br>
 **1st** - an_actual_bass - 99<br>
 **2nd** - xXRosieTheBossXx - 86<br>
