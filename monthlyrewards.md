@@ -74,5 +74,5 @@ Each month will have 3 secret tasks that will be recorded as you do them. This c
 **6th** - Xaryn_ - 23<br>
 **7th** - TheYoungDoyer - 22<br>
 **8th** - Davanticus - 21<br>
-**9th** - Karrna 14<br>
+**9th** - Karrna - 14<br>
 **10th** - Sahoonie - 13<br>
