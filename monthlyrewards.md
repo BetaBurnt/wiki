@@ -9,14 +9,14 @@ Quicklinks:
 On the 1st of every month the tally of votes from the previous month are checked (before being reset for the next month) and the players with the top 5 amount of votes are all given a variety of rewards which differs between each month.
 You can read up on Voting, and the Token Shop (votings other perk) [HERE](voting.md).
 
-__**Month of the last Top Voters**__: September 2020.<br>
-__**Top Voters**__:<br>
+**Month of the last Top Voters**: September 2020.<br>
+**Top Voters**:<br>
 1 --- WilliamH4499 -- 263 votes<br>
 2 --- Xuqi -- 261 votes<br>
 3 --- JamieParody -- 239 votes<br>
 4 --- JoelBiWanKenobi -- 235 votes<br>
 5 --- aknitwhitz -- 215 votes<br>
-__**Prizes Given**__:<br>
+**Prizes Given**:<br>
 **1st Place** -- $5 coupon for the donation store, 2 boosters of their choice, 10000 McRPG EXP and 5 DeathPoint Scrolls.<br>
 **2nd Place** -- $3.50 coupon for the donation store, a booster of their choice, 7500 McRPG EXP and 3 DeathPoint Scrolls.<br>
 **3rd Place** -- $2 coupon for the donation store, a booster of their choice, 5000 McRPG EXP and 3 DeathPoint Scrolls.<br>
