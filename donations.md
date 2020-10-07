@@ -13,6 +13,7 @@ As a quick run down so you don't need to scroll down to find what you're looking
 - [Chat Titles](#chat-titles)
 - [Disguises](#disguises)
 - [Trails](#trails)
+- [Death Flairs](#death-flairs)
 - [Pets](#pets)
 - [Others](#others)
 
@@ -163,6 +164,20 @@ There are also two specialist trail types - Rain and Wings! I'll give an example
 
 ![wings](https://i.gyazo.com/d01268d3fafe0ee776bb26a082173b4f.png)
 
+
+# Death Flairs
+
+Death Flairs are a particle effect triggered when you kill something!
+Each Flair particles, purchased either individually or all together, have 3 "modes" you can choose from to change them a little bit - Halo, Glimmer and Warp.
+
+When set to the Halo mode the particles will appear above the head of the victim on death, when set to Glimmer they will appear in the area the victim died and when set to Warp they will appear around the location that the victim died. Each individual particle package on the donation store has a link to a small clip showing the particles used in all 3 modes!
+
+When you have purchased at least one Flair you will be able to access the Flair menu ingame via `/flair`, which will open this menu:
+
+![flairmenu](images/flairmenu.png)
+
+The top three options are the modes, and the nametags are the various particles (if you have not purchased them yet they will show as locked) - with the active mode and particle option having an enchanted glow effect on the item in the GUI.
+The bottom center option is the global toggle, and the bottom right option is whether you want the particles to also show for mobs that came from spawners (the global toggle must be on for them to show at all, but if you turn this off it'll only give flairs for non-spawner mobs).
 
 # Pets
 
