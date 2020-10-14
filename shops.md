@@ -69,3 +69,7 @@ Commands:
 
 There is a shop at spawn (you can use `/pawn` to go straight there) where you can sell some basic items for a low amount when necessary.<br>
 Note that this is **not** intended to be a main source of income for anybody, even new players - use [Jobs](money.md), player shops and [auctions](auctions.md) for that!
+
+## Auctions
+
+You can read up on the player auctions [HERE](auctions.md).
