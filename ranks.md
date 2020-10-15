@@ -22,16 +22,15 @@ Players tend to be added to the rank in waves every once in a while, getting tru
 
 If you get this rank you will gain these benefits:
 - Ability to have up to 5 `/sethome`'s (these do not stack, if your player level allows for 5+ already you have the amount from your levels).
-- Ability to have up to 20 items in the Auction House at a time.
+- Ability to have up to 30 items in the Auction House at a time.
 - Access to use `/nick` (without colours).
-- You will be exempt from the 30 minute auto-AFK kick.
 
 #### Donator
 
 This is the rank you receive when you donate to the server in the General Donations section on the Donation Store (not the custom donation package).
 Having this rank gives you these benefits:
 - Ability to have up to 4 `/sethome`'s (these do not stack, if your player level allows for 4+ already you have the amount from your levels, or if you have this and trusted you but aren't a high player level you will have the 5 from trusted).
-- Ability to have up to 25 items in the Auction House at a time.
+- Ability to have up to 40 items in the Auction House at a time.
 - Access to use `/nick` (with colours).
 - Access to use colour codes on signs.
 - Access to use `/se` to edit sign text (look at a sign and do `/se <line number> <text>).
