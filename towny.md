@@ -87,18 +87,20 @@ Your Town bank must **always** have enough to cover the daily upkeep - these are
 
 |Town Level|Number of Residents|Daily Upkeep|Max Number of Outposts|Max Number of Chunk Claims|
 |---|---|---|---|
-|Settlement|1 Player|$5,000|0|20|
-|Hamlet|2-4 Players|$10,000|1|40|
-|Village|5-9 Players|$30,000|1|60|
-|Town|10-14 Players|$60,000|2|85|
-|Large Town|15-19 Players|$100,000|3|100|
-|City|20-24 Players|$175,000|3|120|
-|Large City|25-29 Players|$300,000|4|140|
-|Metropolis|30-39 Players|$450,000|5|160|
-|Megalopolis|40-49 Players|$600,000|6|180|
-|Utopia|50+ Players|$750,000|6|200|
+|Settlement|1 Player|$3,500|0|20|
+|Hamlet|2-4 Players|$3,500 per Resident|1|40|
+|Village|5-9 Players|$7,000 per Resident|1|60|
+|Town|10-14 Players|$10,500 per Resident|2|85|
+|Large Town|15-19 Players|$14,000 per Resident|3|100|
+|City|20-24 Players|$17,500 per Resident|3|120|
+|Large City|25-29 Players|$21,000 per Resident|4|140|
+|Metropolis|30-34 Players|$24,500 per Resident|5|160|
+||35-39 Players|$28,000 per Resident|||
+|Megalopolis|40-44 Players|$31,500 per Resident|6|180|
+||44-49 Players|$35,000 per Resident|||
+|Utopia|50+ Players|$1,750,000 (At 50 residents this is $35,000 per resident - less if you have more residents).|6|200|
 
-**Note:** While the upkeep costs may look daunting as they go up, remember that as they go up there is also more residents to split it between. As your jobs go up it will also be **very** easy to manage this.
+**Note:** While the upkeep costs may look daunting as they go up, remember that as they go up there is also more residents to split it between (so more people to contribute to the upkeep where others can't). As your jobs go up it will also be **very** easy to manage this.
 
 ## Nations
 
