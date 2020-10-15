@@ -86,7 +86,7 @@ This table will show you when the Town will change levels (based on the number o
 Your Town bank must **always** have enough to cover the daily upkeep - these are taken once every 24 hours realtime and if a Town does not have enough money to cover the upkeep (and does not have taxes set up to take money from residents to cover the upkeep) then it will be disbanded.
 
 |Town Level|Number of Residents|Daily Upkeep|Max Number of Outposts|Max Number of Chunk Claims|
-|---|---|---|---|
+|---|---|---|---|---|
 |Settlement|1 Player|$3,500|0|20|
 |Hamlet|2-4 Players|$3,500 per Resident|1|40|
 |Village|5-9 Players|$7,000 per Resident|1|60|
