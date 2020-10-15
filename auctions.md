@@ -5,9 +5,9 @@
 The Player Auctions are another means of boosting your income, particularly for items you may want to allow players to fight over rather than set a definite price or that you're unsure of a worthy value for (ie rare MD stuff, enchanted books, brews, event-only items etc...).
 
 As with player shops, you are limited to how many items you can throw on the auction. However - unlike player shops this is not level based it is rank based.<br>
-- General players can have up to 15 items up for auction at once.
-- Players with the Trusted rank can have up to 20 items up for auction at once.
-- Players with the Donator rank can have up to 25 items up for auction at once.
+- General players can have up to 20 items up for auction at once.
+- Players with the Trusted rank can have up to 30 items up for auction at once.
+- Players with the Donator rank can have up to 40 items up for auction at once.
 
 You can open the Auction GUI via `/auc` (or `/auction`/`/auctions`) - this will open a menu such as this:
 
