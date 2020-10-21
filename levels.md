@@ -24,9 +24,9 @@ The perks you gain along the way are as follows (there is also more detailed inf
 |11|$20000|- **Health**: An extra heart (may need to relog for it to take effect).<br>- **SafariNets**: Ability to net Bats, Chickens, Rabbits and Pigs.|Scout, Archer|
 |12|$22500|- **Hats**: Wear a block/item on your head. Hold it and do `/hat`.<br>- **BowEffects**: First set unlocked. Access with `/bmenu`.|Recruit, Private|
 |13|$25000||Ensign|
-|14|$27500||Bard|
+|14|$27500|- **RandoShops**: Up to 5.|Bard|
 |15|$30000|- **SafariNets**: Ability to net Cows, Sheep, Squid and Zombies<br>- **PvP**: You will drop a copy of your head when you die in PvP.|Deckhand, Swabbie|
-|16|$35000|- **RandoShops**: Up to 5.|Merchant| 
+|16|$35000||Merchant| 
 |17|$40000|- **ElytraEffects**: First set unlocked. Access with `/emenu`.|Sleuth, Detective|
 |18|$45000|- **Player Shops**: Up to 15.|Jester, Performer|
 |19|$50000||Herald|
