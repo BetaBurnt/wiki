@@ -63,6 +63,35 @@ Commands:
 - Set the icon for your shop in the shops list to the item in your hand with `/setpshopicon`
 **Note - Base item only, no name/lore/enchants etc.. will carry over**
 
+## RandoShops
+
+RandoShops are separate to the above shops, and allow you to sell a random selection of items to other players at the same price (rather than 1 shop per item as above).
+
+How many RandoShops you can have at any one time depends on your player level:
+|Player Level|Max Number of RandoShops|
+|---|---|
+|1-13|1 RandoShop|
+|14-28|3 RandoShops|
+|29-48|5 RandoShops|
+|49-65|10 RandoShops|
+|66-83|15 RandoShops|
+|84+|20 RandoShops|
+
+To create your RandoShop simply place a sign (any sign, placed anywhere but it would make sense to keep it where your `/pshop` has been set), set the top line as shown in the image below and set the third line as the amount you wish to sell items for:
+
+![rshop1](images/rshop1.png)
+
+Then hit the sign with redstone dust in your hand to activate! The sign will adjust as so:
+
+![rshop2](images/rshop2.png)
+
+It will also open your shops inventory so you can add any items you wish! Each RandoShop has the same inventory space as a single chest (27 slots) - any items that can stack will be sold as one, regardless of how you put them in the inventory. When you add items and close the inventory the sign will uodate the stock count, as shown here:
+
+![rshop3](images/rshop3.png)
+![rshop4](images/rshop4.png)
+
+To buy from someones RansoShop simply right click the sign - it will ask you to enter in the chat how many items you wish to buy, simply enter a number between 1 and the stock count and if you have enough money you will be charged accordingly and the items will be placed into your inventory (if you don't have space they will drop where you stand).
+
 ## Admin/Pawn Shop
 
 ![admin](images/ashop.png)
