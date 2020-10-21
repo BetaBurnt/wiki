@@ -68,6 +68,7 @@ Commands:
 RandoShops are separate to the above shops, and allow you to sell a random selection of items to other players at the same price (rather than 1 shop per item as above).
 
 How many RandoShops you can have at any one time depends on your player level:
+
 |Player Level|Max Number of RandoShops|
 |---|---|
 |1-13|1 RandoShop|
@@ -89,6 +90,8 @@ It will also open your shops inventory so you can add any items you wish! Each R
 
 ![rshop3](images/rshop3.png)
 ![rshop4](images/rshop4.png)
+
+You can adjust the price of your RandoShop by looking at the sign and doing `/rsprice <cost>` (rather than having to remake the whole thing to change it).
 
 To buy from someones RansoShop simply right click the sign - it will ask you to enter in the chat how many items you wish to buy, simply enter a number between 1 and the stock count and if you have enough money you will be charged accordingly and the items will be placed into your inventory (if you don't have space they will drop where you stand).
 
