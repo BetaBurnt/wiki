@@ -85,7 +85,7 @@ By this point it should be fairly common knowledge that one of the many things t
 In general - if you don't **need** to place many hoppers, then don't. For example: You don't need to make an item sorter for every item in the game - that many hoppers **will** cause server issues, and it doesn't take you **that** much longer to sort your chests yourself.
 However - to keep potential problems from overuse of hoppers down there are two things we have done:
 
-**1**: - Added Upgradeable Hoppers. You can read up on them [HERE](hopper.md).
+**1**: - Added Upgradeable Hoppers. You can read up on them [HERE](hopper.md).<br>
 **2**: - Limited how many hoppers you can have in one chunk to 50. You physically won't be able to place any more once a 50th has been placed in the same chunk (this applies to Upgradeable Hoppers too, but as they work completely differently you would never need 50 of them in one chunk).
 
 
@@ -96,7 +96,6 @@ ShulkerBoxes are too easy to craft - it is very very easy to get shulker shells 
 As such we have tweaked it to require 8 shells per shulker box, as it is still easy enough to get that many and it helps limit how many shulkerboxes are floating around.
 
 ![shulkerbox](images/shulkerboxes.png)
-(Will add image another time)
 
 
 ## Nether Scaling
