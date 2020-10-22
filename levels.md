@@ -13,7 +13,7 @@ The perks you gain along the way are as follows (there is also more detailed inf
 |---|---|---|---|
 |1|Free|- **Player Shops**: Up to 10.<br>- **RandoShops**: 1.<br>- **SetHomes**: Up to 2.<br>- **Graves**: Will only save your equipped armour and the first 3 slots of your hotbar. Other items will drop.|Visitor, Commoner, Peasant|
 |2|$2000||Villager|
-|3|$3500|- **RandoShops**: Up to 3.|Outlaw, Bandit|
+|3|$3500||Outlaw, Bandit|
 |4|$5000||Fugitive, Rogue|
 |5|$6500|- **Creative**: Access to claim a plot to build on.|Magician, Mage|
 |6|$8000||Ruffian, Sellsword|
@@ -24,7 +24,7 @@ The perks you gain along the way are as follows (there is also more detailed inf
 |11|$20000|- **Health**: An extra heart (may need to relog for it to take effect).<br>- **SafariNets**: Ability to net Bats, Chickens, Rabbits and Pigs.|Scout, Archer|
 |12|$22500|- **Hats**: Wear a block/item on your head. Hold it and do `/hat`.<br>- **BowEffects**: First set unlocked. Access with `/bmenu`.|Recruit, Private|
 |13|$25000||Ensign|
-|14|$27500|- **RandoShops**: Up to 5.|Bard|
+|14|$27500|- **RandoShops**: Up to 3.|Bard|
 |15|$30000|- **SafariNets**: Ability to net Cows, Sheep, Squid and Zombies<br>- **PvP**: You will drop a copy of your head when you die in PvP.|Deckhand, Swabbie|
 |16|$35000||Merchant| 
 |17|$40000|- **ElytraEffects**: First set unlocked. Access with `/emenu`.|Sleuth, Detective|
@@ -39,7 +39,7 @@ The perks you gain along the way are as follows (there is also more detailed inf
 |26|$100000|- **GravityTubes**: Initial access. Can be created up to 10 blocks high.|Viking|
 |27|$120000|- **BowEffects**: Second set unlocked. Access with `/bmenu`.|Butler, Maid|
 |28|$140000|- **Player Shops**: Up to 20.<br>- **LightLevel**: Access to `/ll`. Shows where mobs can spawn.|Sprite|
-|29|$160000||Corsair, Buccaneer|
+|29|$160000|- **RandoShops**: Up to 5.|Corsair, Buccaneer|
 |30|$180000|- **Upgradeable Hoppers**: Access to purchase them via `/uhopper get`.<br>- **SafariNets**: Ability to net Wolves, Ocelots and Cats.|Major, Commander|
 |31|$200000|- **Health**: A third extra heart (may need to relog for it to take effect).<br>- **Graves**: Will save your equipped armour, hotbar, offhand and the top row of your inventory. Other items will drop.|Maiden|
 |32|$220000|- **SetHomes**: Up to 4.<br>- **ElytraEffects**: Second set unlocked. Access with `/emenu`.|Captain,Cap'n|
