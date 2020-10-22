@@ -71,11 +71,11 @@ Instead, as an extra few ways they can be gained, you have a chance to gain Mend
 
 Elytras... another extremely dumb thing Mojang have added. Not for what it allows you to do, but for the fact it is not limited in almost any way - to the point they made the item unbreakable, which is **beyond** dumb in a server scenario where they almost never end up staying rare for long - and that it is **SO** easy to kill a server with them, when you add the **MANY** serverside performance issues Mojang has now ignored for years (such as the major issues chunk loading/generation causes... you know - that you load a BUTTLOAD of in when flying around with an Elytra and rockets...?).
 
-To try and limit this somewhat a few things have been changed with how Elytras work.
-**1** - They **are** breakable. We reset our End once a month, and you can get Elytras through the Token Shop - they aren't extremely rare, and in a Survival game everything should have some amount of risk of being broken/lost.
-**2** - Using rockets to boost your flight will damage your Elytra. It's only a small amount of damage per rocket use, but if you use a lot - it will quickly deplete your Elytras durability (and if it hits 0 it **will** break, so keep an eye on it).
-**3** - You cannot eat or drink potions etc... while gliding with your Elytra. To fill your hunger/heal up you will need to land.
-**4** - Riptide use will interrupt your gliding, so you cannot endlessly fly about in the rain.
+To try and limit this somewhat a few things have been changed with how Elytras work.<br>
+**1** - They **are** breakable. We reset our End once a fortnight, and you can get Elytras through the Token Shop - they aren't extremely rare, and in a Survival game everything should have some amount of risk of being broken/lost.<br>
+**2** - Using rockets to boost your flight will damage your Elytra. It's only a small amount of damage per rocket use, but if you use a lot - it will quickly deplete your Elytras durability (and if it hits 0 it **will** break, so keep an eye on it).<br>
+**3** - You cannot eat or drink potions etc... while gliding with your Elytra. To fill your hunger/heal up you will need to land.<br>
+**4** - Riptide use will interrupt your gliding, so you cannot endlessly fly about in the rain.<br>
 
 
 ## Hopper Limits
