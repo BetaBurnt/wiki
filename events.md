@@ -103,6 +103,16 @@ These items can be placed on one of the three Ritual Altars you can find around 
 <br>
 <br>
 
+# Sending Caged Souls and Strange Ores To The Event World and Ritual Rewards Back To Our World
+
+To send your Caged Ores and Strange Ores to the Event world - as it's a separate dimension and items do not transfer - place them in the enderchest that is by the portal in our world!
+When you get to the Event world find RitualRita - hiding behind the portal away from The Necromancer - and she will give you the items to use on the Ritual Altars in that world.
+
+The same applies in reverse - to send the rewards you get from the Ritual Altars put them in the enderchest behind the portal in the Event world. 
+When you then return to our world talk to RewardRosie by the portal and she will give you anything you have sent over!
+
+**Note** - There are two shops in the Event world to give enderpearls for ease of getting around to some places, and night vision potions as the Event world has been plunged into a permanent midnight. These items **cannot** be sent back to our world (though they require our money to purchase).
+
 # THIS IS  STILL NOT ALL
 
 Between October 30th and November 1st no mobs will burn in the daylight, whether they be Skeletons, Phantoms or any other unnatural fiend, and on October 31st nobody will be able to sleep making it impossible to skip the night in the Survival world, while the Resource world will be plunged into 24 hours of darkness!
