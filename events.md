@@ -9,7 +9,7 @@ Quicklinks:
 
 ### **Halloween 2020 Server Event - LIVE NOW**
 
-**Event Start:** October 24th (Now)<br>
+**Event Start:** October 24th<br>
 **Event End:** November 7th
 
 For the 2 week duration of this event you will notice a few things that are not normal on the server.
@@ -103,7 +103,7 @@ These items can be placed on one of the three Ritual Altars you can find around 
 <br>
 <br>
 
-# Sending Caged Souls and Strange Ores To The Event World and Ritual Rewards Back To Our World
+### Sending Caged Souls and Strange Ores To The Event World and Ritual Rewards Back To Our World
 
 To send your Caged Ores and Strange Ores to the Event world - as it's a separate dimension and items do not transfer - place them in the enderchest that is by the portal in our world!
 When you get to the Event world find RitualRita - hiding behind the portal away from The Necromancer - and she will give you the items to use on the Ritual Altars in that world.
