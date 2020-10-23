@@ -14,36 +14,37 @@ Quicklinks:
 
 For the 2 week duration of this event you will notice a few things that are not normal on the server.
 <br>
-<br>
+
 > __GLOWING PIGLINS__
-<br>
+
 These Piglins will only appear in the **Resource Nether**, and when killed they have a chance to drop a rare event-only mob head (the same as the per-mob heads that drop already, but not obtainable outside of this event), and a chance to drop 1 of __5 different Ornate Gem heads__!
-<br>
+
 The mob head is purely a custom skinned decorative head, as with all mob heads. 
 However, the Ornate Gems each have 3 modes for particle effects - When placed they are off but a right click will toggle to the first and second effects, and then off again. The colour of the effects depends on the Ornate Gem type!
 <br>
 <br>
 
 > __HEAD SWAPPED SKELETONS__
-<br>
+
 These are Skeletons with Wither Skeleton heads in the **Resource and Resource Nether** worlds and Wither Skeletons with Skeleton heads in the **Resource Nether** world.
-<br>
+
 These head swapped Skeletons have a chance to drop one of __20 collectible Jack'O'Lantern heads__ - as with the Ornate Gems each Jack'O'Lantern has particle effects you can cycle through when placed. While each Jack'O'Lantern has the same effects to cycle through (though different skins for each head in the set), there are **FIVE** stages - Off when placed and then 4 different particle effects to cycle through.
-<br>
+
 **Note for LC2 Players**:
 If you brought over any of the Jack'O'Lantern heads from last years event they will also trigger the new particle effects when placed as of now! The different skins on the new heads are not the same as the old set however (some may be but not all).
 <br>
 <br>
+
 **As always the event mobs have some potion effects applied to them to make them a little tougher than their every day counterparts but it shouldn't be too much to handle!**
 <br>
 <br>
 
 > **SPIDER CAKES**.
-<br>
+
 Any non-spawner Spider or Cave Spider killed during this event has a chance to drop a Spider Cake.
-<br>
+
 These items will fill your hunger bar to full if you right click holding it while not sneaking - however there is a chance for negative effects to be triggered (a very short effect)!
-<br>
+
 If you sneak and right click you can place the cake instead - it cannot be consumed whilst placed like a normal cake (as it's literally a head item...) however when placed it will have a particle effect you can toggle on/off by right clicking the block!
 <br>
 <br>
@@ -59,54 +60,55 @@ On top of these event-only mobs, their drops and the death effects there is also
 <br>
 
 > **TRICK OR TREAT**.
-<br>
+
 If you travel over to the island off the side of the spawn land (or go straight there with `/portals`) you will find one of the portals that were broken and covered in moss has been revived! 
-<br>
+
 Through this portal you will find a world (familiar to old players) - in this world are **100 Trick Baskets** to be found.
 If you find a basket, right click it to get a treat - each basket can only be found once per player! 
-<br>
+
 These treats can be traded in (with a bit of $$$ as well for some trades, the trader needs to live not just require new fillings from all the sugar) with the guy stood at the spawn island side of the portal!
-<br>
+
 At this shop you can purchase:<br>
 - 10 Event-Only Titles. (one off purchase)<br>
 - 7 Effect Wands. (buy as many as you like)<br>
 - 5 Hallowed Trails. (one off purchase)<br>
 - 11 Costumes. (buy as many as you like)<br>
-- A Random Legendary MD Item. (only 12 available)<br>
-<br>
+- A Random Legendary MD Item. (only 12 available)
+
 Note that as always, you cannot purchase all items in the store in one event - **choose wisely!** The store owner does not give refunds! For example the guaranteed Legendary item by itself will cost you 70 of your 100 Treats, along with $100,000!.
 <br>
+
 __Effect Wands__
-<br>
+
 They are sticks that you can left/right click with to shoot a particle effect in the direction you are looking that is purely cosmetic - some have the same effect for both clicks some do not, they state as such in the store.<br>
 For LC2'ers think of the old Pointers.
-<br>
+
 __Hallowed Trails__
-<br>
+
 Any you purchase can be accessed through `/htrails` and when toggled on will give you a particle effect, which the store gives you a rough idea as to what they are. These effects do not persist over relogs.<br>
 For LC2'ers think of the Winter Trails.
-<br>
+
 __Costumes__
-<br>
+
 Costumes are items that when right clicked with will put a costume on you (duhh) changing your skin! Right click again to remove.<br>
 For LC2'ers any you brought over from LC2 should still work so you don't need to re-purchase them!
 <br>
 <br>
 
 > **Caged Souls and Strange Ore**
-<br>
+
 While mining during this event you may also find some __Strange Ore__, and when killing mobs may come across a __Caged Soul__.
-<br>
+
 These items can be placed on one of the three Ritual Altars you can find around the event world (look for a blackstone altar with a circle of particles on the floor, place on the particles) and can give a number of rewards in return - different rewards for each type of sacrificed item! You are not guaranteed a reward however, so make sure to keep trying (Strange Ore rituals have 8 possible outcomes, Caged Soul rituals have 9 possible outcomes)!
 <br>
 <br>
 
-# **THIS IS  STILL NOT ALL**
-<br>
+# THIS IS  STILL NOT ALL
+
 Between October 30th and November 1st no mobs will burn in the daylight, whether they be Skeletons, Phantoms or any other unnatural fiend, and on October 31st nobody will be able to sleep making it impossible to skip the night in the Survival world, while the Resource world will be plunged into 24 hours of darkness!
-<br>
+
 For the duration of this event the `/spook <player>` command has also returned! This can be used once per hour to spook another player (if they aren't wearing a helmet).
-<br>
+
 For the duration of this event there is also a 20% sale on the majority of the packages on the Donation Store: <http://store.legioncraft.co.uk/>
 <br>
 <br>
