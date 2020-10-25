@@ -2,7 +2,7 @@
 
 # Upgradable Hoppers
 
-You can now purchase and upgrade special hoppers!
+You can now purchase and upgrade special hoppers (**from player level 30 and above**)!
 
 To purchase your upgradable hopper simply do `/uhopper get` - note that this costs $10000. You can also do `/uhopper get <amount>` to get more than 1 at once.
 This hopper will be locked to you - it will have no use for normal block locks and does not push items to a chest under it like a Vanilla hopper!
