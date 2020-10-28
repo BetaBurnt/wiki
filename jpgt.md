@@ -4,7 +4,7 @@
 
 These are pressure plates that when set up will launch people who walk onto them, at varied powers/angles/directions depending on how you set them up!
 
-These will unlock for you to be able to create at level 24!
+These will unlock for you to be able to create at level 38!
 
 Commands:
 - `/jp create` - This will create a jump pad on the pressure plate you're looking at, and will give it the power you enter (up to 50) and the launch angle you set.
@@ -37,12 +37,12 @@ The only options that we will explicitly state are __**NOT**__ permitted to be u
 
 These are pillars of particles that provide a gravity-free lift for players that walk into them - To drop when you're in a tube just crouch!
 
-These will also unlock for you to create at level 24, however - these unlock in stages when it comes to how high you can set them to go!
- Level 24 - Up to 10 blocks
- Level 34 - Up to 20 blocks
- Level 44 - Up to 30 blocks
- Level 54 - Up to 40 blocks
- Level 64+ - Up to 50 blocks
+These will also unlock for you to create at level 26, however - these unlock in stages when it comes to how high you can set them to go!
+ Level 26 - Up to 10 blocks
+ Level 36 - Up to 20 blocks
+ Level 46 - Up to 30 blocks
+ Level 61 - Up to 40 blocks
+ Level 76+ - Up to 50 blocks
  
  Commands:
  - `/gt create [height] [speed]` - This will create a gravity tube at the block you are looking at that will go up as far as the height you entered, and lift players in the tube at the speed you set (1-10). The tube will also have swirling particle effects to make it visible.
