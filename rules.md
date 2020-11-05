@@ -16,7 +16,7 @@ For example they are way more likely to give harsher punishments for someone who
 - [Rule 2: No Harassment](#no-harassment)
   - [Rule 2a: PvP and Harassment](#pvp-and-harassment)
 - [Rule 3: Keep the Environment Nice](#keep-the-environment-nice)
-- [Rule 4: Auto Farming](#auto-farming)
+- [Rule 4: Auto and Super Farming](#auto-and-super-farming)
 - [Rule 5: Mob Farms or Grinders](#mob-farms-or-grinders)
 - [Rule 6: Client Mods)](#client-mods)
 - [Rule 7: No Alt Accounts](#no-alt-accounts)
@@ -109,7 +109,7 @@ Only dig large areas out in the Survival world if you plan on building in that a
 
 
 ## Rule 4:
-### Auto Farming
+### Auto and Super Farming
 This is a very grey area, but generally having automatic resource gathering mechanisms is allowed so long as:
 - **They don't cause any problems with the server economy.**
 - **They don't cause lag of any kind.**
@@ -121,6 +121,10 @@ In general they are fine as long as they are not above a large hopper setup for 
 
 It should also be noted that any mechanism that you use while AFK are prohibited from the server, such as slides that push you around with water to bump your acrobatics, AFK fish farming or any other bug/glitch/unintentional feature (whether it is caused by Minecraft itself or a plugin we have added). 
 This includes going AFK near automated farms to keep them active in loaded chunks while you're not actually playing on the server.
+
+**Note::**
+No farm should have an extreme amount of a single crop/animal either - 500+ of a single crop, or 150+ of any animal is starting to take the piss. Keep farms to a reasonable size.
+This applies to all animals/harvestables.
 
 **As with all server rules - just because it is not explicitly stated here does not mean it is/isn't okay. Use some common sense when comparing to the rules that are listed and/or ask the staff to be sure!**
 
