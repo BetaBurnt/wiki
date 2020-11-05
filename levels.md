@@ -18,10 +18,10 @@ The perks you gain along the way are as follows (there is also more detailed inf
 |5|$6500|- **Hats**: Wear a block/item on your head. Hold it and do `/hat`.|Magician, Mage|
 |6|$8000||Ruffian, Sellsword|
 |7|$10000||Warlock|
-|8|$12500||Druid|
+|8|$12500|- **SafariNets**: Ability to net Bats, Chickens, Rabbits and Pigs.|Druid|
 |9|$15000||Wizard, Witch|
 |10|$17500|- **Creative**: Ability to use WorldEdit on your plot.<br>- **Graves**: Will save your equipped armour, hotbar and offhand. Other items will drop.|Knave|
-|11|$20000|- **Health**: An extra heart (may need to relog for it to take effect).<br>- **SafariNets**: Ability to net Bats, Chickens, Rabbits and Pigs.|Scout, Archer|
+|11|$20000|- **Health**: An extra heart (may need to relog for it to take effect).|Scout, Archer|
 |12|$22500|<br>- **BowEffects**: First set unlocked. Access with `/bmenu`.|Recruit, Private|
 |13|$25000||Ensign|
 |14|$27500|- **RandoShops**: Up to 3.|Bard|
