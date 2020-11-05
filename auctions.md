@@ -29,9 +29,6 @@ Any items you put up for auction that expired without being bid on can be found 
 - Chest Icon - **Items You Have Won**:<br>
 Any items you bid on and won can be retrieved from here!
 
-- Gold Nugget Icon - **Your Earnings**:<br>
-You can retrieve any funds you've gained from your auctions here! Your auction earnings will not automatically be added to your player balance.
-
 When in any submenu you can click the painting icon at the bottom to refresh the list - particularly useful or the full active auctions list and the list of auctions you are already bidding on!
 
 ## Starting an Auction
@@ -57,7 +54,13 @@ Once cancelled you can retrieve the item from the Expired Items submenu.
 
 ## Bidding on an Auction
 
-Simply go to the Active Auctions list and click on the item you wish to bid on and follow the instructions in the GUI!
+Simply go to the Active Auctions list and click on the item you wish to bid on and follow the instructions in the GUI. Note that when you make a bid the money is taken from your balance at that time!
+If you are outbid on an item the amount you bid previously will be added back to your balance automatically.
+
+## Auction Earnings
+
+Any monetary earnings from items you auction will be automatically added to your balance when the auction ends.
+Any items - whether they be items you won by bidding on them, or items you auctioned that got no bids - can be retrieved from the relevant `/auc` menu section.
 
 <br>
 <br>
