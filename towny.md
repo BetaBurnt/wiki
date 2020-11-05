@@ -36,7 +36,7 @@ To remove your claim on a chunk of a land do `/t unclaim` whilst stood in the ch
 You **are not allowed** to create a town, claim land or claim an outpost where another player lives/has built without their express permission!<br>
 <br>
 Anybody found to have done this will have the land unclaimed (no refund on the claim costs) and will either be warned or tempbanned as a result, depending on the circumstances.<br>
-If the town itself was created there it will be disbanded - again, no refund.
+If the town itself was created there it will be disbanded - again, no refund for the claims or anything in the Town bank at the time.
 
 ## Inviting Players To Your Town or Joining A Town
 
