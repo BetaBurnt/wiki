@@ -13,9 +13,9 @@ Any major ones that players are likely to notice/care about will be listed on th
 ## Table of Contents
 As a quick run down so you don't need to scroll down to find what you're looking for:
 - [Brewing Stand GUI](#brewing-stand-api)
-- ~~[Anvil Repairing and Enchanting](#anvil-repairing-and-enchanting)~~ **Disabled due to plugin bugs - for now Anvils work as they do in Vanilla**.
 - [Aquiring Mending](#aquiring-mending)
 - [Elytra Limits](#elytra-limits)
+- [End World Tweaks](#end-world-tweaks)
 - [Hopper Limits](#hopper-limits)
 - [ShulkerBox Recipe Tweak](#shulkerbox-recipe-tweak)
 - [Nether Scaling](#nether-scaling)
@@ -28,31 +28,6 @@ As a quick run down so you don't need to scroll down to find what you're looking
 
 This is overriden by the McRPG Sorcery Skills custom GUI for brewing - it works the same, it just looks vastly different.
 You can view the change on the [Sorcery](mcsorcery.md) page.
-
-## Anvil Repairing and Enchanting 
-
-**Disabled due to plugin bugs - for now Anvils work as they do in Vanilla**.
-
-~~Anvil repairing in Vanilla makes it a little too easy to avoid losing rarer equipment or enchants, and in some cases a little too easy to mix enchants from multiple items.
-The "only X repairs per item" part of the mechanic doesn't really help limit it enough or give enough of a risk of loss - which is a major feature of Survival.~~
-
-~~As such we do tweak how anvil repairing/enchanting works a little - for anyone that has played on a server with mcMMO, it works in a similar fashion to how their repair works (as this was added when we also had mcMMO prior to 1.16, when we switched to McRPG).
-We do this in two ways:~~
-
-~~**1**:
-If both items are enchanted and combinable (and not an enchanted book) - so for example two diamond swords you want to merge the enchants on - it will mix the enchants as it normally would, however it will keep the durability level of the original item with the highest durability.~~
-
-~~**2:**
-If one item is enchanted and the other is not and they are combinable (and again, not an enchanted book) - so for example a damaged enchanted diamond sword and an unenchanted diamond sword, intention being to repair the enchanted sword - then there is a risk of losing or downgrading your enchantments in the repair process.~~
-
-~~When you attempt this you will be given a warning about this, and the repair will be cancelled (this warning triggers the first time, and every 10th repair after as a reminder) - if you run it again the repair will go through.<br>
-When the repair goes through there is a 20% chance of losing the enchantments entirely - if that doesn't happen, there is a 40% chance that just one enchantment will be removed (but it's not guaranteed that one will, there's a luck roll donw on each enchant and if any fail they're removed - once one is removed the rest are not rolled for). <br>
-If neither triggers you will keep the enchantments as they are.~~
-
-~~The only guarantee to repair an item in full and keep it's enchantments is to use the repair sign at the server spawn.~~
-
-~~**Note:**
-Anvils will work normally when both items are unenchanted, only one item is present (ie renaming an item) or if one of the items is an enchanted book.~~
 
 
 ## Aquiring Mending
@@ -76,6 +51,19 @@ To try and limit this somewhat a few things have been changed with how Elytras w
 **2** - Using rockets to boost your flight will damage your Elytra. It's only a small amount of damage per rocket use, but if you use a lot - it will quickly deplete your Elytras durability (and if it hits 0 it **will** break, so keep an eye on it).<br>
 **3** - You cannot eat or drink potions etc... while gliding with your Elytra. To fill your hunger/heal up you will need to land.<br>
 **4** - Riptide use will interrupt your gliding, so you cannot endlessly fly about in the rain.<br>
+
+
+## End World Tweaks
+
+A few tweaks have been made to the End world to make it a bit more challenging compared to the rest of the server - A couple to base MC mechanics, and a couple to server mechanics (for the sake of clarity they'll all be listed here).
+
+**1** - There is a 30% chance that the Graves the server uses will not function in the End - causing you to drop everything as you would normally on MC (remember that DeathPoint Scrolls cannot take you back to the End either). Each death that **does** trigger a Grave in the End will increase the chances that the next death will fail to create a Grave - when it fails it resets to 30%. It's never a **guaranteed** fail, but the chances get close!<br>
+**2** - There is a chance each End-reset for the Dragon to spawn with extra health and resistance to make it more of a challenge. If it has spawned in with these boosts it will also have a trail following it as it flies around, and will also have a higher chance to drop a Crystal item compared to the normal Dragon spawn.<br>
+**3** - A small chance for Shulkers to also spawn with extra health and resistance. Any that spawn in with these boosts will have a small chance to drop a single bottle of Dragon Breath on death, however these will not glow to signify which they are.<br>
+**4** - Any shulker bullet that hits you has a small added chance to cause either a few seconds of blindness or a slightly longer period of nausea.<br>
+**5** - Enderpearls will have a cooldown of 1 minute so you cannot endlessly jump about via them.<br>
+**6** - Elytras will not work in the End for 3 minutes after going through the End portal from Resources.<br>
+**7** - Any rockets used to boost Elytra flight will also have a chance to be a dud and do nothing..<br>
 
 
 ## Hopper Limits
