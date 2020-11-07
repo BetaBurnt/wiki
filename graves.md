@@ -45,3 +45,8 @@ If you die in the End by falling into the void then the grave also may not spawn
 If this happens you will still be sent your death co-ordinates, and can check them with `/ldeath` instead of `/grave`.
 
 There should always be the possibility of losing items on a Survival server. For this reason if anybody complains that they lost their items because of X when they died, or because of where they died - All they will be told, to be completely blunt, is tough.
+
+
+# End World Interference
+
+The magic of the End dimension can interfere with the magic of Gravestones. Each death in the End world has a chance to fail at spawning a grave - any successful grave spawning in the End world increases the chances of a subsequent failure to work in the End - each failure resets the chances of failure.
