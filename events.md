@@ -94,6 +94,9 @@ Extras:
 - 2500 McRPG XP<br>
 - 5 Tokens
 
+---
+---
+---
 
 # Last Competition
 
