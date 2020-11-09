@@ -1,5 +1,15 @@
 ![ribbon](images/L-ribbon.png) 
 
+### Quicklinks:<br>
+- [Player Shops](#player-shops)<br>
+- [Player Shop Limits](#player-shop-limits)<br>
+- [Shop Teleports](#shop-teleports)<br>
+- [RandoShops](#randoshops)<br>
+- [Shop Adverts](#shop-adverts)<br>
+- [Admin and Pawn Shop](#admin-and-pawn-shop)<br>
+- [Auctions](#auctions)<br>
+
+
 ## Player Shops
 
 Creating a shop is as simple as placing a chest and punching it with the item you wish to sell in your hand while sneaking!<br>
@@ -95,12 +105,29 @@ You can adjust the price of your RandoShop by looking at the sign and doing `/rs
 
 To buy from someones RansoShop simply right click the sign - it will ask you to enter in the chat how many items you wish to buy, simply enter a number between 1 and the stock count and if you have enough money you will be charged accordingly and the items will be placed into your inventory (if you don't have space they will drop where you stand).
 
-## Admin/Pawn Shop
+## Shop Adverts
+
+You can also advertise your shop in the chat to try and grab more attention!
+
+When you have set a shop up, and a teleport to it, run the command `/shopadvert buy` to add your shop to the advert list for the next 3 days, which will cost you just $5000! You can run the command numerous times to add an extra 3 days at $5000 each time.
+To check how long your advert has left you can do `/shopadvert` - when it runs out you will also be sent a `/mail` to let you know!
+
+Every hour the server will pull a random shop that has a paid for advert and push a chat announcement out regarding the shop - including the lore you have set up for your shop in the `/shops` list! For example:<br>
+![shopadvert](images/shopadvert.png)
+
+## Admin and Pawn Shop
+
+There are two server shops - the Admin Shop, and the Pawn Shop.
+
+![admin2](images/ashop2.png)
+
+The Admin Shop (you can use `/buy` to go straight there) sells a number of items, but at a high price. This can be used to grab some items that you're having issues getting and have the money to grab quickly, and as a rough idea for pricings of your shops (if nobody else sells it, sell for a bit less than the Admin Shop!).
 
 ![admin](images/ashop.png)
 
-There is a shop at spawn (you can use `/pawn` to go straight there) where you can sell some basic items for a low amount when necessary.<br>
-Note that this is **not** intended to be a main source of income for anybody, even new players - use [Jobs](money.md), player shops and [auctions](auctions.md) for that!
+At the Pawn Shop (you can use `/sell` to go straight there) you can sell some basic items for a low amount when necessary.<br>
+Note that this is **not** intended to be a main source of income for anybody, even new players - use [Jobs](money.md), player shops and [auctions](auctions.md) for that! 
+When setting your own shops up you should never buy items for LESS than the Pawn Shop does!
 
 ## Auctions
 
