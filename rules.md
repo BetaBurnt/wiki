@@ -123,7 +123,7 @@ It should also be noted that any mechanism that you use while AFK are prohibited
 This includes going AFK near automated farms to keep them active in loaded chunks while you're not actually playing on the server.
 
 **Note::**
-No farm should have an extreme amount of a single crop/animal either - 500+ of a single crop, or 150+ of any animal is starting to take the piss. Keep farms to a reasonable size.
+No farm should have an extreme amount of a single crop/animal either - when you start to approach 1000 of a single crop type, or 150 of any animal, it is starting to take the piss. Keep farms to a reasonable size.
 This applies to all animals/harvestables.
 
 **As with all server rules - just because it is not explicitly stated here does not mean it is/isn't okay. Use some common sense when comparing to the rules that are listed and/or ask the staff to be sure!**
