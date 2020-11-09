@@ -112,7 +112,7 @@ You can also advertise your shop in the chat to try and grab more attention!
 When you have set a shop up, and a teleport to it, run the command `/shopadvert buy` to add your shop to the advert list for the next 3 days, which will cost you just $5000! You can run the command numerous times to add an extra 3 days at $5000 each time.
 To check how long your advert has left you can do `/shopadvert` - when it runs out you will also be sent a `/mail` to let you know!
 
-Every hour the server will pull a random shop that has a paid for advert and push a chat announcement out regarding the shop - including the lore you have set up for your shop in the `/shops` list! For example:<br>
+Every 45 minutes the server will pull a random shop that has a paid for advert and push a chat announcement out regarding the shop - including the lore you have set up for your shop in the `/shops` list! For example:<br>
 ![shopadvert](images/shopadvert.png)
 
 ## Admin and Pawn Shop
