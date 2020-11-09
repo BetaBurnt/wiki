@@ -83,6 +83,10 @@ Here you can purchase:
 |Obsidian Spade|45 Tokens|Diamond Shovel with Efficiency 3, Unbreaking 2 and Fortune 2|
 |Crystal Scoop|100 Tokens|Diamond Shovel with Efficiency 5, Unbreaking 4 and Fortune 3|
 |Demonic Scoop|150 Tokens|Netherite Shovel with Efficiency 6, Unbreaking 4 and Fortune 5|
+|Emerald Hoe|65 Tokens|Diamond Hoe with Efficiency 3, Unbreaking 4 and Silk Touch|
+|Crystal Hoe|75 Tokens|Diamond Hoe with Efficiency 3, Unbreaking 4 and Fortune 3|
+|Infernal Hoe|100 Tokens|Netherite Hoe with Efficiency 5, Unbreaking 6 and Silk Touch|
+|Demonic Hoe|120 Tokens|Netherite Hoe with Efficiency 5, Unbreaking 6 and Fortune 5|
 |Antique Pole|25 Tokens|Fishing Rod with Luck of the Sea 2, Lure 2 and Unbreaking 2|
 |Obsidian Rod|45 Tokens|Fishing Rod with Luck of the Sea 2, Lure 4 and Unbreaking 3|
 |Crystal Rod|150 Tokens|Fishing Rod with Luck of the Sea 7, Lure 5, Unbreaking 4 and Mending|
@@ -98,6 +102,7 @@ Here you can purchase:
 |Token Chisel|70 Tokens|Diamond Pickaxe with Unbreaking 2, Efficiency 3, Fortune 2 and 3 MD Essence Cores|
 |Token Hatchet|70 Tokens|Diamond Axe with Sharpness 3, Efficiency 2, Unbreaking 2, Looting 2 and 3 MD Essence Cores|
 |Token Spade|70 Tokens|Diamond Shovel with Unbreaking 2, Efficiency 3, Fortune 2 and 3 MD Essence Cores|
+|Token Hoe|70 Tokens|Diamond Hoe with Unbreaking 3, Efficiency 3, Fortune 2 and 3 MD Essence Cores|
 |Token Shortbow|70 Tokens|Bow with Power 4, Unbreaking 2, Looting 2 and 3 MD Essence Cores|
 |Token Crossbow|70 Tokens|Crossbow with Piercing 3, Quick Charge 2, Unbreaking 2, Looting 2 and 3 MD Essence Cores|
 
@@ -127,7 +132,7 @@ Here you can purchase:
 |Panda Egg|15 Tokens|
 |Fox Egg|15 Tokens|
 |Safari Net - Single Use|15 Tokens|
-|Dragon Breath|8 Tokens|
+|Dragon Breath|4 Tokens|
 
 
 ### Misc Shop
