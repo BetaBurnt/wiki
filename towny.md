@@ -93,18 +93,18 @@ Your Town bank must **always** have enough to cover the daily upkeep - these are
 
 |Town Level|Number of Residents|Daily Upkeep|Max Number of Outposts|Max Number of Chunk Claims|
 |---|---|---|---|---|
-|Settlement|1 Player|$3,500|0|20|
-|Hamlet|2-4 Players|$3,500 per Resident|1|40|
-|Village|5-9 Players|$7,000 per Resident|1|60|
+|Settlement|1 Player|$3,500|1|20|
+|Hamlet|2-4 Players|$3,500 per Resident||40|
+|Village|5-9 Players|$7,000 per Resident||60|
 |Town|10-14 Players|$10,500 per Resident|2|85|
-|Large Town|15-19 Players|$14,000 per Resident|3|100|
+|Large Town|15-19 Players|$14,000 per Resident||100|
 |City|20-24 Players|$17,500 per Resident|3|120|
 |Large City|25-29 Players|$21,000 per Resident|4|140|
 |Metropolis|30-34 Players|$24,500 per Resident|5|160|
-||35-39 Players|$28,000 per Resident|||
-|Megalopolis|40-44 Players|$31,500 per Resident|6|180|
-||44-49 Players|$35,000 per Resident|||
-|Utopia|50+ Players|$1,750,000 (At 50 residents this is $35,000 per resident - less if you have more residents).|6|200|
+||35-39 Players|$28,000 per Resident|6||
+|Megalopolis|40-44 Players|$31,500 per Resident|7|180|
+||44-49 Players|$35,000 per Resident|8||
+|Utopia|50+ Players|$1,750,000 (At 50 residents this is $35,000 per resident - less if you have more residents).|9|200|
 
 **Note:** While the upkeep costs may look daunting as they go up, remember that as they go up there is also more residents to split it between (so more people to contribute to the upkeep where others can't). As your jobs go up it will also be **very** easy to manage this.
 
@@ -123,14 +123,20 @@ As with Towns, as more Towns join your Nation (and as such more residents become
 This table will show you when the Nation will change levels (based on the number of residents in the Nation, not the number of Towns themselves) and when it does how the daily upkeep and number of bonus claims changes.
 Your Nation bank must **always** have enough to cover the daily upkeep - these are taken once every 24 hours realtime and if a Nation does not have enough money to cover the upkeep (and does not have taxes set up to take money from residents to cover the upkeep) then it will be disbanded.
 
-|Nation Level|Number of Residents|Daily Upkeep|Max Number of Bonus Claims Towns In The Nation Receive|
-|---|---|---|---|
-|Nation|1-14 Residents|$50,000|10|
-|Nation|15-29 Residents|$200,000|50|
-|Nation|30-49 Residents|$400,000|100|
-|Nation|50-69 Residents|$750,000|150|
-|Empire|70-99 Residents|$1,200,000|200|
-|Realm|100+ Residents|$1,750,000|250|
+|Nation Level|Number of Residents|Daily Upkeep|Max Number of Bonus Claims Towns In The Nation Receive|Bonus Outposts|
+|---|---|---|---|---|
+|Nation|1-9 Residents|$30000 + $4,000 per Resident|10|0|
+|Nation|10-14 Residents||25||
+|Nation|15-19 Residents|$30000 + $6,000 per Resident||1|
+|Kingdom|20-29 Residents||50||
+|Kingdom|30-39 Residents|$30000 + $8,000 per Resident|75|2|
+|Kingdom|40-49 Residents||100||
+|Empire|50-59 Residents|$30000 + $11,000 per Resident|125|3|
+|Empire|60-69 Residents||150||
+|Empire|70-79 Residents|$30000 + $15,000 per Resident|175|4|
+|Realm|80-89 Residents||200||
+|Realm|90-99 Residents||225|5|
+|Federation|100+ Residents|Flat $2,000,000|250||
 
 **Note:** As with Towns, while the upkeep costs may look daunting as they go up, remember that as they go up there is also more residents to split it between. As your jobs go up it will also be **very** easy to manage this.
 
