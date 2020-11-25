@@ -84,31 +84,31 @@ The perks you gain along the way are as follows (there is also more detailed inf
 |71|$3000000|- **Health**: A seventh extra heart (may need to relog for it to take effect).|Centurion|
 |72|$3000000|- **BowEffects**: Fifth set unlocked. Access with `/bmenu`.|Count, Countess|
 |73|$3250000||Guardian, Protector|
-|74|$3250000|- **V.O.I.D.**: Initial access to `/void`. Allows for destruction of Sticks, Seeds, Cocoa Beans, Feathers, Rotten Flesh, Gunpowder, Spider Eyes, Flint and String on pickup.|Elder|
+|74|$3250000|- **V.O.I.D.**: Initial access to `/void`. Allows for destruction of Sticks, Seeds, Cocoa Beans, Feathers, Rotten Flesh, Gunpowder, Spider Eyes, Flint and String on pickup. Includes the first Custom VOID item slot, set with `/customvoid 1`.|Elder|
 |75|$3500000|- **SafariNets**: Ability to net Evokers, Vindicators and Vex.|King, Queen|
 |76|$3500000|- **GravityTubes**: Ability to create them up to 50 blocks high.|Dictator|
-|77|$3750000||Nephilim|
+|77|$3750000|- **V.O.I.D.**: Unlocks the second Custom VOID item slot, set with `/customvoid 2`.|Nephilim|
 |78|$3750000|- **ElytraEffects**: Fifth set unlocked. Access with `/emenu`.|Demon|
 |79|$4000000|- **Combiner**: Increased access to `/combine`. Adds ability to combine Coal, Iron/Gold Ingots, Lapis and Glowstone into their respective Block forms on pickup.|Angel|
 |80|$4000000|- **SafariNets**: Ability to net Phantoms.|Emperor, Empress|
 |81|$4500000|- **Health**: An eighth extra heart (may need to relog for it to take effect).<br>- **Graves**: Will save all items except for the 3 rightmost slots in the bottom row of your inventory. Other items will drop.|Phoenix, Titan, Hydra, Sylph|
 |82|$4500000|- **SetHomes**: Up to 6.|Alpha|
-|83|$5000000|- **V.O.I.D.**: Increased access to `/void`. Adds ability for destruction of Andesite, Diorite, Granite, Red Sand and Sandstone on pickup.|Shadow, Dark|
+|83|$5000000|- **V.O.I.D.**: Increased access to `/void`. Adds ability for destruction of Andesite, Diorite, Granite, Red Sand and Sandstone on pickup. Includes the third Custom VOID item slot, set with `/customvoid 3`.|Shadow, Dark|
 |84|$5000000|- **RandoShops**: Up to 20.|Beta|
 |85|$5500000|- **SafariNets**: Ability to net Pillagers.|Nightmare, Reaper|
 |86|$5500000||Gamma|
 |87|$6000000|- **SafariNets**: Ability to net Piglin Brutes.|Ballista, Berserker|
 |88|$6000000|- **Combiner**: Full access to `/combine`. Adds ability to combine Redstone, Quartz, Diamonds and Emeralds into their respective Block forms on pickup.|Delta|
-|89|$7000000||Shield Master, Shield Maiden|
+|89|$7000000|- **V.O.I.D.**: Unlocks the fourth Custom VOID item slot, set with `/customvoid 4`.|Shield Master, Shield Maiden|
 |90|$7000000|- **SafariNets**: Ability to net Ravagers.|Omega|
 |91|$8000000|- **Health**: A ninth extra heart (may need to relog for it to take effect).|Daeva, ArchFiend|
-|92|$8000000|- **V.O.I.D.**: Full access to `/void`. Adds ability for destruction of Dirt, Cobblestone, Stone, Sand, Gravel and Netherrack on pickup.|Esper|
+|92|$8000000|- **V.O.I.D.**: Full access to the set items on `/void`. Adds ability for destruction of Dirt, Cobblestone, Stone, Sand, Gravel and Netherrack on pickup. Includes the fifth Custom VOID item slot, set with `/customvoid 5`.|Esper|
 |93|$9000000||Spectre, Revenant|
 |94|$10000000|- **BowEffects**: Final set unlocked. Access with `/bmenu`.|Lifeless, Zombified|
-|95|$12000000||Saint|
+|95|$12000000|- **V.O.I.D.**: Unlocks the sixth Custom VOID item slot, set with `/customvoid 6`.|Saint|
 |96|$14000000|- **Graves**: Will now save all items.|Risen, Necromancer|
 |97|$16000000|- **ElytraEffects**: Final set unlocked. Access with `/emenu`.|Warden|
-|98|$18000000||Celestial|
+|98|$18000000|- **V.O.I.D.**: Unlocks the seventh and final Custom VOID item slot, set with `/customvoid 7`.|Celestial|
 |99|$20000000||Burnt, Valentine|
 |100|$25000000|- **SetHomes**: Up to 7.<br>- **Health**: A tenth extra heart (may need to relog for it to take effect).<br>- **Suffix**: The option to request a custom symbol and colour for your suffix (the level symbol/number in the chat).|Legionnaire|
 
