@@ -14,7 +14,7 @@ For example they are way more likely to give harsher punishments for someone who
 - [Rule 1: Be Respectful](#be-respectful)
   - [Rule 1a: Chat Rules](#chat-rules)
 - [Rule 2: No Harassment](#no-harassment)
-  - [Rule 2a: PvP and Harassment](#pvp-and-harassment)
+  - [Rule 2a: PvP Harassment](#pvp-harassment)
 - [Rule 3: Keep the Environment Nice](#keep-the-environment-nice)
 - [Rule 4: Auto and Super Farming](#auto-and-super-farming)
 - [Rule 5: Mob Farms or Grinders](#mob-farms-or-grinders)
@@ -46,7 +46,7 @@ However, as with the above suggestion for griefing, it is asked that you don't g
 For example if you break into someones farm, maybe don't take every single crop so that they have something to replant from (or don't break the pumpkin/melon stems etc...).
 The same applies for animals - maybe leave them a couple of them so they can breed them to get their farm back in working order.
 
-Again - this is only what we ask of our players to keep the game enjoyable for those being griefed/raidied - It's not fun to come back to all of your stuff being destroyed (this is not a Factions server). This is not enforced however as this is a major aspect of Vanilla gameplay.
+Again - this is only what we ask of our players to keep the game enjoyable for those being griefed/raided - It's not fun to come back to all of your stuff being destroyed (this is not a Factions server). This is not enforced however as this is a major aspect of Vanilla gameplay.
 
 
 # Server Rules
@@ -66,13 +66,13 @@ We also encourage users to try and be helpful, friendly and sociable - particula
 ### Rule 1a:
 ### Chat Rules
 
+- English only. While we have players from many different backgrounds, our staff are all English reading and need to know what you're saying.
 - You may swear on the server in general conversation, but swearing maliciously at another player is prohibited. Being overly crude in general, swearing or otherwise, is also prohibited in global channels.
 - Excessive swearing is also not allowed - it is annoying and offputting to new players. Don't go overboard.
 - Spamming is not allowed.
 - NO ALL CAPS SENTENCES. The occasional all-caps OMG etc... is fine, but not all the time.
 - No advertising of other servers or products.
 - No offensive usernames/nicknames (while not a chat thing this also applies to skins).
-- No presenting/arguing your opinions as facts/better than another player's opinion - respect that some people believe different things, and it is okay for them to do so.
 - Please avoid topics in the server chat that are very likely to cause arguments and if they seem to be starting one, or annoying other players, drop the conversation.
 
 
@@ -84,16 +84,16 @@ This can be anywhere from insulting a player, abusing PVP, or making strange sex
 Please also be aware that just because you might find something acceptable to do/say in your own circle of friends in real life does not mean that it **is** acceptable when speaking to people online who do not know you or what you are or are not being serious about.
 
 ### Rule 2a:
-### PvP and Harassment
-There is a fine line between PVP and harassment that is easy to cross if you get carried away. 
+### PvP Harassment
+There is a fine line between a bit of PvP and harassment that is easy to cross if you get carried away. 
 For example these would definitely fall under harrassment and are not allowed:
 - Camping outside a players home to attack them.
 - Setting a home teleport in or near their house etc.. to get back to attack them whenever you want to (in general do not set a home anywhere near anybody elses stuff without their permission for any reason - not for pvp, not for grief/raiding, not for anything).
 - Provoking someone to attack you, for example continuously spamming the player to annoy them into fighting you.
-- If a player asks you to leave - leave. If they don't want to participate in PVP and you refuse to leave then it crosses into harrassment territory.
+- If a player asks you to leave - leave. If they don't want to participate in PvP and you refuse to leave then it crosses into harrassment territory.
 
 In general, as stated at the top of the page, just use some common sense. PVP **is allowed** but don't go overboard and cause problems with it. 
-It is also asked not to annoy new players by hunting them down - there's no benefit to it anyway (they won't have decent loot yet, and they don't drop their head in PvP deaths until level 10).
+It is also asked not to annoy new players by hunting them down - there's no benefit to it anyway (they're immune to pvp for 48 hours when they join, they won't have decent loot yet, and they don't drop their head in PvP deaths until level 15).
 
 
 ## Rule 3:
@@ -101,10 +101,10 @@ It is also asked not to annoy new players by hunting them down - there's no bene
 - Lava/water pillars, 1x1 holes or towers, or any other structure in the Survival world that serves no purpose and ruins the landscape are susceptible to removal if spotted/reported.
 - When getting logs, try to cut down the whole tree. No floating logs and leaves please.
 - Do not dig up entire areas, such as deserts, in Survival.
-- Don't build things near the spawn or other server locations that could be seen as inappropriate or ugly.
-- Do not build right next to somebody else - if they were there first they have every right to ask you to move away.
+- Don't build things near the spawn or other server locations that could be seen as inappropriate.
+- Avoid building right next to somebody else without their permission.
 
-In general keep as much of your resource gathering in the Resource world, `/resources`, (and it's Nether and End dimensions) not the Survival world (and it's Nether dimension). 
+In general keep as much of your resource gathering in the Resource worlds, `/resources` (and it's Nether and End dimensions), not the Survival world (and it's Nether dimension). 
 Only dig large areas out in the Survival world if you plan on building in that area specifically - resource gathering and job grinding should be kept to the Resource world.
 
 
@@ -195,7 +195,7 @@ We have protections in place to stop the majority of this but if we find what we
 
 ## Rule 7:
 ### No Alt Accounts
-There is seriously no need/reason/point to having an alt account unless you use one for development purposes. Which you will never need on another persons server - so no.
+There is seriously no need/reason/point to having an alt account unless you use one for development purposes. Which you will never need to on another persons server.
 
 This extends to the use of Bots - regardless of what they are for/do, they are not a server feature and are not welcome on the server.
 
@@ -208,17 +208,10 @@ Once reported the bug/glitch should be avoided until it has been patched/fixed. 
 If something you "can do in Vanilla" allows for you to gain an excessive amount of items faster than you should be able to, or access to an area you shouldn't have access to etc... **it is an exploit**. Whether it's doable in Vanilla does not change this - abuse the exploits and you will be punished for doing so.
 
 
-## Rule 9:
-### No Staff Bugging
-Don’t bother asking for OP, rank ups, or any special treatment - it only reduces your chances of getting them in the future.
-No PMC reviewers, we know they aren't real and even on the slightest chance you are telling the truth, you will still NOT get any special treatment. The same applies to people requesting fly for making videos etc...
-If you say our name and we don’t reply, that means we are busy. If it is a staff matter use `/report [message]`, if it is a personal matter use `/mail send [playername] [message]` or message us on the forums/discord and we will get to you when we are available.
-
-
 ### Staff Warnings
-Just because it is not on this list does not mean the staff can’t warn you for it, there will be times where a rule isn’t posted on here, you do whatever isnt posted and the staff team deems it inappropriate, for this you will receive a warning. Should you continue this act you will be punished further whether that be kicks, mutes or a ban.
+Just because it is not on this list does not mean the staff can’t warn you for it, there will be times where a rule isn’t posted on here, you do whatever isnt posted and the staff team deems it inappropriate and for this you will receive a warning. Should you continue this act you will be punished further whether that be kicks, mutes or a ban.
 
->By all means if you are warned for something that is not posted in the rule book and you find it ridiculous, you may speak to an Owner/Admin.
+>By all means if you are warned for something that is not posted in the rules and you find it ridiculous, you may speak to an Owner/Admin.
 
 Unnecessary arguing with staff members is prohibited.
 
@@ -258,8 +251,6 @@ Unfair raiding would depend on the situation. Shooting someones chickens over a 
 ### Rule 8: Bug/Exploit Abuse:
 - If you are found to have been abusing a bug/glitch for unfair gain that you did not report you will be tempbanned or banned (with appeal) depending on the situation.
 - **Anything** gained through bug/glitch abuse will be removed (player levels, XP, job XP/levels, McRPG levels, items etc...).
-### Rule 9: Bugging The Staff:
-- This will only ever result in warnings or mutes, unless you become particularly annoying and won't stop when asked to, in which case it will result in a tempban.
 
 
 
