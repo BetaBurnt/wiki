@@ -57,11 +57,12 @@ The magic of the End dimension can interfere with the magic of Gravestones. Each
 
 When you die and respawn you will be charged a perecentage of your balance to respawn.
 How much you are charged depends on your `/karma` level:<br>
+- A Karma level of 25000 will result in a charge of 2% of your balance on respawn.<br>
+- Between 2000 and 24999 Karma will result in a charge of 4% of your balance on respawn.<br>
 - Between -1999 and 1999 Karma will result in a charge of 6% of your balance on respawn.<br>
 - Between -2000 and -24999 Karma will result in a charge of 8% of your balance on respawn.<br>
-- Between 2000 and 24999 Karma will result in a charge of 4% of your balance on respawn.<br>
 - A Karma level of -25000 will result in a charge of 10% of your balance on respawn.<br>
-- A Karma level of 25000 will result in a charge of 2% of your balance on respawn.<br>
+
 
 To reiterate - a "Good" Karma will result in a decreased respawn charge, and a "Bad" Karma will result in an increased respawn charge.<br>
 __Note__ - New players are exempt of these charges for 48 hours from the time they join the server.
