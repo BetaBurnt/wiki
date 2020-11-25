@@ -12,7 +12,8 @@ You will be given the co-ordinates of that block in your chat when you die and i
 
 **What is never saved?** Experience - your XP will always drop as normal when you die.
 
-**What is saved?** Depends on your player level. To explain as simply as possible, check the image and table below:
+**What is saved?** Depends on your player level. To explain as simply as possible, check the image and table below:<br>
+__Note__ - New players will have their full inventory stored in their grave for the first 48 hours from the time they joined. After this their grave will save only a set amount of items based on their player level, as stated below.
 
 ![gravesave](images/gravesave.png)
 
