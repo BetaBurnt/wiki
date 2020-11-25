@@ -48,6 +48,9 @@ If you do not wish to create your own town, and would rather join one that is al
 
 To leave a town at any time use `/t leave` - Please make sure to remove anything of yours from the town first as the town Mayor is not obligated to give you those items back! 
 
+**NOTE**:
+A Town cannot have more than 15 residents without joining a Nation first.
+
 ### Resident Locks in Town Land
 Just a quick note before continuing with the main Towny information - If your town goes under because it cannot cover the daily upkeep any locks on chests/doors/gates etc... in that land will be unlcoked at the same time and become fair game to raiders. The same applies to locks on a chunk that you unclaim yourself.
 
@@ -80,6 +83,7 @@ The costs of setting up and running your town/nation are as follows:
 - To create a nation it will cost you $50000 from your own balance.
 - To claim extra chunks it will withdraw $350 from your town bank for each chunk you claim.
 - To claim an outpost (a chunk of land not connected to the rest of your town) it will withdraw $1500 from your town bank for each outpost claimed.
+- To rename a Town will cost $1000.
 
 **Note**:
 Your Town Bank can only hold up to $10,000,000 at a time.
@@ -142,6 +146,9 @@ Your Nation bank must **always** have enough to cover the daily upkeep - these a
 
 **Note 2**:
 As with the Town Bank your Nation Bank has a cap on how much it can hold at a time - which is up to $25,000,000.
+
+**Note 3**:
+As with renaming a Town there is a cost for renames - for Nations it is $10000.
 
 ## Chat Channels
 
