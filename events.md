@@ -31,7 +31,7 @@ Once you have traded some of these goods in and received some store credit you c
 - Effect Wands - 30 Credits Each - Same vein as those from the Halloween Event. Caroler, Snow, Fairy Lights, Sparkles and Wet Effect Wands available.
 - Costumes - 25 Credits Each - CandyCane, Christmas Groot, Christmas Tree, Grinch, Krampus, Santa Claus, Mrs Claus, Rudolph, Snowman, Gingerbread Man and Star of Bethlehem costumes available.
 - Random MD Essence - 80 Credits Each.
-- Random MD Legendary - 200 Credits Each - Limited Stock (25 total).
+- Random MD Legendary - 300 Credits Each - Limited Stock (25 total, max of 3 purchases per player).
 - Drop of Purity - 60 Credits.
 - Hex Tag - 20 Credits.
 
