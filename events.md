@@ -45,7 +45,7 @@ SantaFish... you fish for...? Duhh ._.
 
 ## Event Mobs
 
-There is a chance for any non-spawner/egg spawned Witch/Zombie/Skeleton in the Survival or Resource worlds to be replaced by an event Pillager. 
+There is a chance for any non-spawner/egg spawned Witch/Zombie/Skeleton in the Resource world to be replaced by an event Pillager. 
 These Pillagers will have a halo of particles above their head to mark them (if the particles bug and don't bugger off when the mob dies etc.. don't panic! They will be removed on the next server restart), and will have an increase to their health, strength and resistance.
 
 When killed they have a chance to drop either Candy for the Advent Trader shop, or an Unpowered Rune to use on the Event world Altars (see below).
