@@ -39,7 +39,7 @@ Once you have traded some of these goods in and received some store credit you c
 
 Candy has a chance to drop from the event mobs (see below).
 
-Mistletoe has a chance to drop when breaking any natural leaf blocks.
+Mistletoe has a chance to drop when breaking any natural Spruce, Birch or Acacia leaf blocks in the Resource world (but only when broken by hand!).
 
 SantaFish... you fish for...? Duhh ._.
 
