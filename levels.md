@@ -44,7 +44,7 @@ The perks you gain along the way are as follows (there is also more detailed inf
 |31|$200000|- **Health**: A third extra heart (may need to relog for it to take effect).<br>- **Graves**: Will save your equipped armour, hotbar, offhand and the top row of your inventory. Other items will drop.|Maiden|
 |32|$220000|- **SetHomes**: Up to 4.<br>- **ElytraEffects**: Second set unlocked. Access with `/emenu`.|Captain,Cap'n|
 |33|$240000||Father, Mother|
-|34|$260000||Priest, Priestess|
+|34|$260000|- **Spawner Silking**: The ability to use a silk touch pickaxe to pick up a spawner.|Priest, Priestess|
 |35|$280000|- **TownyFlight**: Ability to use `/tfly` to allow flight in your own towns land. Unlike the TokenShop temporary access, this will allow it to work in allied towns as well.<br>- **SafariNets**: Ability to net Spiders, Cave Spiders and Turtles.|Disciple, Scholar|
 |36|$300000|- **GravityTubes**: Ability to create them up to 20 blocks high.|Lord, Lady|
 |37|$340000||Viscount|
