@@ -125,6 +125,7 @@ QuickLinks to Information on Perks Below:
 - [Hats](#hats)
 - [Bow/Elytra Effects](#bow-and-elytra-effects)
 - [WorkBench](#workbench)
+- [Spawner Silking](#spawner-silking)
 - [BackPack](#backpack)
 - [GravityTubes/JumpPads](#gravity-tubes-and-jump-pads)
 - [Light Level](#light-level)
@@ -190,6 +191,11 @@ To list the effects you have unlocks, choose which you wish to use and to toggle
 
 As you level up you will gain access to either access a virtual workbench from anywhere with `/wb`, or to the FastCraft workbench when you use a physical workbench!
 The FastCraft bench will list all items you can make from the items in your inventory and allow you to change the amount to make and just click to process them all at once. Note that it will list what items it is using for the recipe - make sure it's not trying to use anything rare before crafting (for example a recipe that calls for a Ghast Tear may try and use a Drop of Purity)!
+
+#### Spawner Silking
+
+Once you hit level 34 you will gain the ability to use a silk touch pickaxe to pick up any spawners that you find!
+You can then place them to create your own mob grinders (limited to 4 spawners per chunk, and they cannot be closer than 6 blocks apart), or sell them to other players!
 
 #### Backpack
 
