@@ -1,5 +1,10 @@
 ![ribbon](images/L-ribbon.png) 
 
+# **IMPORTANT NOTE**:
+
+The server is now effectively entered it's "end of life" period. 
+Unless someone takes over the running of the server before the start of March 2021, the server will be taken down - in the meantime no new changes/events/competitions etc... will be done (beyond an update to 1.16.4 early in the new year now plugins are ready for it, the regular world resets and fixes for any reported bugs with what we already have). Anything you have built and wish to use elsewhere can be provided in a WorldEdit schematic if you open a /ticket near it explaining exactly what you want to be put in the schematic.
+
 ### Server Information
 - [Server Rules](rules.md)
 - [Reporting Issues/Contacting Staff](staff.md)
