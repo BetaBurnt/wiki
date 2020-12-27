@@ -1,5 +1,9 @@
 ![ribbon](images/L-ribbon.png) 
 
+Quicklinks:
+- [Token Shop](#token-shop)
+- [Most Recent Top Voters](#top-voters)
+
 ~~# Voting~~
 
 ~~You can vote once per link every 24 hours (once every 12 hours for ServerPact), giving a total of 8 votes per day. 
@@ -149,3 +153,21 @@ Here you can purchase:
 |Random Legendary MD Item|200 Tokens|Get a random MD Legendary drop!|
 |Random MD Essence|60 Tokens|Get a random MD Essence!|
 
+
+# Top Voters
+
+On the 1st of every month the tally of votes from the previous month are checked (before being reset for the next month) and the players with the top 5 amount of votes are all given a variety of rewards which differs between each month.
+You can read up on Voting, and the Token Shop (votings other perk) [HERE](voting.md).
+
+**Month of the last Top Voters**: November 2020.<br>
+**Top Voters**:<br>
+1 -- DoctorGurke -- 209 votes<br>
+2 -- aknitwhitz -- 178 votes<br>
+3 -- beale947 -- 173 votes<br>
+4 -- Funization -- 143 votes<br>
+5 -- Sahoonie -- 129 votes<br>
+**Prizes Given**:<br>
+**1st Place** -- One of the dono store options listed on the Discord, 10000 McRPG EXP, 3x Totem of Undying and 4 DeathPoint Scrolls.<br>
+**2nd Place** -- One of the dono store options listed on the Discord, 7500 McRPG EXP, 2x Totem of Undying and 3 DeathPoint Scrolls.<br>
+**3rd Place** -- One of the dono store options listed on the Discord, 5000 McRPG EXP, 1x Totem of Undying and 2 DeathPoint Scrolls.<br>
+**4th and 5th Place** -- 5000 McRPG EXP and a DeathPoint Scroll.
