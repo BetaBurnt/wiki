@@ -4,23 +4,22 @@ Quicklinks:
 - [Token Shop](#token-shop)
 - [Most Recent Top Voters](#top-voters)
 
-~~# Voting~~
+# Voting
 
-~~You can vote once per link every 24 hours (once every 12 hours for ServerPact), giving a total of 8 votes per day. 
-Every vote you put through rewards you with 1 token for use in the `/tokenshop` which can be traded for a variety of things! Each vote will also count towards your Vote Count Trophy.~~
+You can vote once per link every 24 hours (once every 12 hours for ServerPact), giving a total of 7 votes per day. 
+Every vote you put through rewards you with 1 token for use in the `/tokenshop` which can be traded for a variety of things! Each vote will also count towards your Vote Count Trophy.
 
-~~Note that you do not need to be online to vote - all votes will process when you do them, and you will be reminded in the chat when you log in next how many tokens you have gained since you were last online!~~
+Note that you do not need to be online to vote - all votes will process when you do them, and you will be reminded in the chat when you log in next how many tokens you have gained since you were last online!
 
-~~# Monthly Top Voter~~
+# Monthly Top Voter
 
-~~Every month the top 3 voters will receive a small reward as a thank you! 
-These will include various things such as coupons for the donation store, random MythicDrops Spirit Essences, random decorative head blocks (no effects, just things you can place around your builds) or ingame money among other potential things!~~
+Every month the top 3 voters will receive a small reward as a thank you! 
+These will include various things such as coupons for the donation store, random MythicDrops Spirit Essences, random decorative head blocks (no effects, just things you can place around your builds) or ingame money among other potential things!
 
-~~The first time you place 1st in the top voters you will also unlock a new title and the Top Voter Trophy!~~
+The first time you place 1st in the top voters you will also unlock a new title and the Top Voter Trophy!
 
-~~**Note:** If you get 1st place in the Top Voters of a month you will not be counted in the rankings the following month, to avoid the same person winning the top rewards constantly.~~
+**Note:** If you get 1st place in the Top Voters of a month you will not be counted in the rankings the following month, to avoid the same person winning the top rewards constantly.
 
-# **Voting has been disabled - Unless the future of the server changes, this will remain disabled. You will receive 10 Tokens once a day on log in for use in the Token Shop until then.**
 
 
 # Token Shop
