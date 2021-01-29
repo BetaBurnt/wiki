@@ -10,27 +10,11 @@ You will be given the co-ordinates of that block in your chat when you die and i
 
 ### How Much Does My Grave Save?
 
-**What is never saved?** Experience - your XP will always drop as normal when you die.
+**What is not saved?** Experience - your XP will always drop as normal when you die.
 
-**What is saved?** Depends on your player level. To explain as simply as possible, check the image and table below:<br>
-__Note__ - New players will have their full inventory stored in their grave for the first 48 hours from the time they joined. After this their grave will save only a set amount of items based on their player level, as stated below.
+**What is saved?** Everything.
 
 ![gravesave](images/gravesave.png)
-
-|Player Level|What Items Will Be Saved?|
-|---|---|
-|1-9|Your Helmet, Chestplate, Leggings, Boots<br>Plus slots in the above image marked with:<br>- Black Orbs|
-|10-23|Your Helmet, Chestplate, Leggings, Boots<br>Plus slots in the above image marked with:<br>- Black Orbs<br>- White Orbs|
-|24-30|Your Helmet, Chestplate, Leggings, Boots<br>Plus slots in the above image marked with:<br>- Black Orbs<br>- White Orbs<br>- Green Orbs|
-|31-40|Your Helmet, Chestplate, Leggings, Boots<br>Plus slots in the above image marked with:<br>- Black Orbs<br>- White Orbs<br>- Green Orbs<br>- Light Blue Orbs|
-|41-51|Your Helmet, Chestplate, Leggings, Boots<br>Plus slots in the above image marked with:<br>- Black Orbs<br>- White Orbs<br>- Green Orbs<br>- Light Blue Orbs<br>- Purple Orbs|
-|52-61|Your Helmet, Chestplate, Leggings, Boots<br>Plus slots in the above image marked with:<br>- Black Orbs<br>- White Orbs<br>- Green Orbs<br>- Light Blue Orbs<br>- Purple Orbs<br>- Yellow Orbs|
-|62-80|Your Helmet, Chestplate, Leggings, Boots<br>Plus slots in the above image marked with:<br>- Black Orbs<br>- White Orbs<br>- Green Orbs<br>- Light Blue Orbs<br>- Purple Orbs<br>- Yellow Orbs<br>- Red Orbs|
-|81-91|Your Helmet, Chestplate, Leggings, Boots<br>Plus slots in the above image marked with:<br>- Black Orbs<br>- White Orbs<br>- Green Orbs<br>- Light Blue Orbs<br>- Purple Orbs<br>- Yellow Orbs<br>- Red Orbs<br>- Dark Blue Orbs|
-|92+|Everything|
-
-Anything not listed for your player level will simply drop as normal.
-
 
 Once you find the grave, click it to get your items back (You don't need to break it as that takes a while with a fist, just click it!). 
 If you do not have space in your inventory for those items (eg if you picked more up on the way back, or if you had a full inv + armour when you died) then the excess items will drop where the grave was (so be aware of this if you died by lava or a cactus etc...).
@@ -46,11 +30,6 @@ If you die in the End by falling into the void then the grave also may not spawn
 If this happens you will still be sent your death co-ordinates, and can check them with `/ldeath` instead of `/grave`.
 
 There should always be the possibility of losing items on a Survival server. For this reason if anybody complains that they lost their items because of X when they died, or because of where they died - All they will be told, to be completely blunt, is tough.
-
-
-# End World Interference
-
-The magic of the End dimension can interfere with the magic of Gravestones. Each death in the End world has a chance to fail at spawning a grave - any successful grave spawning in the End world increases the chances of a subsequent failure to work in the End - each failure resets the chances of failure.
 
 
 # Respawn Charges
